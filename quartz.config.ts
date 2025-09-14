@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Quartz 4",
+    pageTitle: "Strive",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
@@ -19,9 +19,6 @@ const config: QuartzConfig = {
     baseUrl: "https://zshanpatel.github.io", // your live site URL
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
-    git: {
-      branch: "main" // explicitly set your branch here
-    },
     theme: {
       fontOrigin: "googleFonts",
       cdnCaching: true,
