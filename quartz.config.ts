@@ -16,9 +16,12 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "quartz.jzhao.xyz",
+    baseUrl: "https://zshanpatel.github.io", // your live site URL
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
+    git: {
+      branch: "main" // explicitly set your branch here
+    },
     theme: {
       fontOrigin: "googleFonts",
       cdnCaching: true,
