@@ -4,7 +4,7 @@
 Mainstream platforms couldn't handle my take on power structures, prosperity models, and broken systems. Called out Elon Musk as an Islamophobe? Boom! Banned. But here's what they don't get: silencing radical thinkers just makes us build better stages.
 
 ## I turn controversial research into profitable action.
-While others theorize about alternative prosperity models, I'm building businesses around them. My UCL thesis on Quranic Prosperity is the blueprint for sustainable ventures. This is where ancient theoretic wisdom meets disruptive commerce.
+While others theorise about alternative prosperity models, I'm building around them. My UCL thesis on Qur'anic Prosperity is the blueprint for sustainable ventures. This is where ancient theoretic wisdom meets disruptive commerce.
 
 ## What I Actually Do
 I bridge the gap between breakthrough research and real-world results. My work sits at three intersections:
