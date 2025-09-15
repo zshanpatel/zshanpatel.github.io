@@ -1,5 +1,6 @@
 ---
 title: "Abbreviations"
+showDate: false
 ---
 
 ## AH

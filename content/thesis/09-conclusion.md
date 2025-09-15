@@ -1,3 +1,4 @@
 ---
 title: Conclusion
+showDate: false
 ---
