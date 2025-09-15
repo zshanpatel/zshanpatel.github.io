@@ -30,10 +30,9 @@ async function mouseEnterHandler(
     setPosition(popoverElement as HTMLElement)
 
     if (hash !== "") {
-      const targetAnchor = `#popover-internal-${hash.slice(1)}`
+      const targetAnchor = `#${hash.slice(1)}`
       const heading = popoverInner.querySelector(targetAnchor) as HTMLElement | null
       if (heading) {
-        // leave ~12px of buffer when scrolling to a heading
         popoverInner.scroll({ top: heading.offsetTop - 12, behavior: "instant" })
       }
     }
@@ -57,6 +56,7 @@ async function mouseEnterHandler(
   })
 
   if (!response) return
+
   const [contentType] = response.headers.get("Content-Type")!.split(";")
   const [contentTypeCategory, typeInfo] = contentType.split("/")
 
@@ -73,7 +73,6 @@ async function mouseEnterHandler(
       const img = document.createElement("img")
       img.src = targetUrl.toString()
       img.alt = targetUrl.pathname
-
       popoverInner.appendChild(img)
       break
     case "application":
@@ -84,22 +83,21 @@ async function mouseEnterHandler(
           popoverInner.appendChild(pdf)
           break
         default:
-          break
+          const contents = await response.text()
+          const html = p.parseFromString(contents, "text/html")
+          normalizeRelativeURLs(html, targetUrl)
+          const elts = [...html.getElementsByClassName("popover-hint")]
+          if (elts.length === 0) return
+          elts.forEach((elt) => popoverInner.appendChild(elt.cloneNode(true)))
       }
       break
     default:
       const contents = await response.text()
       const html = p.parseFromString(contents, "text/html")
       normalizeRelativeURLs(html, targetUrl)
-      // prepend all IDs inside popovers to prevent duplicates
-      html.querySelectorAll("[id]").forEach((el) => {
-        const targetID = `popover-internal-${el.id}`
-        el.id = targetID
-      })
       const elts = [...html.getElementsByClassName("popover-hint")]
       if (elts.length === 0) return
-
-      elts.forEach((elt) => popoverInner.appendChild(elt))
+      elts.forEach((elt) => popoverInner.appendChild(elt.cloneNode(true)))
   }
 
   if (!!document.getElementById(popoverId)) {

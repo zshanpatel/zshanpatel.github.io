@@ -6,11 +6,15 @@ export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
   afterBody: [],
-  footer: Component.Footer({
-    links: {
-      GitHub: "https://github.com/jackyzha0/quartz",
-      "Discord Community": "https://discord.gg/cRFFHYye7t",
-    },
+  footer: Component.ConditionalRender({
+    component: Component.Footer({
+      links: {
+        "LinkedIn": "https://linkedin.com/in/zshanpatel",
+        "Email": "mailto:ucbqzp6@ucl.ac.uk",
+        "X": "https://x.com/ucbqzp6"
+      },
+    }),
+    condition: (page) => page.fileData.slug === "index" && !page.fileData.slug.startsWith("thesis/")
   }),
 }
 
@@ -21,8 +25,14 @@ export const defaultContentPageLayout: PageLayout = {
       component: Component.Breadcrumbs(),
       condition: (page) => page.fileData.slug !== "index",
     }),
-    Component.ArticleTitle(),
-    Component.ContentMeta(),
+    Component.ConditionalRender({
+      component: Component.ArticleTitle(),
+      condition: (page) => page.fileData.slug !== "index",
+    }),
+    Component.ConditionalRender({
+      component: Component.ContentMeta(),
+      condition: (page) => page.fileData.slug !== "index",
+    }),
     Component.TagList(),
   ],
   left: [

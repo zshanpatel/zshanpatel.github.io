@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Strive",
+    pageTitle: "Home",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
@@ -67,7 +67,10 @@ const config: QuartzConfig = {
         keepBackground: false,
       }),
       Plugin.ObsidianFlavoredMarkdown({ enableInHtmlEmbed: false }),
-      Plugin.GitHubFlavoredMarkdown(),
+      Plugin.GitHubFlavoredMarkdown({
+        linkHeadings: true,
+        enableSmartyPants: true,
+      }),
       Plugin.TableOfContents(),
       Plugin.CrawlLinks({ markdownLinkResolution: "shortest" }),
       Plugin.Description(),
