@@ -6,7 +6,7 @@ export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
   afterBody: [],
-  footer: Component.ConditionalRender({
+    footer: Component.ConditionalRender({
     component: Component.Footer({
       links: {
         "LinkedIn": "https://linkedin.com/in/zshanpatel",

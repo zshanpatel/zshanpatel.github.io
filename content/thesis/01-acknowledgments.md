@@ -1,14 +1,12 @@
 ---
 title: "Acknowledgments"
-date: 2025-09-15
 tags:
   - thesis
   - acknowledgments
 aliases:
   - thesis acknowledgments
+showDate: false
 ---
-
-# Acknowledgments
 
 I wish to extend my heartfelt gratitude to my beloved family – my mother,
 father, and brothers for their support and encouragement throughout this

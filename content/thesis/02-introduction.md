@@ -1,16 +1,12 @@
 ---
 title: Introduction
 tags:
-  - thesis
   - introduction
   - research-methodology
-  - islamic-studies
   - prosperity
-  - academic-research
   - grand-challenges
+showDate: false
 ---
-
-# Introduction
 
 <div class="popover-hint">
 
