@@ -1,13 +1,9 @@
 ---
-title: "Acknowledgments"
+title: Acknowledgments
 tags:
-  - thesis
-  - acknowledgments
 aliases:
-  - thesis acknowledgments
 showDate: false
 ---
-
 I wish to extend my heartfelt gratitude to my beloved family – my mother,
 father, and brothers for their support and encouragement throughout this
 arduous journey. Their belief in me have been foundational in my many

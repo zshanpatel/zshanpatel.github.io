@@ -6,6 +6,7 @@ tags:
   - religion
   - capitalism
   - epistemology
+  - financial-deception
 showDate: false
 ---
 In this section, I delve deeper into the contours of the human system from
