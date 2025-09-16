@@ -30,6 +30,8 @@ export default ((opts?: Partial<FolderContentOptions>) => {
   const FolderContent: QuartzComponent = (props: QuartzComponentProps) => {
     const { tree, fileData, allFiles, cfg } = props
 
+    console.log("FolderContent slug:", fileData.slug) // Debugging line
+
     const trie = (props.ctx.trie ??= trieFromAllFiles(allFiles))
     const folder = trie.findNode(fileData.slug!.split("/"))
     if (!folder) {
@@ -114,7 +116,7 @@ export default ((opts?: Partial<FolderContentOptions>) => {
             </p>
           )}
           <div>
-            <PageList {...listProps} />
+            {fileData.slug !== "thesis/index" && <PageList {...listProps} />}
           </div>
         </div>
       </div>

@@ -30,7 +30,6 @@ concludes that academic concepts derived from the monotheistic tradition,
 coupled with a revivalist monotheistic perspective, can lay the groundwork for
 transformative global outcomes.
 
----
 
 <style>
 /* Re-define the layout for the list items on this page */
