@@ -5,12 +5,13 @@ import * as Component from "./quartz/components"
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
-  afterBody: [],
+  afterBody: [
+  ],
     footer: Component.ConditionalRender({
     component: Component.Footer({
       links: {
         "LinkedIn": "https://linkedin.com/in/zshanpatel",
-        "Email": "mailto:ucbqzp6@ucl.ac.uk",
+        "Medium": "https://medium.com/@zeeshanpatel",
         "X": "https://x.com/ucbqzp6"
       },
     }),
@@ -53,9 +54,18 @@ export const defaultContentPageLayout: PageLayout = {
   right: [
     Component.ConditionalRender({
       component: Component.Graph(),
-      condition: (page) => page.fileData.slug !== "thesis/01-acknowledgments",
+      condition: (page) =>
+        page.fileData.slug !== "thesis/01-acknowledgments" &&
+        page.fileData.slug !== "index" &&
+        page.fileData.slug !== "thesis/10-bibliography" &&
+        page.fileData.slug !== "thesis/abbreviations", // Add this condition
     }),
-    Component.DesktopOnly(Component.TableOfContents()),
+    Component.ConditionalRender({
+      component: Component.DesktopOnly(Component.TableOfContents()),
+      condition: (page) =>
+        page.fileData.slug !== "index" &&
+        page.fileData.slug !== "thesis/abbreviations", // Add this condition
+    }),
     Component.Backlinks(),
   ],
 }

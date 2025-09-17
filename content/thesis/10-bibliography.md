@@ -167,6 +167,8 @@ Marx, K. (1994) ‘A Contribution to the Critique of Hegel’s Philosophy of Rig
 
 McCarraher, E. (2019) The enchantments of Mammon : how capitalism became the religion of modernity / Eugene McCarraher. Cambridge, Massachusetts: The Belknap Press of Harvard University Press.
 
+McCloskey, Deirdre Nansen & Silvestri, Paolo (2021). Past and Future of Humanomics. Erasmus Journal for Philosophy and Economics 14 (1).
+
 Meadows, D. (1999). Leverage Points: Places to Intervene in a System. [https://donellameadows.org/archives/leverage-points-places-to-intervene-in-a-system/](https://donellameadows.org/archives/leverage-points-places-to-intervene-in-a-system/)
 
 Meadows, D., Randers, J. and Meadows, D. (2013) The Limits to Growth (1972). In: Robin, L., Sörlin, S. and Warde, P. ed. The Future of Nature: Documents of Global Change. New Haven: Yale University Press, pp. 101-116. [https://doi.org/10.12987/9780300188479-012](https://doi.org/10.12987/9780300188479-012)
@@ -260,6 +262,8 @@ Scharmer, C. O. (2016) Theory U: leading from the future as it emerges : the s
 Scharmer, O. (2018) The Essentials of Theory U: Core Principles and Applications. Oakland: Berrett-Koehler Publishers.
 
 Sevea, I. S. (2012) “Reconstruction of Islam,” in The Political Philosophy of Muhammad Iqbal: Islam and Nationalism in Late Colonial India. Cambridge: Cambridge University Press, pp. 94–125. doi: 10.1017/CBO9780511920172.006.
+
+Shoemaker, Stephen. (2014). “The Reign of God Has Come”: Eschatology and Empire in Late Antiquity and Early Islam. Arabica. 61. 514-558. 10.1163/15700585-12341312. 
 
 Siddiqi, M. N. (1992). Islamic economic thought: foundations, evolution and needed direction. In A. M. Sadeq & A. Ghazali (Eds.), Readings in Islamic economic thought. Kuala Lumpur: Longman Malaysia.
 

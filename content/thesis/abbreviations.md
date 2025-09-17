@@ -1,52 +1,51 @@
 ---
-title: "Abbreviations"
+title: Abbreviations
 showDate: false
 ---
-
-## AH
+### AH
 Hijri year. Impression used for the Islamic lunar calendar
 
-## AS
+### AS
 (ʿalayhi as-salām) Peace Be Upon Him
 
-## EG
+### EG
 Econometric Growth
 
-## EIP
+### EIP
 Entrepreneurship from an Islamic Perspective
 
-## GC
+### GC
 Grand Challenge
 
-## GDP
+### GDP
 Gross Domestic Product
 
-## HDI
+### HDI
 Human Development Index
 
-## HP
+### HP
 Holistic Prosperity
 
-## IP
+### IP
 Islamic Perspective
 
-## MLP
+### MLP
 Multi-Level Perspective
 
-## MNC
+### MNC
 Multi-National Corporation
 
-## PBUH
+### PBUH
 Peace Be Upon Him
 
-## PBUT
+### PBUT
 Peace Be Upon Them
 
-## RA
+### RA
 (raḍiya-llāhu ʿanhu) May God be Pleased with Him
 
-## UP
+### UP
 Universal Prosperity
 
-## WP
+### WP
 Wicked Problem

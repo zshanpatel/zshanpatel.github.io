@@ -24,6 +24,11 @@ export default ((opts?: Partial<ContentMetaOptions>) => {
   const options: ContentMetaOptions = { ...defaultOptions, ...opts }
 
   function ContentMetadata({ cfg, fileData, displayClass }: QuartzComponentProps) {
+    // Add this conditional check
+    if (fileData.slug === "thesis/10-bibliography" || fileData.slug === "thesis/abbreviations") {
+      return null // Render nothing for these pages
+    }
+
     const text = fileData.text
 
     if (text) {
