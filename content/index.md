@@ -1,7 +1,7 @@
 ---
 title: I'm Zeeshan 👋
-description: "This is the personal website and digital garden of Zeeshan Patel, focusing on Islamic thought, prosperity, and grand challenges."
-keywords: "Zeeshan Patel, Islamic thought, prosperity, grand challenges, digital garden, personal website"
+description: "This is the personal website and digital garden of Zeeshan Patel, focusing on Islamic thought, prosperity, and grand challenges. And radical business fixes for senior execs and family offices."
+keywords: "Zeeshan Patel, Islamic thought, prosperity, grand challenges, digital garden, personal website, alternate business models, Qur'anic economics, cultural leadership, UCL, Islam, UCL-backed Islamic prosperity models"
 ---
 
 #### Unlearn Lies: Build Legacy
