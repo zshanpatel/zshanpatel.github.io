@@ -20,7 +20,7 @@ For you: The exec or family office boss tired of secular grind clashing with fai
 
 Why care? Markets flip fast. These old-school fixes give you the edge to dominate without selling out.
 
-[[04-islamic-perspective|Hit Your Pain Spot →]]
+[[04-islamic-perspective#Thinking in Islamic Perspective|Hit Your Pain Spot →]]
 #### My Scars: From the Trenches
 Grew up split between worlds. Hustled ads at [BBDO](https://www.bbdo.com/), [TBWA](https://www.tbwa.com/), [DDB](https://www.ddb.com/), [MullenLowe](https://www.mullenlowe.com/); saw the machine eat souls. Then flipped to [Hackney Council](https://hackney.gov.uk/), fixing real breaks. 
 [UCL](https://x.com/UCL) MSc sealed it: [Bartlett](https://x.com/TheBartlettUCL) + [Global Prosperity](https://x.com/Glo_Pro) crew taught me to question everything.
@@ -56,7 +56,7 @@ This vault’s your spot. No filters, just fire for builders like you. If that c
 
 Drop your email for raw drops. Ideas that glue your worlds together.
 
-Lock In Sub → | [[02-introduction|Thesis Quick Read (Free) →]]
+[[02-introduction|Thesis Quick Read (Free) →]]
 
 ---
 _Your underground spot for owning the game. Got a wild idea? [Reply](mailto:zeeshan.patel.22@ucl.ac.uk). We build together. In defiance, we live._

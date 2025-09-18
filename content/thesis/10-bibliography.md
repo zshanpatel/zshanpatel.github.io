@@ -29,6 +29,8 @@ Armstrong, K. (2001) Islam: a short history / Karen Armstrong. London: Phoenix.
 
 Armstrong, K. (2013). Muhammad Prophet for our time. Mizan Pustaka.
 
+Azram, M. (2012) ‘Epistemology -An Islamic Perspective’, _IIUM Engineering Journal_, 12(5). Available at: [https://doi.org/10.31436/iiumej.v12i5.240](https://doi.org/10.31436/iiumej.v12i5.240).
+
 Baker, E. (2014). The Eschatological Role of the Jerusalem Temple: An Examination of Jewish Writings Dating from 586 BCE to 70 CE. Dissertations. [https://dx.doi.org/10.32597/dissertations/13/](https://dx.doi.org/10.32597/dissertations/13/)
 
 Bakhromovich, S.I. (2021). A Comparative Induction of The Epistemological And Theological Views Of Medieval Islamic Oriental Scholars. Berlin Studies Transnational Journal of Science and Humanities 1.
@@ -213,9 +215,13 @@ Oppy, G. (2020) NATURALISM. Think: philosophy for everyone. [Online] 19 (56), 7�
 
 Patel, S., Mehta, K. (2017). Systems, Design, and Entrepreneurial Thinking: Comparative Frameworks. Systemic Practice and Action Research 30, 515–533. [https://doi.org/10.1007/s11213-016-9404-5](https://doi.org/10.1007/s11213-016-9404-5)
 
+Percy, A; (2021) Universal Basic Prosperity: Sustainable prosperity for the 21st century. UCL Institute for Global Prosperity: London, UK.
+
 Peredo, A.M. and Chrisman, J.J. (2006) ‘Toward a Theory of Community-Based Enterprise’, Academy of Management Review, 31(2), pp. 309–328. Available at: [https://doi.org/10.5465/amr.2006.20208683](https://doi.org/10.5465/amr.2006.20208683).
 
 Peredo, A.M. and McLean, M. (2020) ‘Decommodification in action: Common property as countermovement’, Organization, 27(6), pp. 817–839. Available at: [https://doi.org/10.1177/1350508419867202](https://doi.org/10.1177/1350508419867202).
+
+Perkins, J. (2023) _Confessions of an economic hit man_. San Francisco, CA: Berrett-Koehler Publishers.
 
 Pettifor, A (2017), The Production of Money: How to Break the Power of Bankers, Verso, London. Available from: ProQuest Ebook Central.
 

@@ -66,7 +66,10 @@ export const defaultContentPageLayout: PageLayout = {
         page.fileData.slug !== "index" &&
         page.fileData.slug !== "thesis/abbreviations", // Add this condition
     }),
-    Component.Backlinks(),
+    Component.ConditionalRender({
+      component: Component.Backlinks(),
+      condition: (page) => !page.fileData.slug?.startsWith("thesis/"),
+    }),
   ],
 }
 

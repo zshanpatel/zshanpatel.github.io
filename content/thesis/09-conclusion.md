@@ -16,3 +16,6 @@ The examination of Islam, both empirically and theoretically, reveals significan
 In conclusion, I return to the central question: How does a Qur'anic epistemology contribute to the development of a comprehensive model for universal prosperity? The answer lies in the profound embrace of Qur'anic thinking. The pursuit of Qur'anic knowledge not only enlightens the seeker but also reveals the transformative nature of the divine connection it fosters. Through continuous contemplation and spiritual revival, a path is paved towards a form of transcendental prosperity that warrants further profound philosophical contemplation. <span title="Universal Prosperity">UP</span> integrates ethical values, spiritual contentment, mechanisms for wealth redistribution, and an unwavering commitment to social justice. This holistic approach transcends materialism, encompassing the essence of humanity.
 
 After a thorough exploration of the research question, it becomes apparent that the Qur'an's predictive nature addresses the 'how' in relation to its contribution to <span title="Universal Prosperity">UP</span>. Furthermore, it leaves the researcher pondering the 'when' - a thought provoking question that remains open for future inquiry.
+
+
+← [Previous Page](thesis/08-discussion)

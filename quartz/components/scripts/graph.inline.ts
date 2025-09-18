@@ -143,14 +143,21 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
     if (showTags) tags.forEach((tag) => neighbourhood.add(tag))
   }
 
-  const nodes = [...neighbourhood].map((url) => {
-    const text = url.startsWith("tags/") ? "#" + url.substring(5) : (data.get(url)?.title ?? url)
-    return {
-      id: url,
-      text,
-      tags: data.get(url)?.tags ?? [],
-    }
-  })
+  const nodes = [...neighbourhood]
+    .filter((url) => url !== "index") // Filter out the "index" node
+    .map((url) => {
+      const text =
+        url === "/"
+          ? "Home"
+          : url.startsWith("tags/")
+            ? "#" + url.substring(5)
+            : (data.get(url)?.title ?? url)
+      return {
+        id: url,
+        text,
+        tags: data.get(url)?.tags ?? [],
+      }
+    })
   const graphData: { nodes: NodeData[]; links: LinkData[] } = {
     nodes,
     links: links
