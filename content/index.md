@@ -1,3 +1,9 @@
+---
+title: I'm Zeeshan 👋
+description: "This is the personal website and digital garden of Zeeshan Patel, focusing on Islamic thought, prosperity, and grand challenges."
+keywords: "Zeeshan Patel, Islamic thought, prosperity, grand challenges, digital garden, personal website"
+---
+
 #### Unlearn Lies: Build Legacy
 _"I've won the game, but it's rigged. Who sold me this script?"_
 
@@ -56,7 +62,7 @@ This vault’s your spot. No filters, just fire for builders like you. If that c
 
 Drop your email for raw drops. Ideas that glue your worlds together.
 
-[[02-introduction|Thesis Quick Read (Free) →]]
+[[https://tally.so/r/wvkGjv|Lock In Sub →]] | [[02-introduction|Thesis Quick Read (Free) →]]
 
 ---
 _Your underground spot for owning the game. Got a wild idea? [Reply](mailto:zeeshan.patel.22@ucl.ac.uk). We build together. In defiance, we live._
