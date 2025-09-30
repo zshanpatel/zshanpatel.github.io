@@ -2,6 +2,7 @@
 title: Path to Prosperity
 showDate: false
 tags:
+  - thesis/prosperity-pathways
   - universal-prosperity
   - holistic-prosperity
   - econometric-prosperity
@@ -10,6 +11,24 @@ tags:
   - tawakkul
   - systems-thinking
   - neoliberalism
+  - comparative-analysis
+  - well-being
+  - sustainability
+  - social-justice
+  - spiritual-fulfillment
+  - monotheism
+  - trigger-events
+  - individualism
+  - collective-action
+  - ethical-finance
+  - wealth-redistribution
+  - environmental-stewardship
+  - global-cooperation
+  - utopia
+  - hyper-consumerism
+  - financial-dependency
+  - wealth-inequality
+  - systemic-corruption
 ---
 Inferring from Moore et al.'s [-@moore2023a] conceptualisation of prosperity, I draw comparisons and establish relationships between three distinct pathways to prosperity: econometric growth-driven as a general understanding of prosperity, holistic or well-being-centred prosperity, and a concept that I term "Universal Prosperity” - a theoretical concept grounded in a monotheistic framework.
 

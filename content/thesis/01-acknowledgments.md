@@ -1,6 +1,8 @@
 ---
 title: Acknowledgments
 tags:
+  - thesis/meta
+  - acknowledgments
 aliases:
 showDate: false
 ---

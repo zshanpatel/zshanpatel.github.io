@@ -1,6 +1,7 @@
 ---
 title: Overview of the Present Context
 tags:
+  - thesis/present-context
   - philosophy
   - secularism
   - religion
@@ -14,6 +15,12 @@ tags:
   - silver
   - secular-epistemology
   - individualism
+  - neoliberalism
+  - social-environmental-crises
+  - debt-economy
+  - epistemic-violence
+  - cultural-subjugation
+  - science-religion-dialogue
 showDate: false
 ---
 In this section, I delve deeper into the contours of the human system from pragmatic philosophical perspective of secular thinking that arguably has laid the ground for the modern system and epistemic violation of spiritual epistemologies.

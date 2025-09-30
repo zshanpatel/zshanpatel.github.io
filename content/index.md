@@ -2,8 +2,30 @@
 title: I'm Zeeshan 👋
 description: "This is the personal website and digital garden of Zeeshan Patel, focusing on Islamic thought, prosperity, and grand challenges. And radical business fixes for senior execs and family offices."
 keywords: "Zeeshan Patel, Islamic thought, prosperity, grand challenges, digital garden, personal website, alternate business models, Qur'anic economics, cultural leadership, UCL, Islam, UCL-backed Islamic prosperity models"
+tags:
+  - zeeshan-patel
+  - digital-garden
+  - thought-leadership
+  - alternative-thinking
+  - islamic-principles
+  - prosperity
+  - grand-challenges
+  - business-strategy
+  - legacy-building
+  - cultural-integration
+  - spiritual-fulfillment
+  - quranic-economics
+  - capitalism-critique
+  - systems-breakdown
+  - tech-ethics
+  - family-offices
+  - leadership
+  - ucl-research
+  - labs
+  - 99-order
+  - strive
+  - alt-way-in
 ---
-
 #### Unlearn Lies: Build Legacy
 _"I've won the game, but it's rigged. Who sold me this script?"_
 
@@ -38,14 +60,14 @@ Talk is cheap. These are my live experiments. Qur'anic fire + tech grit. Pick on
 | Lab                | Quick Hit                                                                  | Jump In             |
 | ------------------ | -------------------------------------------------------------------------- | ------------------- |
 | **99 Order**       | Divine names as power rituals. Print + practice for ordered manifestation. | Grab eBook (Free) → |
-| **Strive**         | Your own AI setup, no spies watching. Pure control for consulting wins.    | Quick Call (£997) → |
+| **Strive**         | Your own AI setup, no spies watching. Pure control for business wins.      | Quick Call (£997) → |
 | **bzkt**           | Encrypted wealth collectives: 7-generation beyond fiat fragility.          | Lock In Spot →      |
 | **The Alt Way In** | Real cultural gear, no fake hype. Stuff that grounds you.                  | Pick Kit (£29+) →   |
 
-These ain't hobbies. They're your starters. Mix with your trades or investments for unbreakable setups.
+These aren't hobbies. They're your starters. Mix with your trades or investments for unbreakable setups.
 #### My Obsessions: Stuff That’ll Wake You Up
 I chase what others dodge:
-- **Islam vs. Capitalism**: Sharia tricks to outplay debt games. In your Gulf deals or city funds.
+- **Islam and Capitalism**: Sharia tricks to outplay debt games.
 - **God in Tech**: Faith rules to keep AI from screwing you.
 - **Real Rich**: Skip GDP lies. Blend spirit and cash.
 - **New Biz Hacks**: Family offices + ethical trades, true to your roots.

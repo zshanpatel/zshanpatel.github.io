@@ -2,6 +2,7 @@
 title: Qur’anic Rethinking of Prosperity
 showDate: false
 tags:
+  - thesis/quranic-prosperity
   - quranic-prosperity
   - islamic-economics
   - eschatology
@@ -9,6 +10,34 @@ tags:
   - spirituality
   - reshape-structural-institutions
   - utopia
+  - prosperity-rethinking
+  - transformative-change
+  - economic-overshoot
+  - collapse
+  - inner-thinking
+  - collective-consciousness
+  - ummah
+  - oppression
+  - tawakkul
+  - neoliberalism-critique
+  - theistic-naturalism
+  - divine-knowledge
+  - introspection
+  - ego-purification
+  - tawbah
+  - dhikr
+  - tazkiyah
+  - ethical-living
+  - social-justice
+  - wealth-redistribution
+  - environmental-stewardship
+  - economic-ethics
+  - knowledge-values-integration
+  - global-cooperation
+  - materialism-critique
+  - theory-u
+  - islamic-psychology
+  - green-growth
 ---
 Prosperity thinking must draw inspiration from a plethora of sources in an effort to gain a deeper understanding of human purpose [@moore2023a]. This section delves into the thinking for transformative change from the vantage point of a renewed Qur’anic perspective. Viewing the socio-economic-ecological tectonic change as a euphemism for eschaton. Triggered by economic overshoot and collapse [@meadows2013a]. It can be inferred as sequence of events that sequentially reshape structural institutions for both people and the planet. Drawing insights from eschatology offers a unique lens through which to examine current trajectory of growth and ecosystem-level crisis.
 

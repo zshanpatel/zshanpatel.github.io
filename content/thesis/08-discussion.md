@@ -2,11 +2,29 @@
 title: Discussion
 showDate: false
 tags:
+  - thesis/discussion
   - epistemology
   - quranic-perspective
   - universal-prosperity-mindset
   - moral-economy
   - justice
+  - systems-critique
+  - neoliberalism-critique
+  - spiritual-themes
+  - financial-system-critique
+  - spiritual-awakening
+  - collective-consciousness
+  - tawakkul
+  - tawhid
+  - materialism-critique
+  - spiritual-healing
+  - islamic-finance
+  - wealth-redistribution
+  - social-reform
+  - future-research
+  - interdisciplinary-research
+  - linguistic-nuances
+  - cultural-perceptions
 ---
 This paper's themes revolve around foundational premises of epistemology, ecosystems, and economy. It critiques the drivers of the neoliberal system, which prioritises mass production and hyper-consumption, and emphasises spiritual themes that align with divine principles. The paper critically analyses the financial system, labelling it a fictitious deception, highlighting its adverse effects on society. This research has examined prosperity pathways to discern themes, impacts, processes, proposals, and outcomes.
 

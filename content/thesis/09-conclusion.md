@@ -2,6 +2,7 @@
 title: Conclusion
 showDate: false
 tags:
+  - thesis/conclusion
   - transcendental-prosperity
   - quranic-epistemology
   - universal-prosperity
@@ -10,6 +11,15 @@ tags:
   - foundation
   - wealth-distribution
   - just-economy
+  - research-summary
+  - systems-thinking
+  - ethical-values
+  - spiritual-contentment
+  - social-justice
+  - divine-connection
+  - future-research
+  - secularism-critique
+  - islamic-thought
 ---
 The examination of Islam, both empirically and theoretically, reveals significant disparities within the contemporary secularist system, affecting both society and individuals. Despite these discrepancies, there has been a notable lack of conceptual exploration concerning monotheistic sources in the context of prosperity theory. In this study, I have endeavoured to bridge this gap by presenting a model for <span title="Universal Prosperity">UP</span>. To support this model, I conducted a comparative study that examined various empirical and conceptual pathways to prosperity. This effort has culminated in the development of a process model, elucidating how each pathway evolves, operates, and ultimately impacts the outcome. Consequently, my delineation of the <span title="Universal Prosperity">UP</span> model and construct sheds light on a Qur'anic perspective of transcendental prosperity.
 

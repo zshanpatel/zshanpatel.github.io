@@ -2,6 +2,7 @@
 title: Islamic Perspective
 showDate: false
 tags:
+  - thesis/islamic-perspective
   - islam
   - islamic-perspective
   - quran
@@ -13,6 +14,27 @@ tags:
   - social-action
   - insight
   - ego
+  - islamic-philosophy
+  - spiritual-development
+  - ethics
+  - morality
+  - historical-islam
+  - contemporary-islam
+  - capitalism-critique
+  - secularism-critique
+  - divine-revelation
+  - knowledge-seeking
+  - faith
+  - reason
+  - human-nature
+  - ego-purification
+  - jihaad
+  - tazkiyah-al-nafs
+  - prophetic-intellect
+  - transcendence
+  - creation
+  - day-of-judgment
+  - social-reform
 ---
 Viewing Islam exclusively as a religion has its limitations [@humphreys1991a]. Renowned Islamic scholar Muhammad Iqbal emphasized this oversimplification, highlighting that Islam encompasses more than just religion [@sevea2012a].
 
