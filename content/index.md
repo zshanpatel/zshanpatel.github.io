@@ -73,7 +73,7 @@ I chase what others dodge:
 - **God in Tech**: Faith rules to keep AI from screwing you.
 - **Real Rich**: Skip GDP lies. Blend spirit and cash.
 - **New Biz Hacks**: Family offices + ethical trades, true to your roots.
-- **Old Smarts**: Ancient fixes for today’s messes. Climate, cartels, all of it.
+- **Old Smarts**: Ancient fixes for today’s messes. Climate, company, cartels, all of it.
 
 Short reads for your commute. Deep enough to shift your game.
 
