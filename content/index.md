@@ -26,7 +26,7 @@ tags:
   - strive
   - alt-way-in
 ---
-#### Unlearn Lies: Build Legacy
+
 _"I've won the game, but it's rigged. Who sold me this script?"_
 
 Look, I got banned from the big platforms for calling out the elites for their fake propoganda games, the Islamophobia dressed as "patriotism." Elon? Yeah, I said it. Account gone.
@@ -36,7 +36,9 @@ I'm Zeeshan 👋 [UCL](https://x.com/UCL) grad who ditched the safe path to crac
 
 What's eating you? Plateaued success? Family wealth that fades? Let's fix that shit.
 
-> "Prosperity ain't just money, it's divine flow, fair swaps that last forever." _Me, straight from the thesis_
+> "Prosperity ain't just money, it's divine flow, fair swaps that last forever." 
+
+\- _Me, straight from the thesis_
 
 Grab a free taste. No strings.
 
@@ -62,7 +64,7 @@ Talk is cheap. These are my live experiments. Qur'anic fire + tech grit. Pick on
 | **99 Order**       | Divine names as power rituals. Print + practice for ordered manifestation. | Grab eBook (Free) → |
 | **Strive**         | Your own AI setup, no spies watching. Pure control for business wins.      | Quick Call (£997) → |
 | **bzkt**           | Encrypted wealth collectives: 7-generation beyond fiat fragility.          | Lock In Spot →      |
-| **The Alt Way In** | Real cultural gear, no fake hype. Stuff that grounds you.                  | Pick Kit (£29+) →   |
+| **The Alt Way In** | Real cultural gear, no fake hype. Stuff that grounds you. | <a href="https://AltWay.In" target="_blank">Grab Yours</a> →   |
 
 These aren't hobbies. They're your starters. Mix with your trades or investments for unbreakable setups.
 #### My Obsessions: Stuff That’ll Wake You Up
