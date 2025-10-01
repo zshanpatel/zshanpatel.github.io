@@ -105,7 +105,7 @@ Systemically, <span title="Holistic Prosperity">HP</span> and <span title="Econo
 Collectively, an individual-centric perspective of prosperity focuses on personal growth, autonomy, and the pursuit of one's passions and goals. The <span title="Econometric Growth">EG</span> approach centres on national economic interests, systemically promoting a focus on prosperity grounded in individualistic material accumulation. On the more socially inclined side of the spectrum, the <span title="Holistic Prosperity">HP</span> perspective emphasises self-actualisation, the ability to lead a fulfilling life according to one's values. <span title="Holistic Prosperity">HP</span> views cultural and spiritual traditions as sources of contentment, spiritual fulfilment, and inner peace. <span title="Holistic Prosperity">HP</span>, from this perspective, is achieved through strong community relationships, ethical living, and a sense of purpose beyond economic gain. Plurality tailored to specific locale, represents positive meso-level actions. <span title="Universal Prosperity">UP</span> seeks to realign thinking on a global scale, impacting all levels of the system, from the individual to the group, society, and the ecosystem, drawing teachings and principles from divinity.
 
 
-← [Previous Page](thesis/05-quranic-prosperity) | [Next Page →](thesis/07-up-system)
+← [Previous Page](05-quranic-prosperity.md) | [Next Page →](07-up-system.md)
 
 ---
 

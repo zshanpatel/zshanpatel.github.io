@@ -28,4 +28,4 @@ In conclusion, I return to the central question: How does a Qur'anic epistemolog
 After a thorough exploration of the research question, it becomes apparent that the Qur'an's predictive nature addresses the 'how' in relation to its contribution to <span title="Universal Prosperity">UP</span>. Furthermore, it leaves the researcher pondering the 'when' - a thought provoking question that remains open for future inquiry.
 
 
-← [Previous Page](thesis/08-discussion)
+← [Previous Page](08-discussion.md)

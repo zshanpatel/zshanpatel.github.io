@@ -76,7 +76,7 @@ The notion of "evolving" signifies the emergence of a transformed self and socie
 By embodying the principles of Qur'an, this new ecosystem paves the way for a just and sustainable system as the ultimate realisation of humanity. Embracing the moral, ethical, and spiritual dimensions of transformation, it seeks to establish a socio-political-economic-ecological system that aligns with the principles of justice and inspires in divine reflection, the creation of a more equitable, and sustainable future [@murad2001a].
 
 
-← [Previous Page](thesis/04-islamic-perspective) | [Next Page →](thesis/06-prosperity-paths)
+← [Previous Page](04-islamic-perspective.md) | [Next Page →](06-prosperity-paths.md)
 
 ---
 

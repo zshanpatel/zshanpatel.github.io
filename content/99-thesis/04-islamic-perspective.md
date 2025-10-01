@@ -99,7 +99,7 @@ The Qur'an also alludes to eschaton. Eschatology is the theological study of fin
 Islamic eschatology puts to perspective collective versus individual gains. Thus, draws distinction between temporal (in this world) and eternal (in the afterlife) motivations. It shapes existential purpose and brings out the dichotomies of material well-being and spiritual revival [@walls2008a p. 132-150].
 
 
-← [Previous Page](thesis/03-present-context) | [Next Page →](thesis/05-quranic-prosperity)
+← [Previous Page](03-present-context.md) | [Next Page →](05-quranic-prosperity.md)
 
 ---
 

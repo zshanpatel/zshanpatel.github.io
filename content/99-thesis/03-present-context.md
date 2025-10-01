@@ -82,7 +82,7 @@ One significant similarity between faith in the divine and scientific inquiry is
 However, despite this commonality, the fusion of science and faith in God is relatively rare. Two distinct worldviews emerge: the scientific and the other supernatural and spiritual [@collins2007a]. Nevertheless, God frequently surfaces in existential and profound inquiries about life and meaning, and in the post-secular shift, is slowly regaining attention in academic discourse [@miller2015a].
 
 
-← [Previous Page](thesis/02-introduction) | [Next Page →](thesis/04-islamic-perspective)
+← [Previous Page](02-introduction.md) | [Next Page →](04-islamic-perspective.md)
 
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: Grind or die
+title: Rant or die
 tags:
   - leadership
   - spiritual-awakening

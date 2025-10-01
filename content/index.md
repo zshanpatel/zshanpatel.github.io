@@ -42,7 +42,7 @@ What's eating you? Plateaued success? Family wealth that fades? Let's fix that s
 
 Grab a free taste. No strings.
 
-[[thesis/index|Thesis Sneak Peek (Free) →]]
+[[content/99-thesis/index|Thesis Sneak Peek (Free) →]]
 #### My Edge: Street-Smart Smarts
 Academics talk theory. I turn it into your next move. My thesis rips apart how monotheistic vibes crush capitalist traps; wealth gaps, culture wipeouts, system crashes.
 

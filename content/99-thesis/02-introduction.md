@@ -60,7 +60,7 @@ of the Qur'anic perspective using Theory U by @scharmer2018a, which addresses co
 The research draws on a wide range of literature, including documented scriptures, to capture critical historical philosophies and integrate them into mainstream scholarship. Islamic concepts are primarily derived from interpretations of the Qur'an and Hadeeth (literature on sayings, actions, and approvals of Muhammad <span title="Peace Be Upon Him">PBUH</span>). It's worth noting that the historiography of Islamic scholarly literature has been a subject of dispute among Western secular scholars and Islamic scholars, with further differences arising between sects of Sunni and Shia. To establish a unified religious standpoint, this study considers the Qur'an as the core source, supplemented by documented accounts of Muhammad's (<span title="Peace Be Upon Him">PBUH</span>) life and his companions, for the purpose of justifiable verification. This critical analysis is further enriched by seminal works from contemporary Islamic scholars who hold prominence in both Islamic and Western academia, such as Fazlur Rahman [-@rahman1958a] and Muhammad Iqbal [-@iqbal1930a].
 
 
-← [Previous Page](thesis/01-acknowledgments.md) | [Next Page →](thesis/03-present-context)
+← [Previous Page](01-acknowledgments.md) | [Next Page →](03-present-context.md)
 
 ---
 [^ref]

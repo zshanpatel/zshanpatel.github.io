@@ -39,7 +39,7 @@ In today's society, humans, driven by an innate need for belonging, have increas
 Morality within the economy plays a pivotal role in mitigating individualism and promoting altruism, simplicity, and unity [@goetz2015a] within a framework driven by a higher purpose. However, the <span title="Universal Prosperity">UP</span> model faces significant challenges in the context of contemporary economics, specifically its austere divergence from established debt-based financial systems. A more remarkable challenge to the <span title="Universal Prosperity">UP</span> model arises from the burgeoning innovations in Islamic finance instruments [@warde2010a]. Notably, Islamic banking and finance have evolved into capitalist institutions that distort the principles of the real Islamic economic system [@choudhury2005a]. In contrast, the <span title="Universal Prosperity">UP</span> model takes an opposing stance, emphasising a systemic approach of giving and charity, materialised in the form of obligatory taxation [@chapra1992a]. Consequently, it advocates for the dismantling of monopolistic financial practices [@bashar1997a]. At its core, the <span title="Universal Prosperity">UP</span> model draws its inspiration from the ([Qur’an 2:177](https://quran.com/2/177)), which mandates the fulfilment of obligations toward the marginalised and deprived segments of society.
 
 
-← [Previous Page](thesis/07-up-system) | [Next Page →](thesis/09-conclusion)
+← [Previous Page](07-up-system.md) | [Next Page →](09-conclusion.md)
 
 ---
 

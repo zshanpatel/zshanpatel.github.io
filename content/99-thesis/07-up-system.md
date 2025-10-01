@@ -106,7 +106,7 @@ The secular ideological and political onslaught has played a detrimental role in
 _Proposition 4: Categorizing materialism as a 'crisis of wickedness' positively influences prosperity narratives and agents, encouraging behaviours that prioritizes the wellbeing and health of the collective._
 
 
-← [Previous Page](thesis/06-prosperity-paths) | [Next Page →](thesis/08-discussion)
+← [Previous Page](06-prosperity-paths.md) | [Next Page →](08-discussion.md)
 
 ---
 
