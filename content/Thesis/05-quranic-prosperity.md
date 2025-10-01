@@ -1,5 +1,6 @@
 ---
 title: Qur’anic Rethinking of Prosperity
+permalink: /thesis/quranic-prosperity
 showDate: false
 tags:
   - thesis/quranic-prosperity

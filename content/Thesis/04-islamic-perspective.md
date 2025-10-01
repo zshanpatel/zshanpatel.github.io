@@ -1,5 +1,6 @@
 ---
 title: Islamic Perspective
+permalink: /thesis/islamic-perspective
 showDate: false
 tags:
   - thesis/islamic-perspective

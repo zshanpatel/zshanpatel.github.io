@@ -5,7 +5,7 @@ tags:
   - research-methodology
   - prosperity
   - grand-challenges
-  - systemic critique
+  - systemic-critique
 showDate: false
 ---
 In my exploration of Islamic thought, I've encountered a recurring issue in the historical literature on Islam dating back to the seventeenth century: a pervasive bias and hostility toward Islam, as noted by @iqbal1930a. Particularly, when searching for literature on the intersection of prosperity

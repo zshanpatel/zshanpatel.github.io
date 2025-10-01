@@ -1,5 +1,6 @@
 ---
 title: Bibliography
+permalink: /thesis/bibliography
 showDate: false
 tags:
 ---

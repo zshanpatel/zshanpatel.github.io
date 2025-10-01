@@ -1,5 +1,6 @@
 ---
 title: Discussion
+permalink: /thesis/discussion
 showDate: false
 tags:
   - thesis/discussion

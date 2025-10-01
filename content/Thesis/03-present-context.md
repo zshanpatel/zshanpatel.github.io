@@ -1,5 +1,6 @@
 ---
 title: Overview of the Present Context
+permalink: /thesis/present-context
 tags:
   - thesis/present-context
   - philosophy

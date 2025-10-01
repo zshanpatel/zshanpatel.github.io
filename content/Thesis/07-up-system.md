@@ -1,5 +1,6 @@
 ---
 title: Universal Prosperity System
+permalink: /thesis/up-system
 showDate: false
 tags:
   - thesis/up-system

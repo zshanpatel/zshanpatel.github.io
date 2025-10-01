@@ -1,5 +1,6 @@
 ---
 title: Thesis
+permalink: /thesis
 tags:
   - paradigm-shift
   - unconventional-epistemic-model

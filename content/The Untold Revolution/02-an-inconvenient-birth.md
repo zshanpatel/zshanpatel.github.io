@@ -1,5 +1,6 @@
 ---
-title: "Chapter 2: Perception -An inconvenient birth"
+title: "Chapter 2: Perception - An Inconvenient Birth"
+permalink: /the-untold-revolution/an-inconvenient-birth
 tags:
 aliases:
 showDate: false

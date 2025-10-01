@@ -1,5 +1,6 @@
 ---
 title: Foreward
+permalink: /the-untold-revolution/foreward
 tags:
   - acknowledgments
 aliases:

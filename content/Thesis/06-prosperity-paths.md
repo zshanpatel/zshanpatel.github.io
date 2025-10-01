@@ -1,5 +1,6 @@
 ---
 title: Path to Prosperity
+permalink: /thesis/prosperity-paths
 showDate: false
 tags:
   - thesis/prosperity-pathways

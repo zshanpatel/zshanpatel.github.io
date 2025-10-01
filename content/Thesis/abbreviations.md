@@ -1,5 +1,6 @@
 ---
 title: Abbreviations
+permalink: /thesis/abbreviations
 showDate: false
 ---
 ### AH

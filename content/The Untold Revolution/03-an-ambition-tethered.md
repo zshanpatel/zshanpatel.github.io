@@ -1,5 +1,6 @@
 ---
-title: "Chapter 3: Deception -An ambition tethered"
+title: "Chapter 3: Deception - An Ambition Tethered"
+permalink: /the-untold-revolution/an-ambition-tethered
 tags:
 aliases:
 showDate: false

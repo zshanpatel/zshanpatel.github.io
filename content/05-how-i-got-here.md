@@ -1,5 +1,5 @@
 ---
-title: How we got here.
+title: How we got here
 tags:
   - ego
   - systems-critique

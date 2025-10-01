@@ -1,5 +1,6 @@
 ---
 title: Conclusion
+permalink: /thesis/conclusion
 showDate: false
 tags:
   - thesis/conclusion

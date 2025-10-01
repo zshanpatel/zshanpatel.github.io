@@ -1,5 +1,6 @@
 ---
 title: Acknowledgments
+permalink: /thesis/acknowledgments
 tags:
   - thesis/meta
   - acknowledgments

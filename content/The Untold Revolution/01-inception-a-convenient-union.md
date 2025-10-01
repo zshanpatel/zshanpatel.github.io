@@ -1,5 +1,6 @@
 ---
-title: "Chapter 1: Inception - A convenient union"
+title: "Chapter 1: Inception - A Convenient Union"
+permalink: /the-untold-revolution/inception-a-convenient-union
 tags:
 aliases:
 showDate: false
