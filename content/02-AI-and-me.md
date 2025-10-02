@@ -8,6 +8,10 @@ aliases:
 showDate: false
 draft: true
 ---
+A prediction from a newsletter by a San Fran tech guy.
+
+⁠AI creates a new class divide: those who know how to orchestrate agents vs those who get orchestrated by them. Middle managers don’t disappear - they become agent supervisors. This starts in tech jobs and moves beyond that.
+
 I’ve been messing about with AI use cases for the past couple of weeks. Lot is going on there. But I think, just like the meme coin casino hype cycle. We are at the peak of AI too. But there are tangents of AI there somewhere:
 1.⁠ ⁠Localised AI: so you can download LLMs on your computer and use it without the internet if you like. I’ve been playing with open source models, some I downloaded on my computer and some using APIs. It took me a while to familiarise myself with the set up and different models. They are not there completely like the ChatGPT experience, because of the LLM’s size and memory of your system but there is a lot of scope for personalisation, like integrations with other softwares, long term memory and most importantly they are free. 
 2.⁠ ⁠⁠Automation: this is like the most hyped AI product; automating processes using AI. A lot of AI agencies are selling these apart from chatbots. From personal assistants to almost all basic functionalities. I set up a few for myself but I’m yet to close in on what I actually need agents for and it seems everyday there are new AI agents with more advanced functionalities. One assistant to manage emails, calendars, lead generation. Very interesting and entertaining space. Most influencers I think are making more from their Skool communities than selling these agents. But there is scope for specialisation still I think. 

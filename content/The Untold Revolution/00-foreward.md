@@ -5,8 +5,10 @@ tags:
   - acknowledgments
 aliases:
 showDate: false
-publish: "false"
+draft: false
 ---
+![[foreward-image.png]]
+
 >The greatest of God’s saints remain hidden.
 \- Shams of Tabriz
 
@@ -32,19 +34,13 @@ Love.
 
 And then he was gone.
 
-In a split second, I lost the light that forever shinned, the one I had so blatantly ignored. I am that son, whose heart only opened after the loss. It was all too quick. And now he was gone. And left me with his words, his silences, his example.
+In a split second, I lost the light that forever shinned, the one I had so blatantly ignored. He left me with his words, his silences, his example. I am that son, whose heart only opened after the loss. 
 
----
+But here is what I learned, and what I want you to understand: We are made of what we allow ourselves to be.
 
-But here is what I learned, and what I want you to understand: We are all made of the same materials. The same capacity for patience in chaos. The same ability to carry the world's pain and still choose kindness. The same revolutionary love that asks nothing in return.
+So I ask you: What are you made of? Not what you think you're made of, not what you wish you were made of, but what you choose, right now, in this moment, to be made of?
 
-My father was not extraordinary because he was special. He was extraordinary because he chose, every single day, to live by a principle most of us abandon when it becomes inconvenient. He chose to see the suffering of strangers as his own. He chose to measure his life not by what he accumulated, but by what he gave away—attention, time, compassion.
-
-This is what we are made of when we allow ourselves to be.
-
-So I ask you: What are you made of? Not what you think you're made of, not what you wish you were made of—but what you choose, right now, in this moment, to be made of?
-
-The greatest saints remain hidden not because they seek obscurity, but because their work is quiet. Because love, real love, doesn't announce itself. It simply acts.
+The greatest of men remain hidden not because they seek obscurity, but because their work is quiet. Because force, real momentum, doesn't announce itself. It simply acts.
 
 This is his story. But it is also yours. And mine.
 
