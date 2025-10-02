@@ -4,7 +4,7 @@ permalink: /the-untold-revolution/an-ambition-tethered
 tags:
 aliases:
 showDate: false
-draft: true
+draft: false
 ---
 ![[deception-image.jpg]]
 
