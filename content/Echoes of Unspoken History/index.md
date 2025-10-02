@@ -1,4 +1,4 @@
 ---
-title: The Untold Revolution
+title: Echoes of Unspoken History
 permalink: /the-untold-revolution
 ---
