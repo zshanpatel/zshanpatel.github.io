@@ -72,3 +72,5 @@ At least he could still count the cement accurately and know the number was true
 
 **1984**
 He arrived in Saudi Arabia. A distant land, far from the corruption he'd fled, though he understood by now that distance meant nothing. The rot existed everywhere—it just wore different clothes. But he was here. And he would try again. Not because he believed it would be different, but because he didn't know what else to do. He carried with him his precision, his stubbornness, his refusal to bend. The greener pastures he'd been searching for might not exist. But he would keep searching in the desert anyway.
+
+Five years later, he had a son. Me. I think it made him happy. I think, finally, he found a purpose, his life came back full circle, a reason to keep his head up, a reason to keep believing.
