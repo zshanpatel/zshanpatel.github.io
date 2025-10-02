@@ -7,7 +7,7 @@ tags:
   - collapse
 aliases:
 showDate: false
-publish: "false"
+draft: true
 ---
 I don’t think anyone can help at this point. We are almost basically doomed honestly. There are things I want and there are things the financial institutions want, and they don’t match at all. And how to manage expectations, they can’t be expected to comply to our needs either. Trying to work as per their system structure is not working also.
 

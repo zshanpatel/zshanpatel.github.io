@@ -4,7 +4,7 @@ permalink: /the-untold-revolution/an-ambition-tethered
 tags:
 aliases:
 showDate: false
-publish: "false"
+draft: true
 ---
 April 22, 1980
 

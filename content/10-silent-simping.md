@@ -9,7 +9,7 @@ tags:
   - radical-systems-thinking
 aliases:
 showDate: false
-publish: "false"
+draft: true
 ---
 Feminism is a neo-colonial ideology aiming to dismantle patriarchy in a manner that undermines the traditional strengths of both masculinity and femininity. The liberal agenda, driven by satanic elites, uses unsustainable feminist ideals to polarize and disrupt the family unit. This strategy diverts attention from resisting neoliberal secular oppression and instead focuses on individualistic and carnal pursuits. Also, this liberal ideology deflects from its own inherent violence and rebrands material subjugation as freedom of choice.
 

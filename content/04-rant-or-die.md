@@ -7,7 +7,7 @@ tags:
   - prosperity-rethinking
 aliases:
 showDate: false
-publish: "false"
+draft: true
 ---
 Through my lens: the perfect man in an imperfect world. 
 

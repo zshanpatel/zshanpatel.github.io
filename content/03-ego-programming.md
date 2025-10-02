@@ -7,7 +7,7 @@ tags:
   - materialism-critique
 aliases:
 showDate: false
-publish: "false"
+draft: true
 ---
 I would like to share some brotherly advice on humorously and casually using the word ‘kattar.’
 

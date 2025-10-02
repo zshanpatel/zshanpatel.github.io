@@ -6,7 +6,7 @@ tags:
   - future-research
 aliases:
 showDate: false
-publish: "false"
+draft: true
 ---
 I’ve been messing about with AI use cases for the past couple of weeks. Lot is going on there. But I think, just like the meme coin casino hype cycle. We are at the peak of AI too. But there are tangents of AI there somewhere:
 1.⁠ ⁠Localised AI: so you can download LLMs on your computer and use it without the internet if you like. I’ve been playing with open source models, some I downloaded on my computer and some using APIs. It took me a while to familiarise myself with the set up and different models. They are not there completely like the ChatGPT experience, because of the LLM’s size and memory of your system but there is a lot of scope for personalisation, like integrations with other softwares, long term memory and most importantly they are free. 

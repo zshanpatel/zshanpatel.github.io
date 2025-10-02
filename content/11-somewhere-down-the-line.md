@@ -7,7 +7,7 @@ tags:
   - ego-purification
 aliases:
 showDate: false
-publish: "false"
+draft: true
 ---
 Somewhere down the line, I misunderstood the purpose of life. 
 

@@ -4,7 +4,7 @@ permalink: /the-untold-revolution/an-inconvenient-birth
 tags:
 aliases:
 showDate: false
-publish: "false"
+draft: true
 ---
 June 1, 1956
 

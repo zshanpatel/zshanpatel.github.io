@@ -4,7 +4,7 @@ permalink: /the-untold-revolution/inception-a-convenient-union
 tags:
 aliases:
 showDate: false
-publish: "false"
+draft: true
 ---
 Solapur, May 18, 1945
 

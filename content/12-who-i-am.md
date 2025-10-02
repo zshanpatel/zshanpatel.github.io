@@ -7,7 +7,7 @@ tags:
   - collapse
 aliases:
 showDate: false
-publish: "false"
+draft: true
 ---
 When I was in 12th grade I used to say Saudi sucks dude, and I went to India, then after living there for 4 years, I was like India sucks too, then I moved to Saudi, then I realised location doesn’t matter, it is me and my escapist mindset by which I am limiting myself. It took me 3 location changes to realise it, Shan just doesn’t want to realise that and is still in that mindset, if only this happens then that will happen.
 

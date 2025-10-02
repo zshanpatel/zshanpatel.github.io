@@ -7,7 +7,7 @@ tags:
   - collapse
 aliases:
 showDate: false
-publish: "false"
+draft: true
 ---
 Here is the story of a boy who grew up without feels. His father believed, he was destined to be great, so the father always gave his son the best he could manage and raised him to pursue nothing less. His mother always wanted to be sure nothing ever hurt her son on his endless ambitious pursuit, so she taught him to be cautious. Ambition was everything to him and emotions were a crutch for the weak. So, he never bothered.
 

@@ -6,7 +6,7 @@ tags:
   - contemplation
 aliases:
 showDate: false
-publish: "false"
+draft: true
 ---
 Personal development is finishing you.
 
