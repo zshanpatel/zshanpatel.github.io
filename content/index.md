@@ -36,9 +36,8 @@ I'm Zeeshan 👋 [UCL](https://x.com/UCL) grad who ditched the safe path to crac
 
 What's eating you? Plateaued success? Family wealth that fades? Let's fix that shit.
 
-> "Prosperity ain't just money, it's divine flow, fair swaps that last forever." 
-
-\- _Me, straight from the thesis_
+>"Prosperity ain't just money, it's divine flow, fair swaps that last forever." 
+-_Me, straight from the thesis_
 
 Grab a free taste. No strings.
 
