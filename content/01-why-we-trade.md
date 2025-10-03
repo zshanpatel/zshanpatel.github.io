@@ -1,56 +1,86 @@
 ---
-title: Why we trade
+title: Why We Trade
 tags:
-  - contemplation
-  - zeeshan-patel
-  - collective-consciousness
+  - transformative-change
+  - future-research
+  - AI
+  - Automation
+  - open-source
+  - privacy-tech
+  - SaaS
+  - crypto
+  - hype-cycle
+  - memecoins
+  - AI-agents
+  - trading-strategy
+  - solana
+  - inflation
+  - gold
+  - markets
+  - investing
+  - discipline
+  - risk-management
+  - personal-finance
+  - market-madness
   - collapse
+  - capitalism
+  - systems-critique
 aliases:
 showDate: false
-draft: true
+draft: false
 ---
-I don’t think anyone can help at this point. We are almost basically doomed honestly. There are things I want and there are things the financial institutions want, and they don’t match at all. And how to manage expectations, they can’t be expected to comply to our needs either. Trying to work as per their system structure is not working also.
+![[trading.png]]
 
-Gold is at all time high. Nothing new there, while we make little shit profits and losses, lose our money in the bank to inflation, gold continues to rise.
+> **Note:** This is my personal account and **not** financial advice. Do your own research.
+### We’re Swimming with the Sharks
 
-Also, just a heads up. New York market is opening in 2 hours. A lot of people predicting market fluctuations. Trump shook up a lot with tariffs, and crypto is a on a downward trend, anticipating New York opening. It will either stabilise or start dipping lower. Buy opportunity
+I don’t know if anyone can help right now. What I want and what the financial system delivers don’t line up: and fitting into their structure isn’t working. It’s frustrating and feels like being constantly outmanoeuvred. Trying to work as per their system structure is not working.
 
-Then there these international bodies also have huge operational and marketing costs, where a lot of money gets lost.
+Gold is at an all-time high. Meanwhile we nibble at tiny gains, watch inflation nibble at our bank balances, and gold keeps climbing. The asymmetry is maddening.
 
-Show me an investment you made or want to make. 
+I don’t think anyone can help at this point. We are almost basically doomed honestly. 
 
-I have been doing crypto for the past few weeks. And I can tell you, my strategy keeps evolving. At every step there are larger sharks who are eating at my mistakes. I have been doing small chunks so my losses are not substantial and I tweak my strategy after each mistake. It is frustrating, tiring and just work and lot of experimenting, tweaking and re-doing it again and again and again.
+At the time of writing (February 2, 2025, 05:07 PM BST), the New York market was about to open and lots of people were predicting volatility. Trump shook up a lot. There’s a lot of noise: tariffs, institutional flows, and an ever-present crypto narrative, and that amplifies swings. 
+Trump launched his own memecoin. It went from USD 250 million to 24 billion. All this is in 9 hours, and then started dumping. Crypto influencers lost their marbles. And the whole meme community tracked it, for a brief moment it overtook [$Pepe](https://www.coingecko.com/en/coins/pepe) and [$Dogecoin](https://www.coingecko.com/en/coins/dogecoin).
 
-My point is stop waiting for some golden capital. It is not the capital that is going to change anything. It is your discipline, resilience and will to move forward that is everything. Capital is just a minor leg up. And if we don’t have the experience, we can lose it in a moment. 
+It is like the analysts on [Reuters](https://www.reuters.com/markets/) keep warning of volatility which has become systemic.
 
-Relying on capital without completely focusing on the commitment it takes. And investing with none to very less prior investing experience is ‘a false mirage’. Or listening to some person or popular opinion which bigger market sharks are going to feed on.
+Then there are these institutional bodies, where a lot of money gets lost. Like [Jane Street](https://www.imf.org/en/Blogs/Articles/2025/09/29/explainer-five-megatrends-shaping-the-rise-of-nonbank-finance).
+### My Crypto Grind
+I’ve been trading crypto the past few weeks and my strategy keeps evolving. At every step there are bigger players eating my small mistakes. I trade small chunks so losses aren’t catastrophic and I tweak strategy after each failure. It’s tiring work: experiment, tweak, repeat.
 
-Memecoins is where the volume is. This year even more people will get into crypto. By the end of the year, mummy would have heard about bitcoin. And the active aunties will be investing in crypto. There is still a system to the madness that can be learned. But is it worth your soul.
+A few practical lessons from my recent failures:
 
-Trump launched his own memecoin. It went from 250mil to 24bil and hovering around 21bil now. All this is in 9 hours. Crypto KOLs are losing their shit. And the whole meme community is tracking it, soon to overtake Pepe and then Dogecoin allegedly.
+- I was trading on [BullX](https://neo.bullx.io/), which is. a trading bot. Bought [Solana](https://en.wikipedia.org/wiki/Solana_(blockchain_platform))from [Coinbase’s](https://www.coinbase.com/home), which is a [centralised exchange](https://www.investopedia.com/tech/what-are-centralized-cryptocurrency-exchanges) , all established cryptocurrencies live here. I learned I could train on [Dexscreener](https://dexscreener.com/) too, it has the least fees (1% transaction fee + gas fee).
+- **Fees matter far more than I thought.** I started trading 0.01 [Solana](https://en.wikipedia.org/wiki/Solana_(blockchain_platform)) (SOL) and quickly realised transaction fees made small trades pointless. I moved to 0.1 SOL and then 0.2 SOL, but even then you need a decent percentage move just to break even. Example: if you were buying $23.28, worth of coin and wanted to earn 10%, you would end up with: $25.65. But you won't actually make the $2.33 you think you'd make due to fees. So you really need to wait for the price to hit 16.46%.
 
-I am still trying to get a hold of the whole process. Most of the time I go up 20% and then one bad trade and I go back 25%. And then I am left holding a coin with long term shit coin. There is a 50/50 potential/chance of going higher or just being dead.
 
-In terms of the amount I am trading with, I started with 0.01 solana, quickly realised the fees that I am paying for each transaction, is not even covering any profits. So moved to 0.1 sol. And that is the absolute minimum one can trade with and even for that, you have to be 20% above to break even for a trade. So anything above 20% is your actual profit. Recently moved to 0.2 sol but it has been 2 steps forward and 3 steps back so the confidence levels haven’t been that solid.
+ 
+- **Small gains get eaten by fees.** If your trade needs a 20–120% move to break even because of platform + gas fees, you’re not trading — you’re gambling. 
 
-In terms of strategy, I have moved from trying to find those 100x coins, to scalping profits. So I am looking for coins that are not absolute scams. And I just keep buying dips and selling on highs, or at least that is the strategy. If the coin performs really well, I can leave a small bag for potentials after taking some profits.
+![[sol-trade.png]]
 
-Here is an AI agent, [Vader AI](https://vaderai.ai/listing/2), it already has access to a crypto wallet and has already assimilated other agents (as assets) and formed a hedge fund. And gives the option to invest. This is the madness that is going on. This is on Virtuals, which is on Base chain (Coinbase’s chain) and there is a lot of AI agent madness happening there. Virtuals token has already taken off but I see it as a decent crypto space. 
+- **Scalping beats chasing 100x dreams.** I moved away from hunting 100x pumps to scalping reasonable gains on less-obvious but not total-scam coins. Take profits, leave a tiny bag for potential upside. 
 
-I did some cryoto trading yesterday after so much analysis, I wasn’t getting anywhere solid, and at the same time feeling like I should just do it and see how it goes. My learnings.
+- **Psychology is huge.** It’s addictive. One trade can feel like a rollercoaster. 20% up, one bad swing, 25% back down. And if you don't get out when you have the chance, you are left holding a coin which is a long term [shitcoin](https://www.investopedia.com/terms/s/shitcoin.asp). That pattern destroys discipline. I am still trying to get a hold of the whole process. . There is a 50 percent potential chance of going higher or 99.99 percent chance of being dead.
 
-1. I never understood gambling before. Now I see why it’s so addictive. 
-2. ⁠In one trade. I got in and out of the trade. Miss-read it. My strategy was trying to get in and out quick, utilise the initial pump. That one went from 6k to 400k.
-3. ⁠Trading small amounts itself does not work. I was doing .01 Solana trades. Although I profited in the price rise, in some of my trades, I was actually losing money in them. From further looking into it, I found that gas fee and platform fee was accumulating to 2% + 4 USD gas fee in each transaction. So basically, I had to make at least 120% profit in the trade itself, just to break even. Lol, found out the hard way.
-4. ⁠Also I was trading on BullX. Bought Sol from Coinbase. I just learned Dexscreener has the least fees (1% + gas fee).
-5. ⁠⁠In terms of coins and what’s trending, degeneracy + memes + AI, seems the latest theme. Last week, Fartcoin made way for a coin called Butthole. And this week it seems to be PenAIs (an automated agent with its own twitter account). Other than that, the new year saw major pump in AI coins.
+It is frustrating, tiring and just time-consuming work and lot of experimenting, tweaking and re-doing it again and again and again. And always felt like 2 steps forward and 3 steps back so the confidence levels haven’t been that solid.
+#### The Memecoin Circus (and AI Madness)
+Memecoins are where the volume is. More people than ever are entering crypto. More liquidity for the institutional players. Great. Your mum will have heard of Bitcoin by year-end. That brings more noise, more pumps, more rugs, more thrill of risk. I’ve seen memecoins driven by pure hype: last week a silly token called [dogwifhat](https://coinmarketcap.com/currencies/dogwifhat/), this week another. As of January 2025, the new meta was: degeneracy + memes + AI.
 
-All in all it wasn’t the worst, I bought 25GBP worth Sol, now I have 18 USD worth coins. Some have legs, one is completely useless, but I will lose more money in transaction if I sold any of them because the value is so small.
+There are also wild integrations: AI agents buying/selling, agent-driven “hedge funds,” and memecoins tied to influencers. Example:  [Vader AI](https://vaderai.ai/listing/2), an agent with wallet access and other agent assets is an eye-opener. This is novelty and risk at scale. This is on [Virtuals](https://www.virtuals.io/about) protocol, which is on [Base](https://blog.base.org/base-has-reached-stage-1-decentralization) chain ([Coinbase’s](https://www.coinbase.com/home) blockchain). The hype was real. 
+#### What Actually Matters
+Stop waiting for “golden capital.” Capital helps, but discipline, strategy, and experience matter more. If you’ve never lost money before, you’ll make beginner errors. If you’re leaning on social chatter, or [KOLs](https://finpr.agency/tpost/0udfvcria1-what-is-kol-in-crypto-meaning-role-expla) hype without understanding mechanics, you’ll get eaten.
 
-I was thinking, I want to put maybe 300 to start with till I get a feel for it. And then like 100 maybe every month. 
+If you want to start:
+- Put a small, **meaningful** amount in (something you can stomach losing) and treat it like tuition.
+- Learn fee structures and settlement mechanics for the chain you use.
+- Build a simple playbook: entry rules, exit rules, position sizing, and a maximum loss per trade.
+- Starting with a modest $300, then adding $100 month to month while you build rhythm. Think of scalping small wins, keep fees in mind, and try not to chase every new hype-coin.
+- Or better yet, don't trade memecoins at all. They are all pump and dumps.
+#### Plan (My Next Steps)
+With so much happening, can’t just sit and watch while the action goes down. But I’ll do exactly that, with rules, not FOMO.
 
-XRP is down right now. Might as well get some then. LTC looks like it’s stabilising from the Trump pump. BTC ka samjh nahi aa raha. I feel like institutional players are inflating it. Still might be worth getting some before new years. Also Solana I’ve heard mixed reviews but most new coins are on their chain. Coinbase came out with their own chain, Base. Another new coin to follow soon maybe? Something there?
+Relying on capital without completely realising the commitment it takes. And investing with none to very less prior investing experience is ‘a false mirage’. 
 
-New AI coins are coming every week also. 
-
-Kuch to karna padhega. Can’t sit here with so much action going on.
+There is still a system to the madness that can be learned. But is it worth your soul.  I never understood gambling before. Now I see why it’s so addictive. 

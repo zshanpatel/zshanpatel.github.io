@@ -1,11 +1,11 @@
 ---
-title: Why Prompts
+title: Why Prompts and Context
 tags:
 aliases:
 showDate: false
 draft: false
 ---
-## 🪴 Why Prompts.
+### 🪴 Why Prompts and Context.
 
 **Prompts** are your steering wheel. A clear, specific prompt with details about format, tone, audience, and purpose gets exactly what you need.
 
@@ -14,7 +14,7 @@ draft: false
 Together, they transform AI from a basic question-answering tool into a precision instrument that delivers relevant, actionable results on the first try.
 
 Think of it this way: 
-1. Context = Who you are and what you're doing_
+1. Context = _Who you are and what you're doing_.
 2. Prompts  =  _What you want and how you want it_. 
 
 Both are essential for quality output. Fine-tuned prompts allow snipping the perfect user message each time.

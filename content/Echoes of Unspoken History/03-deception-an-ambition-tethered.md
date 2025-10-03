@@ -2,13 +2,36 @@
 title: "Chapter 3: Deception - An Ambition Tethered"
 permalink: /the-untold-revolution/an-ambition-tethered
 tags:
+- corruption
+- civil-engineering
+- integrity
+- choice
+- bribery
+- moral-conflict
+- India
+- compromise
+- breaking-point
+- ambition
+- defining-moment
+- 1984
+- Saudi-Arabia
+- migration
+- new-beginning
+- fatherhood
+- birth
+- purpose
+- hope
+- full-circle
+- diaspora
+- searching
+- found
 aliases:
 showDate: false
 draft: false
 ---
 ![[deception-image.jpg]]
 
-April 22, 1980
+**April 22, 1980**
 
 India was now a free country. The British had left, and what remained was up for grabs. And the countrymen did grab it, with both hands.
 

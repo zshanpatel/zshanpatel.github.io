@@ -1,7 +1,22 @@
 ---
 title: "Chapter 1: Inception - A Convenient Union"
 permalink: /the-untold-revolution/inception-a-convenient-union
-tags:
+tags: 
+- independence
+- 1945
+- Solapur
+- marriage
+- survival
+- family-history
+- mystic
+- capitalist
+- colonial-India
+- post-colonialism
+- colonolism
+- resilience
+- distance
+- necessity
+- origins
 aliases:
 showDate: false
 draft: false

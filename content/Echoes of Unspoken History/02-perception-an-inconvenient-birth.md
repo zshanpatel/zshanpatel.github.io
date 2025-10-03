@@ -2,9 +2,21 @@
 title: "Chapter 2: Perception - An Inconvenient Birth"
 permalink: /the-untold-revolution/an-inconvenient-birth
 tags:
+- childhood
+- 1956
+- poverty
+- child-labor
+- railway-station
+- mother-son
+- endurance
+- the-smiling-one
+- family-dynamics
+- hardship #obedience
+- silent-revolt
+- formative-years
 aliases:
 showDate: false
-draft: true
+draft: false
 ---
 ![[perception-image.jpg]]
 **June 1, 1956**

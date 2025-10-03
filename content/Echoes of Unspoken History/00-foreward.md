@@ -3,6 +3,22 @@ title: Foreward
 permalink: /the-untold-revolution/foreward
 tags:
   - acknowledgments
+  - father-son
+  - loss
+  - grief
+  - purpose
+  - legacy 
+  - patience
+  - kindness
+  - revolution
+  - geopolitics
+  - Bosnia
+  - Afghanistan
+  - persecution
+  - identity
+  - regret
+  - realization
+  - love
 aliases:
 showDate: false
 draft: false
