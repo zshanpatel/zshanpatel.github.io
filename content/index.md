@@ -1,7 +1,7 @@
 ---
-title: I'm Zeeshan 👋
-description: "This is the personal website and digital garden of Zeeshan Patel, focusing on Islamic thought, prosperity, and grand challenges. And radical business fixes for senior execs and family offices."
-keywords: "Zeeshan Patel, Islamic thought, prosperity, grand challenges, digital garden, personal website, alternate business models, Qur'anic economics, cultural leadership, UCL, Islam, UCL-backed Islamic prosperity models"
+title: 👋 I'm Zeeshan
+description: This is the personal website and digital garden of Zeeshan Patel, focusing on Islamic thought, prosperity, and grand challenges. And radical business fixes for senior execs and family offices.
+keywords: Zeeshan Patel, Islamic thought, prosperity, grand challenges, digital garden, personal website, alternate business models, Qur'anic economics, cultural leadership, UCL, Islam, UCL-backed Islamic prosperity models
 tags:
   - zeeshan-patel
   - digital-garden
@@ -32,7 +32,7 @@ _"I've won the game, but it's rigged. Who sold me this script?"_
 Look, I got banned from the big platforms for calling out the elites for their fake propoganda games, the Islamophobia dressed as "patriotism." Elon? Yeah, I said it. Account gone.
 But hell with that noise. It lit a fire. I built this vault for guys like you: 30s-50s, killing it in Dubai deals or London funds, but stuck code-switching between boardrooms and your roots. That ache for real legacy? The one where money stacks but soul starves? I feel it. Lived it.
 
-I'm Zeeshan 👋 [UCL](https://x.com/UCL) grad who ditched the safe path to crack open Qur'anic smarts for today's chaos. Ancient rules + tech hacks = businesses you actually own. No more half-assed compromises.
+👋 I'm Zeeshan, [UCL](https://x.com/UCL) grad who ditched the safe path to crack open Qur'anic smarts for today's chaos. Ancient rules + tech hacks = businesses you actually own. No more half-assed compromises.
 
 What's eating you? Plateaued success? Family wealth that fades? Let's fix that shit.
 

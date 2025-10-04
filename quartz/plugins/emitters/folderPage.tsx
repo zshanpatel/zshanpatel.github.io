@@ -14,12 +14,14 @@ import {
   pathToRoot,
   simplifySlug,
 } from "../../util/path"
-import { defaultListPageLayout, sharedPageComponents } from "../../../quartz.layout"
+import { fffListPageLayout, sharedPageComponents, defaultListPageLayout } from "../../../quartz.layout"
 import { FolderContent } from "../../components"
 import { write } from "./helpers"
 import { i18n, TRANSLATIONS } from "../../i18n"
 import { BuildCtx } from "../../util/ctx"
 import { StaticResources } from "../../util/resources"
+import { byFileName } from "../../components/PageList"
+
 interface FolderPageOptions extends FullPageLayout {
   sort?: (f1: QuartzPluginData, f2: QuartzPluginData) => number
 }
@@ -143,7 +145,48 @@ export const FolderPage: QuartzEmitterPlugin<Partial<FolderPageOptions>> = (user
       )
 
       const folderInfo = computeFolderInfo(folders, content, cfg.locale)
-      yield* processFolderInfo(ctx, folderInfo, allFiles, opts, resources)
+      const thesisFolders = [...folders].filter((folder) => folder.startsWith("Thesis"))
+      const fffFolders = [...folders].filter((folder) => folder.startsWith("Faith, Fury, and Family"))
+
+      const thesisFolderInfo: Record<SimpleSlug, ProcessedContent> = {}
+      for (const folder of thesisFolders) {
+        thesisFolderInfo[folder] = folderInfo[folder]
+      }
+
+      const fffFolderInfo: Record<SimpleSlug, ProcessedContent> = {}
+      for (const folder of fffFolders) {
+        fffFolderInfo[folder] = folderInfo[folder]
+      }
+
+      const otherFolders = [...folders].filter(
+        (folder) => !folder.startsWith("Thesis") && !folder.startsWith("Faith, Fury, and Family"),
+      )
+      const otherFolderInfo: Record<SimpleSlug, ProcessedContent> = {}
+      for (const folder of otherFolders) {
+        otherFolderInfo[folder] = folderInfo[folder]
+      }
+
+      yield* processFolderInfo(ctx, otherFolderInfo, allFiles, opts, resources)
+      yield* processFolderInfo(
+        ctx,
+        thesisFolderInfo,
+        allFiles,
+        {
+          ...opts,
+          pageBody: FolderContent({ sort: byFileName(cfg) }),
+        },
+        resources,
+      )
+      yield* processFolderInfo(
+        ctx,
+        fffFolderInfo,
+        allFiles,
+        {
+          ...opts,
+          pageBody: FolderContent({ sort: byFileName(cfg), showDate: false }),
+        },
+        resources,
+      )
     },
     async *partialEmit(ctx, content, resources, changeEvents) {
       const allFiles = content.map((c) => c[1].data)

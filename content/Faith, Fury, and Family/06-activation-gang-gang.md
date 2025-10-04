@@ -1,6 +1,6 @@
 ---
 title: Activation
-permalink: /the-untold-revolution/06-activation-gang-gang
+permalink: /faith-fury-and-family/06-activation-gang-gang
 tags:
   - contemplation
   - zeeshan-patel

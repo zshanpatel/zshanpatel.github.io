@@ -1,6 +1,6 @@
 ---
 title: Creation
-permalink: /the-untold-revolution/04-creation-the-arrival
+permalink: /faith-fury-and-family/04-creation-the-arrival
 tags:
   - integrity
   - ambition

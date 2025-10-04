@@ -1,6 +1,6 @@
 ---
 title: Annihilation
-permalink: /the-untold-revolution/09-annihilation-its-not-personal-its-systemic
+permalink: /faith-fury-and-family/09-annihilation-its-not-personal-its-systemic
 tags:
   - inner-thinking
   - ethical-values

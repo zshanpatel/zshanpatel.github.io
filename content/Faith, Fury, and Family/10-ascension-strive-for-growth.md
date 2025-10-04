@@ -1,6 +1,6 @@
 ---
 title: Ascension
-permalink: /the-untold-revolution/10-ascension-strive-for-growth
+permalink: /faith-fury-and-family/10-ascension-strive-for-growth
 tags:
   - inner-thinking
   - prosperity
@@ -35,7 +35,7 @@ This stage rearranges priorities. Life, jobs, trade, professional safety. They l
 After seeing and feeling, something quieter happens. We stop reacting and start listening. To conscience, to God, to each other. This is not a mystical aside. It is practical. It is the moment you refuse to fold your life into whatever comforts you were offered.
 
 Presence is an inner decision: to stop obeying the rule that silence keeps you safe. It is the place where fear is named and refused. In that stillness we discover clarity. We remember purpose. We accept cost. We choose. This is the pivot point. It is where courage is birthed.
-### 4. Create (From “Me” to “We”**)
+### 4. Create (From “Me” to “We”)
 Once people have seen, felt, and returned to truth, they start building. Not impromptu miracles. Small, stubborn things that add up. Community. Mutual lending. Independent media that tells what actually happened. Houses that become schools. People offering skills, not just likes. New institutions that refuse to trade justice for comfort.
 
 Creating is prototyping the new world. It looks rough at first. It is often illegal in the eyes of the old system because it bypasses their levers of control. It is communal. It is practical. And because it grows from presence, it carries a unity that the old structures cannot buy or algorithmically engineer.

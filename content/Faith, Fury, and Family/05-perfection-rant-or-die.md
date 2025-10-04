@@ -1,6 +1,6 @@
 ---
 title: Perfection
-permalink: /the-untold-revolution/05-perfection-rant-or-die
+permalink: /faith-fury-and-family/05-perfection-rant-or-die
 tags:
   - leadership
   - grief

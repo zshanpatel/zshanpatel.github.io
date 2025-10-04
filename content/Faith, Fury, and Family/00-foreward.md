@@ -1,19 +1,19 @@
 ---
 title: Foreward
-permalink: /the-untold-revolution/foreward
+permalink: /faith-fury-and-family/foreward
 tags:
   - acknowledgments
   - father-son
   - loss
   - grief
   - purpose
-  - legacy 
+  - legacy
   - patience
   - kindness
   - revolution
   - geopolitics
-  - Bosnia
-  - Afghanistan
+  - bosnia
+  - afghanistan
   - persecution
   - identity
   - regret

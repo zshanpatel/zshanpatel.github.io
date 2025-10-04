@@ -1,5 +1,6 @@
 ---
 title: Introduction
+permalink: /thesis/introduction
 tags:
   - thesis/introduction
   - research-methodology

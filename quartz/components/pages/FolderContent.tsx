@@ -17,11 +17,13 @@ interface FolderContentOptions {
   showFolderCount: boolean
   showSubfolders: boolean
   sort?: SortFn
+  showDate?: boolean
 }
 
 const defaultOptions: FolderContentOptions = {
   showFolderCount: false,
   showSubfolders: true,
+  showDate: true,
 }
 
 export default ((opts?: Partial<FolderContentOptions>) => {
@@ -114,7 +116,7 @@ export default ((opts?: Partial<FolderContentOptions>) => {
             </p>
           )}
           <div>
-            {fileData.slug !== "thesis/index" && <PageList {...listProps} />}
+            <PageList {...listProps} showDate={options.showDate} />
           </div>
         </div>
       </div>

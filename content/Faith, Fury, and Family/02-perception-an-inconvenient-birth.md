@@ -1,6 +1,6 @@
 ---
 title: Perception
-permalink: /the-untold-revolution/02-perception-an-inconvenient-birth
+permalink: /faith-fury-and-family/02-perception-an-inconvenient-birth
 tags:
   - childhood
   - year-1956

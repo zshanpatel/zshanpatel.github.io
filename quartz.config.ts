@@ -86,7 +86,19 @@ const config: QuartzConfig = {
       Plugin.AliasRedirects(),
       Plugin.ComponentResources(),
       Plugin.ContentPage(),
-      Plugin.FolderPage(),
+      Plugin.FolderPage({
+        sort: (a, b) => {
+          // Get file names or paths (depending on how your structure is)
+          const nameA = a.slug ?? a.filePath ?? "";
+          const nameB = b.slug ?? b.filePath ?? "";
+      
+          // Compare numerically if prefixes like 00-, 01-, 02- exist
+          return nameA.localeCompare(nameB, undefined, {
+            numeric: true,
+            sensitivity: "base",
+          });
+        },
+      }),
       Plugin.TagPage(),
       Plugin.ContentIndex({
         enableSiteMap: true,

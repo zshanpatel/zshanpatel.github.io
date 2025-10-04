@@ -1,4 +1,4 @@
 ---
-title: AI and Me
-permalink: /AI-and-me
+title: AI and I
+permalink: /AI-and-I
 ---

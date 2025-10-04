@@ -1,6 +1,6 @@
 ---
 title: Faith, Fury, and Family
-permalink: /the-untold-revolution
+permalink: /faith-fury-and-family
 tags:
   - generational-story
   - Indian-history
@@ -11,5 +11,6 @@ tags:
   - values
   - what-we-are-made-of
   - father-son-legacy
-  - grief-and-belonging
+showDate: false
+hide_meta: true
 ---

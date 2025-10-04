@@ -1,6 +1,6 @@
 ---
 title: Redemption
-permalink: /the-untold-revolution/08-redemption-somewhere-down-the-line
+permalink: /faith-fury-and-family/08-redemption-somewhere-down-the-line
 tags:
   - limbo
   - belonging-nowhere

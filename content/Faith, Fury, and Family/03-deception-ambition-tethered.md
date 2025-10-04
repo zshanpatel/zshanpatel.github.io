@@ -1,6 +1,6 @@
 ---
 title: Deception
-permalink: /the-untold-revolution/03-deception-an-ambition-tethered
+permalink: /faith-fury-and-family/03-deception-an-ambition-tethered
 tags:
   - corruption
   - civil-engineering

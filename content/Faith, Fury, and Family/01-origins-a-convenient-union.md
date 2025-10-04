@@ -1,6 +1,6 @@
 ---
 title: Origins
-permalink: /the-untold-revolution/01-origins-a-convenient-union
+permalink: /faith-fury-and-family/01-origins-a-convenient-union
 tags:
   - independence
   - year-1945

@@ -1,6 +1,6 @@
 ---
 title: Cultivation
-permalink: /the-untold-revolution/07-cultivation-an-anarchic-rebellion
+permalink: /faith-fury-and-family/07-cultivation-an-anarchic-rebellion
 tags:
   - contemplation
   - zeeshan-patel

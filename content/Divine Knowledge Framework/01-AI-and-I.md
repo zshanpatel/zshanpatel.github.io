@@ -28,7 +28,7 @@ aliases:
 showDate: true
 draft: false
 ---
-![[content/AI and I/images/ai-brain.png]]
+![[content/Divine Knowledge Framework/images/ai-brain.png]]
 A prediction by a San Francisco tech guy caught my attention recently. He broadly said:
 
 >_AI creates a new class divide: those who know how to orchestrate agents vs those who get orchestrated by them. Middle managers don't disappear, they become agent supervisors. This starts in tech jobs and moves beyond that._
@@ -43,7 +43,7 @@ I also say that because I see overflowing tangents of AI in cryptocurrency there
 
 I think we're at the peak of the AI bubble, just like the [memecoin-casino hype-cycle](01-how-to-trade.md) back in December 2024. Which as I am writing this in October 2025, is back again. People never learn.
 
-![[content/AI and I/images/memecoin.png]]
+![[content/Divine Knowledge Framework/images/memecoin.png]]
 _Total memecoin market capitalisation. Source: [CoinMarketCap](https://coinmarketcap.com/charts/)_
 
 All the fields and their experts will recognise that using AI as a tool is as necessary as using Google to search. Those who use this tech will cut their work in half and eventually become humans in the loop: supervising, iterating, approving and disapproving decisions made by AI agents.
@@ -61,7 +61,7 @@ The catch? You need a lot of compute power for a good enough model. [Ollama's](h
 #### 2. ⁠⁠Automation: 
 This is the most hyped AI product: automating processes using AI. A lot of AI agencies are selling these apart from chatbots: personal assistants, lead generation, email management, calendar scheduling.
 
-![[content/AI and I/images/n8n.png]]
+![[content/Divine Knowledge Framework/images/n8n.png]]
 _Source: [n8n](https://n8n.io/)_
 
 I set up a few automations for myself but I'm yet to close in on what I actually need agents for. And it seems like every day there are new AI agents with more advanced functionalities. Very interesting and entertaining space. 
@@ -76,7 +76,7 @@ This is a topic of its own. Basically, you can build up your AI's memory and the
 ![[RAG.png]]
 _Different parameters, components, and models in a simple RAG application. Source: [Gradient Flow](https://gradientflow.com/techniques-challenges-and-future-of-augmented-language-models/)_
 
-I made a basic one for myself to test out. My experiments all ended with the free tiers of [GPT's](https://en.wikipedia.org/wiki/Generative_pre-trained_transformer) [OpenRouter](https://openrouter.ai/), [Groq](https://groq.com/), [Gemini 2.5 Pro and Flash](https://gemini.google.com/app) models. [Qwen's API](https://qwen.ai/apiplatform) needed my card even though they claimed a free tier. Broadening the [context](content/AI%20and%20I/00-why-prompts.md) is what I'm struggling with. Like if you build a bot for appointment setting, it can only do that in intelligent ways. You give it more functionalities and it will work within those boundaries. You can program it to do those exact operational functions. 
+I made a basic one for myself to test out. My experiments all ended with the free tiers of [GPT's](https://en.wikipedia.org/wiki/Generative_pre-trained_transformer) [OpenRouter](https://openrouter.ai/), [Groq](https://groq.com/), [Gemini 2.5 Pro and Flash](https://gemini.google.com/app) models. [Qwen's API](https://qwen.ai/apiplatform) needed my card even though they claimed a free tier. Broadening the [context](00-introduction.md) is what I'm struggling with. Like if you build a bot for appointment setting, it can only do that in intelligent ways. You give it more functionalities and it will work within those boundaries. You can program it to do those exact operational functions. 
 
 My goal was to make it give me strategic outputs.
 
