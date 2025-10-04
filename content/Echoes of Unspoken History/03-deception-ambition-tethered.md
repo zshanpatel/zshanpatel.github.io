@@ -1,37 +1,34 @@
 ---
-title: "Chapter 3: Deception - An Ambition Tethered"
-permalink: /the-untold-revolution/an-ambition-tethered
+title: "Chapter 3: Deception - Ambition Tethered"
+permalink: /the-untold-revolution/03-deception-an-ambition-tethered
 tags:
-- corruption
-- civil-engineering
-- integrity
-- choice
-- bribery
-- moral-conflict
-- India
-- compromise
-- breaking-point
-- ambition
-- defining-moment
-- 1984
-- Saudi-Arabia
-- migration
-- new-beginning
-- fatherhood
-- birth
-- purpose
-- hope
-- full-circle
-- diaspora
-- searching
-- found
+  - corruption
+  - civil-engineering
+  - integrity
+  - choice
+  - bribery
+  - moral-conflict
+  - India
+  - compromise
+  - breaking-point
+  - ambition
+  - defining-moment
+  - year-1980
+  - migration
+  - new-beginning
+  - purpose
+  - hope
+  - full-circle
+  - diaspora
+  - searching
+  - found
 aliases:
 showDate: false
 draft: false
 ---
-![[deception-image.jpg]]
+![[deception-image.png]]
 
-**April 22, 1980**
+### 1980
 
 India was now a free country. The British had left, and what remained was up for grabs. And the countrymen did grab it, with both hands.
 
@@ -92,8 +89,3 @@ His ambitions were tethered now. He understood that. The world was not going to 
 But at least he could still look at himself in the mirror.
 
 At least he could still count the cement accurately and know the number was true.
-
-**1984**
-He arrived in Saudi Arabia. A distant land, far from the corruption he'd fled, though he understood by now that distance meant nothing. The rot existed everywhere—it just wore different clothes. But he was here. And he would try again. Not because he believed it would be different, but because he didn't know what else to do. He carried with him his precision, his stubbornness, his refusal to bend. The greener pastures he'd been searching for might not exist. But he would keep searching in the desert anyway.
-
-Five years later, he had a son. Me. I think it made him happy. I think, finally, he found a purpose, his life came back full circle, a reason to keep his head up, a reason to keep believing.

@@ -5,8 +5,8 @@ tags:
   - transformative-change
   - future-research
   - AI
-  - Automation
-  - LocalAI
+  - automation
+  - local-AI
   - open-source
   - privacy-tech
   - SaaS
@@ -16,7 +16,7 @@ tags:
   - MVP
   - AI-agents
   - RAG
-  - GraphRAG
+  - graphRAG
   - AI-bias
   - digital-transformation
   - ecosystems
@@ -28,8 +28,7 @@ aliases:
 showDate: true
 draft: false
 ---
-
-![[ai-brain1.png]]
+![[ai-brain.png]]
 
 A prediction from a newsletter by a San Francisco tech guy caught my attention recently. He broadly said:
 
@@ -37,7 +36,7 @@ _AI creates a new class divide: those who know how to orchestrate agents vs thos
 ### ⁠We're at Peak AI
 I’ve been messing about with AI use cases for the past couple of months. A lot is going on there. I also say that because I see overflowing tangents of AI in cryptocurrency there somewhere as well. I will explain this more later.
 
-But I think we're at the peak of the AI bubble, just like the [memecoin-casino hype-cycle](01-why-we-trade) back in December 2024. Which as I am writing this in October 2025, is back again. People never learn.
+But I think we're at the peak of the AI bubble, just like the [memecoin-casino hype-cycle](01-how-to-trade.md) back in December 2024. Which as I am writing this in October 2025, is back again. People never learn.
 
 ![[memecoin.png]]
 
@@ -70,10 +69,15 @@ Anyway, I bet most influencers, are making more from their [Skool](https://www.s
 3. RAG (Retrieval-Augmented Generation): 
 This is a topic of its own. Basically, you can build up your AI's memory and then exchange and even add information. You can use it for basic functions like fetching relevant information from documents, or feeding instructions to perform functions based on context you've provided.
 
-![[Pasted image 20251003060358.png]]
+![[RAG.png]]
+<figure>
+  <img src="/Users/zeeshanpatel/quartz/content/Echoes of Unspoken History/images/RAG.png" alt="Different parameters, components, and models in a simple RAG application. Source: [Gradient Flow](https://gradientflow.com/techniques-challenges-and-future-of-augmented-language-models/)">
+  <figcaption>Source: Example Source</figcaption>
+</figure>   
+
 Different parameters, components, and models in a simple RAG application. Source: [Gradient Flow](https://gradientflow.com/techniques-challenges-and-future-of-augmented-language-models/)
 
-I made a basic one for myself to test out. My experiments all ended with the free tiers of [GPT's](https://en.wikipedia.org/wiki/Generative_pre-trained_transformer) [OpenRouter](https://openrouter.ai/), [Groq](https://groq.com/), [Gemini 2.5 Pro and Flash](https://gemini.google.com/app) models. [Qwen's API](https://qwen.ai/apiplatform) needed my card even though they claimed a free tier. Broadening the [context](00-why-prompts) is what I'm struggling with. Like if you build a bot for appointment setting, it can only do that in intelligent ways. You give it more functionalities and it will work within those boundaries. You can program it to do those exact operational functions. 
+I made a basic one for myself to test out. My experiments all ended with the free tiers of [GPT's](https://en.wikipedia.org/wiki/Generative_pre-trained_transformer) [OpenRouter](https://openrouter.ai/), [Groq](https://groq.com/), [Gemini 2.5 Pro and Flash](https://gemini.google.com/app) models. [Qwen's API](https://qwen.ai/apiplatform) needed my card even though they claimed a free tier. Broadening the [context](00-why-prompts.md) is what I'm struggling with. Like if you build a bot for appointment setting, it can only do that in intelligent ways. You give it more functionalities and it will work within those boundaries. You can program it to do those exact operational functions. 
 
 My goal was to make it give me strategic outputs.
 
@@ -116,3 +120,5 @@ The big LLM companies continue dominating the game. Now it's open season for low
 
 ---
 _Tell me if you've come across something useful worth exploring. Or something that can have a real use case in your immediate circle. I would like to see a real use case. With so many options available, it's harder to decide what to focus on._
+
+[^1]: 

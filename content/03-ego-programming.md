@@ -16,9 +16,7 @@ Descriptive terms like ‘kattar’ undermine and disarm the Islamic ideology 
 When you label someone as a hardliner for speaking about Islam, you are unintentionally placing yourself in a position that is contrary to the upward trajectory of active Islam. The three levels of action are:
 
 1. Changing with your hand
-
 2. Changing with your tongue (speaking out)
-
 3. Acknowledging the wrong in your heart 
 
 So be careful, you might find yourself on the other side, where you lose grasp on all three levels, and on the path to apostasy.

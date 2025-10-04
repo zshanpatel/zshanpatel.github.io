@@ -1,32 +1,33 @@
 ---
-title: "Chapter 1: Inception - A Convenient Union"
-permalink: /the-untold-revolution/inception-a-convenient-union
-tags: 
-- independence
-- 1945
-- Solapur
-- marriage
-- survival
-- family-history
-- mystic
-- capitalist
-- colonial-India
-- post-colonialism
-- colonolism
-- resilience
-- distance
-- necessity
-- origins
+title: "Chapter 1: Origins - A Convenient Union"
+permalink: /the-untold-revolution/01-origins-a-convenient-union
+tags:
+  - independence
+  - year-1945
+  - Solapur
+  - marriage
+  - survival
+  - family-history
+  - mystic
+  - capitalist
+  - colonial-India
+  - post-colonialism
+  - colonolism
+  - resilience
+  - distance
+  - necessity
+  - origins
 aliases:
 showDate: false
 draft: false
 ---
 ![[inception-image.jpg]]
-**In the beginning**
+
+### In the beginning
 
 My father inherited a bloodline that knew how to subjugate, through men who watched empires crumble and new tyrants rise in their place. To understand his quiet fury, and patience that looked like madness, I had to trace back to the beginning. To relationships that were more necessity than family. To a country on the edge of a freedom that would turn out to be another kind of cage.
 
-**India, 1945**
+### India, 1945
 
 The country, India is headed towards the end of a brutal freedom struggle and the start of a another. The uneducated strive with hope, in their innocence, unaware of what is to come. Believing freedom from British rule will deliver them into something better. They had forgotten what corruption looks like when it wears the face of their own countrymen. Only one thought prevails; Freedom. 
 
@@ -40,7 +41,7 @@ Freedom was not earned in any real sense. Despite what the common people belie
 
 Like the parasitic nature of the the coloniser, even after scavenging so many nations, they had now reached the end of profitable administration. It was time to go. To let the Indians inherit the ruins of what once was, bask in a land once run by monarchs, slaves had been left for the corrupt to devour. A land that had been bled dry and left for the corrupt to finish off.
 
-**Solapur, May 18, 1947**
+### Solapur, May 18, 1947
 Far away from the independence struggle, in a town called Solapur, the air is fills with folk songs. It is a holy union. A forty-year-old man being remarried to a fourteen-year-old girl. She is too young, quick like a fox, cunning and sharp in ways he is not. And his days have driven him into a slow, miserable silence. A continuous suffering. 
 
 This is the age of the silent hero,. Men like Daud Saheb Sikander Patel.

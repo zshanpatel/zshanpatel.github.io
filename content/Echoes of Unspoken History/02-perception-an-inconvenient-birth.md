@@ -1,25 +1,26 @@
 ---
 title: "Chapter 2: Perception - An Inconvenient Birth"
-permalink: /the-untold-revolution/an-inconvenient-birth
+permalink: /the-untold-revolution/02-perception-an-inconvenient-birth
 tags:
-- childhood
-- 1956
-- poverty
-- child-labor
-- railway-station
-- mother-son
-- endurance
-- the-smiling-one
-- family-dynamics
-- hardship #obedience
-- silent-revolt
-- formative-years
+  - childhood
+  - year-1956
+  - poverty
+  - child-labor
+  - railway-station
+  - mother-son
+  - endurance
+  - the-smiling-one
+  - family-dynamics
+  - hardship
+  - silent-revolt
+  - formative-years
 aliases:
 showDate: false
 draft: false
 ---
 ![[perception-image.jpg]]
-**June 1, 1956**
+
+### June 1, 1956
 
 The cries of a baby boy echoed through the maternity ward. It was the first time Maqbool's mother delivered a baby in a hospital. It made no difference to her; the hospital bed or the fields, pain was pain. 
 
@@ -35,7 +36,7 @@ The family had to be careful not to get caught up in the violence, in the delin
 
 Years had passed.
 
-**1966**
+### 1966
 Now ten years old, a dainty little boy, my father would stay close to his mother. Helping her where he could. He was her most trusted child. Every day after school, he would come back to her as quickly as he could, like a shadow catching up to its owner. 
 
 And everyday, Maqbool's mother would send him away to work at the railway station, sometimes selling tea that burned his fingers, sometimes ice cream that melted faster than he could sell it. He didn’t mind. He was happy to bring back what he could earn and support his family in whatever way he could. Sometimes a rupee if the day was good. Tiring as it was he would always come back with a smile on his face. A happy little momma’s boy. 

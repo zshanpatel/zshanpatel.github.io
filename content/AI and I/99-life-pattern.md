@@ -1,10 +1,24 @@
 ---
-title: Pattern Template
+title: Life Pattern Analyser
 tags:
+  - transformative-change
+  - contemplation
+  - inner-thinking
 aliases:
 showDate: false
 draft: false
 ---
+### Life Patten Analyser
+This tool is here to help you make sense of **why you do what you do**.
+
+You’ll share some background about your life: childhood, big events, struggles, or wins. Along with how you’re acting or feeling today. The system will then:
+- Point out the **key events** from your past.
+- Show you the **possible patterns or issues** that might have formed because of them.
+- Explain how those patterns could be shaping your current behaviour.
+- Give you **clear, actionable steps** you can take to start changing things for the better.
+
+In short, it connects your past to your present, and helps you see what you can do next.
+
 ```
 # Identity
 

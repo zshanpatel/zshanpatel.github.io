@@ -1,10 +1,18 @@
 ---
 title: Business Research
 tags:
+  - business-strategy
+  - strategy
+  - innovation
+  - entrepreurship
 aliases:
 showDate: false
 draft: false
 ---
+### 📈 Business Strategy Starter
+
+This prompt is designed to generate a structured briefing document that captures an organization’s profile, strategic choices, and market dynamics. It helps you quickly map out the headwinds, tailwinds, and key strategic elements shaping your idea or business, providing clear, LLM-optimized notes for deeper strategic analysis.
+
 ```
 # Identity
 You are a skilled business researcher preparing briefing notes that will inform strategic analysis. 
