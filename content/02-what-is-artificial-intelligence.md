@@ -73,7 +73,7 @@ Anyway, I bet most influencers, are making more from their [Skool](https://www.s
 #### 3. RAG (Retrieval-Augmented Generation): 
 This is a topic of its own. Basically, you can build up your AI's memory and then exchange and even add information. You can use it for basic functions like fetching relevant information from documents, or feeding instructions to perform functions based on context you've provided.
 
-![[RAG.png]]
+![[public/Faith,-Fury,-and-Family/images/RAG.png]]
 _Different parameters, components, and models in a simple RAG application. Source: [Gradient Flow](https://gradientflow.com/techniques-challenges-and-future-of-augmented-language-models/)_
 
 I made a basic one for myself to test out. My experiments all ended with the free tiers of [GPT's](https://en.wikipedia.org/wiki/Generative_pre-trained_transformer) [OpenRouter](https://openrouter.ai/), [Groq](https://groq.com/), [Gemini 2.5 Pro and Flash](https://gemini.google.com/app) models. [Qwen's API](https://qwen.ai/apiplatform) needed my card even though they claimed a free tier. Broadening the [context](content/AI%20and%20I/00-why-prompts.md) is what I'm struggling with. Like if you build a bot for appointment setting, it can only do that in intelligent ways. You give it more functionalities and it will work within those boundaries. You can program it to do those exact operational functions. 
@@ -86,7 +86,7 @@ The LLMs I find are built with these typical limitations: Western-European frame
 
 Although I found this to be an evolving space, with the evolution of [GraphRAG](https://medium.com/@zilliz_learn/graphrag-explained-enhancing-rag-with-knowledge-graphs-3312065f99e1) and other hybrids this remains an interesting space to watch. And this will have more utilities to come, example [Google's NotebookLM](https://notebooklm.google/). I made one for myself and tested it but I could not produce a divinely-oriented non-secular output because of [LLM bias](https://arxiv.org/html/2411.10915v1). 
 
-![[sss.png]]
+![[public/Faith,-Fury,-and-Family/images/sss.png]]
 _My attempt to create a realtime GraphRAG that can give answers inspired by the divine. Source: self_
 #### 4. Open-source Versus Closed Source: 
 This is one of those spaces I keep going down the rabbit hole of. Basically: zero ads, forget paying for software, decentralised social media. I think this is the direction we're moving in or at least I hope we do or we will be forced to. Obviously not anytime soon because [monopolies like private OpenAI](https://hackernoon.com/breaking-big-techs-ai-monopoly-requires-decentralized-cross-chain-rails) will find ways to distract and keep the sheep in the present status quo. But it's inevitable. 
