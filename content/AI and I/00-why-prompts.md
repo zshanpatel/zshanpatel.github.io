@@ -6,6 +6,9 @@ showDate: false
 draft: false
 ---
 ### 🪴 Why Prompts and Context
+
+In the grand scheme of the new world of [chatGPT](https://chatgpt.com/) and [Claude](https://claude.ai/):
+
 **Prompts** are your steering wheel. A clear, specific prompt with details about format, tone, audience, and purpose gets exactly what you need.
 
 **Context** gives AI the background it needs to understand the situation. Without it, responses are generic. With it, they're tailored to your specific needs, constraints, and goals.

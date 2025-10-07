@@ -28,7 +28,8 @@ aliases:
 showDate: true
 draft: false
 ---
-![[content/AI and I/images/ai-brain.png]]
+![[content/images/ai-brain.png]]
+
 A prediction by a San Francisco tech guy caught my attention recently. He broadly said:
 
 >_AI creates a new class divide: those who know how to orchestrate agents vs those who get orchestrated by them. Middle managers don't disappear, they become agent supervisors. This starts in tech jobs and moves beyond that._

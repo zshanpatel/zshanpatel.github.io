@@ -1,5 +1,5 @@
 ---
-title: How to Trade Crypto, Stocks, Commodities
+title: How to Trade Crypto?
 tags:
   - transformative-change
   - future-research
@@ -33,7 +33,7 @@ draft: false
 
 > **Note:** This is my personal account and **not** financial advice. Do your own research.
 
-First of all. You are not a trader. You are the one being traded. Understand the difference between the user and the product. In this grand pyramid scheme. You are the product.
+First of all. Whether it is Crypto, Stocks or Commodities. Understand this. You are not a trader. You are the one being traded. Understand the difference between the user and the product. In this grand pyramid scheme. You are the product.
 ### We’re Swimming with the Sharks
 I don’t know if anyone can help right now. What I want and what the financial system delivers don’t line up: and fitting into their structure isn’t working. It’s frustrating and feels like being constantly outmanoeuvred. Trying to work as per their system structure is not working.
 

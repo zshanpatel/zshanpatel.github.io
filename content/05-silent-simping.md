@@ -1,5 +1,5 @@
 ---
-title: "Silent Simping: How Feminism Made Men Abandon Masculinity"
+title: Has Feminism Made Men Abandon Masculinity
 tags:
   - neoliberalism
   - neoliberalism-critique
