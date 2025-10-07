@@ -1,5 +1,5 @@
 ---
-title: "Build an AI-Powered App in Minutes: A No-Code Guide (2025)"
+title: Build an AI-Powered App in Minutes
 tags:
   - vibe-code
   - AI
@@ -8,6 +8,8 @@ aliases:
 showDate: false
 draft: false
 ---
+## A No-Code Guide (2025)
+
 Learn how to build a functional app from idea to [MVP](https://www.productplan.com/glossary/minimum-viable-product/) using free AI tools. No programming experience required.
 
 **Difficulty:** Beginner | **Cost:** Free
@@ -488,7 +490,6 @@ Please suggest the simplest approach using a free database option. I want users 
 Pro Tip: Ask [ChatGPT](https://chatgpt.com/) on a separate window to save credits on Cursor. 
 
 ---
-
 ## Testing Your MVP
 
 Before launching, test everything:
@@ -498,7 +499,7 @@ Before launching, test everything:
 - [ ] Forms submit correctly
 - [ ] Data saves and loads properly
 - [ ] Works on mobile devices
-- [ ] Works in different browsers (Chrome, Safari, Firefox)
+- [ ] Works in different browsers (Chrome, Safari, Firefox, Brave)
 - [ ] No console errors (press F12 to check)
 - [ ] Handles errors gracefully (try breaking things on purpose)
 
@@ -638,7 +639,7 @@ A: Almost everything exists. Your unique take, execution, and niche focus make t
 
 I'd love to see what you create!
 
-- **Tag me on X/Twitter:** [@ucbqzp6](@ucbqzp6)
+- **Tag me on X/Twitter:** [@thezshan](https://x.com/thezshan)
 - **Join the community:** [Sign up for newsletter](https://tally.so/r/wvkGjv)
 - **Email your MVP:** [ucbqzp6@ucl.ac.uk](mailto:ucbqzp6@ucl.ac.uk)
 

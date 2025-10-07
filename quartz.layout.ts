@@ -12,7 +12,7 @@ export const sharedPageComponents: SharedLayout = {
       links: {
         "LinkedIn": "https://linkedin.com/in/zshanpatel",
         "Medium": "https://medium.com/@zeeshanpatel",
-        "X": "https://x.com/ucbqzp6"
+        "X": "https://x.com/thezshan"
       },
     }),
     condition: (page) => page.fileData.slug === "index" && !page.fileData.slug.startsWith("thesis/")

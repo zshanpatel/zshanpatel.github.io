@@ -26,7 +26,6 @@ tags:
   - strive
   - alt-way-in
 ---
-
 _"I've won the game, but it's rigged. Who sold me this script?"_
 
 Look, I got banned from the big platforms for calling out the elites for their fake propoganda games, the Islamophobia dressed as "patriotism." Elon? Yeah, I said it. Account gone.

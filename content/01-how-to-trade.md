@@ -42,7 +42,7 @@ Gold is at an all-time high. Meanwhile we nibble at tiny gains, watch inflation 
 I don’t think anyone can help at this point. We are almost basically doomed honestly. 
 
 At the time of writing (February 2, 2025, 05:07 PM BST), the New York market was about to open and lots of people were predicting volatility. Trump shook up a lot. There’s a lot of noise: tariffs, institutional flows, and an ever-present crypto narrative, and that amplifies swings. 
-Trump launched his own memecoin. It went from USD 250 million to 24 billion. All this is in 9 hours, and then started dumping. Crypto influencers lost their marbles. And the whole meme community tracked it, for a brief moment it overtook [$Pepe](https://www.coingecko.com/en/coins/pepe) and [$Dogecoin](https://www.coingecko.com/en/coins/dogecoin).
+Trump launched his own memecoin. It went from USD 250 million to 24 billion. All this is in 9 hours, and then started dumping. Crypto influencers lost their marbles. And the whole meme community tracked it, for a brief moment it overtook [$Dogecoin](https://www.coingecko.com/en/coins/dogecoin).
 
 It is like the analysts on [Reuters](https://www.reuters.com/markets/) keep warning of volatility which has become systemic.
 

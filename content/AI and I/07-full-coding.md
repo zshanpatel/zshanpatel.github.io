@@ -3,9 +3,9 @@ title: Full Process for Coding with AI Coding Assistants
 tags:
 aliases:
 showDate: false
-draft: true
+draft: false
 ---
-# 🧠 Full AI Coding Assistant Workflow
+# Full AI Coding Assistant Workflow
 
 This guide outlines a repeatable, structured process for working with AI coding assistants to build production-quality software. We'll use the example of building a Supabase MCP server with Python, but the same process applies to any AI coding workflow.
 
