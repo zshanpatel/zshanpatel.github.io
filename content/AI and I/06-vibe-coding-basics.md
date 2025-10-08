@@ -18,19 +18,18 @@ Learn how to build a functional app from idea to [MVP](https://www.productplan.c
 
 Here's the streamlined 7-step process to build your app with AI:
 
-1. **Planning & PRD**: Gemini & Grok (market research, validation)
+1. **Planning & [PRD](https://en.wikipedia.org/wiki/Product_requirements_document)**: Gemini & Grok (market research, validation)
 2. **Documentation**: Claude (`PLANNING.md` & `TASK.md` files)
-3. **Front-End Design**: V0 (visual interface)
-4. **Code Storage**: GitHub (version control)
-5. **Backend Development**: VSCode or Cursor (functionality)
+3. **Front-End Design**: [V0](https://v0.dev) (visual interface)
+4. **Code Storage**: [GitHub](https://github.com) (version control)
+5. **Backend Development**:  [VSCode](https://code.visualstudio.com) or  [Cursor](https://cursor.ai) (functionality)
 6. **Testing**: Local environment setup
 7. **Deployment**: Hosting and launch
 
-**Total Time to MVP:** 2-4 hours | **Required Skills:** None | **Budget:** $0
+**Total Time to MVP:** 2-4 hours | **Required Skills:** None | **Budget:** 0
 
 ---
 ## What You'll Learn
-
 By the end of this , you'll know how to:
 - Validate app ideas using AI-powered market research
 - Create professional product requirement documents (PRDs)
@@ -50,7 +49,6 @@ This guide uses AI tools to handle all technical aspects, without coding experie
 
 ---
 ## Why Use Multiple AI Tools?
-
 Each AI tool excels at different tasks. Mixing and matching free tiers gives you professional results at zero cost:
 
 | Tool                      | Best For                      | Free Tier Limit        | Why Use It                           |
@@ -64,7 +62,6 @@ Each AI tool excels at different tasks. Mixing and matching free tiers gives you
 
 ---
 ## The Complete Process
-
 ### Phase 1: Market Research & Validation
 
 Before writing any code, validate your idea. This eliminates guesswork and increases your chances of building something people actually want.
@@ -165,14 +162,12 @@ If I were to build a standalone app using either workout tracking with AI form c
 - ✅ Choose features that solve a specific pain point
 - ✅ Pick something you can build in one focused session
 - ✅ Avoid features requiring complex databases initially
-- ❌ Don't try to compete with established apps on their core feature
 - ❌ Avoid features requiring hardware integration for MVP
 
 **Time:** 5-10 minutes
 
 ---
 ### Step 4: Create Your Product Requirement Document (PRD)
-
 A [PRD](https://en.wikipedia.org/wiki/Product_requirements_document) is your blueprint. It defines exactly what your app will do, how it will look, and what technology it will use.
 
 **Tool:** Grok (continue in the same conversation)
@@ -295,10 +290,8 @@ This looks too ambitious for a 2-4 hour MVP. Please simplify:
 
 ---
 ### Phase 3: Building Your App
-
 ### Step 6: Generate Your Front-End Interface
-
-Now for the exciting part—watching your app come to life visually.
+Now for the exciting part. Watching your app come to life visually.
 
 **Tool:** [V0](https://v0.dev)
 
@@ -351,7 +344,6 @@ V0 allows you to refine the design. Try prompts like:
 
 ---
 ### Step 7: Save Your Code to GitHub
-
 Store your code professionally using version control.
 
 **Tool:** [GitHub](https://github.com)
@@ -379,7 +371,7 @@ Store your code professionally using version control.
    - Check that README.md exists
 
 **What You'll Have:**
-- Professional code repository
+- Code repository
 - Version history (track all changes)
 - Shareable link to your code
 - Foundation for backend development
@@ -390,7 +382,6 @@ Store your code professionally using version control.
 
 ---
 ### Phase 4: Backend Development
-
 ### Step 8: Build Your Backend Functionality
 
 Transform your visual prototype into a fully functional app. To set up Cursor for maximum potential, read my [full coding](07-full-coding) post.

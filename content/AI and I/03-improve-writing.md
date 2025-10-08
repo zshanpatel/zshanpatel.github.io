@@ -1,12 +1,13 @@
 ---
-title: Improve Writing
+title: How to Write with AI
 tags:
 aliases:
 showDate: false
 draft: false
 ---
-### 📝 How to Write the Right Way with AI
-Before you use this tool, start with a **blank page**. Pour your heart out. Write exactly what you want to say, raw, messy, unfiltered. Be honest, be bold, even brutal if you have to. Don’t worry about grammar, typos, or structure. 
+### 📝  Start with a Blank Page
+
+Before you use this tool, write exactly what you want to say, raw, messy, unfiltered. Be honest, be bold, even brutal if you have to. Don’t worry about grammar, typos, or structure. 
 
 Most importantly. Make sure you don’t ask AI to write it for you. This is crucial.
 

@@ -3,8 +3,10 @@ title: Deep Post Ideas
 tags:
 aliases:
 showDate: false
-draft: true
+draft: false
 ---
+## 🧲 Extract Outlines from Any Writing
+
 Use this prompt to generate the building blocks of high-performing post ideas.
 
 ```

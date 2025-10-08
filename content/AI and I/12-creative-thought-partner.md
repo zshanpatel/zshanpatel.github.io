@@ -3,8 +3,9 @@ title: Creative Thought Partner
 tags:
 aliases:
 showDate: false
-draft: true
+draft: false
 ---
+## 🏖️ Uncover Hidden Insights in Your Ideas
 This one is incredible for creating unique perspectives on ideas. If you have an idea you want to expand into a newsletter, have a 15 minute conversation with this prompt.
 
 ```

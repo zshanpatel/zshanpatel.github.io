@@ -3,9 +3,10 @@ title: Prompt Generator
 tags:
 aliases:
 showDate: false
-draft: true
+draft: false
 ---
-Use this prompt to create incredible prompts
+## 🧱 Build Better AI Instructions
+Use this prompt to create incredible prompts.
 
 ```
 ## Role

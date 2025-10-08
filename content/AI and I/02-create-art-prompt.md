@@ -1,12 +1,12 @@
 ---
-title: Create Art Prompt
+title: The AI Artist's Prompt
 permalink:
 tags:
 aliases:
 showDate: false
 draft: false
 ---
-### 🎨 Create Art with AI
+### 🎨 Create Art with Machines
 With image generation tools like **ChatGPT (GPT-4o)**, **Lovart**, **Gemini Nano Banana**, **HuggingFace**, and countless other image generators you can create eye-catching images in seconds. Just describe your vision, and let the AI do the rest.
 ### Suggestions:
 1. **Start with a clear idea**. The more vivid, the better.

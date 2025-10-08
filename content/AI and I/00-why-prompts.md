@@ -1,12 +1,11 @@
 ---
-title: Why Prompts and Context
+title: Getting Started with Predictive Tech /AI
 tags:
 aliases:
 showDate: false
 draft: false
 ---
-### 🪴 Why Prompts and Context
-
+### 🪴 Why Understanding Matters More Than Asking
 In the grand scheme of the new world of [chatGPT](https://chatgpt.com/) and [Claude](https://claude.ai/):
 
 **Prompts** are your steering wheel. A clear, specific prompt with details about format, tone, audience, and purpose gets exactly what you need.

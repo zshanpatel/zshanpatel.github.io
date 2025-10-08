@@ -1,5 +1,5 @@
 ---
-title: Family Problem-solving
+title: The Family Discussion Organiser
 tags:
   - mother-son
   - brother-sister
@@ -17,13 +17,13 @@ aliases:
 showDate: false
 draft: false
 ---
-### 🏡 Instructions
+### 🏡 A Structured Prompt for Navigating Family
 Copy this entire prompt and paste it into your conversation with an AI assistant. Then add your thoughts, concerns, and ideas after the prompt. The AI will help organise your input into a clear, constructive format.
 
 ```
 Please help me organize my thoughts about family issues and challenges in a constructive way. I’ll share my concerns, observations, and ideas below, and I need you to structure them clearly for productive family discussion.
 
-Please organize my input into the following format:
+## Please organize my input into the following format:
 
 1. Identified Problems
 
@@ -62,14 +62,14 @@ Please organize my input into the following format:
 - What shared family values or goals can guide our decisions?
 - Where can we compromise without compromising our core principles?
 
-1. Personal Commitments
+7. Personal Commitments
 
 - What I’m willing to do or change
 - How I can contribute to solutions
 - What support I need from others
 - How I can better understand and respect my brothers’ perspectives
 
-Please make sure the output is:
+## Please make sure the output is:
 
 - Respectful and constructive in tone
 - Focused on solutions rather than blame
@@ -79,8 +79,7 @@ Please make sure the output is:
 - Separates “what we want to achieve” from “how we want to achieve it”
 - Ready to share with family members for productive discussion
 
------
+## My Thoughts and Input:
 
-My Thoughts and Input:
 [This is where you’ll add your raw thoughts, concerns, rants, or ideas about the family situation]
  ```

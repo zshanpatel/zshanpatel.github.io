@@ -1,13 +1,11 @@
 ---
-title: Content Method on Steroids
+title: Create Content System + Prompts
 tags:
 aliases:
 showDate: false
-draft: true
+draft: false
 ---
-# Content Method + Prompts
-
-## The 3-layer prompt system 
+## 🧢 The 3-layer prompt system 
 This is an engineered a system that multiplies one piece of writing across all of them - using AI prompts that deconstruct what works, swipe files that validate ideas before publishing, and a 3-layer methodology that turns research into building blocks instead of finished drafts.
 
 This guide breaks down his workflow: how to build your swipe file, engineer custom prompts, and turn one newsletter into YouTube videos, daily tweets, LinkedIn posts, and Instagram Reels without sacrificing your voice.

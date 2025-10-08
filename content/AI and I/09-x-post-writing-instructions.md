@@ -1,11 +1,11 @@
 ---
-title: The X Post Writing Instructions for Greatness
+title: Structure X Posts with Intention
 tags:
 aliases:
 showDate: false
-draft: true
+draft: false
 ---
-## X Post Writing 
+## 🧵 X Post Writing: For Clearer Thinking
 
 This is the final output for the tweet writing prompt
 
