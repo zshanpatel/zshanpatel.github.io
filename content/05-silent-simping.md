@@ -36,7 +36,7 @@ But the kick is, this isn't about gender equality. It's about money.
 
 When both men and women are chasing careers, chasing wealth, chasing material validation, they're not chasing transcendental greatness. They're not focused on building spiritual. They're not raising children who could be the next Umar ibn al-Khattab or Khalid ibn al-Waleed (RA). They're just consuming.
 
-And here's where the satanic elites win. When both parents are working, you've got double the taxation, double the consumption, double the debt. The family unit, which used to be a source of resistance and resilience, becomes just another node in the economic machine. Dad's at the office. Mum's at the office. Exhausted. The kids? They're being raised by screens, influencers, and a secular education system that has zero interest in their spiritual wellbeing.
+And here's where the elite few win. When both parents are working, you've got double the taxation, double the consumption, double the debt. The family unit, which used to be a source of resistance and resilience, becomes just another node in the economic machine. Dad's at the office. Mum's at the office. Exhausted. The kids? They're being raised by screens, influencers, and a secular education system that has zero interest in their spiritual wellbeing.
 
 This is the neoliberal secular order in full effect. Everyone is singularly focused on wealth and financial gain. Spiritual and systemic endeavours are completely overshadowed. This pursuit doesn't stop at financial maintenance. It escalates into an insatiable material appetite, and then into financial enslavement through credit systems, debt, and interest.
 

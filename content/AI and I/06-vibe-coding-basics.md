@@ -9,7 +9,6 @@ showDate: false
 draft: false
 ---
 ## A No-Code Guide (2025)
-
 Learn how to build a functional app from idea to [MVP](https://www.productplan.com/glossary/minimum-viable-product/) using free AI tools. No programming experience required.
 
 **Difficulty:** Beginner | **Cost:** Free

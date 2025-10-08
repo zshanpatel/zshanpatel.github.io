@@ -57,12 +57,12 @@ Your grind? That isolation in fancy rooms, the endless adapt? I mapped it. Broke
 #### My Labs: Test-Drive These Now
 Talk is cheap. These are my live experiments. Qur'anic fire + tech grit. Pick one, tweak for your game.
 
-| Lab                | Quick Hit                                                                  | Jump In             |
-| ------------------ | -------------------------------------------------------------------------- | ------------------- |
-| **99 Order**       | Divine names as power rituals. Print + practice for ordered manifestation. | Grab eBook (Free) → |
-| **Strive**         | Your own AI setup, no spies watching. Pure control for business wins.      | Quick Call (£997) → |
-| **bzkt**           | Encrypted wealth collectives: 7-generation beyond fiat fragility.          | Lock In Spot →      |
-| **The Alt Way In** | Real cultural gear, no fake hype. Stuff that grounds you. | <a href="https://AltWay.In" target="_blank">Grab Yours</a> →   |
+| Lab                | Quick Hit                                                                  | Jump In                                                      |
+| ------------------ | -------------------------------------------------------------------------- | ------------------------------------------------------------ |
+| **99 Order**       | Divine names as power rituals. Print + practice for ordered manifestation. | Grab eBook (Free) →                                          |
+| **Strive**         | Your own AI setup, no spies watching. Pure control for business wins.      | Quick Call (£997) →                                          |
+| **bzkt**           | Encrypted wealth collectives: 7-generation beyond fiat fragility.          | Lock In Spot →                                               |
+| **The Alt Way In** | Real cultural gear, no fake hype. Stuff that grounds you.                  | <a href="https://AltWay.In" target="_blank">Grab Yours</a> → |
 
 These aren't hobbies. They're your starters. Mix with your trades or investments for unbreakable setups.
 #### My Obsessions: Stuff That’ll Wake You Up

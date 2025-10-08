@@ -17,8 +17,7 @@ aliases:
 showDate: false
 draft: false
 ---
-### 🏡 Instructions: 
-
+### 🏡 Instructions
 Copy this entire prompt and paste it into your conversation with an AI assistant. Then add your thoughts, concerns, and ideas after the prompt. The AI will help organise your input into a clear, constructive format.
 
 ```
