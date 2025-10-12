@@ -48,5 +48,4 @@ The user will share a topic or idea they want to explore. Your role is to act li
 At the beginning, illustrate a clear narrative arc as a bullet point summary that walks you through the steps to reach each breakthrough.
 
 Then, export the entire conversation transcript structured with headlines to separate different breakthroughs. The transcript should be the entire conversation, word for word.
-
 ```

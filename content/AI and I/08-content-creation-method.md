@@ -17,10 +17,8 @@ Save 50+ high-performing posts to study structure and ideas.
 
 **How:**
 
-1. Install Tweet Hunter X (browser extensions)
-2. Find 5-10 accounts in your niche
-3. Go to their profiles → click "Top" → save their best posts
-4. Save posts across different structures:
+1. Find 5-10 content pieces (posts/articles/books/videos) in your niche
+2. Save the best pieces across different structures:
    - Single sentences
    - Lists
    - Transformation arcs
@@ -28,22 +26,18 @@ Save 50+ high-performing posts to study structure and ideas.
    - Counterintuitive statements
 
 **Two practice drills:**
-
 1. **Structural exchange:** Take a post structure, swap the topic.
 
 > “Do X more. Do X for no reason. Do X to solve problems.” 
   
 Replace X with walks, reading, or coding. Same structure, new post.
-
 2. **Idea exchange:** Take one idea, swap the structure.  
    “Go on more walks” as a list → Rewrite as a single sentence.
 
 ---
 ## Step 2: The 3-Layer Prompt System
-
 Reference the prompts as you work through the steps below.
 ### Layer 1: Breakdown
-
 Find 3 posts you want to replicate. Run each through this prompt:
 
 ```
@@ -53,7 +47,6 @@ Break down the structure of this post so that I can recreate it from scratch. Br
 ```
 
 Example:
-
 ```
 Break down the structure of this post so that I can recreate it from scratch. Break down why it works, the psychological patterns involved, what context is needed from me, and anything else I would need to understand how to recreate it:
   
@@ -65,20 +58,16 @@ Then, the growth hits you all at once.
 
 When you create your own path, results aren't predictable, and that keeps many people from sticking with it.
 ```
-
 ### Layer 2: Synthesis
-
 ```
 Combine all of these breakdowns into a single comprehensive guide.
 ```
 ### Layer 3: Meta-Prompt
-
 Give it to the “[Prompt Generator](13-prompt-generator)” meta-prompt. 
 - Your guide from Layer 2
 - Instructions for what you want (e.g., “Create a tweet writing prompt that interviews me, then generates 9 variations”)
 
 Example instructions:
-
 ```
 I want to create a prompt that helps me ideate social media posts based on the guide for writing posts below.
 
@@ -95,13 +84,11 @@ Here's the additional context:
 It returns a custom prompt that asks you questions, then writes content in your voice.
 
 Example workflow:
-
 - Breakdown 3 tweets → Synthesise → Feed into Prompt Generator → Get custom Tweet Writing Prompt
 - Use this same process to create YouTube Title Generator, Deep Post Ideas prompt, and Content Ideas Generator.
 
 ---
 ## Step 3: Newsletter-First Workflow
-
 **Process:**
 1. **Pick a validated topic:** Top-performing tweet OR high-view YouTube video in your niche  
 2. **Find 3–6 hours of YouTube content on the topic**  
@@ -120,7 +107,6 @@ What are the similarities between [summary] and [past newsletter]? What am I mis
 
 ---
 ## Step 4: Turn Newsletter Into Everything Else
-
 Paste newsletter with [**Deep Post Ideas](10-deep-post-ideas) prompt**. 
 
 The prompt outputs:
@@ -132,7 +118,7 @@ The prompt outputs:
 - Reader objections
 - Action steps
 
-Don’t copy-paste outputs as tweets. Read through until one idea sparks. Write the post yourself.
+Don’t copy-paste outputs as posts. Read through until one idea sparks. Write the post yourself.
 
 Other prompt examples:
 - [**YouTube Title Generator](11-youtube-title):** 20–30 title variations using psychological triggers.
@@ -182,6 +168,6 @@ The more you give the AI (swipe files, breakdowns, examples), the closer it gets
 
 Use engineered and engineer prompts that deconstruct what works, synthesise patterns, and spit out building blocks you write from.
 
-You’re not outsourcing writing — you’re using AI to compress the research loop.
+You’re not outsourcing writing, you’re using AI to compress the research loop.
 
 The algorithms are based on human psychology. And if you understand human psychology and can use AI to help you understand that more, your content will see a notable increase in engagement.

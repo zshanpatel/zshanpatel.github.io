@@ -3,10 +3,10 @@ title: Structure X Posts with Intention
 tags:
 aliases:
 showDate: false
-draft: false
+draft: true
 ---
 ## 🧵 X Post Writing: For Clearer Thinking
-This is the final output for the tweet writing prompt
+This is the final output for the post writing prompt
 
 ```
 ## Role
