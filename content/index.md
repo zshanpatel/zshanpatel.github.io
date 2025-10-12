@@ -21,7 +21,6 @@ tags:
   - family-offices
   - leadership
   - ucl-research
-  - labs
   - 99-order
   - strive
   - alt-way-in

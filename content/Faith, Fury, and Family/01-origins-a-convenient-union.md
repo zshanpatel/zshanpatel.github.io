@@ -21,7 +21,7 @@ aliases:
 showDate: false
 draft: false
 ---
-![[content/Faith, Fury, and Family/images/inception-image.jpg]]
+![[inception-image.jpg]]
 # A Convenient Union
 ### In the beginning
 

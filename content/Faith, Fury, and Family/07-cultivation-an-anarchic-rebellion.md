@@ -21,7 +21,7 @@ aliases:
 showDate: false
 draft: false
 ---
-![[content/Faith, Fury, and Family/images/cultivation-image.png]]
+![[cultivation-image.png]]
 # An Anarchic Rebellion
 When I was in 12th grade I used to say "Saudi sucks dude."
 

@@ -29,7 +29,7 @@ aliases:
 showDate: false
 draft: false
 ---
-![[trading.png]]
+![[content/images/trading.png]]
 
 > **Note:** This is my personal account and **not** financial advice. Do your own research.
 
@@ -59,7 +59,7 @@ A few practical lessons from my recent failures:
  
 - **Small gains get eaten by fees.** If your trade needs a 20–120% move to break even because of platform + gas fees, you’re not trading — you’re gambling. 
 
-![[sol-trade.png]]
+![[content/images/sol-trade.png]]
 
 - **Scalping beats chasing 100x dreams.** I moved away from hunting 100x pumps to scalping reasonable gains on less-obvious but not total-scam coins. Take profits, leave a tiny bag for potential upside. 
 

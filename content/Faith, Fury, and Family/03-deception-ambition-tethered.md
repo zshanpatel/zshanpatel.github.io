@@ -26,7 +26,7 @@ aliases:
 showDate: false
 draft: false
 ---
-![[content/Faith, Fury, and Family/images/deception-image.png]]
+![[deception-image.png]]
 # Ambition Tethered
 ### 1980
 

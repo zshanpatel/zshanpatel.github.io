@@ -5,13 +5,14 @@ aliases:
 showDate: false
 draft: false
 ---
+## Quick Overview (TLDR)
 This guide outlines a repeatable, structured process for working with AI coding assistants to build production-quality software. We'll use the example of building a Supabase MCP server with Python, but the same process applies to any AI coding workflow.
 
 ---
 ## 1.  🔑 Golden Rules
 
 These are the high-level principles that guide how to work with AI tools efficiently and effectively. We’ll be implementing these through global rules and our prompting throughout the process:
-* **Use markdown files to manage the project** (`README.md,PLANNING.md`, `TASK.md`).
+* **Use markdown files to manage the project** (`README.md`, `PLANNING.md`, `TASK.md`).
 * **Keep files under 500 lines.** Split into modules when needed.
 * **Start fresh conversations often.** Long threads degrade response quality.
 * **Don’t overload the model.** One task per message is ideal.
@@ -26,15 +27,13 @@ These are the high-level principles that guide how to work with AI tools efficie
 
 Before writing any code, it’s important to have a conversation with the LLM to plan the initial scope and tasks for the project. Scope goes into `PLANNING.md`, and specific tasks go into `TASK.md`. These should be updated by the AI coding assistant as the project progresses.
 ### `PLANNING.md`
-
 * Purpose: High-level vision, architecture, constraints, tech stack, tools, etc.  
 * Prompt to AI: *“Use the structure and decisions outlined in PLANNING.md.”*  
 * Have the LLM reference this file at the beginning of any new conversation.
 ### `TASK.md`
-
 * Purpose: Tracks current tasks, backlog, and sub-tasks.  
 * Includes: Bullet list of active work, milestones, and anything discovered mid-process.  
-* Prompt to AI: *“Update TASK.md to mark XYZ as done and add ABC as a new task.”*  
+* Prompt to AI: *“Update `TASK.md` to mark XYZ as done and add ABC as a new task.”*  
 * Can prompt the LLM to automatically update and create tasks as well (through global rules).
 
 ---
@@ -46,7 +45,7 @@ Global rules apply to all projects. Project rules apply to your current workspac
 - Cursor Rules: [https://docs.cursor.com/context/rules-for-ai](https://docs.cursor.com/context/rules-for-ai)
 - Windsurf Rules: [https://docs.codeium.com/windsurf/memories\#windsurfrules](https://docs.codeium.com/windsurf/memories#windsurfrules)
 - Cline Rules: [https://docs.cline.bot/improving-your-prompting-skills/prompting](https://docs.cline.bot/improving-your-prompting-skills/prompting)
-- Roo Code Rules: Works the same way as Cline
+- Gemini CLI: [https://codelabs.developers.google.com/gemini-cli-hands-on#9](https://codelabs.developers.google.com/gemini-cli-hands-on#9)
 
 Use the below example (for our Supabase MCP server) as a starting point to add global rules to your AI IDE system prompt to enforce consistency:
 

@@ -10,7 +10,7 @@ aliases:
 showDate: false
 draft: false
 ---
-![[extreme-image.png]]
+![[content/images/extreme-image.png]]
 We need to stop casually throwing around the word "extremist" to describe practicing Muslims. 
 
 **This is linguistic warfare.** And you're losing without even realising you're in a battle.

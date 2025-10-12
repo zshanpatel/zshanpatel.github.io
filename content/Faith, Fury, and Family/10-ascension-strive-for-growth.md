@@ -12,7 +12,7 @@ aliases:
 showDate: false
 draft: false
 ---
-![[content/Faith, Fury, and Family/images/ascension-image.jpg]]
+![[ascension-image.jpg]]
 # Striving for Growth
 Let me tell you how this ends. I have seen the journey ahead.
 

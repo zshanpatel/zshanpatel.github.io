@@ -8,7 +8,7 @@ aliases:
 showDate: false
 draft: false
 ---
-![[personal-dev.png]]
+![[content/images/personal-dev.png]]
 Personal development is finishing you.
 
 Hear me out.

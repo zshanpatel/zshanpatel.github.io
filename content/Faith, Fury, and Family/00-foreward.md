@@ -23,7 +23,7 @@ aliases:
 showDate: false
 draft: false
 ---
-![[content/Faith, Fury, and Family/images/foreward-image.png]]
+![[foreward-image.png]]
 
 >The greatest of God’s saints remain hidden.
 \- Shams of Tabriz

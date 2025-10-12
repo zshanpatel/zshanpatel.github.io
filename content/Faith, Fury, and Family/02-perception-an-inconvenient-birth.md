@@ -18,7 +18,7 @@ aliases:
 showDate: false
 draft: false
 ---
-![[content/Faith, Fury, and Family/images/perception-image.jpg]]
+![[perception-image.jpg]]
 # An Inconvenient Birth
 ### June 1, 1956
 

@@ -11,7 +11,7 @@ aliases:
 showDate: false
 draft: false
 ---
-![[coder-image.png]]
+![[content/images/coder-image.png]]
 ## The Death of Coding and Rise of Ideas
 
 They told you to learn to code.

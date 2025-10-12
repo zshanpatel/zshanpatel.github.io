@@ -6,7 +6,6 @@ showDate: false
 draft: false
 ---
 ## 🧵 X Post Writing: For Clearer Thinking
-
 This is the final output for the tweet writing prompt
 
 ```

@@ -22,7 +22,7 @@ aliases:
 showDate: false
 draft: false
 ---
-![[content/Faith, Fury, and Family/images/creation-image.jpg]]
+![[creation-image.jpg]]
 # The Arrival
 ### 1984
 

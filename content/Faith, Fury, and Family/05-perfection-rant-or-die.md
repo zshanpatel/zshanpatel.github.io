@@ -21,7 +21,7 @@ aliases:
 showDate: false
 draft: true
 ---
-![[content/Faith, Fury, and Family/images/perfection-image.png]]
+![[perfection-image.png]]
 # Rant or Die
 
 ### Through my lens: the perfect man in an imperfect world

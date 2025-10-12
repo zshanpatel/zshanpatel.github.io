@@ -22,7 +22,7 @@ aliases:
 showDate: false
 draft: false
 ---
-![[content/Faith, Fury, and Family/images/activation-image.png]]
+![[activation-image.png]]
 # Gang Gang for Life
 ### 2000s
 

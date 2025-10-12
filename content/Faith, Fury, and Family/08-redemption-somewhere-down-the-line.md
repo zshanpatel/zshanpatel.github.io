@@ -19,7 +19,7 @@ aliases:
 showDate: false
 draft: false
 ---
-![[content/Faith, Fury, and Family/images/redemption-image.png]]
+![[redemption-image.png]]
 # Somewhere Down the Line
 Somewhere down the line, I misunderstood the purpose of life.
 
