@@ -1,6 +1,6 @@
 ---
 title: Deception
-permalink: /faith-fury-and-family/03-deception-an-ambition-tethered
+permalink: /faith-fire-and-family/03-deception
 tags:
   - corruption
   - civil-engineering
@@ -26,7 +26,7 @@ aliases:
 showDate: false
 draft: false
 ---
-![[deception-image.png]]
+![[content/Faith, Fire, and Family/images/deception-image.png]]
 # Ambition Tethered
 ### 1980
 

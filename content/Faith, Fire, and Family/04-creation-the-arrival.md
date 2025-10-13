@@ -1,6 +1,6 @@
 ---
 title: Creation
-permalink: /faith-fury-and-family/04-creation-the-arrival
+permalink: /faith-fire-and-family/04-creation
 tags:
   - integrity
   - ambition
@@ -22,7 +22,7 @@ aliases:
 showDate: false
 draft: false
 ---
-![[creation-image.jpg]]
+![[content/Faith, Fire, and Family/images/creation-image.jpg]]
 # The Arrival
 ### 1984
 

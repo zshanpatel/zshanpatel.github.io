@@ -1,6 +1,6 @@
 ---
 title: Redemption
-permalink: /faith-fury-and-family/08-redemption-somewhere-down-the-line
+permalink: /faith-fire-and-family/08-redemption
 tags:
   - limbo
   - belonging-nowhere
@@ -11,7 +11,6 @@ tags:
   - human-connection
   - isolation
   - self-destruction
-  - pushing-away
   - control
   - feminism
   - love
@@ -19,7 +18,7 @@ aliases:
 showDate: false
 draft: false
 ---
-![[redemption-image.png]]
+![[content/Faith, Fire, and Family/images/redemption-image.png]]
 # Somewhere Down the Line
 Somewhere down the line, I misunderstood the purpose of life.
 

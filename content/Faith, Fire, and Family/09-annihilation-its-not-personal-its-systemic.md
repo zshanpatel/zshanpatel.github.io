@@ -1,19 +1,17 @@
 ---
 title: Annihilation
-permalink: /faith-fury-and-family/09-annihilation-its-not-personal-its-systemic
+permalink: /faith-fire-and-family/09-annihilation
 tags:
   - inner-thinking
   - ethical-values
-  - emotional-walls
   - pride
   - pretending
-  - humble-strong-hard
   - eyes-tell-stories
 aliases:
 showDate: false
 draft: false
 ---
-![[annihilation-image.jpg]]
+![[content/Faith, Fire, and Family/images/annihilation-image.jpg]]
 # It's Not Personal. It's Systemic
 The annihilation isn't personal. It is systemic.
 

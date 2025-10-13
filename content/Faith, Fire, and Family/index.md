@@ -1,6 +1,6 @@
 ---
-title: Faith, Fury, and Family
-permalink: /faith-fury-and-family
+title: Faith, Fire, and Family
+permalink: /faith-fire-and-family/
 tags:
   - generational-story
   - indian-history

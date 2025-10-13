@@ -1,6 +1,6 @@
 ---
 title: Foreward
-permalink: /faith-fury-and-family/foreward
+permalink: /faith-fire-and-family/foreward
 tags:
   - acknowledgments
   - father-son
@@ -23,7 +23,7 @@ aliases:
 showDate: false
 draft: false
 ---
-![[foreward-image.png]]
+![[content/Faith, Fire, and Family/images/foreward-image.png]]
 
 >The greatest of God’s saints remain hidden.
 \- Shams of Tabriz

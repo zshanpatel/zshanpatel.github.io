@@ -1,9 +1,7 @@
 ---
 title: Activation
-permalink: /faith-fury-and-family/06-activation-gang-gang
+permalink: /faith-fire-and-family/06-activation
 tags:
-  - contemplation
-  - zeeshan-patel
   - collective-consciousness
   - collapse
   - childhood
@@ -22,7 +20,7 @@ aliases:
 showDate: false
 draft: false
 ---
-![[activation-image.png]]
+![[content/Faith, Fire, and Family/images/activation-image.png]]
 # Gang Gang for Life
 ### 2000s
 

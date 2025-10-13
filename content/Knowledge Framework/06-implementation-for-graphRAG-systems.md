@@ -1,5 +1,5 @@
 ---
-title: Implementation for RAG Systems
+title: Implementation for AI Systems
 tags:
   - RAG
   - graphRAG
@@ -9,10 +9,10 @@ showDate: false
 draft: false
 ---
 ### Architectural Principles
-The implementation of this framework in GraphRAG systems requires moving beyond superficial keyword matching toward deep ontological relationships that preserve the hierarchical structure of knowledge while enabling sophisticated reasoning about ultimate grounding and meaning.
+The implementation of this framework in AI, requires complex [[02-what-is-artificial-intelligence.md#3. RAG (Retrieval-Augmented Generation)|RAG]] system. GraphRAG systems requires moving beyond superficial keyword matching toward deep ontological relationships that preserve the hierarchical structure of knowledge while enabling sophisticated reasoning about ultimate grounding and meaning.
 ### Core Node Architecture
-javascript
-```
+
+```javascript
 Divine_Attribute_Node {
   name: "Al-Khaliq" // The Creator
   arabic_root: "خ-ل-ق"
@@ -30,7 +30,7 @@ Divine_Attribute_Node {
 }
 ```
 
-```
+```javascript
 Knowledge_Node {
   concept: "Photosynthesis"
   discipline: "Biology"

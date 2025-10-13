@@ -1,6 +1,6 @@
 ---
 title: Origins
-permalink: /faith-fury-and-family/01-origins-a-convenient-union
+permalink: /faith-fire-and-family/01-origins
 tags:
   - independence
   - year-1945
@@ -21,7 +21,7 @@ aliases:
 showDate: false
 draft: false
 ---
-![[inception-image.jpg]]
+![[content/Faith, Fire, and Family/images/inception-image.jpg]]
 # A Convenient Union
 ### In the beginning
 
@@ -40,24 +40,23 @@ They thought 1947 would bring salvation. They were wrong. What came instead was 
 Freedom was not earned in any real sense. Despite what the common people believed. The colonisers had depleted all the resources from the countries they governed. 
 
 Like the parasitic nature of the the coloniser, even after scavenging so many nations, they had now reached the end of profitable administration. It was time to go. To let the Indians inherit the ruins of what once was, bask in a land once run by monarchs, slaves had been left for the corrupt to devour. A land that had been bled dry and left for the corrupt to finish off.
-
 ### Solapur, May 18, 1947
 Far away from the independence struggle, in a town called Solapur, the air is fills with folk songs. It is a holy union. A forty-year-old man being remarried to a fourteen-year-old girl. She is too young, quick like a fox, cunning and sharp in ways he is not. And his days have driven him into a slow, miserable silence. A continuous suffering. 
 
-This is the age of the silent hero,. Men like Daud Saheb Sikander Patel.
+This is the age of the silent hero,. Men like my grandfather, Daud Saheb Sikander Patel.
 
-Daud Saheb had migrated to Solapur, shooed away, evading his brothers who had driven him away from their inherited lands. Brothers fighting brothers was not uncommon in the family. What started as a lineage of landlords was ending in ruins, each generation tearing at what the previous one had built.
+Grandfather had migrated to Solapur, shooed away, evading his brothers who had driven him away from their inherited lands. Brothers fighting brothers was not uncommon in the family. What started as a lineage of landlords was ending in ruins, each generation tearing at what the previous one had built.
 
-Daud Saheb and his wife came together out of necessity. There was no emotional love between them, but a marriage of societal obligation. An alliance held firm by society’s etiquettes: of ‘what the world would say if we did not continue’? 
+My grandfather and his wife came together out of necessity. There was no emotional love between them, but a marriage of societal obligation. An alliance held firm by society’s etiquettes: of ‘what the world would say if we did not continue’? 
 
-Over the years, Daud Saheb grew resentful, the love for his first wife never fully left him - I presume. But then came the birth of his first child: Maqbool, and something shifted.
+Over the years, my grandfather grew resentful, the love for his first wife never fully left him - I presume. But then came the birth of his first child: and something shifted.
 
-They had six children: three boys and three girls. The women took pride in their toughness. Stories of women delivering babies in sugarcane fields and returning to work the next day as if nothing had happened, were common. Maqbool's mother was one of them. The years had made her tough. She was not one to back down easily, steadfast and ready for a fight. Shrewd, who would let the world walk over her. 
+They had six children: three boys and three girls. The women took pride in their toughness. Stories of women delivering babies in sugarcane fields and returning to work the next day as if nothing had happened, were common. My grandmother was one of them. The years had made her tough. She was not one to back down easily, steadfast and ready for a fight. Shrewd, who would let the world walk over her. 
 
-Maqbool's mother spent her days working hard. She would not let any opportunity slip through. She didn’t wait for her husband to come around, while he went off to the mills to earn the day’s wages, she would take care of the children and found ways to get ahead. Knit, barter, negotiate, fight, she was ready for whatever came. Never backing down. Never waiting for her husband’s approval.
+My grandmother spent her days working hard. She would not let any opportunity slip through. She didn’t wait for her husband to come around, while he went off to the mills to earn the day’s wages, she would take care of the children and found ways to get ahead. Knit, barter, negotiate, fight, she was ready for whatever came. Never backing down. Never waiting for her husband’s approval.
 
 They grew distant over the years. Their wavelengths decades apart. A mystic and a capitalist. They could not come to common terms, but they did what they had to. Together for a purpose, despite the hardship, despite the distance, despite the disagreements.
 
 This was the world my father was born into.
 
-Eventually, they lived in separate houses, each consumed by separate interests. Daud Saheb retired to his chair, staring into the abyss, lost in whatever mystical thoughts occupied him. Maqbool's mother hustled until she could hustle no more, working until her deathbed as if rest was a luxury she could not afford.
+Eventually, they lived in separate houses, each consumed by separate interests. Grandfather retired to his chair, staring into the abyss, lost in whatever mystical thoughts occupied him. Grandmother hustled until she could hustle no more, working until her deathbed as if rest was a luxury she could not afford.

@@ -1,6 +1,6 @@
 ---
 title: Cultivation
-permalink: /faith-fury-and-family/07-cultivation-an-anarchic-rebellion
+permalink: /faith-fire-and-family/07-cultivation
 tags:
   - contemplation
   - zeeshan-patel
@@ -21,7 +21,7 @@ aliases:
 showDate: false
 draft: false
 ---
-![[cultivation-image.png]]
+![[content/Faith, Fire, and Family/images/cultivation-image.png]]
 # An Anarchic Rebellion
 When I was in 12th grade I used to say "Saudi sucks dude."
 

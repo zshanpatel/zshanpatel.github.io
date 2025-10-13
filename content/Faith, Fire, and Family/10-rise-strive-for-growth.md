@@ -1,18 +1,17 @@
 ---
-title: Ascension
-permalink: /faith-fury-and-family/10-ascension-strive-for-growth
+title: Rise
+permalink: /faith-fire-and-family/10-rise
 tags:
   - inner-thinking
   - prosperity
   - quranic-prosperity
-  - universal-prosperity
   - strive
   - alternative-thinking
 aliases:
 showDate: false
 draft: false
 ---
-![[ascension-image.jpg]]
+![[content/Faith, Fire, and Family/images/ascension-image.jpg]]
 # Striving for Growth
 Let me tell you how this ends. I have seen the journey ahead.
 

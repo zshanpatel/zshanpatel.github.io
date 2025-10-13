@@ -1,6 +1,6 @@
 ---
 title: Perfection
-permalink: /faith-fury-and-family/05-perfection-rant-or-die
+permalink: /faith-fire-and-family/05-perfection
 tags:
   - leadership
   - grief
@@ -19,9 +19,9 @@ tags:
   - prevail
 aliases:
 showDate: false
-draft: true
+draft: false
 ---
-![[perfection-image.png]]
+![[content/Faith, Fire, and Family/images/perfection-image.png]]
 # Rant or Die
 
 ### Through my lens: the perfect man in an imperfect world

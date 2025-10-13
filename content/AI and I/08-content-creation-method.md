@@ -27,7 +27,6 @@ Save 50+ high-performing posts to study structure and ideas.
 
 **Two practice drills:**
 1. **Structural exchange:** Take a post structure, swap the topic.
-
 > “Do X more. Do X for no reason. Do X to solve problems.” 
   
 Replace X with walks, reading, or coding. Same structure, new post.
@@ -104,7 +103,6 @@ What are the similarities between [summary] and [past newsletter]? What am I mis
 4. **Write the newsletter yourself** (use summaries as reference)
 5. **Record YouTube video:** Newsletter = script. Read it on camera.
 6. **Daily routine:** 2 hours. Write one newsletter section + 3 social posts. Schedule.
-
 ---
 ## Step 4: Turn Newsletter Into Everything Else
 Paste newsletter with [**Deep Post Ideas](10-deep-post-ideas) prompt**. 
