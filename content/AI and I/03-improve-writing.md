@@ -6,10 +6,9 @@ showDate: false
 draft: false
 ---
 ### 📝  Start with a Blank Page
-
 Before you use this tool, write exactly what you want to say, raw, messy, unfiltered. Be honest, be bold, even brutal if you have to. Don’t worry about grammar, typos, or structure. 
 
-Most importantly. Make sure you don’t ask AI to write it for you. This is crucial.
+Most importantly. Make sure you don’t ask AI to write the first draft for you. This is crucial.
 
 Why? Because **your originality lives in that first draft**. That’s where your voice, your truth, and your creativity come alive.
 

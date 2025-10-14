@@ -5,8 +5,7 @@ aliases:
 showDate: false
 draft: false
 ---
-# When God Becomes Your Financial Advisor
-
+# When God Becomes Your Auditor
 *What would your financial decisions look like if you truly believed that every economic choice had eternal consequences?*
 ## The Divine Economic Principle
 Imagine an economic system where:

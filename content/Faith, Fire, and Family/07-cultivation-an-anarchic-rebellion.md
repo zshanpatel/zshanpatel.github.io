@@ -2,26 +2,15 @@
 title: Cultivation
 permalink: /faith-fire-and-family/07-cultivation
 tags:
-  - contemplation
-  - zeeshan-patel
   - escapism
-  - location-crisis
-  - saudi-vs-india
-  - arab-born-confused-desis
   - borders
-  - ambition
   - burnout
-  - recalibration
   - laptop-and-wifi
-  - present-moment
-  - dignity
-  - old-men
-  - delusion
 aliases:
 showDate: false
 draft: false
 ---
-![[content/Faith, Fire, and Family/images/cultivation-image.png]]
+![[cultivation-image.png]]
 # An Anarchic Rebellion
 When I was in 12th grade I used to say "Saudi sucks dude."
 

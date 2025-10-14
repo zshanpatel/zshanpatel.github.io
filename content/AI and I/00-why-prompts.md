@@ -5,8 +5,8 @@ aliases:
 showDate: false
 draft: false
 ---
-### 🪴 Why Understanding Matters More Than Asking
-In the grand scheme of the new world of [chatGPT](https://chatgpt.com/) and [Claude](https://claude.ai/):
+### 🪴 Why Understanding Matters, More Than Asking
+In the grand scheme of the new AI world of [chatGPT](https://chatgpt.com/) and [Claude](https://claude.ai/):
 
 **Prompts** are your steering wheel. A clear, specific prompt with details about format, tone, audience, and purpose gets exactly what you need.
 
@@ -20,6 +20,6 @@ Think of it this way:
 
 Both are essential for quality output. Fine-tuned prompts allow snipping the perfect user message each time.
 
-I have curated a set of prompts that get you off the ground fast and soaring to the first floor.
+I have curated a set of prompts that will set you off the ground fast and soaring to the first floor.
 
 Just copy and paste (`Cmd + V`) and plug in your thoughts in the input.

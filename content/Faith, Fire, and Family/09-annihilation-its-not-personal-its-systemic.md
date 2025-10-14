@@ -5,13 +5,11 @@ tags:
   - inner-thinking
   - ethical-values
   - pride
-  - pretending
-  - eyes-tell-stories
 aliases:
 showDate: false
 draft: false
 ---
-![[content/Faith, Fire, and Family/images/annihilation-image.jpg]]
+![[annihilation-image.jpg]]
 # It's Not Personal. It's Systemic
 The annihilation isn't personal. It is systemic.
 

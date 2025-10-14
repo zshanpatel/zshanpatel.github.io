@@ -3,30 +3,14 @@ title: Deception
 permalink: /faith-fire-and-family/03-deception
 tags:
   - corruption
-  - civil-engineering
-  - integrity
-  - choice
-  - bribery
-  - moral-conflict
-  - India
-  - compromise
-  - breaking-point
-  - ambition
-  - defining-moment
   - year-1980
-  - migration
-  - new-beginning
   - purpose
-  - hope
   - full-circle
-  - diaspora
-  - searching
-  - found
 aliases:
 showDate: false
 draft: false
 ---
-![[content/Faith, Fire, and Family/images/deception-image.png]]
+![[deception-image.png]]
 # Ambition Tethered
 ### 1980
 

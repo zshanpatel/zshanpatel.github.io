@@ -3,26 +3,14 @@ title: Creation
 permalink: /faith-fire-and-family/04-creation
 tags:
   - integrity
-  - ambition
-  - defining-moment
-  - year-1984
-  - Saudi-Arabia
-  - migration
-  - new-beginning
-  - fatherhood
-  - birth
-  - hope
   - full-circle
-  - diaspora
-  - searching
   - found
-  - immigrant-experience
   - materialism-critique
 aliases:
 showDate: false
 draft: false
 ---
-![[content/Faith, Fire, and Family/images/creation-image.jpg]]
+![[creation-image.jpg]]
 # The Arrival
 ### 1984
 

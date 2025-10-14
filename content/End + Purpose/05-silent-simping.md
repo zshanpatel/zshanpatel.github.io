@@ -11,7 +11,7 @@ aliases:
 showDate: false
 draft: false
 ---
-![[content/images/simp-image.png]]
+![[simp-image.png]]
 Silent simping is real
 
 You're simping and you don't even know it.

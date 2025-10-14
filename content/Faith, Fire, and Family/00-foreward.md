@@ -3,27 +3,15 @@ title: Foreward
 permalink: /faith-fire-and-family/foreward
 tags:
   - acknowledgments
-  - father-son
-  - loss
-  - grief
   - purpose
   - legacy
   - patience
-  - kindness
   - revolution
-  - geopolitics
-  - bosnia
-  - afghanistan
-  - persecution
-  - identity
-  - regret
-  - realization
-  - love
 aliases:
 showDate: false
 draft: false
 ---
-![[content/Faith, Fire, and Family/images/foreward-image.png]]
+![[foreward-image.png]]
 
 >The greatest of God’s saints remain hidden.
 \- Shams of Tabriz

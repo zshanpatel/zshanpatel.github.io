@@ -2,26 +2,14 @@
 title: Origins
 permalink: /faith-fire-and-family/01-origins
 tags:
-  - independence
   - year-1945
-  - Solapur
-  - marriage
   - survival
-  - family-history
-  - mystic
-  - capitalist
-  - colonial-India
   - post-colonialism
-  - colonolism
-  - resilience
-  - distance
-  - necessity
-  - origins
 aliases:
 showDate: false
 draft: false
 ---
-![[content/Faith, Fire, and Family/images/inception-image.jpg]]
+![[inception-image.jpg]]
 # A Convenient Union
 ### In the beginning
 

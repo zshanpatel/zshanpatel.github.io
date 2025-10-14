@@ -7,10 +7,10 @@ showDate: false
 draft: false
 ---
 ### 🎨 Create Art with Machines
-With image generation tools like **ChatGPT (GPT-4o)**, **Lovart**, **Gemini Nano Banana**, **HuggingFace**, and countless other image generators you can create eye-catching images in seconds. Just describe your vision, and let the AI do the rest.
+With image generation tools like **ChatGPT**, **Lovart**, **Gemini**, **HuggingFace**, and countless other image generators you can create eye-catching images in seconds. Just describe your vision, and let the AI do the rest.
 ### Suggestions:
 1. **Start with a clear idea**. The more vivid, the better.
-2. Use the below prompt to draft the image prompt for the image generator.
+2. Use the below meta-prompt to draft the image prompt for the image generator.
 3. **Refine your prompt** with style cues like _"in the style of Studio Ghibli"_ or _"like a 1980s sci-fi cover"_ for pro results.
 
 ```

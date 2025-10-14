@@ -3,24 +3,14 @@ title: Activation
 permalink: /faith-fire-and-family/06-activation
 tags:
   - collective-consciousness
-  - collapse
-  - childhood
   - year2000s
-  - saudi-arabia
-  - gang
-  - belonging
-  - brown-boys
   - brotherhood
   - power
-  - unity
-  - family-over-everything
-  - rats
-  - loyalty
 aliases:
 showDate: false
 draft: false
 ---
-![[content/Faith, Fire, and Family/images/activation-image.png]]
+![[activation-image.png]]
 # Gang Gang for Life
 ### 2000s
 

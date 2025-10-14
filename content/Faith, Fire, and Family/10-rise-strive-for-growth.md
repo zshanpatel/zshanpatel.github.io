@@ -4,14 +4,12 @@ permalink: /faith-fire-and-family/10-rise
 tags:
   - inner-thinking
   - prosperity
-  - quranic-prosperity
   - strive
-  - alternative-thinking
 aliases:
 showDate: false
 draft: false
 ---
-![[content/Faith, Fire, and Family/images/ascension-image.jpg]]
+![[ascension-image.jpg]]
 # Striving for Growth
 Let me tell you how this ends. I have seen the journey ahead.
 

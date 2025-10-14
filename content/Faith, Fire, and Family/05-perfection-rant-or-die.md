@@ -3,25 +3,14 @@ title: Perfection
 permalink: /faith-fire-and-family/05-perfection
 tags:
   - leadership
-  - grief
-  - processing-loss
-  - understanding-father
-  - too-late
-  - perfection
-  - imperfect-world
-  - tolerance
   - patience
   - forgiveness
-  - quiet-revolution
-  - undermined-storm
   - legacy
-  - darkness
-  - prevail
 aliases:
 showDate: false
 draft: false
 ---
-![[content/Faith, Fire, and Family/images/perfection-image.png]]
+![[perfection-image.png]]
 # Rant or Die
 
 ### Through my lens: the perfect man in an imperfect world

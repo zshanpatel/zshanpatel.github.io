@@ -2,23 +2,12 @@
 title: Perception
 permalink: /faith-fire-and-family/02-perception
 tags:
-  - childhood
   - year-1956
-  - poverty
-  - child-labor
-  - railway-station
-  - mother-son
-  - endurance
-  - the-smiling-one
-  - family-dynamics
-  - hardship
-  - silent-revolt
-  - formative-years
 aliases:
 showDate: false
 draft: false
 ---
-![[content/Faith, Fire, and Family/images/perception-image.jpg]]
+![[perception-image.jpg]]
 # An Inconvenient Birth
 ### June 1, 1956
 
