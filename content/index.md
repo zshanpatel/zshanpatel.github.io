@@ -58,10 +58,12 @@ Talk is cheap. These are my live experiments. Qur'anic fire + tech grit. Pick on
 
 | Lab                | Quick Hit                                                           | Jump In                                                   |
 | ------------------ | ------------------------------------------------------------------- | --------------------------------------------------------- |
-| **99 Order**       | Divine source as power rituals. Practice for ordered manifestation. | [Read →](07-inner-revolution)                             |
-| **Strive**         | Our consulting for your setup. Pure control for business wins.      | [Quick Call (Free) →](https://calendly.com/realzee/25min) |
+| **99 Order**       | Divine source as power rituals. Practice for ordered manifestation. | [Read](07-inner-revolution) →                             |
+| **Strive**         | Our consulting for your setup. Pure control for business wins.      | [Quick Call (Free)](https://calendly.com/realzee/25min) → |
 | **bzkt**           | Encrypted wealth collectives: 7-generation beyond fiat fragility.   | Coming Soon                                               |
-| **The Alt Way In** | Real cultural gear, no fake hype. Stuff that grounds you.           | [Grab Yours →](https://altway.in)                         |
+| **The Alt Way In** | Real cultural gear, no fake hype. Stuff that grounds you.           | [Grab Yours](https://altway.in) →                         |
+
+
 These aren't hobbies. They're your starters. Mix with your trades or investments for unbreakable setups.
 #### My Obsessions: Stuff That’ll Wake You Up
 I chase what others dodge:
