@@ -2,6 +2,7 @@
 title: The AI Artist's Prompt
 permalink:
 tags:
+  - create
 aliases:
 showDate: false
 draft: false

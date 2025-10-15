@@ -2,11 +2,9 @@
 title: The Complete Hierarchy
 tags:
   - islamic-perspective
-  - arabic
-  - mathematics
   - philosophy
   - metaphysics
-  - linguistic-nuances
+  - language
 aliases:
 showDate: false
 draft: false

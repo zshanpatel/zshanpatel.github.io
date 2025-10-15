@@ -1,10 +1,7 @@
 ---
 title: Are you an Extremist?
 tags:
-  - contemplation
   - collective-consciousness
-  - ego
-  - materialism-critique
   - language
 aliases:
 showDate: false

@@ -2,8 +2,6 @@
 title: Introduction
 permalink: /thesis/introduction
 tags:
-  - thesis/introduction
-  - research-methodology
   - prosperity
   - grand-challenges
   - systemic-critique

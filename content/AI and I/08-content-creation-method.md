@@ -1,6 +1,7 @@
 ---
 title: Create Content System + Prompts
 tags:
+  - create
 aliases:
 showDate: false
 draft: false
@@ -62,7 +63,7 @@ When you create your own path, results aren't predictable, and that keeps many p
 Combine all of these breakdowns into a single comprehensive guide.
 ```
 ### Layer 3: Meta-Prompt
-Give it to the “[Prompt Generator](13-prompt-generator)” meta-prompt. 
+Give it to the “[Prompt Generator](12-prompt-generator.md)” meta-prompt. 
 - Your guide from Layer 2
 - Instructions for what you want (e.g., “Create a tweet writing prompt that interviews me, then generates 9 variations”)
 
@@ -105,7 +106,7 @@ What are the similarities between [summary] and [past newsletter]? What am I mis
 6. **Daily routine:** 2 hours. Write one newsletter section + 3 social posts. Schedule.
 ---
 ## Step 4: Turn Newsletter Into Everything Else
-Paste newsletter with [**Deep Post Ideas](10-deep-post-ideas) prompt**. 
+Paste newsletter with [**Deep Post Ideas](09-deep-post-ideas.md) prompt**. 
 
 The prompt outputs:
 - 3 core paradoxes
@@ -119,8 +120,8 @@ The prompt outputs:
 Don’t copy-paste outputs as posts. Read through until one idea sparks. Write the post yourself.
 
 Other prompt examples:
-- [**YouTube Title Generator](11-youtube-title):** 20–30 title variations using psychological triggers.
-- [**Content Ideas](12-creative-thought-partner) (60 variations):** Harsh advice, counterintuitive truths, pain points, insights.
+- [**YouTube Title Generator](10-youtube-title.md):** 20–30 title variations using psychological triggers.
+- [**Content Ideas](11-creative-thought-partner.md) (60 variations):** Harsh advice, counterintuitive truths, pain points, insights.
 
 **Cross-posting:** Write on Twitter first (280 characters = constraint). Then distribute.
 - Twitter → Threads  

@@ -9,7 +9,7 @@ showDate: false
 draft: false
 ---
 ### Architectural Principles
-The implementation of this framework in AI, requires complex [[02-what-is-artificial-intelligence.md#3. RAG (Retrieval-Augmented Generation)|RAG]] system. GraphRAG systems requires moving beyond superficial keyword matching toward deep ontological relationships that preserve the hierarchical structure of knowledge while enabling sophisticated reasoning about ultimate grounding and meaning.
+The implementation of this framework in AI, requires complex [[02-what-is-artificial-intelligence#3. RAG (Retrieval-Augmented Generation)|RAG]] system. GraphRAG systems requires moving beyond superficial keyword matching toward deep ontological relationships that preserve the hierarchical structure of knowledge while enabling sophisticated reasoning about ultimate grounding and meaning.
 ### Core Node Architecture
 
 ```javascript

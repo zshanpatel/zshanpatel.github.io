@@ -1,11 +1,7 @@
 ---
 title: Why Art Matters to Code
 tags:
-  - AI
-  - AI-agents
-  - divine-framework
   - economic-shift
-  - communication
   - knowledge-values-integration
 aliases:
 showDate: false
@@ -13,7 +9,6 @@ draft: false
 ---
 ![[coder-image.png]]
 ## The Death of Coding and Rise of Ideas
-
 They told you to learn to code.
 
 Get a Computer Science degree. Learn Python. JavaScript. React. The future is tech. STEM is secure. Social sciences? That's for people who want to work at coffee shops.

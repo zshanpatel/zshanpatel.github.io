@@ -2,26 +2,9 @@
 title: Overview of the Present Context
 permalink: /thesis/present-context
 tags:
-  - thesis/present-context
-  - philosophy
   - secularism
-  - religion
-  - epistemology
-  - financial-deception
-  - socialism
-  - capitalism
-  - hyper-consumerism
-  - currency-devaluation
-  - gold
-  - silver
-  - secular-epistemology
-  - individualism
   - neoliberalism
-  - social-environmental-crises
-  - debt-economy
   - epistemic-violence
-  - cultural-subjugation
-  - science-religion-dialogue
 showDate: false
 ---
 In this section, I delve deeper into the contours of the human system from pragmatic philosophical perspective of secular thinking that arguably has laid the ground for the modern system and epistemic violation of spiritual epistemologies.

@@ -2,7 +2,6 @@
 title: What is the Revivalist Project
 tags:
   - divine-framework
-  - communication
   - knowledge-values-integration
 aliases:
 showDate: false

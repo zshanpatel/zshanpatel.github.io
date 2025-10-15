@@ -1,9 +1,7 @@
 ---
 title: Conclusion
 tags:
-  - divine-knowledge
   - business-strategy
-  - community-based-enterprises
   - creation
   - divine-framework
 aliases:

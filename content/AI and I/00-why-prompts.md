@@ -1,6 +1,7 @@
 ---
 title: Getting Started with Predictive Tech /AI
 tags:
+  - prompts
 aliases:
 showDate: false
 draft: false

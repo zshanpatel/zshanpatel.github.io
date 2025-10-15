@@ -1,6 +1,7 @@
 ---
 title: Deep Post Ideas
 tags:
+  - create
 aliases:
 showDate: false
 draft: false

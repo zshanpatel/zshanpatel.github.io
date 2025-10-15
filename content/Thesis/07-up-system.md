@@ -3,43 +3,9 @@ title: Universal Prosperity System
 permalink: /thesis/up-system
 showDate: false
 tags:
-  - thesis/up-system
-  - stewardship
-  - social-justice
-  - ethical-living
-  - spiritual-revival
-  - shared-resources
-  - systems-context
   - universal-prosperity
-  - eschatology
-  - universal-prosperity-model
-  - quranic-principles
-  - liberation
-  - oppression
   - divine-origin
-  - spiritual-realm
-  - ecosystem-sustainability
-  - individualism-critique
-  - hyper-consumption
-  - nafs-purification
-  - trigger-events
-  - economic-crises
-  - financial-institutions
-  - prophecy
-  - collective-prosperity
-  - barakah
-  - community-based-enterprises
-  - wealth-distribution
-  - income-inequality
   - social-innovation
-  - ethical-finance
-  - predestination
-  - sirat-al-mustaqeem
-  - noor
-  - materialism-critique
-  - green-growth-critique
-  - secular-agnosticism
-  - transcendental-world
 ---
 Humans, as steward on earth and of its resources ([Qur’an 10:14](https://quran.com/10/14)), bear the inherent responsibility to strive towards true freedom, encompassing both exogenous and endogenous dimensions, advocating for liberation in the face of all forms of oppression [@hosein-a]. <span title="Universal Prosperity">UP</span> relentlessly defends the causes of social justice and ethical living in personal and public spheres [@ahmed2001a]. Simultaneously, the teachings of Qur’an emphasise and places paramount importance on the pursuit of spiritual revival through knowledge [@iqbal1930a]. Consequently, it necessitates that individuals relinquish their exclusive rights to natural resources, recognising that nature is a shared heritage belonging to all living beings, not just humans [@foltz2003a].
 ## Rethinking Systems

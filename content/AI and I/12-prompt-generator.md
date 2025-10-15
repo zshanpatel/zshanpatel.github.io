@@ -1,6 +1,8 @@
 ---
 title: Prompt Generator
 tags:
+  - create
+  - writing
 aliases:
 showDate: false
 draft: false

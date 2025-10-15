@@ -1,6 +1,7 @@
 ---
 title: YouTube Title Generator
 tags:
+  - writing
 aliases:
 showDate: false
 draft: false

@@ -1,7 +1,6 @@
 ---
 title: Build an AI-Powered App in Minutes
 tags:
-  - vibe-code
   - AI
   - code
 aliases:

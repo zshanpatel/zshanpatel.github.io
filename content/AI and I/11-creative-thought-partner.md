@@ -1,6 +1,7 @@
 ---
 title: Creative Thought Partner
 tags:
+  - create
 aliases:
 showDate: false
 draft: false

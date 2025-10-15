@@ -2,11 +2,8 @@
 title: Has Feminism Made Men Abandon Masculinity
 tags:
   - neoliberalism
-  - neoliberalism-critique
   - feminism
   - epistemic-violence
-  - capitalism-critique
-  - radical-systems-thinking
 aliases:
 showDate: false
 draft: false

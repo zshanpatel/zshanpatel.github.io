@@ -1,6 +1,7 @@
 ---
 title: Full Process for Coding with AI Coding Assistants
 tags:
+  - code
 aliases:
 showDate: false
 draft: false

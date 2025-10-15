@@ -1,18 +1,8 @@
 ---
 title: The Family Discussion Organiser
 tags:
-  - mother-son
-  - brother-sister
-  - brotherhood
-  - endurance
   - family-dynamics
   - new-beginning
-  - fatherhood
-  - birth
-  - purpose
-  - hope
-  - full-circle
-  - family-over-everything
 aliases:
 showDate: false
 draft: false

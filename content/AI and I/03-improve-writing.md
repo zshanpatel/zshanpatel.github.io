@@ -1,6 +1,7 @@
 ---
 title: How to Write with AI
 tags:
+  - writing
 aliases:
 showDate: false
 draft: false

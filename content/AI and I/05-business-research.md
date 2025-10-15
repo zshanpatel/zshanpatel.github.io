@@ -2,8 +2,6 @@
 title: Map Your Business Strategy
 tags:
   - business-strategy
-  - strategy
-  - innovation
   - entrepreurship
 aliases:
 showDate: false

@@ -1,29 +1,11 @@
 ---
 title: What is Artificial Intelligence
 tags:
-  - contemplation
-  - transformative-change
-  - future-research
-  - AI
-  - automation
-  - local-AI
   - open-source
-  - privacy-tech
-  - SaaS
-  - crypto
-  - hype-cycle
-  - business-strategy
   - MVP
   - AI-agents
   - RAG
-  - graphRAG
-  - AI-bias
   - digital-transformation
-  - ecosystems
-  - self-hosted
-  - data-ownership
-  - tech-bubble
-  - startups
 aliases:
 showDate: true
 draft: false
@@ -116,6 +98,3 @@ Models have almost plateaued with slightly better efficiency than the last wave 
 The gap is closing fast. While with some AI, you can't even tell anymore. The intelligent use of AI as a tool, that's what separates those who orchestrate from those who get orchestrated.
 
 The big LLM companies continue dominating the game. Now it's open season for low to no budget builders. But are the builders the farmers or are they being farmed? 
-
----
-_Tell me if you've come across something useful worth exploring. Or something that can have a real use case in your immediate circle. I would like to see a real use case. With so many options available, it's harder to decide what to focus on._
