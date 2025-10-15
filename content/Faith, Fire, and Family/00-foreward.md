@@ -30,7 +30,7 @@ A calm uprising brewed inside him, he and I lived through the digital transit
 
 From the genocide of Bosnia to the war crimes in Afghanistan, he kept an account of it all. We felt the pain of every soul that suffered, dead or alive. We would talk about the persecution of Muslims throughout history and he would let an occasional sigh slip. I was one of his confidants along with my mother. I don’t know if he saw the effects these conversations had on me, or perhaps he did and thought it would do well for me to know this side of reality, one we were kept far from. The unpleasant one. He held it close to his heart. He wanted change. A revolution. 
 
-It killed us both a little inside each time we heard the fables through the mouths of warmongering news anchors. It was not his fault I thought; he was getting paid for it. But my father never saw it that way, worldly riches meant very little to him. He wondered, how a human being could allow another’s suffering, a question he struggled with. His heart spoke a language that was soft and humble, and in those words, there was only one reason for a man’s action, only one force strong enough to explain why we do what we do:
+It killed us both a little inside each time we heard fabricated fables through the mouths of warmongering news anchors. It was not his fault I thought; he was getting paid for it. But my father never saw it that way, worldly riches meant very little to him. He wondered, how a human being could allow another’s suffering, a question he struggled with. His heart spoke a language that was soft and humble, and in those words, there was only one reason for a man’s action, only one force strong enough to explain why we do what we do:
 
 Purpose.
 
@@ -42,7 +42,7 @@ In a split second, I lost the light that forever shinned, the one I had so blata
 
 But here is what I learned, and what I want you to understand: We are made of what we allow ourselves to be.
 
-So I ask you: What are you made of? Not what you think you're made of, not what you wish you were made of, but what you choose, right now, in this moment, to be made of?
+So I ask: What are you made of? Not what you think you're made of, not what you wish you were made of, but what you choose, right now, in this moment?
 
 The greatest of men remain hidden not because they seek obscurity, but because their work is quiet. Because force, real momentum, doesn't announce itself. It simply acts.
 

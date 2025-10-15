@@ -13,14 +13,13 @@ draft: false
 ![[deception-image.png]]
 # Ambition Tethered
 ### 1980
-
 India was now a free country. The British had left, and what remained was up for grabs. And the countrymen did grab it, with both hands.
 
 They had fought for freedom from foreign rule, but what they got was a different kind of tyranny, one that wore familiar faces and spoke familiar languages.
 
 Only this time, they missed out one crucial factor; the rights of humans. 
 
-Men and women were by the numbers and there was no lawfulness, the British as ruthless as they had been portrayed, the new India only valued one thing; money. Not life. Not justice. Money.
+Men and women were by the numbers and there was no law, the colonisers as ruthless as they had been, the new India only was even more brutal. It valued one thing; money. Not life. Not justice. Money.
 
 By 1980, the idealism of independence had curdled into something else entirely. Every workplace had an underbelly. Bribery and commissions were the norm. Morals and empathy were for evening conversations. Nothing else mattered but survival and profit. Human life was cheap, easy and expendable, convenient to waste if somebody didn’t comply.
 
@@ -28,7 +27,7 @@ Religion played a huge part in shaping the new country. Superstitions, althoug
 
 This was the India my father stepped into as a young man with a civil engineering diploma and dreams of building something that mattered.
 
-My father had just completed his studies and been posted to his first job in the deep jungle, a village called Parbhani. Fresh out of college. It was far from Solapur, far from everything he knew. But he didn't mind. He had worked since he was ten years old. He knew what hard work was. What he didn't know yet was what compromise looked like.
+My father had just completed his studies and been posted to his first job in the deep jungle, in a village called Parbhani. Fresh out of college. It was far from home, far from everything he knew. But he didn't mind. He had worked since he was ten years old. He knew what hard work was. What he didn't know yet was what compromise looked like.
 
 He arrived with the kind of optimism only the young possess. He believed the world operated on principles, that if you worked hard, if you were honest, if you built things correctly, you would succeed. He believed in the details, the numbers, in the precision of engineering, in the satisfaction of doing something right.
 
@@ -62,13 +61,13 @@ And he thought: _This is not what I came here to do._
 
 So he quit and left Parbhani without looking back. He didn't know where he was going or what he would do next. All he knew was that he couldn't stay in a place that required him to betray the only thing he had left: his sense of what was right.
 
-People would call him naive. Impractical. Too rigid for the real world.
+People would call him naive. He thought. Impractical. Too rigid for the real world.
 
 Maybe they were right.
 
-But as he rode the train back toward Solapur, watching the jungle give way to open fields, he felt something he hadn't felt in weeks: relief. He had walked away from the money. From the compromise. From the slow erosion of what he believed in.
+But as he rode the train back home, watching the jungle give way to open fields, he felt something he hadn't felt in weeks: relief. He had walked away from the money. From the compromise. From the slow erosion of what he believed in.
 
-His ambitions were tethered now. He understood that. The world was not going to let him build the things he wanted to build, not the way he wanted to build them. The game was rigged, and he had refused to play.
+His ambitions bound now. He understood that. The world was not going to let him build the things he wanted to build, not the way he wanted to build them. The game was rigged, and he had refused to play.
 
 But at least he could still look at himself in the mirror.
 

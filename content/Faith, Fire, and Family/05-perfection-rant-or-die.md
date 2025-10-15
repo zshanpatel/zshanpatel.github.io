@@ -12,9 +12,7 @@ draft: false
 ---
 ![[perfection-image.png]]
 # Rant or Die
-
 ### Through my lens: the perfect man in an imperfect world
-
 Losing him took so much strength out of me. I fought to put myself back together. Most days I feel like I will burst with rage. The anger sits in my chest like a stone, heavy and hot, threatening to crack my ribs from the inside.
 
 But then I see my mother’s upset face, everything fades. I stop instigating my anger. My sanity crawls back to me. I try to make her smile at the next chance I get. Wouldn’t want to make it too obvious that I am just  a frustrated little man-boy on the inside who isn’t half of what his father was. 
