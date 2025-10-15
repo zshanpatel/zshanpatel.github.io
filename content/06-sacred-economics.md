@@ -9,7 +9,7 @@ draft: false
 *What would your financial decisions look like if you truly believed that every economic choice had eternal consequences?*
 ## The Divine Economic Principle
 Imagine an economic system where:
-- Cheating customers damages your soul, not just your reputation
+- Defrauding customers damages your soul, not just your reputation
 - Hoarding wealth while others suffer is seen as spiritual sickness
 - Creating value for others is considered an act of worship
 - Success is measured by how much you elevate your entire community
@@ -39,10 +39,9 @@ This creates stability, fairness, and shared responsibility.
 - Economic growth is sustainable because it's tied to real value creation
 
 **This isn't just more ethical, it's more economically efficient.**
-## The Zakat Revolution
+## The _Zakat_ Revolution
 While modern societies debate the merits of taxation and welfare, Islam solved the wealth inequality problem 1,400 years ago through _**zakat**_: obligatory wealth redistribution.
-
-### **How Zakat Works**
+### **How _Zakat_ Works**
 Every Muslim with wealth above a certain threshold _(nisab)_ must give 2.5% of their liquid assets annually to specific categories of people:
 - The poor and needy
 - Those in debt
@@ -50,8 +49,8 @@ Every Muslim with wealth above a certain threshold _(nisab)_ must give 2.5% of t
 - Those working to spread beneficial knowledge
 - Recent converts who need support
 - Those working in community administration
-### **Why Zakat is Revolutionary**
-**It's Not Charity**: Zakat isn't optional kindness, it's a structural requirement that prevents extreme wealth accumulation.
+### **Why _Zakat_ is Revolutionary**
+**It's Not Charity**: _Zakat_ isn't optional kindness, it's a structural requirement that prevents extreme wealth accumulation.
 
 **It's Not Taxation**: Unlike government taxation, _zakat_ is a spiritual obligation that connects wealth to divine accountability.
 
