@@ -10,7 +10,7 @@ aliases:
 showDate: false
 draft: false
 ---
-![[creation-image.jpg]]
+![[content/Faith Fire and Family/images/creation-image.jpg]]
 # The Arrival
 ### 1984
 My father arrived in Saudi Arabia. A distant land, far from the corruption he'd left behind, though he understood by now that distance meant nothing. The rot existed everywhere, it just wore different clothes. But he was here. And he would try again. Not because he believed it would be different, but because he didn't know what else to do. He carried with him his precision, his stubbornness, his refusal to bend. The greener pastures he'd been searching for might not exist. But he would keep searching in the desert anyway.

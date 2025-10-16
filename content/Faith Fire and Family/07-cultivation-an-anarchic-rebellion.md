@@ -10,30 +10,30 @@ aliases:
 showDate: false
 draft: false
 ---
-![[cultivation-image.png]]
+![[content/Faith Fire and Family/images/cultivation-image.png]]
 # An Anarchic Rebellion
 When I was in 12th grade I used to say "Saudi sucks dude."
 
-So I went to India. Thought that was the answer. Thought that was the answer. Get out, unbound freedom, find myself or whatever bullshit young people tell themselves when they're running from something they can't name.
+So I went to India. Thought that was the answer. Get out, unbound freedom, find myself or whatever bullshit young people tell themselves when they're running from something they can't name.
  
-I lived there for four years. And after four years of dragging myself through it, I was like: "India sucks too."
+I lived there for four years. And after years of dragging myself through it, I was like: "India sucks too."
 
-So I moved back to Saudi. Full circle. Back to where I started. And that's when it hit me.
+So I moved to the UK. Full toss. Starting again. And that's when it hit me.
 
 It took me three location changes to realise: it's not about the place. It's about me. My escapist mindset. The way I keep limiting myself by believing that if I could just get to the _right_ location, everything would fall into place.
 
 Geography as salvation. What a freaking delusion.
 
 ---
-Some of my guys still. Good guys. Smart. But still stuck in that mindset. Still talking about "if only this happens, then that will happen." If only he could get a visa to this country. If only he had more capital to move to that city. If only, if only, if only.
+Some of my boys still. Good guys. Smart. But still stuck in that mindset. Still talking about "if only this happens, then that will happen." If only he could move to this country. If only he had more capital to start that business. If only, if only, if only.
 
 System shut down.
 
 I see it everywhere now. People trapped in these "lines drawn by humans" called borders, jumping through hoops to get a fancy piece of paper that defines which lines they can call their "own." Which lifestyles they need. It's a futile concept. A cage we've all agreed to pursue and live in.
 
-We can do anything with a laptop and wifi. Anything. Build businesses. Create. Connect with people across the planet. Learn skills. Make money. The tools are there. The possibility is real.
+We can do anything with a laptop and wifi. Anything. Build businesses. Create. Connect with people across the planet. Learn skills. Make a living. The tools are there. The possibility is real.
 
-But we want to sit around and talk about things that are irrelevant. About needing to be in this city or that country. About not having enough capital to move. About waiting for the perfect conditions.
+But we want to sit around and talk about things that are irrelevant. About needing to be in this country or that rich. About not having enough capital. About waiting for the perfect conditions.
 
 We're stuck in this kindergarten-level discussion, and we're not even graduating from it. Round and round we go, talking about the same stuff, never actually _doing_ anything.
 
@@ -50,7 +50,7 @@ Sad slave lives. Scrambling for cheap money until they're too old to scramble an
 
 Delusion, bro. That's what it is.
 
-These motivations. This idea that moving to the right place will solve everything, gives me chills now. I see these men and I see a worthless future not worth anything. A factory of sad old men, just watching TV and counting days until they die.
+These motivations. This idea that moving to the right place will solve everything, gives me chills now. I see these men and I see a future not worth anything. A factory of sad old men, just counting days until they die.
 
 I refuse the degeneracy.
 
@@ -83,18 +83,18 @@ Not this grind-yourself-into-dust mentality. Not this "suffer now, celebrate lat
 I want to live _now_. In a way that doesn't require me to sacrifice my dignity for some hypothetical future where I'm finally allowed to be happy.
 
 ---
-I think what's important is purposeful work that makes sense. How I can bring in income without putting myself through these degrading situations.
+I think what's important is, purposeful work that makes sense. How I can bring in income without putting myself through these degrading situations.
 
-Because here's what I know for sure: I'm not coming back for some undignified job. I'm not going to be one of those old men, counting days, smoking cigarettes and wondering where it all went wrong. Modern day slavery.
+Because here's what I know for sure: I'm not coming back for some undignified job. I'm not going to be one of those old men wondering where it all went wrong.
 
-I have to figure out how to bring income without selling my soul for it. How to work in a way that doesn't destroy me in the process.
+I have to figure out how to move forward without selling my soul for it. How to work in a way that doesn't destroy me in the process.
 
-And I'm not alone in this. There's a whole factory of sad old men with the exact same motivations I used to have. Just watching TV. Counting days. Waiting to die.
+And I'm not alone in this. There's a whole factory of a new generation with the exact same motivations I used to have. Doomscrolling. Counting days. Waiting to live.
 
 I see them. And I see what I could become if I don't change course now.
 
 ---
-If grinding yourself into nothing is what it means to be ambitious. Then I don’t want to play this comparison nonsense because it doesn’t go anywhere. 
+If grinding yourself into nothing is what it means to be ambitious. Then I don’t want to play this comparison nonsense, because it doesn’t go anywhere. 
 
 Not spend decades waiting for the breakthrough. Not to sacrifice everything for some vague future reward.
 
@@ -102,7 +102,7 @@ I'm trying to find the greener pastures inside myself. In the work I choose. In 
 
 It's harder than I thought it would be.
 
-But I'm done with the delusion. Done with the endless circular conversations about location and capital and timing.
+But I'm done with the delusion. Done with the endless circular conversations about location sucks, and capital and timing.
 
 I'm here. This is now. And I'm going to figure it out from here.
 

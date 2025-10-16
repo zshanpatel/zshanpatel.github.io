@@ -7,7 +7,7 @@ aliases:
 showDate: false
 draft: false
 ---
-![[perception-image.jpg]]
+![[content/Faith Fire and Family/images/perception-image.jpg]]
 # An Inconvenient Birth
 ### June 1, 1956
 The cries of a baby boy echoed through the maternity ward. It was the first time my grandmother delivered a baby in a hospital. It made no difference to her; the hospital bed or the fields, pain was pain. 

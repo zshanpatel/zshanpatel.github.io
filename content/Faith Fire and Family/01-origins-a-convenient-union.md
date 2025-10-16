@@ -9,7 +9,7 @@ aliases:
 showDate: false
 draft: false
 ---
-![[inception-image.jpg]]
+![[content/Faith Fire and Family/images/inception-image.jpg]]
 # A Convenient Union
 ### In the beginning
 

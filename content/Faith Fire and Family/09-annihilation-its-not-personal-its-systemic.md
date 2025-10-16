@@ -9,7 +9,7 @@ aliases:
 showDate: false
 draft: false
 ---
-![[annihilation-image.jpg]]
+![[content/Faith Fire and Family/images/annihilation-image.jpg]]
 # It's Not Personal. It's Systemic
 The annihilation isn't personal. It is systemic.
 
@@ -47,7 +47,7 @@ What about one for all and all for one. When they come for one of us, they come 
 
 When one part suffers, the whole body feels it. This isn't just spiritual poetry. It's strategic survival. One body. One pain.
 
-Gang gang.
+One-world.
 
 The prophecies are warnings. Instructions. A blueprint for how to stand when everything around you tells you to kneel. What are you submitting to?
 
@@ -56,7 +56,7 @@ My father knew this. He lived it quietly. Carried it like strength when everyone
 ---
 This is the annihilation of societal norms. Of playing along. Of keeping your head down and your opinions palatable so you don't lose access, don't lose opportunities, don't get labeled.
 
-I've been labeled. Banned. Marked as problematic.
+I've been labeled. Banned. Marked as a contrarian.
 
 Good.
 
@@ -66,7 +66,7 @@ I'm not afraid of being burned to the ground. Because the return on investment i
 
 This isn't activism. This is accounting.
 
-The return is the afterlife. The legacy. The hereafter. The only return that actually matters. Islam's empirical truth: This life is the transaction. The hereafter is the settlement.
+The return is the afterlife. The legacy. The hereafter. The only return that actually matters. The transcendent empirical truth: This life is the transaction. The hereafter is the settlement.
 
 The oppressing forces reveal themselves. In abstract philosophy, the cultural judgment, in the hard calculus of narrative management. 
 
@@ -74,7 +74,7 @@ You either sell your soul for temporary comfort, or you refuse. There's no middl
 
 What are you willing to lose for what's right?
 
-My father understood this instinctively. He never said it explicitly, but his life demonstrated it. He chose integrity over wealth. Truth over comfort.
+Understood instinctively. Never said explicitly, but life is demonstrating it. Choose integrity over wealth. Truth over comfort.
 
 ---
 My struggles are nothing compared to the people in Gaza, in Palestine, in the subjugated areas throughout history. I'm not claiming equivalence.
@@ -101,7 +101,7 @@ The algorithms look omnipotent.
 
 They're not.
 
-They're just code. Written by people. Serving power. Protecting capital.
+They're just code. Written by people. Serving power. Protecting capital. Enslaving all people.
 
 And they're terrified. That's why they censor. That's why they work so hard to keep status quo.
 

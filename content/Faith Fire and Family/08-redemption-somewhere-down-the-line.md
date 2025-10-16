@@ -9,7 +9,7 @@ aliases:
 showDate: false
 draft: false
 ---
-![[redemption-image.png]]
+![[content/Faith Fire and Family/images/redemption-image.png]]
 # Somewhere Down the Line
 Somewhere down the line, I misunderstood the purpose of life.
 
@@ -19,7 +19,7 @@ The idea of people is weird.
 
 Back in Saudi, everything felt so peaceful. There was no noise on the streets. No honking. Nobody yelling at each other unless provoked. Nobody provoking each other. No one feeling the need to provoke anyone in the first place. Everything seemed so calm, clean, organised. Just perfect.
 
-Then there's India. The opposite in every way. Chaos. Noise. Humanity spilling over itself in every direction. Pushing, yelling, surviving, deceiving, thriving in the mess of it all.
+Then there's India. The opposite in every way. Chaos. Noise. Humans spilling over themselves in every direction. Pushing, yelling, surviving, deceiving, thriving in the mess of it all.
 
 These two drastically polar worlds. People from these worlds would never get along. And me, stuck in limbo between them. I couldn't confine myself to one box or the other, so I made my own little world. Never belonged. Always curious. Forever seeking something I couldn't name.
 
@@ -41,7 +41,7 @@ I am at peace and motivated only in high-stakes situations.
 
 The mundane drives me crazy. When things are stable, when life is quiet and predictable, I feel like I have no control. 
 
-Forever lost in this maze of productivity and ambition. Somewhere along the way, I lost sight of the bigger picture. To be human. To emote. To feel things without analysing them. To connect without calculating the cost.
+Forever lost in this maze of productivity and ambition. Somewhere along the way, I lost sight of the bigger picture. To be human. To connect. To feel things without analysing them. To emote without calculating the cost.
 
 I let dreams overshadow everything else. The delusions of the physical world. In chasing highs, I lost the very things that made life worth living in the first place.
 
@@ -68,7 +68,7 @@ Maybe I'll learn. Maybe I won't.
 
 Mistake was romanticising it. Pretending it's some beautiful tragic story.
 
-It's just weakness. Untamed beauty. A tool for a man's weakness.
+It's just weakness. Untamed beauty. A tool for abusing a man's weakness.
 
 That's the truth.
 
@@ -79,7 +79,7 @@ I would love to get into deep talks. The kind where you dissect ideas and emotio
 
 I know I should stop calculating everything. Stop weighing every interaction for its potential return. 
 
-But you can't just walk in the metaphorical garden, feet touching the wet green grass, where there are no fences and thoughts can roam free without the need to be controlled. Like sheep, assembled for the wolves.
+But I  just can't walk in the metaphorical garden, feet touching the wet green grass, where there are no fences and thoughts can roam free without the need to be controlled. Like sheep, assembled for the wolves.
 
 Perhaps this is the process. The struggles of ego are not meant to be easy.
 
