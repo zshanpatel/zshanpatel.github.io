@@ -55,12 +55,12 @@ Your grind? That isolation in fancy rooms, the endless adapt? I mapped it. Broke
 #### My Labs: Test-Drive These Now
 Talk is cheap. These are my live experiments. Qur'anic fire + tech grit. Pick one, tweak for your game.
 
-| Lab                | Quick Hit                                                           | Jump In                                                   |
-| ------------------ | ------------------------------------------------------------------- | --------------------------------------------------------- |
-| **99 Order**       | Divine source as power rituals. Practice for ordered manifestation. | [Read More](07-inner-revolution) →                        |
-| **Strive**         | Our consulting for your setup. Pure control for business wins.      | [Quick Call (Free)](https://calendly.com/realzee/25min) → |
-| **bzkt**           | Encrypted wealth: 7-generation beyond fiat fragility.               | Coming Soon                                               |
-| **The Alt Way In** | Real cultural gear, no fake hype. Stuff that grounds you.           | [Grab Yours](https://altway.in) →                         |
+| Lab            | Quick Hit                                                           | Jump In                                                   |
+| -------------- | ------------------------------------------------------------------- | --------------------------------------------------------- |
+| **99 Order**   | Divine source as power rituals. Practice for ordered manifestation. | [Read More](07-inner-revolution) →                        |
+| **Strive**     | Our consulting for your setup. Pure control for business wins.      | [Quick Call (Free)](https://calendly.com/realzee/25min) → |
+| **bzkt**       | One-vault. Encrypted wealth: 7-generation beyond fiat fragility.    | [Read More](01-core-proposition) →                        |
+| **Alt Way In** | Real cultural gear, no fake hype. Stuff that grounds you.           | [Grab Yours](https://altway.in) →                         |
 
 
 These aren't hobbies. They're your starters. Mix with your trades or investments for unbreakable setups.
