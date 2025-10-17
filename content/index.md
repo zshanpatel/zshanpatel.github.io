@@ -27,7 +27,7 @@ tags:
 _"I've won the game, but it's rigged. Who sold me this script?"_
 
 Look, I got banned from the big platforms for calling out the elites for their fake propaganda games, the Islamophobia dressed as "patriotism." Elon? Yeah, I said it. Account gone.
-But hell with that noise. It lit a fire. I built this vault for guys like you: 30s-50s, killing it in Dubai deals or London funds, but stuck code-switching between boardrooms and your roots. That ache for real legacy? The one where money stacks but soul starves? I feel it. Lived it.
+But hell with that noise. I built this vault for guys like you: killing it in Dubai deals or London funds, but stuck code-switching between boardrooms and your roots. That ache for real legacy? The one where money stacks but soul starves? I feel it. Lived it.
 
 👋 I'm Zeeshan, [UCL](https://x.com/UCL) grad who ditched the safe path to crack open Qur'anic smarts for today's chaos. Ancient rules + tech hacks = businesses you actually own. No more half-assed compromises.
 
@@ -46,7 +46,7 @@ For you: The exec or family office boss tired of secular grind clashing with fai
 
 Why care? Markets flip fast. These old-school fixes give you the edge to dominate without selling out.
 
-[[04-islamic-perspective#Thinking in Islamic Perspective|Hit Your Pain Spot →]]
+[[00-read-me|Hit Your Pain Spot →]]
 #### My Scars: From the Trenches
 Grew up split between worlds. Hustled ads at [BBDO](https://www.bbdo.com/), [TBWA](https://www.tbwa.com/), [DDB](https://www.ddb.com/), [MullenLowe](https://www.mullenlowe.com/); saw the machine eat souls. Then flipped to [Hackney Council](https://hackney.gov.uk/), fixing real breaks. 
 [UCL](https://x.com/UCL) MSc sealed it: [Bartlett](https://x.com/TheBartlettUCL) + [Global Prosperity](https://x.com/Glo_Pro) crew taught me to question everything.
@@ -55,12 +55,12 @@ Your grind? That isolation in fancy rooms, the endless adapt? I mapped it. Broke
 #### My Labs: Test-Drive These Now
 Talk is cheap. These are my live experiments. Qur'anic fire + tech grit. Pick one, tweak for your game.
 
-| Lab            | Quick Hit                                                                    | Jump In                                                   |
-| -------------- | ---------------------------------------------------------------------------- | --------------------------------------------------------- |
-| **99 Order**   | Divine source as power rituals. Practice for ordered manifestation.          | [Read More](07-inner-revolution) →                        |
-| **Strive**     | Need to talk on your product? Talk to me for some clarity on your next steps | [Quick Call (Free)](https://calendly.com/realzee/25min) → |
-| **bzkt**       | One-vault. Encrypted wealth: 7-generation beyond fiat fragility.             | [Read More](01-core-proposition) →                        |
-| **Alt Way In** | Real cultural gear, no fake hype. Stuff that grounds you.                    | [Grab Yours](https://altway.in) →                         |
+| Lab            | Quick Hit                                                                     | Jump In                                                   |
+| -------------- | ----------------------------------------------------------------------------- | --------------------------------------------------------- |
+| **99 Order**   | Divine source as power rituals. Practice for ordered manifestation.           | [Read More](07-inner-revolution) →                        |
+| **Strive**     | Need to talk on your product? Talk to me for some clarity on your next steps. | [Quick Call (Free)](https://calendly.com/realzee/25min) → |
+| **bzkt**       | One-vault. Encrypted wealth: 7-generation beyond fiat fragility.              | [Read More](01-core-proposition) →                        |
+| **Alt Way In** | Real cultural gear, no fake hype. Stuff that grounds you.                     | [Grab Yours](https://altway.in) →                         |
 
 
 These aren't hobbies. They're your starters. Mix with your trades or investments for unbreakable setups.
@@ -74,7 +74,7 @@ I chase what others dodge:
 
 Short reads for your commute. Deep enough to shift your game.
 
-[[03-present-context#Secular Social Thinking|Dive Your Fix →]] 
+[[03-present-context#Secular Social Thinking|Get Your Fix →]] 
 #### Real Talk: Why This Changes Everything
 
 Most "experts" recycle safe ideas. I raid the forbidden: Islamic fixes for global cracks, old truths crushing new greed, smarts turned into cash you command.
@@ -83,7 +83,7 @@ This vault’s your spot. No filters, just fire for builders like you. If that c
 
 Drop your email for raw drops. Ideas that glue your worlds together.
 
-[[https://tally.so/r/wvkGjv|Lock In Sub →]] | [[02-introduction|Thesis Quick Read (Free) →]]
+[[https://tally.so/r/wvkGjv|Stay in Touch →]] | [[02-introduction|Thesis Quick Read (Free) →]]
 
 ---
 _Your underground spot for owning the game. Got a wild idea? [Reply](mailto:zeeshan.patel.22@ucl.ac.uk). We build together. In defiance, we live._
