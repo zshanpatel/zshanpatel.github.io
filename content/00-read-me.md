@@ -13,21 +13,21 @@ This is the provocative question at the heart of my groundbreaking dissertation,
 ## Your Reading Journey: From Crisis to Solution
 
 We've designed this series as a roadmap, starting with the big picture problems you already sense but might not fully understand, then diving deeper into the root causes, alternative frameworks, and finally, a revolutionary solution that could change everything.
-### **Phase 1: The Problem** (Start Here)
-- **[The Great Deception: Why Everything You Know About Prosperity is Wrong](01-great-deception.md)** - Eye-opening revelations about modern economics
-- **[The Invisible Prison: How We Became Slaves to Numbers](02-invisible-prison.md)** - Understanding our current economic captivity
-### **Phase 2: The Deeper Truth** (Building Understanding)
-- **[The Lost Wisdom: What the West Borrowed and Forgot](03-lost-wisdom.md)** - Recovering suppressed knowledge systems
-- **[The Money Illusion: How Banks Create Wealth from Nothing](04-money-illusion.md)** - Understanding financial manipulation
-### **Phase 3: The Alternative Vision** (New Frameworks)
-- **[Beyond Religion: Understanding Islam as a Complete System](05-beyond-religion.md)** - Redefining what "Islamic" really means
-- **[Sacred Economics: When God Becomes Your Financial Advisor](06-sacred-economics.md)** - Divine principles for earthly prosperity
-### **Phase 4: The Transformation** (Systems Change)
-- **[The Inner Revolution: Why Change Starts with Your Soul](07-inner-revolution.md)** - Personal transformation theory
-- **[Theory U Meets the Quran: A Blueprint for Social Change](08-theory-u-quran.md)** - Systems transformation methodology
-### **Phase 5: The Solution** (The New Model)
-- **[Universal Prosperity: The Model That Could Save the World](09-universal-prosperity.md)** - The complete framework
-- **[From Here to There: Practical Steps to a New World](10-practical-steps.md)** - Implementation roadmap
+### Phase 1: The Problem (Start Here)
+- [The Great Deception: Why Everything You Know About Prosperity is Wrong](01-great-deception.md) - Eye-opening revelations about modern economics
+- [The Invisible Prison: How We Became Slaves to Numbers](02-invisible-prison.md) - Understanding our current economic captivity
+### Phase 2: The Deeper Truth (Building Understanding)
+- [The Lost Wisdom: What the West Borrowed and Forgot](03-lost-wisdom.md) - Recovering suppressed knowledge systems
+- [The Money Illusion: How Banks Create Wealth from Nothing](04-money-illusion.md) - Understanding financial manipulation
+### Phase 3: The Alternative Vision (New Frameworks)
+- [Beyond Religion: Understanding Islam as a Complete System](05-beyond-religion.md) - Redefining what "Islamic" really means
+- [Sacred Economics: When God Becomes Your Financial Advisor](06-sacred-economics.md) - Divine principles for earthly prosperity
+### Phase 4: The Transformation (Systems Change)
+- [The Inner Revolution: Why Change Starts with Your Soul](07-inner-revolution.md) - Personal transformation theory
+- [Theory U Meets the Quran: A Blueprint for Social Change](08-theory-u-quran.md) - Systems transformation methodology
+### Phase 5: The Solution (The New Model)
+- [Universal Prosperity: The Model That Could Save the World](09-universal-prosperity.md) - The complete framework
+- [From Here to There: Practical Steps to a New World](10-practical-steps.md) - Implementation roadmap
 ## How to Use This Series
 Each article is designed to:
 - **Give you** surprising revelations

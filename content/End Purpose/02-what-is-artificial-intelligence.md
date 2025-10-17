@@ -1,5 +1,5 @@
 ---
-title: What is Artificial Intelligence
+title: What is AI/ Predictive Tech
 tags:
   - open-source
   - MVP

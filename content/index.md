@@ -12,7 +12,6 @@ tags:
   - grand-challenges
   - business-strategy
   - legacy-building
-  - cultural-integration
   - spiritual-fulfillment
   - quranic-economics
   - capitalism-critique
@@ -58,9 +57,9 @@ Talk is cheap. These are my live experiments. Qur'anic fire + tech grit. Pick on
 
 | Lab                | Quick Hit                                                           | Jump In                                                   |
 | ------------------ | ------------------------------------------------------------------- | --------------------------------------------------------- |
-| **99 Order**       | Divine source as power rituals. Practice for ordered manifestation. | [Read](07-inner-revolution) →                             |
+| **99 Order**       | Divine source as power rituals. Practice for ordered manifestation. | [Read More](07-inner-revolution) →                        |
 | **Strive**         | Our consulting for your setup. Pure control for business wins.      | [Quick Call (Free)](https://calendly.com/realzee/25min) → |
-| **bzkt**           | Encrypted wealth collectives: 7-generation beyond fiat fragility.   | Coming Soon                                               |
+| **bzkt**           | Encrypted wealth: 7-generation beyond fiat fragility.               | Coming Soon                                               |
 | **The Alt Way In** | Real cultural gear, no fake hype. Stuff that grounds you.           | [Grab Yours](https://altway.in) →                         |
 
 

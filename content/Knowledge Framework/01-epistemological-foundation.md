@@ -5,6 +5,7 @@ tags:
   - knowledge-values-integration
   - first-principles
 aliases:
+  - 08-epistemology
 showDate: false
 draft: false
 ---

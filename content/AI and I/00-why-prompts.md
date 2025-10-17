@@ -1,5 +1,5 @@
 ---
-title: Getting Started with Predictive Tech /AI
+title: Getting Started
 tags:
   - prompts
 aliases:
