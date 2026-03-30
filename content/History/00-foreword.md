@@ -1,12 +1,10 @@
 ---
-title: Foreward
-permalink: /faith-fire-and-family/foreward
+title: Foreword
+permalink: /history/00-foreword
 tags:
-  - acknowledgments
   - purpose
   - legacy
   - patience
-  - revolution
 aliases:
 showDate: false
 draft: false

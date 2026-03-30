@@ -91,7 +91,7 @@ The question isn't whether change is possible. The question is whether you're re
 
 Ready to understand how we became slaves to numbers we don't even understand? 
 
-**[Continue to: The Invisible Prison - How We Became Slaves to Numbers](00%20NoteLab/Prosperity%20Series/02-invisible-prison.md)**
+**[Continue to: The Money Illusion - How Numbers Become Our Masters](/essays/money-illusion)**
 
 ---
 

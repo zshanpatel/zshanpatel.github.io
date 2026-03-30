@@ -24,6 +24,5 @@ True change happens when a shift at the Micro level (Personal Awakening) aligns 
 By using MLP, we stop looking for a "silver bullet" and start building **Resilient Networks**. We work on our souls while simultaneously building alternative wealth networks ([[one-vault]]) and ethical businesses ([[strive]]), knowing that these Micro and Macro efforts are part of a larger Mundo-level transition.
 
 ### 🔗 Related Concepts
-- [[00 NoteLab/Prosperity Series/08-theory-u-quran|Theory U]]
 - [[spirituo-epistemic-source]]
 - [[universal-prosperity]]

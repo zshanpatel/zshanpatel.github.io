@@ -1,6 +1,6 @@
 ---
 title: Annihilation
-permalink: /faith-fire-and-family/09-annihilation
+permalink: /history/09-annihilation
 tags:
   - inner-thinking
   - ethical-values

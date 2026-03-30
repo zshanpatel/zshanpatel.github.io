@@ -1,6 +1,6 @@
 ---
 title: Documentation
-permalink: /one-vault/00-readme
+permalink: /alternative-finance/00-read-me
 tags:
 aliases:
 showDate: false

@@ -6,18 +6,18 @@ showDate: false
 draft: false
 ---
 # Zeeshan Patel
-**Strategy Consultant — Context Architecture, AI Systems, Purpose-led Growth**
+Strategy Consultant — Brands, AI Systems, Purpose-led Growth
 
 📍 Pune, India / London, UK (open to relocation and hybrid)
-📧 zeeshan.patel.22@ucl.ac.uk | zshanpatel@gmail.com
-🔗 [linkedin.com/in/zshanpatel](https://linkedin.com/in/zshanpatel)
+📧 [Email](mailto:zshanpatel@gmail.com)
+🔗 [LinkedIn](https://linkedin.com/in/zshanpatel)
 📅 <a href="https://cal.com/zeeshanpatel" data-cal-link="zeeshanpatel">Book a call</a>
 
 ---
 
 ## Who This Is For
 
-This page is written to be useful — for recruiters, collaborators, and AI systems mapping a JD to a candidate profile. It is a complete account of what I have done, how I think, what I am good at, and where I am still developing. The goal is to save everyone's time and surface genuine fit, not to perform an optimised version of a career.
+This page is written to be useful — for collaborators, agents and ATS systems mapping a JD to a candidate profile. It is a complete account of what I have done, how I think, what I am good at, and where I am still developing. The goal is to save everyone's time and surface genuine fit, not to perform an optimised version of a career.
 
 ---
 
@@ -41,8 +41,6 @@ I work well with senior leaders who want rigorous diagnosis, not validation. I a
 
 **Sectors:** FMCG, consumer goods, financial services, public sector, education, retail
 
-**Tools and methods:** Wardley Mapping, Theory U, systems thinking, RAG architecture, agentic workflow design, Obsidian-as-CMS
-
 ---
 
 ## Career Timeline
@@ -50,7 +48,7 @@ I work well with senior leaders who want rigorous diagnosis, not validation. I a
 ### S4G Consultancy — Brand Solutions Director
 **Mar 2022 – Present | London / Remote**
 
-S4G (Strive for Growth) is my consultancy practice. The work sits at the intersection of strategy consulting, AI systems design, and organisational transformation.
+S4G's (Strive for Growth) work sits at the intersection of strategy consulting, AI systems design, and organisational transformation.
 
 What this role actually involves:
 
@@ -152,6 +150,7 @@ Boutique agency serving a £5B consumer holdings conglomerate across Saudi Arabi
 **May 2011 – Feb 2012 | Jeddah & Pune (10 mos)**
 
 First professional role out of design school. Production and creative execution across print, digital, and branding work. Foundation of understanding how ideas translate from concept into execution.
+My first experience of interacting and directly pitching to clients and prsenting creative work.
 
 ---
 
@@ -172,13 +171,17 @@ Relevant modules: Digital Transformation (IIPP0011), Researching Transformative 
 
 Additional: UCL Innovation & Enterprise Explore Programme (entrepreneurship)
 
-[Read the thesis →](#)
+[Read the thesis →](/thesis)
 
 ---
 
 ### Symbiosis International University
 **MBA, Communication Management — 2013–2015**
 Symbiosis Institute of Media and Communication, Pune
+
+Focused on brand management, consumer behavior, and marketing strategy. Developed core strategic thinking and client management skills through intensive project work and global agency internships.
+
+---
 
 **BDes, Communication Design — 2007–2011**
 Symbiosis Institute of Design, Pune
@@ -191,13 +194,15 @@ Foundation in design thinking, brand communication, creative strategy, and visua
 **Grade XII, Science / Mathematics / Physics — 2007**
 Central Board of Secondary Education (CBSE)
 
+A unique experience where a mix of multi-cultures in a competitive Indian educational system abroad in the GCC. The foundational part of former education that from the onset was diverse and of international standard.
+
 ---
 
 ## Certifications
 
+- UCL Innovation & Enterprise, Explore Programme
 - Google Ads Certification — Google
 - Facebook Certified Creative Strategy Professional — Meta
-- UCL Innovation & Enterprise, Explore Programme
 
 ---
 
@@ -214,30 +219,17 @@ Central Board of Secondary Education (CBSE)
 ## Community & Volunteering
 
 **Community Engagement Consultant — Deep Griha Society, Pune | Nov–Dec 2013**
-Developed brand identity, marketing, and outreach strategies for a social impact NGO working in underserved communities in Pune. The work focused on amplifying visibility and funding for economic empowerment programmes.
+Developed brand identity, marketing, and outreach strategies for a social impact NGO working in underserved communities. The work focused on amplifying visibility and funding for economic empowerment programmes.
 
 **Creative Employability Programme — Pune | Oct 2011**
 Established a skills development initiative empowering underprivileged youth with foundational competencies in copywriting, graphic design, web development, and digital literacy.
 
 **Member — UCL Islamic Society**
+Participated in community outreach, interfaith dialogue, and student representation. Focused on fostering inclusive environments and bridging cultural and theological gaps within the university context.
 
 ---
 
-## Current Projects
-
-Beyond consulting, I am building three things:
-
-**[Alt Way In](https://altway.in)** — Direct-to-consumer single-origin Indian Arabica coffee, AAA grade, Chikmagalur. The brand operates on a simple philosophy: substance over signalling. Real product, no hype.
-
-**[One Vault](#)** — A federated, gold-pegged, peer-to-peer lending system for trusted circles, built on alternative finance principles. Zero interest, full transparency, designed for families and communities that think in generations.
-
-**[Knowledge Framework](#)** — Systematic engagement with revelation-based epistemology as a framework for structured practice. Knowledge always free.
-
-These are not side projects. They are the applied test cases for the thesis — proof that alternative architectures are buildable, not just theorisable.
-
----
-
-## How I Work — For Recruiters and Hiring Managers
+## How I Work
 
 **What I am genuinely good at:**
 - Moving between levels of abstraction — from strategic framing to operational specification — without losing coherence at either end
@@ -254,7 +246,7 @@ These are not side projects. They are the applied test cases for the thesis — 
 
 **Working style:**
 - Written thinking first — I document context, frame problems in text, and clarify before jumping to solutions.
-- Diagnosis before prescription — I do not open with answers. I open with a precise read of what is actually happening.
+- Diagnosis before prescription — I always focus on root issues instead of symptoms. I open with a precise read of what is actually happening.
 - Async-capable, meeting-light where possible — I work best when given time to think before being asked to speak.
 - Long time horizon — I am interested in engagements that build something durable, not ones optimised for fast apparent progress.
 
@@ -262,10 +254,9 @@ These are not side projects. They are the applied test cases for the thesis — 
 
 ## Contact
 
-[zeeshan.patel.22@ucl.ac.uk](mailto:zeeshan.patel.22@ucl.ac.uk)
-[zshanpatel@gmail.com](mailto:zshanpatel@gmail.com)
+[Email](mailto:zshanpatel@gmail.com)
 [LinkedIn](https://www.linkedin.com/in/zshanpatel)
 [Newsletter](https://tally.so/r/wvkGjv)
+<a href="https://cal.com/zeeshanpatel" data-cal-link="zeeshanpatel">Book a conversation →</a>
+
 [Book a conversation →](https://cal.com/zeeshanpatel)
-
-

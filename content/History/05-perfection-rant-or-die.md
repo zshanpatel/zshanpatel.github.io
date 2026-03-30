@@ -1,6 +1,6 @@
 ---
 title: Perfection
-permalink: /faith-fire-and-family/05-perfection
+permalink: /history/05-perfection
 tags:
   - leadership
   - patience

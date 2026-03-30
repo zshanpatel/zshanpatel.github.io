@@ -1,6 +1,6 @@
 ---
 title: Activation
-permalink: /faith-fire-and-family/06-activation
+permalink: /history/06-activation
 tags:
   - collective-consciousness
   - year2000s

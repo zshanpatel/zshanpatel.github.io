@@ -23,4 +23,4 @@ Through practices of **Tazkiyah** (purification) and **Dhikr** (remembrance), th
 - [[05-quranic-prosperity|Qur'anic Rethinking]]
 - [[tawhid]] (Unity of God)
 - [[tazkiyah]] (Purification)
-- [[00 NoteLab/Prosperity Series/04-money-illusion|The Money Illusion]] (A divergent psionic anchor)
+- [[essays/money-illusion|The Money Illusion]] (A divergent psionic anchor)

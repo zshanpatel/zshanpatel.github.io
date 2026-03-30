@@ -1,4 +1,4 @@
 ---
-title: One-vault System
-permalink: one-vault
+title: Project Alternative Finance
+permalink: /alternative-finance
 ---

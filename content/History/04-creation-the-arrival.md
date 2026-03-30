@@ -1,6 +1,6 @@
 ---
 title: Creation
-permalink: /faith-fire-and-family/04-creation
+permalink: /history/04-creation
 tags:
   - integrity
   - full-circle

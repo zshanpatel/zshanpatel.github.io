@@ -1,6 +1,6 @@
 ---
 title: Rise
-permalink: /faith-fire-and-family/10-rise
+permalink: /history/10-rise
 tags:
   - inner-thinking
   - prosperity

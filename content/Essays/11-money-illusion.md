@@ -168,7 +168,7 @@ The money illusion is just one aspect of a larger system of control. To truly br
 
 But first, you need to understand something that might seem controversial: why separating "religion" from economics was one of the greatest mistakes in human history.
 
-**[Continue to: Beyond Religion - Understanding Islam as a Complete System](00%20NoteLab/Prosperity%20Series/05-beyond-religion.md)**
+**[Continue to: Beyond Religion - Understanding Islam as a Complete System](/essays/beyond-religion)**
 
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Redemption
-permalink: /faith-fire-and-family/08-redemption
+permalink: /history/08-redemption
 tags:
   - mundane-madness
   - productivity-maze

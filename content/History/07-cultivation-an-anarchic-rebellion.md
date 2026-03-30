@@ -1,6 +1,6 @@
 ---
 title: Cultivation
-permalink: /faith-fire-and-family/07-cultivation
+permalink: /history/07-cultivation
 tags:
   - escapism
   - borders

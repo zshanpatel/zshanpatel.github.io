@@ -110,6 +110,6 @@ We don't need to return to hiding money in toy cars. We need to remember what th
 
 One-vault economy is my attempt to rebuild it. Not as it was, but as it could be. With the speed of software, the transparency of documentation, the stability of gold, and the soul of brotherhood.
 
-The question isn't whether the [one-vault](00-read-me%20old.md) economy can work today.
+The question isn't whether the **[Project: Alternative Finance](/alternative-finance/00-read-me)** economy can work today.
 
 The question is: Can we remember how to trust again?

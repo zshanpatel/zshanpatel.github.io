@@ -1,6 +1,6 @@
 ---
 title: Deception
-permalink: /faith-fire-and-family/03-deception
+permalink: /history/03-deception
 tags:
   - corruption
   - year-1980

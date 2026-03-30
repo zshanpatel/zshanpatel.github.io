@@ -2,7 +2,6 @@
 title: Abstract
 permalink: /thesis/abstract
 tags:
-  - thesis/meta
   - /thesis/abstract
 aliases:
 showDate: false

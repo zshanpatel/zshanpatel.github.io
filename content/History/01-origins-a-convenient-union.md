@@ -1,6 +1,6 @@
 ---
 title: Origins
-permalink: /faith-fire-and-family/01-origins
+permalink: /history/01-origins
 tags:
   - year-1945
   - survival

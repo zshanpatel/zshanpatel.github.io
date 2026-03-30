@@ -25,6 +25,5 @@ Real change requires **Going Deeper before Going Forward**. In an Islamic contex
 By applying Theory U, we stop rushing into "innovative" fixes and instead practice **Presencing**. We allow divine inspiration to inform our designs for the "One-Vault" and "Strive" models, ensuring that our creations are not just new, but *Aligned*.
 
 ### 🔗 Related Concepts
-- [[00 NoteLab/Prosperity Series/08-theory-u-quran|Theory U & Quran]]
 - [[psionic-alignment]]
 - [[multi-level-perspective]]

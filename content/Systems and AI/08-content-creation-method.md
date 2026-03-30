@@ -1,4 +1,5 @@
 ---
+title: Content Creation Pipeline
 name: content-creation-system
 description: A 3-layer research and synthesis loop for multiplying one piece of writing across social platforms using AI deconstruction.
 type: workflow
@@ -10,7 +11,7 @@ This is an engineered a system that multiplies one piece of writing across all o
 This guide breaks down his workflow: how to build your swipe file, engineer custom prompts, and turn one newsletter into YouTube videos, daily tweets, LinkedIn posts, and Instagram Reels without sacrificing your voice.
 
 ---
-## Step 1: Build Your Swipe File
+## Step 1: Build Swipe File
 
 Save 50+ high-performing posts to study structure and ideas.
 

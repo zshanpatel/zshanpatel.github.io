@@ -1,4 +1,5 @@
 ---
+title: Vibe Coding Pro
 name: vibe-coding
 description: A beginner-friendly workflow for building functional MVPs from scratch using free AI tools (V0, Gemini, Grok, Claude).
 type: workflow

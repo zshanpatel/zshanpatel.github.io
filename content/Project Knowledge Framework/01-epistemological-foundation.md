@@ -2,7 +2,6 @@
 title: Epistemological Foundation
 tags:
   - epistemology
-  - knowledge-values-integration
   - first-principles
 aliases:
   - 08-epistemology

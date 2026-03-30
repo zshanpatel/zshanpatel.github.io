@@ -2,7 +2,6 @@
 title: Overview of the Present Context
 permalink: /thesis/present-context
 tags:
-  - secularism
   - neoliberalism
   - epistemic-violence
 showDate: false

@@ -2,7 +2,6 @@
 title: Introduction
 permalink: /thesis/introduction
 tags:
-  - prosperity
   - grand-challenges
   - systemic-critique
 showDate: false

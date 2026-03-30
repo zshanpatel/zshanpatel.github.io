@@ -1,6 +1,6 @@
 ---
-title: Prompts and Systems
-permalink: /prompts-and-systems
+title: Systems and AI
+permalink: /systems-and-ai
 ---
 
 # 🏗️ AI Intellectual Engine: Prompts & Systems
@@ -29,4 +29,6 @@ Modern Agent Skills for production and development.
 - [[08-content-creation-method|Content Multiplier Skill]]
 
 ---
-*Just copy and paste any of these into your AI assistant to begin.*
+*Copy and paste any of these into your AI assistant to begin.*
+
+---

@@ -1,4 +1,4 @@
 ---
-title: End + Purpose
-permalink: /end-purpose
+title: Essays
+permalink: /essays
 ---

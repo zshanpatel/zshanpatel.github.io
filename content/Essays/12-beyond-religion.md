@@ -180,7 +180,7 @@ Understanding Islam as a complete life system rather than a "religion" opens up 
 
 Prepare to discover what happens when God becomes your financial advisor.
 
-**[Continue to: Sacred Economics - When God Becomes Your Financial Advisor](00%20NoteLab/Prosperity%20Series/06-sacred-economics.md)**
+**[Explore all essays →](/essays)**
 
 ---
 

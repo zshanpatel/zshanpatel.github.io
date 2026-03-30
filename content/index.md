@@ -1,12 +1,7 @@
 ---
 title: Zeeshan Patel
-description: >-
-  Strategy consultant working at the intersection of AI systems, context
-  architecture, and purpose-led growth. UCL MSc Distinction. 15 years across
-  advertising, public sector, and AI-native consulting.
-keywords: >-
-  Zeeshan Patel, strategy consultant, context architecture, AI systems, RAG,
-  agentic workflows, UCL, Wardley mapping, organisational transformation
+description: Strategy consultant working at the intersection of AI systems, context architecture, and purpose-led growth. UCL MSc Distinction. 15 years across advertising, public sector, and AI-native consulting.
+keywords: Zeeshan Patel, strategy consultant, context architecture, AI systems, RAG, agentic workflows, UCL, Wardley mapping, organisational transformation
 tags:
   - strategy
   - ai-systems
@@ -14,8 +9,8 @@ tags:
   - consulting
   - ucl
   - prosperity
+permalink: /home
 ---
-
 # Zeeshan Patel
 
 Strategy consultant working at the intersection of brands, systems, and purpose-led growth.
@@ -46,27 +41,25 @@ Digital transformation consulting for [London Borough of Hackney](about.md#londo
 
 ## Research & Writing
 
-**[The Research Thesis](#)** — The UCL dissertation in full. *Prosperity: A Multidimensional Qur'anic Perspective.* What prosperity means beyond GDP, and a framework for thinking about it differently.
+**[The Research Thesis](/thesis)** — The UCL dissertation in full. *Prosperity: A Multidimensional Qur'anic Perspective.* What prosperity means beyond GDP, and a framework for thinking about it differently.
 
-**[History](#)** — A personal memoir. India 1945 to now. The story behind the work.
+**[History](/history)** — A personal memoir. India 1945 to now. The story behind the work.
 
-**[Essays](#)** — Opinionated long-reads on culture, systems, economics, and epistemology.
+**[Essays](/essays)** — Opinionated long-reads on culture, systems, economics, and epistemology.
 
-**[Project: Epistemology Framework](#)** ([Project Detail](about.md#current-projects)) — A structured exploration of revelation-based epistemology as a complete knowledge system.
-
-**[Systems & AI](#)** — Practical methodology for AI prompt design, context architecture, and agentic workflow specification.
+**[Systems & AI](/systems-and-ai)** ([Project Detail](/about#s4g-consultancy--brand-solutions-director)) — Practical methodology for AI prompt design, context architecture, and agentic workflow specification.
 
 ---
 
-## Projects
+## Current Projects
 
-**[Alt Way In](https://altway.in)** ([Project Detail](about.md#current-projects)) — Single-origin Indian Arabica coffee. AAA grade, Chikmagalur. Substance over signalling.
+**[Alt Way In](https://altway.in)** — Single-origin Indian Arabica coffee. The brand operates on a simple philosophy: Indian-origin, commodity-focused, substance over signalling. Real product, no hype.
 
-**[One Vault](#)** ([Project Detail](about.md#current-projects)) — Federated, gold-pegged, peer-to-peer lending for trusted circles. Built on ethical finance principles.
+**[Project: Alternative Finance](/alternative-finance/00-read-me)** — Federated, gold-pegged, peer-to-peer lending for trusted circles. Built on ethical finance principles.
 
-**[Strive for Growth](https://cal.com/zeeshanpatel)** ([Project Detail](about.md#s4g-consultancy--brand-solutions-director)) — Strategy consultancy. Context architecture, AI systems design, organisational transformation.
+**[Project: Knowledge Framework](/knowledge-framework/00-introduction)** — Addressing AI bias due to the limited training data. A structured exploration of revelation-based epistemology as a complete knowledge system.
 
-[→ All projects](about.md#current-projects)
+**[Strive for Growth](https://s4gconsultancy.com)** — Strategy consultancy. Context architecture, AI systems design, organisational transformation.
 
 ---
 

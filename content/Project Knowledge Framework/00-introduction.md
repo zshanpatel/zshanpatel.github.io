@@ -1,5 +1,6 @@
 ---
 title: Introduction
+permalink: /knowledge-framework/00-introduction
 tags:
   - systems-context
   - quranic-epistemology

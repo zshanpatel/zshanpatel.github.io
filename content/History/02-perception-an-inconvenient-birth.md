@@ -1,6 +1,6 @@
 ---
 title: Perception
-permalink: /faith-fire-and-family/02-perception
+permalink: /history/02-perception
 tags:
   - year-1956
 aliases:
