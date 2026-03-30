@@ -5,8 +5,8 @@ description: Strategy consultant, systems thinker, UCL researcher. 15 years acro
 showDate: false
 draft: false
 ---
-## Strategy Consultant
-Brands, Digital Transformation and Business Management
+## Zeeshan
+Strategy Consultant, Brand Communication, Digital Transformation and Business Management
 
 📍 Mumbai, India / London, UK
 
