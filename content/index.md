@@ -1,89 +1,87 @@
 ---
-title: 👋 I'm Zeeshan
-description: This is the personal website and digital garden of Zeeshan Patel, focusing on Islamic thought, prosperity, and grand challenges. And radical business fixes for senior execs and family offices.
-keywords: Zeeshan Patel, Islamic thought, prosperity, grand challenges, digital garden, personal website, alternate business models, Qur'anic economics, cultural leadership, UCL, Islam, UCL-backed Islamic prosperity models
+title: Zeeshan Patel
+description: >-
+  Strategy consultant working at the intersection of AI systems, context
+  architecture, and purpose-led growth. UCL MSc Distinction. 15 years across
+  advertising, public sector, and AI-native consulting.
+keywords: >-
+  Zeeshan Patel, strategy consultant, context architecture, AI systems, RAG,
+  agentic workflows, UCL, Wardley mapping, organisational transformation
 tags:
-  - zeeshan-patel
-  - digital-garden
-  - thought-leadership
-  - alternative-thinking
-  - islamic-principles
+  - strategy
+  - ai-systems
+  - context-architecture
+  - consulting
+  - ucl
   - prosperity
-  - grand-challenges
-  - business-strategy
-  - legacy-building
-  - spiritual-fulfillment
-  - quranic-economics
-  - capitalism-critique
-  - systems-breakdown
-  - tech-ethics
-  - family-offices
-  - leadership
-  - ucl-research
-  - 99-order
-  - strive
-  - alt-way-in
+permalink: /
 ---
-_"I've won the game, but it's rigged. Who sold me this script?"_
 
-Look, I got banned from the big platforms for calling out the elites for their fake propaganda games, the Islamophobia dressed as "patriotism." Elon? Yeah, I said it. Account gone.
-But hell with that noise. I built this vault for guys like you: killing it in Dubai deals or London funds, but stuck code-switching between boardrooms and your roots. That ache for real legacy? The one where money stacks but soul starves? I feel it. Lived it.
+# Zeeshan Patel
 
-👋 I'm Zeeshan, [UCL](https://x.com/UCL) grad who ditched the safe path to crack open Qur'anic smarts for today's chaos. Ancient rules + tech hacks = businesses you actually own. No more half-assed compromises.
+Strategy consultant working at the intersection of brands, systems, and purpose-led growth.
 
-What's eating you? Plateaued success? Family wealth that fades? Let's fix that shit.
-
->"Prosperity ain't just money, it's divine flow, fair swaps that last forever." 
--_Me, straight from the thesis_
-
-Grab a free taste. No strings.
-
-[[content/Thesis/index|Thesis Sneak Peek (Free) →]]
-#### My Edge: Street-Smart Smarts
-Academics talk theory. I turn it into your next move. My thesis rips apart how monotheistic vibes crush capitalist traps; wealth gaps, culture wipeouts, system crashes.
-
-For you: The exec or family office boss tired of secular grind clashing with faith. This is your hack. UCL-grade, no bullshit, ready to scale from your morning ritual to empire builds.
-
-Why care? Markets flip fast. These old-school fixes give you the edge to dominate without selling out.
-
-[[00-read-me|Hit Your Pain Spot →]]
-#### My Scars: From the Trenches
-Grew up split between worlds. Hustled ads at [BBDO](https://www.bbdo.com/), [TBWA](https://www.tbwa.com/), [DDB](https://www.ddb.com/), [MullenLowe](https://www.mullenlowe.com/); saw the machine eat souls. Then flipped to [Hackney Council](https://hackney.gov.uk/), fixing real breaks. 
-[UCL](https://x.com/UCL) MSc sealed it: [Bartlett](https://x.com/TheBartlettUCL) + [Global Prosperity](https://x.com/Glo_Pro) crew taught me to question everything.
-
-Your grind? That isolation in fancy rooms, the endless adapt? I mapped it. Broke through it. Now handing you the map.
-#### My Labs: Test-Drive These Now
-Talk is cheap. These are my live experiments. Qur'anic fire + tech grit. Pick one, tweak for your game.
-
-| Lab            | Quick Hit                                                                     | Jump In                                                   |
-| -------------- | ----------------------------------------------------------------------------- | --------------------------------------------------------- |
-| **99 Order**   | Divine source as power rituals. Practice for ordered manifestation.           | [Read More](07-inner-revolution) →                        |
-| **Strive**     | Need to talk on your product? Talk to me for some clarity on your next steps. | [Quick Call (Free)](https://calendly.com/realzee/25min) → |
-| **bzkt**       | One-vault. Encrypted wealth: 7-generation beyond fiat fragility.              | [Read More](01-core-proposition) →                        |
-| **Alt Way In** | Real cultural gear, no fake hype. Stuff that grounds you.                     | [Grab Yours](https://altway.in) →                         |
-
-
-These aren't hobbies. They're your starters. Mix with your trades or investments for unbreakable setups.
-#### My Obsessions: Stuff That’ll Wake You Up
-I chase what others dodge:
-- **Islam and Capitalism**: Sharia tricks to outplay debt games.
-- **God in Tech**: Faith rules to keep AI from screwing you.
-- **Real Rich**: Skip GDP lies. Blend spirit and cash.
-- **New Biz Hacks**: Family offices + ethical trades, true to your roots.
-- **Old Smarts**: Ancient fixes for today’s messes. Climate, company, cartels, all of it.
-
-Short reads for your commute. Deep enough to shift your game.
-
-[[03-present-context#Secular Social Thinking|Get Your Fix →]] 
-#### Real Talk: Why This Changes Everything
-
-Most "experts" recycle safe ideas. I raid the forbidden: Islamic fixes for global cracks, old truths crushing new greed, smarts turned into cash you command.
-
-This vault’s your spot. No filters, just fire for builders like you. If that clicks, you belong here.
-
-Drop your email for raw drops. Ideas that glue your worlds together.
-
-[[https://tally.so/r/wvkGjv|Stay in Touch →]] | [[02-introduction|Thesis Quick Read (Free) →]]
+[About & Full Profile](about.md) · [LinkedIn](https://www.linkedin.com/in/zshanpatel) · <a href="https://cal.com/zeeshanpatel" data-cal-link="zeeshanpatel">Book a call</a> · [Get in touch](mailto:zeeshan.patel.22@ucl.ac.uk)
 
 ---
-_Your underground spot for owning the game. Got a wild idea? [Reply](mailto:zeeshan.patel.22@ucl.ac.uk). We build together. In defiance, we live._
+
+## What I Do
+
+I bridge research with real-world actionable outcomes. I do research, strategise and then present actionable plan. 
+
+[→ Consulting & approach](about.md#s4g-consultancy--brand-solutions-director) · <a href="https://cal.com/zeeshanpatel" data-cal-link="zeeshanpatel">Book a conversation</a>
+
+---
+
+## Background
+
+15 years across global advertising agencies, [MullenLowe](about.md#mullenlowe-lintas-group--brand-services-director), [DDB](about.md#ddb-mudra-group--executive-brand-solutions) [TBWA](about.md#tbwaindia--account-management-trainee),  [BBDO](about.md#career-timeline) — then a pivot into research and systems thinking.
+
+[UCL](about.md#education) MSc in Prosperity, Innovation & Entrepreneurship, [Bartlett](about.md#education) + [Institute for Global Prosperity](about.md#education). Dissertation on multidimensional prosperity. Grade: **Distinction**.
+
+Digital transformation consulting for [London Borough of Hackney](about.md#london-borough-of-hackney--digital-transformation-consultant) through UCL — diagnosing structural blockers in public sector AI adoption.
+
+[→ Full career timeline](about.md#career-timeline) · [→ Education](about.md#education) · [→ Hackney engagement](about.md#london-borough-of-hackney--digital-transformation-consultant)
+
+---
+
+## Research & Writing
+
+**[The Research Thesis](#)** — The UCL dissertation in full. *Prosperity: A Multidimensional Qur'anic Perspective.* What prosperity means beyond GDP, and a framework for thinking about it differently.
+
+**[History](#)** — A personal memoir. India 1945 to now. The story behind the work.
+
+**[Essays](#)** — Opinionated long-reads on culture, systems, economics, and epistemology.
+
+**[Project: Epistemology Framework](#)** ([Project Detail](about.md#current-projects)) — A structured exploration of revelation-based epistemology as a complete knowledge system.
+
+**[Systems & AI](#)** — Practical methodology for AI prompt design, context architecture, and agentic workflow specification.
+
+---
+
+## Projects
+
+**[Alt Way In](https://altway.in)** ([Project Detail](about.md#current-projects)) — Single-origin Indian Arabica coffee. AAA grade, Chikmagalur. Substance over signalling.
+
+**[One Vault](#)** ([Project Detail](about.md#current-projects)) — Federated, gold-pegged, peer-to-peer lending for trusted circles. Built on ethical finance principles.
+
+**[Strive for Growth](https://cal.com/zeeshanpatel)** ([Project Detail](about.md#s4g-consultancy--brand-solutions-director)) — Strategy consultancy. Context architecture, AI systems design, organisational transformation.
+
+[→ All projects](about.md#current-projects)
+
+---
+
+## Awards
+
+Blue Elephant (Kyoorius) · Gold OAC Outdoor Asia · Bronze WOW Awards Asia × 2 · Effie Finalist
+
+[→ Full recognition](about.md#awards--recognition)
+
+---
+
+> "Prosperity isn't just economic. It's divine flow, that lasts."
+> — from the thesis
+
+[Newsletter](https://tally.so/r/wvkGjv) · [About & CV](about.md) · [LinkedIn](https://www.linkedin.com/in/zshanpatel)
+
+
