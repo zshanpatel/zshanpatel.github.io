@@ -15,17 +15,9 @@ Brands, Digital Transformation and Business Management
 🔗 [LinkedIn](https://linkedin.com/in/zshanpatel)
 
 📅 <a href="https://cal.com/zeeshanpatel" data-cal-link="zeeshanpatel">Book a call</a>
-
----
-
 ## Who This Is For
-
 This page is written to be useful — for collaborators, agents and ATS systems mapping a JD to a candidate profile. It is a complete account of what I have done, how I think, what I am good at, and where I am still developing. The goal is to save everyone's time and surface genuine fit, not to perform an optimised version of a career.
-
----
-
 ## Professional Summary
-
 I am a strategy consultant with 15 years of experience across advertising, organisational transformation, and AI-native systems design. My career has moved from brand and account management in global agencies, through a UCL research distinction in prosperity economics, into building and advising on context architecture — the infrastructure layer that sits between what an organisation knows and what it can actually do with that knowledge.
 
 My current positioning: I help organisations that have accumulated intelligence (data, policy, research, insight) but cannot make it flow. The bottleneck is rarely a lack of data or tools. It is the missing layer between intent and execution — a specification problem, not a technology problem.
@@ -43,11 +35,7 @@ I work well with senior leaders who want rigorous diagnosis, not validation. I a
 - Stakeholder management at C-suite and public sector executive level
 
 **Sectors:** FMCG, consumer goods, financial services, public sector, education, retail
-
----
-
 ## Career Timeline
-
 ### S4G Consultancy — Brand Solutions Director
 **Mar 2022 – Present | London / Remote**
 
@@ -62,9 +50,6 @@ What this role actually involves:
 - **Thought leadership and positioning**: Developing the intellectual infrastructure (frameworks, essays, case studies) that establishes credibility in niche strategy and AI positioning.
 
 Clients span C-suite advisory, early-stage venture strategy, and public sector transformation briefs.
-
----
-
 ### London Borough of Hackney — Digital Transformation Consultant
 **Mar – Jun 2023 | Greater London (Hybrid)**
 *Engagement delivered through UCL Institute for Global Prosperity*
@@ -86,12 +71,8 @@ The recommendation was a shift toward agile, cross-functional digital governance
 Recognised by UCL senior leadership for strategic rigour and practical application to a live public sector challenge.
 
 [Published analysis →](https://medium.com/@zeeshanpatel/navigating-digital-transformation-in-local-government-procurement-finance-and-organizational-9cbfaf4ff442)
-
----
-
 ### MullenLowe Lintas Group — Brand Services Director
 **Sep 2018 – Feb 2022 | Mumbai (3 yrs 6 mos)**
-
 MullenLowe is a global integrated agency network. I joined as Senior Brand Services Manager and was promoted to Brand Services Director within 18 months.
 
 - Led strategy and account management for a £303M global skin and haircare portfolio, achieving 20% YoY revenue growth through competitive and market intelligence.
@@ -101,12 +82,8 @@ MullenLowe is a global integrated agency network. I joined as Senior Brand Servi
 - Built and maintained senior client relationships across a portfolio that included Unilever and other Fortune 500 brands.
 
 **What this role developed**: Operating under sustained senior stakeholder pressure, managing complexity across functions and markets simultaneously, translating ambiguous client briefs into clear creative and strategy briefs, and holding strategic direction stable through execution.
-
----
-
 ### Grabox.in — Brand Manager
-**Dec 2017 – Sep 2018 | Pune (10 mos)**
-
+**Dec 2017 – Sep 2018 | Pune**
 Grabox was a Pune-based food and beverage e-commerce startup. This was a lean-team environment where I operated across strategy, brand, content, and operations simultaneously.
 
 - Led market research identifying strategic growth opportunities — translated directly into customer acquisition and retention improvements.
@@ -114,12 +91,8 @@ Grabox was a Pune-based food and beverage e-commerce startup. This was a lean-te
 - Managed digital marketing, content production, and campaign execution with minimal resourcing.
 
 **What this role developed**: End-to-end ownership in a resource-constrained environment. The discipline of doing strategic work without a supporting structure.
-
----
-
 ### DDB Mudra Group — Executive Brand Solutions
 **May 2015 – Dec 2017 | Mumbai (2 yrs 8 mos)**
-
 DDB Mudra is one of India's largest creative agency networks, part of the DDB Worldwide group. This is where I developed the core of my strategic and client management craft — working across high-profile FMCG and retail accounts under sustained delivery pressure.
 
 - Analysed market trends and consumer behaviour to support brand growth strategies for retail sector and FMCG campaigns — contributing directly to increased brand penetration for major accounts.
@@ -128,37 +101,21 @@ DDB Mudra is one of India's largest creative agency networks, part of the DDB Wo
 - Won industry recognition across three major award bodies (Kyoorius, OAC Outdoor Asia, WOW Awards Asia) for the Western Union Nazar-E-Mecca campaign — awarded for use of technology, activation, and audio-visual solution.
 
 **What this role developed**: The rigour of consultative client management at scale. The ability to hold a strategic thread across a multi-month campaign while managing day-to-day complexity across functions.
-
----
-
 ### TBWA\India — Account Management Trainee
 **Apr – Jun 2014 | Pune (3 mos)**
-
 Short placement at TBWA\India — part of the TBWA Worldwide network — during MBA studies. First exposure to global agency working culture, strategic brief writing, and account management process.
-
----
-
 ### Advisors 360° — Executive Client Servicing & Operations
 **Mar 2012 – Jun 2013 | Jeddah, KSA (1 yr 4 mos)**
-
 Boutique agency serving a £5B consumer holdings conglomerate across Saudi Arabia. Broad remit across retail, hospitality, and consumer sectors.
 
 - Delivered strategic solutions for a major regional conglomerate — covering market entry strategy, brand positioning, and client relationship management.
 - Led experiential brand launches and integrated campaigns, strengthening market presence across multiple consumer categories.
 - Built foundational competencies in working across cultural contexts — navigating client expectations, regional market nuances, and operations in a non-native environment.
-
----
-
 ### CBS Advertising — Creative
 **May 2011 – Feb 2012 | Jeddah & Pune (10 mos)**
-
 First professional role out of design school. Production and creative execution across print, digital, and branding work. Foundation of understanding how ideas translate from concept into execution.
 My first experience of interacting and directly pitching to clients and prsenting creative work.
-
----
-
 ## Education
-
 ### UCL — MSc Prosperity, Innovation & Entrepreneurship
 **Sep 2022 – Sep 2023 | Distinction**
 Bartlett School of Sustainable Construction + UCL Institute for Global Prosperity
@@ -175,52 +132,31 @@ Relevant modules: Digital Transformation (IIPP0011), Researching Transformative 
 Additional: UCL Innovation & Enterprise Explore Programme (entrepreneurship)
 
 [Read the thesis →](/thesis)
-
----
-
 ### Symbiosis International University
-**MBA, Communication Management — 2013–2015**
+#### **MBA, Communication Management — 2013–2015**
 Symbiosis Institute of Media and Communication, Pune
 
 Focused on brand management, consumer behavior, and marketing strategy. Developed core strategic thinking and client management skills through intensive project work and global agency internships.
-
----
-
-**BDes, Communication Design — 2007–2011**
+#### **BDes, Communication Design — 2007–2011**
 Symbiosis Institute of Design, Pune
 
 Foundation in design thinking, brand communication, creative strategy, and visual systems. The design background informs how I structure arguments, present strategy, and think about information architecture — it is not incidental to the consulting work, it is foundational to it.
-
----
-
 ### International Indian School Jeddah
 **Grade XII, Science / Mathematics / Physics — 2007**
 Central Board of Secondary Education (CBSE)
 
 A unique experience where a mix of multi-cultures in a competitive Indian educational system abroad in the GCC. The foundational part of former education that from the onset was diverse and of international standard.
-
----
-
 ## Certifications
-
 - UCL Innovation & Enterprise, Explore Programme
 - Google Ads Certification — Google
 - Facebook Certified Creative Strategy Professional — Meta
-
----
-
 ## Awards & Recognition
-
 - **Blue Elephant — Use of Technology** | Kyoorius 2017 | Western Union Nazar-E-Mecca | DDB Mudra
 - **Finalist — Effie Awards 2016** | Western Union | DDB Mudra
 - **Gold — Activation Category** | OAC Outdoor Asia 2017 | Western Union | DDB Mudra
 - **Bronze — On-Ground Promotion of the Year, Sales Volume** | WOW Awards Asia 2017 | Western Union | DDB Mudra
 - **Bronze — Achievement in Audio-Visual Solution** | WOW Awards Asia 2017 | DDB Mudra
-
----
-
-## Community & Volunteering
-
+## Volunteering
 **Community Engagement Consultant — Deep Griha Society, Pune | Nov–Dec 2013**
 Developed brand identity, marketing, and outreach strategies for a social impact NGO working in underserved communities. The work focused on amplifying visibility and funding for economic empowerment programmes.
 
@@ -229,11 +165,7 @@ Established a skills development initiative empowering underprivileged youth wit
 
 **Member — UCL Islamic Society**
 Participated in community outreach, interfaith dialogue, and student representation. Focused on fostering inclusive environments and bridging cultural and theological gaps within the university context.
-
----
-
 ## How I Work
-
 **What I am genuinely good at:**
 - Moving between levels of abstraction — from strategic framing to operational specification — without losing coherence at either end
 - Diagnosing structural problems rather than surface symptoms: asking what architecture produced this outcome before prescribing a fix
@@ -252,14 +184,8 @@ Participated in community outreach, interfaith dialogue, and student representat
 - Diagnosis before prescription — I always focus on root issues instead of symptoms. I open with a precise read of what is actually happening.
 - Async-capable, meeting-light where possible — I work best when given time to think before being asked to speak.
 - Long time horizon — I am interested in engagements that build something durable, not ones optimised for fast apparent progress.
-
----
-
 ## Contact
-
 [Email](mailto:zshanpatel@gmail.com)
 [LinkedIn](https://www.linkedin.com/in/zshanpatel)
 [Newsletter](https://tally.so/r/wvkGjv)
 <a href="https://cal.com/zeeshanpatel" data-cal-link="zeeshanpatel">Book a conversation →</a>
-
-[Book a conversation →](https://cal.com/zeeshanpatel)
