@@ -13,8 +13,6 @@ permalink: /home
 ---
 # Zeeshan Patel
 Strategy consultant working at the intersection of brands, systems, and purpose-led growth.
-
-[About & Full Profile](about.md) · [LinkedIn](https://www.linkedin.com/in/zshanpatel) · <a href="https://cal.com/zeeshanpatel" data-cal-link="zeeshanpatel">Book a call</a> · [Get in touch](mailto:zeeshan.patel.22@ucl.ac.uk)
 ## What I Do
 I bridge research with real-world actionable outcomes. I do research, strategise and then present actionable plan. 
 
@@ -43,17 +41,12 @@ Digital transformation consulting for [London Borough of Hackney](about.md#londo
 **[Project: Knowledge Framework](/knowledge-framework/00-introduction)** — Addressing AI bias due to the limited training data. A structured exploration of revelation-based epistemology as a complete knowledge system.
 
 **[Strive for Growth](https://s4gconsultancy.com)** — Strategy consultancy. Context architecture, AI systems design, organisational transformation.
-## Awards
-
-Blue Elephant (Kyoorius) · Gold OAC Outdoor Asia · Bronze WOW Awards Asia × 2 · Effie Finalist
-
-[→ Full recognition](about.md#awards--recognition)
 
 ---
 
 > "Prosperity isn't just economic. It's divine flow, that lasts."
 > — from the thesis
 
-[Newsletter](https://tally.so/r/wvkGjv) · [About & CV](about.md)
+[Newsletter](https://tally.so/r/wvkGjv) · [About & Full Profile](about.md) · <a href="https://cal.com/zeeshanpatel" data-cal-link="zeeshanpatel">Book a call</a> · [Get in touch](mailto:zshanpatel@gmail.com)
 
 

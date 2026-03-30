@@ -1,5 +1,5 @@
 ---
-title: Zeeshan Patel
+title: About
 permalink: /about
 description: Strategy consultant, systems thinker, UCL researcher. 15 years across advertising, AI systems design, and public sector transformation.
 showDate: false
