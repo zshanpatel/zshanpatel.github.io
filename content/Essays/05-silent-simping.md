@@ -1,5 +1,5 @@
 ---
-title: Has Feminism Made Men Abandon Masculinity
+title: Is this the End of Masculinity
 tags:
   - neoliberalism
   - feminism
@@ -11,13 +11,11 @@ draft: false
 ![simp-image.png](simp-image.png)
 Silent simping is real
 
-You're simping and you don't even know it.
+Simping is when a man trades his strength, dignity, or purpose. There are untouchable traits of being masculine. Not to be hampered with.
 
-Simping is when a man trades his strength, dignity, or purpose for anything.
+Yet men are quietly abandoning their role as a man. Accepting the slow dismantling of masculinity as 'progress'. Oppressed under the weight of being called oppressive. What have we become. Simps.
 
-Every time you nod along to feminist talking points. Every time you celebrate the "strong independent woman" while quietly abandoning your role as a man. Every time you accept the dismantling of masculinity as progress. Every time you stay silent when gender roles are called oppressive. You're simping.
-
-Silently. Unconsciously. And it's been normalised.
+Silently. Unconsciously. Being normalised.
 
 This isn't some accident of social evolution. This is a neo-colonial project. Feminism, in its liberal form, is an ideological export designed to dismantle the family units. It's sold as liberation, but it's actually a divide-and-rule strategy as old as colonialism itself. A liberal ideology deflecting from its own inherent violence, rebranding material subjugation as freedom of choice.
 
@@ -47,10 +45,10 @@ This is what you're quietly accepting. This is what silent simping looks like.
 
 So what's the alternative?
 
-Reject the premise. The father and mother are biologically and spiritually programmed toward the child's best interests. Feminism isn't liberating women, it's enslaving both men and women to material pursuits while severing their connection to the divine. Traditional Islamic gender roles aren't oppressive, they're a framework for building families that can resist the neo-colonial order and raise children oriented toward transcendental greatness, not just financial success.
+Reject the premise. The father and mother are biologically and spiritually programmed toward the child's best interests. Feminism isn't liberating women, it's enslaving both men and women to material pursuits while severing divine connection. Traditional gender roles aren't oppressive, they're a framework for building families and socities that can resist the neo-colonial order and raise civilisations oriented toward transcendental greatness, not just material-financial success.
 
-Men: reclaim your role. Provide. Protect. Lead. Not because you're superior, but because that's your function in the divine design.
+Men: must reclaim the role. Provide. Protect. Lead. Because that's the dutiful function in the divine design.
 
-Women: reclaim your role. Nurture. Raise. Build. Not because you're inferior, but because motherhood and family-building are the foundation of civilisation.
+Women: be lost or reclaim your role. Nurture. Raise. Build. Motherhood and family-building are the foundation of civilisation.
 
-Stop simping. Stop accepting the dismantling of what makes you strong. The system is counting on your silence.
+Stop simping. The system is counting on our silence.

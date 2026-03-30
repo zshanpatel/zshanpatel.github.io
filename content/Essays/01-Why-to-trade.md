@@ -1,5 +1,5 @@
 ---
-title: How to Trade Crypto?
+title: Why We Trade Crypto?
 tags:
   - crypto
   - hype-cycle

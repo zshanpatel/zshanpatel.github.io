@@ -1,5 +1,5 @@
 ---
-title: Why Art Matters to Code
+title: The New Vibe is Coding and Art
 tags:
   - economic-shift
   - knowledge-values-integration
@@ -8,10 +8,8 @@ showDate: false
 draft: false
 ---
 ![coder-image.png](coder-image.png)
-## The Death of Coding and Rise of Ideas
-They told you to learn to code.
-
-Get a Computer Science degree. Learn Python. JavaScript. React. The future is tech. STEM is secure. Social sciences? That's for people who want to work at coffee shops.
+## The Rise of Ideas
+They told you to learn to code. Get a Computer Science degree. Learn Python. JavaScript. React. The future is tech. STEM is secure. Social sciences? That's for people who want to work at coffee shops.
 
 Well, here's the update: AI codes better than you now. And it's getting better every day.
 

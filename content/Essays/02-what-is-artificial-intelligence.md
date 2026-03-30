@@ -1,5 +1,5 @@
 ---
-title: What is AI/ Predictive Tech
+title: What is Predictive Tech
 tags:
   - open-source
   - MVP
@@ -23,7 +23,7 @@ AI makes things easy, sure, but it shouldn't be made into God. In the end, it's 
 
 I also say that because I see overflowing tangents of AI in cryptocurrency there somewhere as well. 
 
-I think we're at the peak of the AI bubble, just like the [memecoin-casino hype-cycle](01-how-to-trade.md) back in December 2024. Which as I am writing this in October 2025, is back again. People never learn.
+I think we're at the peak of the AI bubble, just like the [memecoin-casino hype-cycle](01-Why-to-trade.md) back in December 2024. Which as I am writing this in October 2025, is back again. People never learn.
 
 ![memecoin.png](memecoin.png)
 _Total memecoin market capitalisation. Source: [CoinMarketCap](https://coinmarketcap.com/charts/)_

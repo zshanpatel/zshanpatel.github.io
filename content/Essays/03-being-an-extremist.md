@@ -1,5 +1,5 @@
 ---
-title: Are you all just tamed extremists?
+title: Are We Just Dormant Extremists?
 tags:
   - collective-consciousness
   - language

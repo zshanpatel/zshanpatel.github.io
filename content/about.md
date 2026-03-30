@@ -1,16 +1,19 @@
 ---
-title: About Zeeshan Patel
+title: Zeeshan Patel
 permalink: /about
 description: Strategy consultant, systems thinker, UCL researcher. 15 years across advertising, AI systems design, and public sector transformation.
 showDate: false
 draft: false
 ---
-# Zeeshan Patel
-Strategy Consultant — Brands, AI Systems, Purpose-led Growth
+## Strategy Consultant
+Brands, Digital Transformation and Business Management
 
-📍 Pune, India / London, UK (open to relocation and hybrid)
+📍 Mumbai, India / London, UK
+
 📧 [Email](mailto:zshanpatel@gmail.com)
+
 🔗 [LinkedIn](https://linkedin.com/in/zshanpatel)
+
 📅 <a href="https://cal.com/zeeshanpatel" data-cal-link="zeeshanpatel">Book a call</a>
 
 ---

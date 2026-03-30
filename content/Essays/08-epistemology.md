@@ -1,5 +1,5 @@
 ---
-title: Epi-Fockin-What?
+title: Epi-what-ology?
 tags:
   - personal-development
   - perspective-shift
