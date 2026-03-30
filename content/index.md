@@ -14,7 +14,6 @@ tags:
   - consulting
   - ucl
   - prosperity
-permalink: /
 ---
 
 # Zeeshan Patel
