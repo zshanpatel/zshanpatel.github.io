@@ -16,20 +16,20 @@ Strategy Consultant, Brand Communication, Digital Transformation and Business Ma
 
 📅 <a href="https://cal.com/zeeshanpatel" data-cal-link="zeeshanpatel">Book a call</a>
 ## Who This Is For
-This page is written to be useful — for collaborators, agents and ATS systems mapping a JD to a candidate profile. It is a complete account of what I have done, how I think, what I am good at, and where I am still developing. The goal is to save everyone's time and surface genuine fit, not to perform an optimised version of a career.
+This page is written to be useful for collaborators, agents and ATS systems mapping. It is a complete account of what I have done, how I think, what I am good at, and where I am still developing. The goal is to save everyone's time and surface genuine fit, not to perform an optimised version of a career.
 ## Professional Summary
-I am a strategy consultant with 15 years of experience across advertising, organisational transformation, and AI-native systems design. My career has moved from brand and account management in global agencies, through a UCL research distinction in prosperity economics, into building and advising on context architecture — the infrastructure layer that sits between what an organisation knows and what it can actually do with that knowledge.
+I am a strategy consultant with 15 years of experience across advertising, organisational transformation, and digital systems design. My career has moved from brand and account management in global agencies, through a UCL research distinction in prosperity economics, into building and advising on digital transformation and context architecture: the infrastructure layer that sits between what an organisation knows and what it can actually do with that knowledge.
 
-My current positioning: I help organisations that have accumulated intelligence (data, policy, research, insight) but cannot make it flow. The bottleneck is rarely a lack of data or tools. It is the missing layer between intent and execution — a specification problem, not a technology problem.
+My current positioning: I help organisations that have accumulated intelligence (data, policy, research, insight) but cannot make it flow. The bottleneck is rarely a lack of data or tools. It is the missing layer between intent and execution. A specification problem, not a technology problem.
 
-I work well with senior leaders who want rigorous diagnosis, not validation. I am most effective in engagements that operate at the intersection of strategy, systems thinking, and AI implementation — where the question is not "which tool" but "what architecture."
+I work well with senior leaders. I am most effective in engagements that operate at the intersection of strategy, brand, and systems thinking and implementation. Where the question is not just "what's been working" but "how is the architecture evolving."
 
 **Core competencies:**
 - Strategic landscape analysis and competitive positioning
-- Context architecture and knowledge system design
-- AI/agentic workflow specification (what the system does, what it escalates, what it never touches)
+- RAG system and knowledge system design
+- Agentic context systems specification (what the system does, what it escalates, what it never touches)
 - Organisational intelligence diagnosis (where knowledge is stored vs. where it flows)
-- RAG system design and implementation strategy
+-  and implementation strategy
 - Go-to-market strategy and brand positioning
 - Research translation: converting academic and qualitative insight into operational decision frameworks
 - Stakeholder management at C-suite and public sector executive level
