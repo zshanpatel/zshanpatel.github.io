@@ -1,8 +1,13 @@
 ---
-title: The Lexicon
+title: Lexicon
 type: knowledge-map
 status: active
-tags: [epistemology, strategy, frameworks, tawhid, theory-u]
+tags:
+  - epistemology
+  - strategy
+  - frameworks
+  - tawhid
+  - theory-u
 permalink: /lexicon
 ---
 

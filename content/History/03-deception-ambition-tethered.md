@@ -10,7 +10,7 @@ aliases:
 showDate: false
 draft: false
 ---
-![deception-image.png](deception-image.png)
+![[04 Blog Content/History/images/deception-image.png]]
 # Ambition Tethered
 ### 1980
 India was now a free country. The British had left, and what remained was up for grabs. And the countrymen did grab it, with both hands.

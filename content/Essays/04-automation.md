@@ -10,12 +10,10 @@ aliases:
 showDate: true
 draft: false
 ---
-#### 2. ⁠⁠Automation: 
-This is the most hyped AI product: automating processes using AI. A lot of AI agencies are selling these apart from chatbots: personal assistants, lead generation, email management, calendar scheduling.
-
 ![n8n.png](n8n.png)
 _Source: [n8n](https://n8n.io/)_
 
+This is the most hyped AI product: automating processes using AI. A lot of AI agencies are selling these apart from chatbots: personal assistants, lead generation, email management, calendar scheduling.
 I set up a few automations for myself but I'm yet to close in on what I actually need agents for. And it seems like every day there are new AI agents with more advanced functionalities. Very interesting and entertaining space. 
 
 I would compare this to graphic design tools in the 90s or social media management in the 2000s. While these tools were all the rage, the real value remained at the macro-strategy level.
