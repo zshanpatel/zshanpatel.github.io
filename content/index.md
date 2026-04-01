@@ -11,42 +11,35 @@ tags:
   - prosperity
 permalink: /home
 ---
-# Zeeshan Patel
-Strategy consultant working at the intersection of brands, systems, and purpose-led growth.
-## What I Do
-I bridge research with real-world actionable outcomes. I do research, strategise and then present actionable plan. 
+![[hero-image.png]]
+I'm Zeeshan 👋
+Strategy consultant working at the intersection of [[Systems and AI/index|systems]], and brands. I am a bit fixated with bridging research and executive action. 
 
-[→ Consulting & approach](about.md#s4g-consultancy--brand-solutions-director) · <a href="https://cal.com/zeeshanpatel" data-cal-link="zeeshanpatel">Book a conversation</a>
-## Background
-15 years across global advertising agencies, [MullenLowe](about.md#mullenlowe-lintas-group--brand-services-director), [DDB](about.md#ddb-mudra-group--executive-brand-solutions) [TBWA](about.md#tbwaindia--account-management-trainee),  [BBDO](about.md#career-timeline) — then a pivot into research and systems thinking.
+15 years across global advertising agencies, [[04-mullen|MullenLowe]], [[06-ddb|DDB]] [[08-tbwa|TBWA]],  [[01-s4g-consultancy#career-timeline|BBDO]] — then a pivot into research and [[Systems and AI/index|systems thinking]].
 
-[UCL](about.md#education) MSc in Prosperity, Innovation & Entrepreneurship, [Bartlett](about.md#education) + [Institute for Global Prosperity](about.md#education). Dissertation on multidimensional prosperity. Grade: **Distinction**.
+[[01-s4g-consultancy#education|UCL MSc]] in Prosperity, Innovation & Entrepreneurship, [[01-s4g-consultancy#education|Bartlett]] + [[01-s4g-consultancy#education|Institute for Global Prosperity]]. Dissertation on multidimensional prosperity. Grade: **Distinction**.
 
-Digital transformation consulting for [London Borough of Hackney](about.md#london-borough-of-hackney--digital-transformation-consultant) through UCL — diagnosing structural blockers in public sector AI adoption.
+Digital transformation consulting for [[01-s4g-consultancy#london-borough-of-hackney--digital-transformation-consultant|London Borough of Hackney]] through UCL — diagnosing structural blockers in public sector [[Systems and AI/00-why-context-and-prompts|AI adoption]].
 
-[→ Full career timeline](about.md#career-timeline) · [→ Education](about.md#education) · [→ Hackney engagement](about.md#london-borough-of-hackney--digital-transformation-consultant)
+[→ Full career timeline](01-s4g-consultancy.md#career-timeline) · [→ Education](01-s4g-consultancy.md#education) · [→ Hackney engagement](01-s4g-consultancy.md#london-borough-of-hackney--digital-transformation-consultant)
 ## Research & Writing
-**[The Research Thesis](/thesis)** — The UCL dissertation in full. *Prosperity: A Multidimensional Qur'anic Perspective.* What prosperity means beyond GDP, and a framework for thinking about it differently.
+**[[The Research Thesis/index|The Research Thesis]]** — The UCL dissertation in full. *Prosperity: A Multidimensional Qur'anic Perspective.* What prosperity means beyond GDP, and a framework for thinking about it differently.
 
-**[History](/history)** — A personal memoir. India 1945 to now. The story behind the work.
+**[[History/index|History]]** — A personal memoir. India 1945 to now. The story behind the work.
 
-**[Essays](/essays)** — Opinionated long-reads on culture, systems, economics, and epistemology.
+**[[Essays/index|Essays]]** — Opinionated long-reads on culture, systems, economics, and [[Lexicon/index|Lexicon-based Epistemology]].
 
-**[Systems & AI](/systems-and-ai)** ([Project Detail](/about#s4g-consultancy--brand-solutions-director)) — Practical methodology for AI prompt design, context architecture, and agentic workflow specification.
+**[[Systems and AI/index|Systems & AI]]** ([[01-s4g-consultancy#s4g-consultancy--brand-solutions-director|Project Detail]]) — Practical methodology for AI prompt design, [[06 Metadata/External Context/S4G/plan|context architecture]], and agentic workflow specification.
 ## Current Projects
-**[Alt Way In](https://altway.in)** — Single-origin Indian Arabica coffee. The brand operates on a simple philosophy: Indian-origin, commodity-focused, substance over signalling. Real product, no hype.
+**[[Alt Way In](https://altway.in)]** — Single-origin Indian Arabica coffee. The brand operates on a simple philosophy: Indian-origin, commodity-focused, [[Lexicon/strive|substance over signalling]]. Real product, no hype.
 
-**[Project: Alternative Finance](/alternative-finance/00-read-me)** — Federated, gold-pegged, peer-to-peer lending for trusted circles. Built on ethical finance principles.
+**[[Project Knowledge Framework/index|Project: Knowledge Framework]]** — Addressing AI bias due to the limited training data. A structured exploration of revelation-based epistemology as a complete [[Lexicon/one-vault|knowledge system]].
 
-**[Project: Knowledge Framework](/knowledge-framework/00-introduction)** — Addressing AI bias due to the limited training data. A structured exploration of revelation-based epistemology as a complete knowledge system.
-
-**[Strive for Growth](https://s4gconsultancy.com)** — Strategy consultancy. Context architecture, AI systems design, organisational transformation.
+**[Strive for Growth](https://s4gconsultancy.com)** — Strategy consultancy. [[Lexicon/grand-challenges|Strategic landscape analysis]], [[Systems and AI/00-why-context-and-prompts|AI systems design]], [[Lexicon/theory-u|organisational transformation]].
 
 ---
 
 > "Prosperity isn't just economic. It's divine flow, that lasts."
-> — from the thesis
+> — from his [[The Research Thesis/index|Thesis]]
 
-[Newsletter](https://tally.so/r/wvkGjv) · [About & Full Profile](about.md) · <a href="https://cal.com/zeeshanpatel" data-cal-link="zeeshanpatel">Book a call</a> · [Get in touch](mailto:zshanpatel@gmail.com)
-
-
+[Newsletter](https://tally.so/r/wvkGjv) · [[01-s4g-consultancy|About & Full Profile]] · <a href="https://cal.com/zeeshanpatel" data-cal-link="zeeshanpatel">Book a call</a> · [Get in touch](mailto:zshanpatel@gmail.com)

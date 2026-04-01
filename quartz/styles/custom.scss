@@ -1,8 +1,28 @@
 @use "./base.scss";
 
-// put your custom CSS here!
+// Clean Reading Overrides (Fixing the "Typewriter Puke")
+body {
+  line-height: 1.6;
+  letter-spacing: normal;
+  -webkit-font-smoothing: antialiased;
+}
 
 pre {
   white-space: pre-wrap;
   word-wrap: break-word;
+}
+
+// Industrial Link Overrides (Removing All Background Distractions)
+.internal.link, a {
+  background-color: transparent !important;
+  transition: all 0.2s ease-in-out;
+  color: var(--secondary) !important;
+  text-decoration: none !important;
+}
+
+.internal.link:hover, a:hover {
+  background-color: transparent !important;
+  color: var(--tertiary) !important;
+  opacity: 0.94 !important; /* Premium "Dim" effect on hover */
+  text-decoration: none !important; /* Zero underlines */
 }

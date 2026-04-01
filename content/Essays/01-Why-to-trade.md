@@ -1,12 +1,12 @@
 ---
-title: Why We Trade Crypto?
+title: Why Trade Crypto?
 tags:
   - crypto
   - hype-cycle
   - memecoins
   - trading-strategy
 aliases:
-showDate: false
+showDate: true
 draft: false
 ---
 ![trading.png](trading.png)

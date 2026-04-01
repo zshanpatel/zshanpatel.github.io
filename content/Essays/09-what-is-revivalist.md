@@ -10,7 +10,7 @@ status: published
 ---
 ![revivalist-image.png](revivalist-image.png)
 # The Revivalist Project: Reclaiming the Principle of Movement
-*We are a generation trapped between two deaths: a fossilised tradition that has forgotten how to breathe, and a soulless modernity that has forgotten how to believe.*
+We are a generation trapped between two deaths: a fossilised tradition that has forgotten how to breathe, and a soulless modernity that has forgotten how to believe.
 ## The Intellectual Rigor Mortis
 The decline of our collective power is not a military failure, nor is it a lack of resources. It is an intellectual and spiritual collapse. For centuries, independent reasoning (gates of *Ijtihad*) were declared closed, turning a dynamic, living system into a museum of ''accepted principles''. We replaced active intelligence with blind imitation (*Taqlid*), choosing the safety of the past over the responsibility of the future.
 

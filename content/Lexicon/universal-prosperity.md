@@ -6,7 +6,6 @@ tags:
   - framework
   - model
 ---
-
 # 🌀 Universal Prosperity (UP)
 > A multidimensional model of human flourishing that integrates material success, social justice, and spiritual fulfilment within a monotheistic framework.
 

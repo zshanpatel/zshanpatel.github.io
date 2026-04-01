@@ -52,18 +52,23 @@ export const defaultContentPageLayout: PageLayout = {
   ],
   right: [
     Component.ConditionalRender({
-      component: Component.Graph(),
+      component: Component.Graph({
+        localGraph: {
+          showTags: false,
+        },
+        globalGraph: {
+          showTags: false,
+        },
+      }),
       condition: (page) =>
         page.fileData.slug !== "thesis/01-acknowledgments" &&
-        page.fileData.slug !== "index" &&
         page.fileData.slug !== "thesis/10-bibliography" &&
-        page.fileData.slug !== "thesis/abbreviations", // Add this condition
+        page.fileData.slug !== "thesis/abbreviations",
     }),
     Component.ConditionalRender({
       component: Component.DesktopOnly(Component.TableOfContents()),
       condition: (page) =>
-        page.fileData.slug !== "index" &&
-        page.fileData.slug !== "thesis/abbreviations", // Add this condition
+        page.fileData.slug !== "thesis/abbreviations",
     }),
     Component.ConditionalRender({
       component: Component.Backlinks(),
