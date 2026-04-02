@@ -9,7 +9,6 @@ draft: false
 ---
 
 ![puppet-master-image.png](puppet-master-image.png)
-
 ## The Knowledge Crisis I Didn't Know I Had
 
 You're being played. And you don't even know it.

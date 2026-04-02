@@ -1,17 +1,20 @@
 ---
+name: systems-and-ai
+description:
+pageTitle: Systems and AI
 title: Systems and AI
 permalink: /systems-and-ai
+showDate: false
+showRecentNotesDates: false
 ---
+> For the last 37 year, human civilsatio has been in the great digital transformation, a transition from the old into the new. This change is not binary anymore and is now being governed by context, tools, and workflows.
 
-# 🏗️ AI Intellectual Engine: Prompts & Systems
-> This collection is categorised by **Context** (Logic), **Prompts** (Tools), and **Workflows** (Skills).
-
-## 01. System Context (`type: context`)
+## System Context
 The foundational logic that governs how the AI thinks and speaks.
-- [[00-why-context-and-prompts|Why Prompts Matter]]
+- [[00-context|Why Prompts Matter]]
 - [[01-intellectual-voice-profile|Intellectual Voice Profile (IVP)]]
 
-## 02. Modular Prompts (`type: prompt`)
+## Modular Prompts (`type: prompt`)
 Specialised, reusable instructions for specific high-signal outputs.
 - [[02-create-art-prompt|The AI Artist's Prompt]]
 - [[03-improve-writing|How to Write with AI]]

@@ -1,45 +1,29 @@
 ---
+name: elevator-pitch
+description: Zeeshan Patel,  is a strategy consultant working at the intersection of AI systems, context architecture, and purpose-led growth. UCL MSc Distinction. 15 years across advertising, public sector, and AI-native consulting.
 title: Zeeshan Patel
-description: Strategy consultant working at the intersection of AI systems, context architecture, and purpose-led growth. UCL MSc Distinction. 15 years across advertising, public sector, and AI-native consulting.
-keywords: Zeeshan Patel, strategy consultant, context architecture, AI systems, RAG, agentic workflows, UCL, Wardley mapping, organisational transformation
 tags:
-  - strategy
-  - ai-systems
-  - context-architecture
-  - consulting
-  - ucl
-  - prosperity
 permalink: /home
 ---
 ![[hero-image.png]]
-I'm Zeeshan 👋
-Strategy consultant working at the intersection of [[Systems and AI/index|systems]], and brands. I am a bit fixated with bridging research and executive action. 
 
-15 years across global advertising agencies, [[04-mullen|MullenLowe]], [[06-ddb|DDB]] [[08-tbwa|TBWA]],  [[01-s4g-consultancy#career-timeline|BBDO]] — then a pivot into research and [[Systems and AI/index|systems thinking]].
+Hey. I'm Zeeshan. 👋
 
-[[01-s4g-consultancy#education|UCL MSc]] in Prosperity, Innovation & Entrepreneurship, [[01-s4g-consultancy#education|Bartlett]] + [[01-s4g-consultancy#education|Institute for Global Prosperity]]. Dissertation on multidimensional prosperity. Grade: **Distinction**.
+This is my little [[Lexicon/hypertext|hypertext]] [[Lexicon/garden|garden]] in the infinite world of the internet. 
 
-Digital transformation consulting for [[01-s4g-consultancy#london-borough-of-hackney--digital-transformation-consultant|London Borough of Hackney]] through UCL — diagnosing structural blockers in public sector [[Systems and AI/00-why-context-and-prompts|AI adoption]].
+Currently, I’m exploring what [[Systems and AI/00-context|context engineering]] for executives looks like, and creating [[Systems and AI/index|systems]] at [[About/01-s4g-consultancy|Strive for Growth Consultancy]]. 
 
-[→ Full career timeline](01-s4g-consultancy.md#career-timeline) · [→ Education](01-s4g-consultancy.md#education) · [→ Hackney engagement](01-s4g-consultancy.md#london-borough-of-hackney--digital-transformation-consultant)
-## Research & Writing
-**[[The Research Thesis/index|The Research Thesis]]** — The UCL dissertation in full. *Prosperity: A Multidimensional Qur'anic Perspective.* What prosperity means beyond GDP, and a framework for thinking about it differently.
+On a deeper level, I am interested in the [[Essays/10-epistemology|epistemology]] of knowledge drawn through [[Lexicon/intrinsic-epistemic|inward thinking]] and the innate mental ability of instinctive moral propensity, its presence in history, influence on the masses and its place in modern society.  How might we create from first principle, infrastructures that enables [[Lexicon/universal-prosperity|universal prosperity]] through [[Lexicon/theory-u|civilisational transformation]].
 
-**[[History/index|History]]** — A personal memoir. India 1945 to now. The story behind the work.
+As far as ‘landing’ pages go, I hope this acts as an open invitation into the many winding paths throughout this garden. Here are some places you may want to visit:
 
-**[[Essays/index|Essays]]** — Opinionated long-reads on culture, systems, economics, and [[Lexicon/index|Lexicon-based Epistemology]].
-
-**[[Systems and AI/index|Systems & AI]]** ([[01-s4g-consultancy#s4g-consultancy--brand-solutions-director|Project Detail]]) — Practical methodology for AI prompt design, [[06 Metadata/External Context/S4G/plan|context architecture]], and agentic workflow specification.
-## Current Projects
-**[[Alt Way In](https://altway.in)]** — Single-origin Indian Arabica coffee. The brand operates on a simple philosophy: Indian-origin, commodity-focused, [[Lexicon/strive|substance over signalling]]. Real product, no hype.
-
-**[[Project Knowledge Framework/index|Project: Knowledge Framework]]** — Addressing AI bias due to the limited training data. A structured exploration of revelation-based epistemology as a complete [[Lexicon/one-vault|knowledge system]].
-
-**[Strive for Growth](https://s4gconsultancy.com)** — Strategy consultancy. [[Lexicon/grand-challenges|Strategic landscape analysis]], [[Systems and AI/00-why-context-and-prompts|AI systems design]], [[Lexicon/theory-u|organisational transformation]].
+- [[Essays/07-why-art-matters|Vibe coding and art]]: a favourite of mine from my [[Essays/index|essays]];
+- [[History/10-rise|How this ends]]: from rants I bring out.
+- [[About/index|The writing on the wall]]: things that in some state shaped, are being crafted, or to be built; (experience, projects, academic, etc.).
 
 ---
 
 > "Prosperity isn't just economic. It's divine flow, that lasts."
-> — from his [[The Research Thesis/index|Thesis]]
+> — straight from my [[The Research Thesis/index|Thesis]]
 
-[Newsletter](https://tally.so/r/wvkGjv) · [[01-s4g-consultancy|About & Full Profile]] · <a href="https://cal.com/zeeshanpatel" data-cal-link="zeeshanpatel">Book a call</a> · [Get in touch](mailto:zshanpatel@gmail.com)
+[Newsletter](https://tally.so/r/wvkGjv) · [[04 Blog Content/About/index|About & Full Profile]] · <a href="https://cal.com/zeeshanpatel" data-cal-link="zeeshanpatel">Get in Touch</a>

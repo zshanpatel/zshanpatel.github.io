@@ -5,12 +5,12 @@ tags:
   - language
 aliases:
 showDate: false
-draft: false
+draft:
 ---
 ![extreme-image.png](extreme-image.png)
 We need to stop casually throwing around the word "extremist" to describe practicing Muslims. 
 
-**This is linguistic warfare.** And you're losing without even realising you're in a battle.
+This is linguistic warfare. And you're losing without even realising you're in a battle.
 
 When you label someone as an extremist for simply practicing their _deen_, you're not being clever or balanced. You're accepting a rigged game. You're validating the idea that authentic Islam is somehow extreme, which means you've already bought into a watered-down, "acceptable" version as the baseline.
 

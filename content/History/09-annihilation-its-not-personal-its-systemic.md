@@ -9,7 +9,7 @@ aliases:
 showDate: false
 draft: false
 ---
-![annihilation-image.jpg](annihilation-image.jpg)
+![annihilation-image.png](annihilation-image.png)
 # It's Not Personal. It's Systemic
 The annihilation isn't personal. It is systemic.
 

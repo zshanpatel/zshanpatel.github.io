@@ -1,11 +1,12 @@
 ---
+name: brand-solutions-director
+description: Describes Zeeshan's career experience as a Brand Solutions Director in London UK and India
 title: S4G Consultancy
 permalink: /about/s4g-consultancy
-description: Career Timeline
 showDate: false
 draft: false
 ---
-### S4G Consultancy — Brand Solutions Director
+### Brand Solutions Director at S4G Consultancy
 **Mar 2022 – Present | London / Remote**
 
 S4G's (Strive for Growth) work sits at the intersection of strategy consulting, [[Systems and AI/index|AI systems design]], and [[Lexicon/theory-u|organisational transformation]].

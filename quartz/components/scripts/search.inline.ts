@@ -158,6 +158,9 @@ async function setupSearch(searchElement: Element, currentSlug: FullSlug, data: 
   const searchLayout = searchElement.querySelector(".search-layout") as HTMLElement
   if (!searchLayout) return
 
+  // Clear existing content to prevent duplicates in SPA mode
+  searchLayout.innerHTML = ""
+
   const idDataMap = Object.keys(data) as FullSlug[]
   const appendLayout = (el: HTMLElement) => {
     searchLayout.appendChild(el)

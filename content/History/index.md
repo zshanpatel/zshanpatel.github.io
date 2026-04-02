@@ -1,4 +1,6 @@
 ---
+name: history
+pageTitle: History
 title: History
 permalink: /history/
 tags:

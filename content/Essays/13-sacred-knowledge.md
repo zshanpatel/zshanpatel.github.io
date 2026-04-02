@@ -16,7 +16,7 @@ Islamic civilisation didn't see a contradiction between faith and reason. It dev
 - **True knowledge (_'Ilm_)**: Which encompasses both acquired and revealed understanding, experienced through action *([[Lexicon/tazkiyah|Tazkiyah]])
 - **Deep understanding (_Ma'rifah_)**: Transformative knowledge that changes you
 - **Rational intellect (_'Aql_)**: The God-given capacity to reason
-- **Divine revelation (_Wahy_)**: [[Lexicon/spirituo-epistemic-source|Knowledge that transcends human capacity]]
+- **Divine revelation (_Wahy_)**: [[intrinsic-epistemic|Knowledge that transcends human capacity]]
 
 Here's what's radical: [[Lexicon/monotheistic-framework|Islamic epistemology]] recognised that reason and revelation aren't enemies, they're complementary paths to truth. You need both empirical observation (what you can see and test) and ethical guidance (what you should do with that knowledge).
 

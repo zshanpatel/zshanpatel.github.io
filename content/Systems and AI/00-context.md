@@ -3,7 +3,8 @@ title: Why Context Matters
 type: context
 series_order: 0
 ---
-# 🪴 Understanding Matters, More Than Asking
+# Context Engineering
+## 🪴 Understanding Matters, More Than Asking
 > In the grand scheme of the new AI world of prompts, context and skills:
 
 ## 1. The Steering Wheel

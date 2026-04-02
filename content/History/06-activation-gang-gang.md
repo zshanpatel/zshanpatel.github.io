@@ -2,7 +2,6 @@
 title: Activation
 permalink: /history/06-activation
 tags:
-  - collective-consciousness
   - year2000s
   - brotherhood
   - power

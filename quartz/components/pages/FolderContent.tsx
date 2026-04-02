@@ -100,7 +100,7 @@ export default ((opts?: Partial<FolderContentOptions>) => {
 
     const content = (
       (tree as Root).children.length === 0
-        ? fileData.description
+        ? <div class="folder-description">{fileData.description}</div>
         : htmlToJsx(fileData.filePath!, tree)
     ) as ComponentChildren
 

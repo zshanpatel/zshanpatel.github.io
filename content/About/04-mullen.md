@@ -1,11 +1,12 @@
 ---
-title: MullenLowe
+name: brand-services-director
+description: Describes Zeeshan's experience as a Brand Services Director at Mullen Lintas Mumbai Bombay office
+title: Mad Men at MullenLowe
 permalink: /about/mullen
-description: Career Timeline
 showDate: false
 draft: false
 ---
-### MullenLowe Lintas Group — Brand Services Director
+## Brand Services Director at MullenLowe Lintas Group
 **Sep 2018 – Feb 2022 | Mumbai (3 yrs 6 mos)**
 MullenLowe is a global integrated agency network. I joined as Senior Brand Services Manager and was promoted to Brand Services Director within 18 months.
 
@@ -16,6 +17,14 @@ MullenLowe is a global integrated agency network. I joined as Senior Brand Servi
 - Built and maintained senior client relationships across a portfolio that included Unilever and other Fortune 500 brands.
 
 **What this role developed**: Operating under sustained senior stakeholder pressure, managing complexity across functions and markets simultaneously, translating ambiguous client briefs into clear creative and strategy briefs, and holding strategic direction stable through execution.
+
+### The Ground-Level View: The 3 AM Test
+At MullenLowe, I operated at the center of a global skin and haircare engine. But it was more than just "brand management"; it was a masterclass in navigating what I now call the **"Account Paradox."** 
+
+You were told you were on a mission to blow up the status quo, yet you were operating inside a high-pressure, corporate engine where "good enough is not enough" was the baseline. Internally, we lived for the **"3 AM Test."** My job as a Brand Services Director wasn't just to lead strategy; it was to be the person you actually *wanted* to be in a room with at 3:00 AM during a pitch preperation. 
+
+I was the bridge between the creative teams who wanted to "disrupt" the client’s logo out of the ad and the senior client leadership who needed to know if a 15-second pre-roll would actually move the needle in the EMEA region. Managing that tension taught me that the most powerful person in the room isn't the one with the loudest idea, but the one who can build that load-bearing idea.
+
 ## Certifications
 - Google Ads Certification — Google
 - Facebook Certified Creative Strategy Professional — Meta

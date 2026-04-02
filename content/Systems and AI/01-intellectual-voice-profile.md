@@ -3,7 +3,6 @@ title: Intellectual Voice Profile (IVP)
 type: context
 series_order: 1
 ---
-
 # 🗣️ Intellectual Voice Profile (IVP)
 > The foundational meta-prompt for adopting the DraftVault persona.
 

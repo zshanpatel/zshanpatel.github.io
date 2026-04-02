@@ -1,25 +1,27 @@
 ---
 title: Knowledgebase has New Meaning
 tags:
-  - open-source
-  - MVP
-  - AI-agents
   - RAG
   - digital-transformation
 aliases:
 showDate: true
 draft: false
 ---
-![GraphRag-image.png](GraphRag-image.png)
-_My attempt to create a realtime GraphRAG that can give answers inspired by the divine. Source: self_
-### RAG (Retrieval-Augmented Generation): 
+![[raghead-image.png]]
+## RAG or Retrieval-Augmented Generation 
+
 This is a topic of its own. Basically, you can build up your AI's memory and then exchange and even add information. You can use it for basic functions like fetching relevant information from documents, or feeding instructions to perform functions based on context you've provided.
-![RAG.png](RAG.png)
+
+![[09 Toolkit/Images/rag-image.png]]
+
 _Different parameters, components, and models in a simple RAG application. Source: [Gradient Flow](https://gradientflow.com/techniques-challenges-and-future-of-augmented-language-models/)_
 
-I made a basic one for myself to test out. My experiments all ended with the free tiers of [GPT's](https://en.wikipedia.org/wiki/Generative_pre-trained_transformer) [OpenRouter](https://openrouter.ai/), [Groq](https://groq.com/), [Gemini 2.5 Pro and Flash](https://gemini.google.com/app) models. [Qwen's API](https://qwen.ai/apiplatform) needed my card even though they claimed a free tier. Broadening the [context](00-why-context-and-prompts.md) is what I'm struggling with. Like if you build a bot for appointment setting, it can only do that in intelligent ways. You give it more functionalities and it will work within those boundaries. You can program it to do those exact operational functions. 
+I made a basic one for myself to test out. My experiments all ended with the free tiers of [GPT's](https://en.wikipedia.org/wiki/Generative_pre-trained_transformer) [OpenRouter](https://openrouter.ai/), [Groq](https://groq.com/), [Gemini 2.5 Pro and Flash](https://gemini.google.com/app) models. [Qwen's API](https://qwen.ai/apiplatform) needed my card even though they claimed a free tier. Broadening the [context](00-context.md) is what I'm struggling with. Like if you build a bot for appointment setting, it can only do that in intelligent ways. You give it more functionalities and it will work within those boundaries. You can program it to do those exact operational functions. 
 
 My goal was to make it give me strategic outputs.
+
+![GraphRag-image.png](GraphRag-image.png)
+*My attempt to create a realtime GraphRAG that can give answers inspired by the divine. Source: self*
 
 But I have to preempt what I tell the agent to do. It can't be random and I can't expect the AI to know what I want. For RAG to work strategically within a given academic context, it will either come back empty handed or hallucinate on its own. Then it gets deeper and beyond regular RAG, you give it tools and so on, for example search tools. 
 

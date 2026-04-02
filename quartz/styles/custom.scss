@@ -56,7 +56,6 @@ a:hover {
 /* Hero Image Inversion in Dark Mode */
 [saved-theme="dark"] img[src*="hero-image"] {
   filter: invert(1);
-  transition: all 0.2s ease;
 }
 
 /* ─── Daybreak Godray Sweep ─────────────────────────────────────────── */

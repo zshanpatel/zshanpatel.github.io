@@ -1,17 +1,14 @@
 ---
+name: lexicon
+pageTitle: Lexicon
 title: Lexicon
 type: knowledge-map
 status: active
 tags:
-  - epistemology
-  - strategy
-  - frameworks
-  - tawhid
-  - theory-u
 permalink: /lexicon
+showDate: false
+showRecentNotesDates: false
 ---
-
-# The Lexicon
 A curated taxonomy of the concepts, frameworks, and epistemic structures driving this civilisational engine. These are not just definitions; they are the "First Principles" behind the work.
 
 ---
@@ -23,7 +20,7 @@ A curated taxonomy of the concepts, frameworks, and epistemic structures driving
 - **[[universal-prosperity|Universal Prosperity]]**: A multidimensional framework for human blossoming beyond GDP.
 
 ## 🧬 Epistemic Structures
-- **[[spirituo-epistemic-source|Spirituo-Epistemic Source]]**: The revelation-based knowledge system as a complete alternative to secular materialism.
+- **[[intrinsic-epistemic|Spirituo-Epistemic Source]]**: The revelation-based knowledge system as a complete alternative to secular materialism.
 - **[[monotheistic-framework|Monotheistic Framework]]**: The eschatological and ethical boundaries of our operation.
 - **[[one-vault|One Vault]]**: The strategy for addressing AI bias by building a unified knowledge framework.
 
@@ -36,7 +33,3 @@ A curated taxonomy of the concepts, frameworks, and epistemic structures driving
 ## 🛡️ Purification & Growth
 - **[[tazkiyah|Tazkiyah]]**: The inward work of self-purification and intentional growth.
 - **[[eschatological-framework|Eschatological Framework]]**: The final destination and the "Long Time Horizon" perspective.
-
----
-
-[→ Back to Home Page](#)

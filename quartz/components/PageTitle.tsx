@@ -4,6 +4,7 @@ import { classNames } from "../util/lang"
 import { i18n } from "../i18n"
 
 const PageTitle: QuartzComponent = ({ fileData, cfg, displayClass }: QuartzComponentProps) => {
+  // Use config pageTitle or default, not front matter
   const title = cfg?.pageTitle ?? i18n(cfg.locale).propertyDefaults.title
   const baseDir = pathToRoot(fileData.slug!)
   return (

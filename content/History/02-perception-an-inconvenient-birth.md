@@ -7,7 +7,7 @@ aliases:
 showDate: false
 draft: false
 ---
-![perception-image.jpg](perception-image.jpg)
+![perception-image.png](perception-image.png)
 # An Inconvenient Birth
 ### June 1, 1956
 The cries of a baby boy echoed through the maternity ward. It was the first time my grandmother delivered a baby in a hospital. It made no difference to her; the hospital bed or the fields, pain was pain. 

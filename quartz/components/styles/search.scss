@@ -11,7 +11,7 @@
     background-color: color-mix(in srgb, var(--lightgray) 60%, var(--light));
     border: none;
     border-radius: 4px;
-    font-family: inherit;
+    font-family: var(--headerFont);
     font-size: inherit;
     height: 2rem;
     padding: 0;
@@ -81,10 +81,15 @@
       & > input {
         box-sizing: border-box;
         padding: 0.5em 1em;
-        font-family: var(--bodyFont);
+        font-family: var(--headerFont);
         color: var(--dark);
         font-size: 1.1em;
         border: 1px solid var(--lightgray);
+
+        &::placeholder {
+          font-family: var(--headerFont);
+          color: var(--darkgray);
+        }
 
         &:focus {
           outline: none;
