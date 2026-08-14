@@ -12,7 +12,7 @@ showDate: false
 draft: false
 date: 2025-10-18
 ---
-![porsche-image.png](porsche-image.png)
+![porsche-image.png](./images/porsche-image.png)
 ### We had a working economic system. Then we forgot it existed.
 There's a darkness that hangs over wealth within families. A materialist corruption of trust.
 

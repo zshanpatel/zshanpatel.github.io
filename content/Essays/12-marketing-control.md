@@ -12,7 +12,7 @@ showDate: false
 draft: false
 date: 2026-03-31
 ---
-![[market-image.png]]
+![market-image](./images/market-image.png)
 
 Ever wondered how deep the marketing-industrial-complex goes?
 

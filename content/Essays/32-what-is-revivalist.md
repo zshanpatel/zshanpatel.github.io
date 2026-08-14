@@ -10,7 +10,7 @@ showDate: true
 draft: false
 date: 2025-10-15
 ---
-![revivalist-image.png](revivalist-image.png)
+![revivalist-image.png](./images/revivalist-image.png)
 # The Revivalist Project: Reclaiming the Principle of Movement
 We are a generation trapped between two deaths: a fossilised tradition that has forgotten how to breathe, and a soulless modernity that has forgotten how to believe.
 ## The Intellectual Rigor Mortis

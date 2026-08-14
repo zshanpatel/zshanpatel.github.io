@@ -9,7 +9,7 @@ aliases:
 showDate: false
 draft: false
 ---
-![redemption-image.png](redemption-image.png)
+![redemption-image.png](./images/redemption-image.png)
 # Somewhere Down the Line
 Somewhere down the line, I misunderstood the purpose of life.
 

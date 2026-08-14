@@ -51,7 +51,7 @@ Moreover, the <span title="Universal Prosperity">UP</span> model champions socia
 
 Figure 4 Visual Representation of the Universal Prosperity Model (Source: self)
 
-![[visual-representation-universal-prosperity-model.png]]
+![visual-representation-universal-prosperity-model](./images/visual-representation-universal-prosperity-model.png)
 
 ## Holistic Prosperity
 <span title="Holistic Prosperity">HP</span> represents a significant departure from the conventional focus on econometric wealth. <span title="Holistic Prosperity">HP</span> underscores the need to redefine our understanding of prosperity and questions the sustainability of exponential growth within the limitations of a finite planet [@moore2023a]. <span title="Holistic Prosperity">HP</span> places a strong emphasis on humane, social, and well-being aspects as fundamental indicators of national prosperity [@moore2015a]. While there is no universally agreed-upon definition, <span title="Holistic Prosperity">HP</span>, generally denotes a state of flourishing, and overall satisfaction with one's quality of life. It can be encapsulated by the term "the good life", which encompasses a wide range of socio-economic considerations [@moore2019a].
@@ -72,7 +72,7 @@ From a systems perspective, in the context of thinking and system design for pro
 
 Figure 5 Illustrating Overlap of Prosperity Pathways (Source: self)
 
-![[illustrating-overlap-of-prosperity-pathways.png]]
+![illustrating-overlap-of-prosperity-pathways](./images/illustrating-overlap-of-prosperity-pathways.png)
 
 In their collective relation, as prosperity thinking moves upward in the system, it becomes more abstract and qualitative. <span title="Universal Prosperity">UP</span>, <span title="Holistic Prosperity">HP</span> and <span title="Econometric Growth">EG</span> are interconnected in their system-level focus, and their impact at micro, macro and mundo levels within individuals, society and ecosystem. 
 

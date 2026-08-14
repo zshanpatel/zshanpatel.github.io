@@ -12,7 +12,7 @@ Scharmer's [-@scharmer2018a] Theory U places emphasis on inner thinking as the s
 
 Figure 3 Depicting the U Process, adapted from Scharmer (ibid.)
 
-![[depicting-u-process.png]]
+![depicting-u-process](./images/depicting-u-process.png)
 
 
 In this exploration, I specifically focus on <span title="Islamic Perspective">IP</span> as a spirito-epistemic source. Reflecting on history and the concept of "presencing" as a gateway to deeper knowledge, I relate this approach to <span title="Islamic Perspective">IP</span>'s epistemic approach of seeking knowledge through introspection and transitioning from individual to collective thinking. This journey represents a spiritual and ethical awakening for collective consciousness, aligning personal and collective interests and motivations with higher moral principles. Towards an ethical and just system of a singular society or one _ummah_ [@hosein1992a]. 

@@ -9,7 +9,7 @@ aliases:
 showDate: false
 draft: false
 ---
-![activation-image.png](activation-image.png)
+![activation-image.png](./images/activation-image.png)
 # Gang Gang for Life
 ### 2000s
 These are the years I actually remember. This is firsthand information. No rants, no secondhand accounts. Just what happened.

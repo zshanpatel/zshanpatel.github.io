@@ -9,7 +9,7 @@ aliases:
 showDate: false
 draft: false
 ---
-![ascension-image.png](ascension-image.png)
+![ascension-image.png](./images/ascension-image.png)
 # Striving for Growth
 Let me tell you how this ends. I have seen the journey ahead.
 

@@ -12,7 +12,7 @@ draft: false
 status: Idea
 date: 2026-04-01
 ---
-![[knowledge-transformation-image.png]]
+![knowledge-transformation-image](./images/knowledge-transformation-image.png)
 
 I want to dissect a unique approach to knowledge that revolutionises how we understand everything:
 

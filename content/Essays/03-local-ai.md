@@ -10,7 +10,7 @@ showDate: true
 draft: false
 date: 2024-03-31
 ---
-![[local-image.png]]
+![local-image](./images/local-image.png)
 
 You can download  [Large Language Models (LLMs)](https://medium.com/data-science-at-microsoft/how-large-language-models-work-91c362f5b78f) on your computer and use them without the internet, if you want. I've been playing with [open source models](https://klu.ai/blog/open-source-llm-models). Some I downloaded locally (which basically means on my computer) from [ollama](https://ollama.com), some through [Application Programming Interface (API)](https://www.forbes.com/sites/adrianbridgwater/2022/10/24/why-we-need-apis-and-apis-need-us-too/). It took me a while to familiarise myself with the setup and different models.
 

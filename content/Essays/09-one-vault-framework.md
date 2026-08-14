@@ -12,7 +12,7 @@ showDate: false
 draft: false
 date: 2026-03-31
 ---
-![[one-vault-image.png]]
+![one-vault-image](./images/one-vault-image.png)
 ### Why This Matters: The One-Vaut as the Modern Last Resort
 Here's what I understand: [One-vault](08-one-vault-origins.md) withstands time and money. It encompasses value within a divine system.
 

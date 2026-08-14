@@ -10,7 +10,7 @@ showDate: true
 draft: false
 date: 2023-10-18
 ---
-![ai-brain.png](ai-brain.png)
+![ai-brain.png](./images/ai-brain.png)
 A prediction by a San Francisco tech guy caught my attention recently. He broadly said:
 
 >_AI creates a new class divide: those who know how to orchestrate agents vs those who get orchestrated by them. Middle managers don't disappear, they become agent supervisors. This starts in tech jobs and moves beyond that._
@@ -25,7 +25,7 @@ I also say that because I see overflowing tangents of AI in cryptocurrency there
 
 I think we're at the peak of the AI bubble, just like the [memecoin-casino hype-cycle](01-why-trade.md) back in December 2024. Which as I am writing this in October 2025, is back again. People never learn.
 
-![memecoin.png](memecoin.png)
+![memecoin.png](./images/memecoin.png)
 _Total memecoin market capitalisation. Source: [CoinMarketCap](https://coinmarketcap.com/charts/)_
 
 All the fields and their experts will recognise that using AI as a tool is as necessary as using Google to search. Those who use this tech will cut their work in half and eventually become humans in the loop: supervising, iterating, approving and disapproving decisions made by AI agents.

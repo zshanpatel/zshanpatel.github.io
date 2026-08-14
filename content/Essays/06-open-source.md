@@ -10,7 +10,7 @@ showDate: true
 draft: false
 date: 2024-03-31
 ---
-![awesome-selfhosted.png](awesome-selfhosted.png)
+![awesome-selfhosted.png](./images/awesome-selfhosted.png)
 _Source: [awesome-selfhosted repo](https://github.com/awesome-selfhosted/awesome-selfhosted)_ (A repo or repository is a directory file of code stored typically on [Github](https://github.com/))
 
 This is one of those spaces I keep going down the rabbit hole of. I think it's worth it too. Basically: zero ads, forget paying for software, decentralised social media. I think this is the direction we're moving in or at least I hope we do or we will be forced to. Obviously not anytime soon because [monopolies like private OpenAI](https://hackernoon.com/breaking-big-techs-ai-monopoly-requires-decentralized-cross-chain-rails) will find ways to distract and keep the sheep in the present status quo. But it's inevitable. 

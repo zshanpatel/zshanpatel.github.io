@@ -12,7 +12,7 @@ draft: false
 status:
 date: 2026-03-29
 ---
-![[beyond-religion-image.png]]
+![beyond-religion-image](./images/beyond-religion-image.png)
 ## Understanding God's System
 Everything we think we know about "religion" is keeping from discovering the most sophisticated life-system ever developed.
 

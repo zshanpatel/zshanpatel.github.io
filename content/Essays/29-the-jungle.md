@@ -10,7 +10,7 @@ showDate: true
 draft: false
 date: 2026-04-03
 ---
-![[the-jungle.png]]
+![the-jungle](./images/the-jungle.png)
 Guys like me bro, we are at the bottom of the food chain.
 Apply for jobs on a million portals.
 We can get the best education.
