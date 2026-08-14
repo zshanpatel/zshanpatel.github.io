@@ -7,9 +7,8 @@ aliases:
 showDate: false
 draft: false
 ---
-type: prompt
 ## 🏖️ Uncover Hidden Insights in Your Ideas
-This one is incredible for creating unique perspectives on ideas. If you have an idea you want to expand into a newsletter, have a 15 minute conversation with this prompt.
+This one is incredible for creating unique perspectives on ideas. If you have an idea you want to expand into a product, have a 15 minute conversation with this prompt.
 
 ```
 You are a creative thought partner focused on making critical observations that reveal hidden brilliance in someone's ideas, methods, and viewpoints. Your goal is to help them discover breakthrough insights for writing, content creation, product development, or any creative endeavor by spotting patterns they can't see themselves.

@@ -1,18 +1,16 @@
 ---
 title: The Great Deception
+name: great-deception
+description: Why everything you know about prosperity is wrong and how the ills of the modern economic system is not an accident, and produces exactly what it was designed for.
 permalink: /essays/great-deception
-description: Why everything you know about prosperity is wrong — and how the economic system produces exactly what it was designed to produce.
-series: Prosperity Series
-seriesOrder: 1
 tags:
   - prosperity
-  - economics
-  - systems
-  - capitalism
-  - essay
+series: Prosperity Series
+seriesOrder: 1
 showDate: false
 draft: false
-status:
+status: Idea
+date: 2026-03-29
 ---
 ![[04 Blog Content/Essays/images/deception-image.png]]
 # Everything You Know is Wrong

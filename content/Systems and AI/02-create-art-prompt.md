@@ -6,9 +6,8 @@ tags:
   - create
 aliases:
 showDate: false
-draft: false
+draft: true
 ---
-type: prompt
 ### 🎨 Create Art with Machines
 With image generation tools like **ChatGPT**, **Lovart**, **Gemini**, **HuggingFace**, and countless other image generators you can create eye-catching images in seconds. Just describe your vision, and let the AI do the rest.
 ### Suggestions:
@@ -40,5 +39,4 @@ Take a step back and think step by step about how to create the best result acco
 # Input
 
 [Input]
-
 ```

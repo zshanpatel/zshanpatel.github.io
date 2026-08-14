@@ -8,7 +8,6 @@ aliases:
 showDate: false
 draft: true
 ---
-type: prompt
 ## 🧱 Build Better AI Instructions
 Use this prompt to create incredible prompts.
 

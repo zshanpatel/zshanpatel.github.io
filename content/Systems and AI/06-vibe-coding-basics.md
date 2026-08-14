@@ -4,6 +4,7 @@ name: vibe-coding
 description: A beginner-friendly workflow for building functional MVPs from scratch using free AI tools (V0, Gemini, Grok, Claude).
 type: workflow
 series_order: 6
+draft: true
 ---
 ## A No-Code Guide (2025)
 Learn how to build a functional app from idea to [MVP](https://www.productplan.com/glossary/minimum-viable-product/) using free AI tools. No programming experience required.
@@ -19,7 +20,7 @@ Here's the streamlined 7-step process to build your app with AI:
 2. **Documentation**: Claude (`PLANNING.md` & `TASK.md` files)
 3. **Front-End Design**: [V0](https://v0.dev) (visual interface)
 4. **Code Storage**: [GitHub](https://github.com) (version control)
-5. **Backend Development**:  [VSCode](https://code.visualstudio.com) or  [Cursor](https://cursor.ai) (functionality)
+5. **Backend Development**:  [VSCode](https://code.visualstudio.com) or  [Antigravity](https://antigravity.google) (functionality)
 6. **Testing**: Local environment setup
 7. **Deployment**: Hosting and launch
 
@@ -27,7 +28,7 @@ Here's the streamlined 7-step process to build your app with AI:
 
 ---
 ## What You'll Learn
-By the end of this , you'll know how to:
+By the end of this, you'll know how to:
 - Validate app ideas using AI-powered market research
 - Create professional product requirement documents (PRDs)
 - Build functional front-ends without coding
@@ -50,12 +51,12 @@ Each AI tool excels at different tasks. Mixing and matching free tiers gives you
 
 | Tool                      | Best For                      | Free Tier Limit        | Why Use It                           |
 | ------------------------- | ----------------------------- | ---------------------- | ------------------------------------ |
-| **Gemini 2.5 Pro**        | Market research prompts       | High usage             | Deep analysis capabilities           |
+| **Gemini**                | Market research prompts       | High usage             | Deep analysis capabilities           |
 | **Grok**                  | Real-time validation & trends | Limited daily searches | Up-to-date market data               |
 | **Claude**                | Documentation & planning      | Generous               | Best for structured documentation    |
-| **V0**                    | UI/UX design                  | 200 credits/month      | Instant visual prototypes            |
+| **V0**                    | UI/UX design                  | Usage credits/month    | Instant visual prototypes            |
 | **GitHub**                | Code storage                  | Unlimited public repos | Industry standard version control    |
-| **VSCode + Augment Code** | Backend coding                | Free + limited AI      | Professional development environment |
+| **VSCode or Antigravity** | Backend coding                | Free + limited AI      | Professional development environment |
 
 ---
 ## The Complete Process
@@ -69,7 +70,7 @@ Before writing any code, validate your idea. This eliminates guesswork and incre
 ### Step 1: Generate Your Research Prompt
 Use AI to create a better research prompt. This meta-prompting technique helps you ask the right questions.
 
-**Tool:** [Gemini 2.5 Pro](https://gemini.google.com/app)
+**Tool:** [Gemini Pro Model](https://gemini.google.com/app)
 
 **Your Prompt:**
 ```
@@ -381,17 +382,17 @@ Store your code professionally using version control.
 ### Phase 4: Backend Development
 ### Step 8: Build Your Backend Functionality
 
-Transform your visual prototype into a fully functional app. To set up Cursor for maximum potential, read my [full coding](07-full-coding.md) post.
+Transform your visual prototype into a fully functional app. To set up Antigravity for maximum potential, read the [full coding](07-full-coding.md) post.
 
 **Tools:** VSCode + AI Coding Assistant
 
 **Options:**
-1. **[Cursor](https://cursor.ai)** (Recommended for beginners)
+1. **[Antigravity](https://antigravity.google)** (Recommended for beginners)
    - VSCode fork with built-in AI
-   - Free tier: 50 AI requests/day
+   - Free tier: AI requests/week
    - Best for: Guided development
 
-2. **[VSCode](https://code.visualstudio.com) + [Augment Code](https://augmentcode.com)**
+1. **[VSCode](https://code.visualstudio.com)
    - More setup required
    - Free tier available
    - Best for: More control
@@ -401,20 +402,23 @@ Transform your visual prototype into a fully functional app. To set up Cursor fo
    - Limited free tier
    - Best for: Quick testing
 
-**Setup (Cursor Method):**
+**Setup (Antigravity Method):**
 
-1. **Install Cursor:**
-   - Download from cursor.ai
+1. **Install Antigravity:**
+   - Download from [Antigravity](https://antigravity.googlei)
    - Install and open
    - Sign in with GitHub
 
 2. **Import Your Code:**
    - File → Open → Select your GitHub repository location
-   - Or: Clone from GitHub directly in Cursor
+   - Or: Clone from GitHub directly in Antigravity
+```
+git clone <repository_url>
+```
 
 3. **Start Building Backend:**
 
-**Your Prompt to Cursor:**
+**Your Prompt to Antigravity:**
 ```
 I have a front-end prototype for [YOUR APP]. I need to add backend functionality to make it fully functional.
 
@@ -457,7 +461,7 @@ MVP Features to Implement:
 Please suggest the simplest approach using a free database option. I want users to be able to save their data locally for now (no login required).
 ```
 
-**What Cursor Will Do:**
+**What Antigravity Will Do:**
 - Set up database schema
 - Write API endpoints
 - Connect your front-end forms to backend
@@ -467,14 +471,14 @@ Please suggest the simplest approach using a free database option. I want users 
 **Common Next Steps:**
 1. Set up environment variables
 2. Test each feature individually
-3. Fix bugs with Cursor's help
+3. Fix bugs with Antigravity's help
 4. Add loading states
 5. Improve error messages
 
 **Time:** 1-2 hours (depending on complexity)
 
-**Debugging Tip:** When something doesn't work, copy the error message. You can ask Cursor: "I'm getting this error: [ERROR MESSAGE]. How do I fix it?" 
-Pro Tip: Ask [ChatGPT](https://chatgpt.com/) on a separate window to save credits on Cursor. 
+**Debugging Tip:** When something doesn't work, copy the error message. You can ask: "I'm getting this error: [ERROR MESSAGE]. How do I fix it?" 
+Pro Tip: Ask other agents like Codex on a separate window to save credits on Antigravity. 
 
 ---
 ## Testing Your MVP
@@ -585,11 +589,6 @@ For a more intensive build with advanced backend features, check out my [full co
 ---
 ## Recommended Resources
 
-### Learning:
-- [V0 Documentation](https://v0.dev/docs)
-- [Next.js Tutorial](https://nextjs.org/learn)
-- [Cursor Documentation](https://cursor.sh/docs)
-- [GitHub Guides](https://guides.github.com)
 ### Communities:
 - [r/SideProject](https://reddit.com/r/SideProject) - Share your MVP
 - [Indie Hackers](https://indiehackers.com) - Connect with builders
@@ -656,7 +655,7 @@ I'd love to see what you create!
 ---
 ## Keywords for Search
 
-no-code app development, build app with AI, free app builder 2025, AI app development tutorial, MVP development guide, no-code MVP, build app without coding, AI coding tools, Gemini app development, Claude coding, V0 tutorial, Cursor tutorial, beginner app development, product requirement document, PRD template, app idea validation, market research for apps, minimum viable product guide, GitHub for beginners, free coding tools 2025
+no-code app development, build app with AI, free app builder 2025, AI app development tutorial, MVP development guide, no-code MVP, build app without coding, AI coding tools, Gemini app development, Claude coding, V0 tutorial, Antigravity tutorial, beginner app development, product requirement document, PRD template, app idea validation, market research for apps, minimum viable product guide, GitHub for beginners, free coding tools 2025
 
 ---
 

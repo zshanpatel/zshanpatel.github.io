@@ -4,6 +4,7 @@ name: content-creation-system
 description: A 3-layer research and synthesis loop for multiplying one piece of writing across social platforms using AI deconstruction.
 type: workflow
 series_order: 8
+draft: true
 ---
 ## 🧢 The 3-layer prompt system 
 This is an engineered a system that multiplies one piece of writing across all of them - using AI prompts that deconstruct what works, swipe files that validate ideas before publishing, and a 3-layer methodology that turns research into building blocks instead of finished drafts.

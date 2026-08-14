@@ -1,23 +1,21 @@
 ---
 title: The Seven Liberal Arts
-type: lexicon
+name: seven-liberal-arts
+description: The classical curriculum of Trivium (Grammar, Logic, Rhetoric) and Quadrivium (Arithmetic, Geometry, Astronomy, Music) — designed to produce self-sovereign thinkers, not vocational followers.
+permalink: /lexicon/seven-liberal-arts
 tags:
-  - concept
-aliases:
-  - Trivium
-  - Quadrivium
-  - Liberal Arts
+  - lexicon
 ---
 For over a millennium, from Ancient Greece to the Islamic Golden Age and the European Renaissance, the **Seven Liberal Arts** represented the definitive curriculum for **liberating the mind** (the Latin *liberalis* means "worthy of a free person").
 
 Unlike modern vocational training, which prepares you for a specific task, the Seven Liberal Arts were designed to prepare you for life as a self-sovereign thinker.
-## The Trivium (The Foundation)
+## The Foundation: Trivium
 The "Three-Way Path" focus on the tools of **input and processing.** These are the essential tools of **literacy** in its deepest sense.
 
 1.  **Grammar**: Not just syntax, but the **mechanics of meaning.** Understanding how words connect to reality and how they can be twisted to create false narratives.
 2.  **Logic**: The "Science of Reason." The ability to construct valid arguments, identify fallacies, and spot contradictions. This is your mental shield against propaganda.
 3.  **Rhetoric**: The "Art of Communication." Expressing truth with persuasion and grace. Crucially, it allows you to recognize when others are using emotional manipulation to bypass your logic.
-## The Quadrivium (The Advanced)
+## Advanced: Quadrivium
 The "Four-Way Path" focus on the **Abstract and Mathematical** structures of reality. 
 
 1.  **Arithmetic**: The science of discrete number (quantity).

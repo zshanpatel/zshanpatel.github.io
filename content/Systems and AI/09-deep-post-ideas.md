@@ -7,7 +7,6 @@ aliases:
 showDate: false
 draft: false
 ---
-type: prompt
 ## 🧲 Extract Outlines from Any Writing
 Use this prompt to generate the building blocks of high-performing post ideas.
 

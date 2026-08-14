@@ -1,18 +1,16 @@
 ---
 title: The Ultimate Hack
+name: ultimate-hack
+description: The alternate for economics, governance, and psychology built around systems thinking at a cosmic level.
 permalink: /essays/ultimate-hack
-description: Islam is not a set of rituals. It is a complete operating system for organising society, economics, and knowledge — and understanding that distinction changes everything.
+tags:
+  - religion
 series: Religion Series
 seriesOrder: 2
-tags:
-  - islam
-  - epistemology
-  - systems
-  - religion
-  - essay
 showDate: false
 draft: false
 status:
+date: 2026-04-01
 ---
 ![[ultimate-hack-image.png]]
 ## The Modern Distortion

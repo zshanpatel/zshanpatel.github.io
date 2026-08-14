@@ -1,25 +1,22 @@
 ---
 title: Tazkiyah
+name: tazkiyah
+description: The systematic purification of the self — cleansing the ego and heart to align human agency with divine purpose, the engine that makes all other transformation possible.
+permalink: /lexicon/tazkiyah
 tags:
-  - lexicon
   - concept
-  - psychology
-  - self-actualization
 ---
+> The systematic purification of the self *[[tazkiyah|(tazkiyah)]]*—cleansing the ego *[[tazkiyah|(nafs)]]* and the heart *[[tazkiyah|(qalb)]]* to align human agency with divine purpose.
 
-# 💎 Tazkiyah (The Process of Purification)
-> The systematic purification of the self (Nafs) and the heart (Qalb) to align human agency with divine purpose.
+We are told that we are NPCs or slaves to our impulses and external programming. This leads to desire-driven behavior (pigsty thinking), where our decisions are automated by marketing, social pressure, and ego. We feel unfree because we are ruled by parts of ourselves we haven't examined.
 
-## 🚩 The Diagnosis (The Symptom)
-We are told that we are NPCs or slaves to our impulses and external programming. This leads to **Desire-Driven Behavior** (Pigsty thinking), where our decisions are automated by marketing, social pressure, and ego. We feel unfree because we are ruled by parts of ourselves we haven't examined.
+Freedom is not the ability to satisfy every impulse. 
 
-## 🔄 The Reframe (The Structural Root)
-Freedom is not the ability to satisfy every impulse; it is the **Sovereignty of the Soul**. **Tazkiyah** recognizes that the *Nafs* (desires) are raw energy that must be refined. Without purification, the *Qalb* (the perceiving heart) becomes clouded, making it impossible to see truth or perceive the [[psionic-alignment]].
+Purification *[[tazkiyah|(tazkiyah)]]* recognises that the desires *[[tazkiyah|(nafs)]]* are raw energy that must be refined. Without purification, the perceiving heart *[[tazkiyah|(qalb)]]* becomes clouded, making it impossible to see truth or perceive intellectual alignment.
 
-## 💡 The Solution (The Proof)
-Tazkiyah is the **Engine of Transformation**. Through practices of discipline, reflection (*Tafakkur*), and remembrance (*Dhikr*), we de-program the individualist ego. This process is the prerequisite for participating in [[universal-prosperity]], as you cannot build a clean system with a dirty heart.
+Tazkiyah is the engine of transformation. Through practices of discipline, reflection *[[tazkiyah|(tafakkur)]]*, and remembrance *[[psionic-alignment|(dhikr)]]*, we de-program the individualist ego. 
 
 ### 🔗 Related Concepts
-- [[psionic-alignment]]
-- [[pathological-deviation]]
-- [[theory-u]]
+- [[psionic-alignment|The Process of Intellectual Alignment]]
+- [[pathological-deviation|Systems of Desire Distortion]]
+- [[civilisational-transformation|The U-Process for Transformation]]

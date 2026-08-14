@@ -1,18 +1,21 @@
 ---
 title: Psionic Alignment
+name: psionic-alignment
+description: The intentional synchronisation of individual consciousness with divine intelligence — when the global community aligns its intentions with divine purpose, collective action becomes coherent.
+permalink: /lexicon/psionic-alignment
 tags:
   - concept
 ---
 > The intentional synchronisation of individual consciousness with a higher, divine intelligence for collective action.
 
-Modern secular society is suffering from Collective Schizophrenia. Individuals operate in isolation, driven by divergent, materialist metrics. This lack of a shared psionic or spiritual anchor leads to systemic friction, anxiety, and the inability to solve [grand challenges](grand-challenges).
+Modern secular society is suffering from collective schizophrenia. Individuals operate in isolation, driven by divergent, materialist metrics. This lack of a shared psionic or spiritual anchor leads to systemic friction, anxiety, and the inability to solve grand challenges.
 
-Unity is not a psychological state; it is an **Epistemological Alignment**. Psionic Alignment is the recognition that human intelligence is a subset of a greater Divine Intelligence. When the *Ummah* (community) aligns its intentions (*niyyah*) with the Divine Purpose, the Self ceases to be an obstacle, and the collective becomes a single, high-functioning organism.
+Unity is not a psychological state; it is an epistemological alignment. Psionic alignment is the recognition that human intelligence is a subset of a greater divine intelligence. When the global community *[[ummah|(ummah)]]* aligns its intentions *[[psionic-alignment|(niyyah)]]* with the divine purpose, the self ceases to be an obstacle, and the collective becomes a single, high-functioning organism.
 
-Through practices of *Tazkiyah* (purification) and *Dhikr* (remembrance of God), the collective intellect is elevated. This is the Superior Divine Psionic Alignment mentioned in the [[05-quranic-prosperity|Thesis]].
+Through practices of purification *[[tazkiyah|(tazkiyah)]]* and remembrance *[[psionic-alignment|(dhikr)]]*, the collective intellect is elevated. This is the superior divine psionic alignment mentioned in the thesis.
 
 ### 🔗 Related Concepts
-- [[05-quranic-prosperity|Qur'anic Rethinking]]
-- *[[tawhid]]* (Unity of God)
-- *[[tazkiyah]]* (Purification)
-- [[essays/18-money-illusion|The Money Illusion]] (A divergent psionic anchor)
+- [[05-quranic-prosperity|Qur'anic Rethinking of Prosperity]]
+- [[tawhid|The Absolute Unity of God (Tawhid)]]
+- [[tazkiyah|The Engine of Purification]]
+- [[money-illusion|The Money Illusion as a Divergent Anchor]]

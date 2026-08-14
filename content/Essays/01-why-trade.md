@@ -1,13 +1,14 @@
 ---
 title: Why Trade Crypto?
+name: why-trade
+description: A personal, unfiltered account of trading crypto through the 2025 memecoin mania. The psychology that wrecks discipline, the fees that quietly eat small gains, and chasing 100x dreams.
+permalink: /essays/why-trade
 tags:
-  - crypto
-  - hype-cycle
-  - memecoins
-  - trading-strategy
+  - trading
 aliases:
 showDate: true
 draft: false
+date: 2025-02-02
 ---
 ![trading.png](trading.png)
 

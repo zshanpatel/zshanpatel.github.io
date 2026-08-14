@@ -1,18 +1,15 @@
 ---
 title: The Prosperity Paradox
+name: prosperity-paradox
+description: Why an economic system that succeeds by its own metrics keeps failing by every human one, and how the erased economic history proves the current system was never the only choice.
 permalink: /essays/prosperity-paradox
-description:
-series: Prosperity Series
-seriesOrder: 2
 tags:
   - prosperity
-  - economics
-  - systems
-  - capitalism
-  - essay
+series: Prosperity Series
+seriesOrder: 2
 showDate: false
 draft: false
-status:
+date: 2026-03-31
 ---
 ![[paradox-image.png]]
 

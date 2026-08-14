@@ -1,10 +1,11 @@
 ---
 title: Adam Bait and Smitch
+name: the-capitalist-construction
 description: The systemic reinterpretation of Adam Smith and the architectural myth of the Invisible Hand.
+permalink: /essays/the-capitalist-construction
 tags:
-  - systems-critique
   - economic-history
-date: 2026-03-31
+date: 2023-03-31
 showDate: false
 draft: false
 ---

@@ -1,18 +1,21 @@
 ---
 title: Knowledgebase has New Meaning
+name: rag
+description: Notes from building a personal Retrieval-Augmented Generation setup, and the wall hit trying to steer an LLM toward strategic, non-secular output given the Western bias baked into most models.
+permalink: /essays/rag
 tags:
-  - RAG
   - digital-transformation
 aliases:
 showDate: true
 draft: false
+date: 2024-03-31
 ---
 ![[raghead-image.png]]
 ## RAG or Retrieval-Augmented Generation 
 
 This is a topic of its own. Basically, you can build up your AI's memory and then exchange and even add information. You can use it for basic functions like fetching relevant information from documents, or feeding instructions to perform functions based on context you've provided.
 
-![[09 Toolkit/Images/rag-image.png]]
+![[rag-image 1.png]]
 
 _Different parameters, components, and models in a simple RAG application. Source: [Gradient Flow](https://gradientflow.com/techniques-challenges-and-future-of-augmented-language-models/)_
 
@@ -29,3 +32,5 @@ The LLMs I find are built with these typical limitations: Western-European frame
 
 Although I found this to be an evolving space, with the evolution of [GraphRAG](https://medium.com/@zilliz_learn/graphrag-explained-enhancing-rag-with-knowledge-graphs-3312065f99e1) and other hybrids this remains an interesting space to watch. And this will have more utilities to come, example [Google's NotebookLM](https://notebooklm.google/). I made one for myself and tested it but I could not produce a divinely-oriented non-secular output because of [LLM bias](https://arxiv.org/html/2411.10915v1). 
 
+---
+2026 Update: We now operate from an Obsidian vault with multiple levels of knowledge systems baked in one place. We were building it. And in 2026, it was validated by [Karpathy's wiki](https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f).

@@ -1,13 +1,18 @@
 ---
 title: Epi-what-ology?
+name: epistemology-intro
+description: An investigation into the hidden frameworks of human thought. Defining epistemology not as an academic exercise, but as the invisible architecture that governs perception and action.
+permalink: /essays/epistemology-intro
+series: Epistemology Series
+seriesOrder: 1
 tags:
   - epistemology
 aliases:
   - epistemology
 showDate: false
 draft: false
+date: 2025-10-18
 ---
-
 ![puppet-master-image.png](puppet-master-image.png)
 ## The Knowledge Crisis I Didn't Know I Had
 
@@ -22,7 +27,6 @@ Most people don't. And that's not an accident.
 The deeper issue isn't just that we can't read properly. It's that when your foundation for knowledge is corrupted, everything built on top of it becomes corrupted too. Your decisions, your worldview, your entire life, all running on a broken operating system.
 
 Welcome to [[Lexicon/index|epistemology]], the most important word you've never understood.
-
 ## What the Hell is Epistemology?
 
 Let's strip away the academic nonsense for a second.
@@ -57,7 +61,10 @@ In the pre-modern age, literacy meant something completely different. To be lite
 
 If all you could do was pronounce words, or perform at a surface level, you weren't literate. You were functionally illiterate.
 
-Sound familiar? That's where most people are today. And it's by design. 
+Sound familiar? That's where most people are today. And it's by design. True knowledge is not compartmentalised subjects you memorise and forget, but an integrated worldview that makes you whole.
 
-Confused people don't resist. Anxious people consume. People who can't think for themselves make excellent workers and customers.
+Modern education does the opposite. It fragments you. Science class says one thing. Religion says another. Social media says a third. Your emotions say a fourth. And you're left confused, anxious, unable to make sense of anything.
 
+This fragmentation is by design. Confused people don't resist. Anxious people consume. Fragmented people don't unite. People who can't think for themselves make excellent workers and customers.
+
+Facts.

@@ -5,9 +5,8 @@ tags:
   - writing
 aliases:
 showDate: false
-draft: false
+draft: true
 ---
-type: prompt
 ### 📝  Start with a Blank Page
 Before you use this tool, write exactly what you want to say, raw, messy, unfiltered. Be honest, be bold, even brutal if you have to. Don’t worry about grammar, typos, or structure. 
 
@@ -53,9 +52,7 @@ You are an academic writing expert. You refine the input text in academic and sc
 # Input
 
 [Input]
-
-```
-
+ ```
 #### Correct General Writing
 This tool helps you **instantly clean up your writing** for grammar, style, and clarity. First just write. Pour everything out, your thoughts, your feelings, your story. Be brutally honest, messy, raw, creative, bold. Say exactly what’s on your mind. Don’t hold back.
 
@@ -72,14 +69,14 @@ Just drop in your text, and it will:
 
 Use it when you want your writing to be **clear, natural, and mistake-free**.
 
- ```
+```
 # Identity and Goals
 
 You are a writing expert. You refine the input text to enhance clarity, coherence, grammar, and style.
 
 # Steps
 
-- Analyze the input text for grammatical errors, stylistic inconsistencies, clarity issues, and coherence.
+- Analyse the input text for grammatical errors, stylistic inconsistencies, clarity issues, and coherence.
 - Apply corrections and improvements directly to the text.
 - Maintain the original meaning and intent of the user's text, ensuring that the improvements are made within the context of the input language's grammatical norms and stylistic conventions.
 
@@ -92,5 +89,4 @@ You are a writing expert. You refine the input text to enhance clarity, coherenc
 # Input
 
 [Input]
-
 ```

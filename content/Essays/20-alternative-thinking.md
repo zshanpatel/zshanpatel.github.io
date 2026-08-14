@@ -1,20 +1,20 @@
 ---
 title: The Alternative Thinking
+name: alternative-thinking
+description: Reframing Freud's model as the psychological engine of consumer debt, and offering the alternative model, as the route out of financial neurosis.
 permalink: /essays/alternative-thinking
-description: How banks create money from nothing, charge interest on it, and call it finance — and what Islamic economics understood about this 1,400 years ago.
+tags:
+  - prosperity
 series: Prosperity Series
 seriesOrder: 5
-tags:
-  - money
-  - banking
-  - islamic-economics
-  - fiat
-  - essay
 showDate: false
 draft: false
-status:
+status: Idea
+date: 2026-03-31
 ---
 ![[alt-think-image.png]]
+
+"The two most humiliating ways of earning a living are employment and treasure hunting.” - Ibn Khaldun
 ### The Deep Crisis: Freudian Economic Neurosis
 Sigmund Freud is widely acknowledged as the father of modern psychology. Freud's model of human consciousness: Id, Ego, and Superego presents human beings as permanently trapped in internal conflict with no real resolution possible. This framework, when applied to economic behaviour, becomes a recipe for individualisation and consequently: perpetual psychological and financial enslavement. 
 

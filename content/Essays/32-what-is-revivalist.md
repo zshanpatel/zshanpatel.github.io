@@ -1,12 +1,15 @@
 ---
 title: What is the Revivalist Project
+name: what-is-revivalist
+description: "An introduction to the Revivalist Project: Muhammad Iqbal's 'principle of movement' against fossilised tradition and soulless modernity."
+permalink: /essays/what-is-revivalist
 tags:
   - divine-framework
-  - knowledge-values-integration
 aliases:
 showDate: false
 draft: false
-status: published
+status: Published
+date: 2025-10-15
 ---
 ![revivalist-image.png](revivalist-image.png)
 # The Revivalist Project: Reclaiming the Principle of Movement

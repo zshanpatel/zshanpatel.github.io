@@ -7,7 +7,6 @@ aliases:
 showDate: false
 draft: true
 ---
-type: prompt
 ## 🚇 Generate 30 Formula-Based Variations from One Idea
 For this prompt, few top performing YouTube video titles are used. The structure is used to generate title ideas from a newsletter.
 

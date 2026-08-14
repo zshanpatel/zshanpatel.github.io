@@ -1,11 +1,14 @@
 ---
 title: Are We Just Dormant Extremists?
+name: being-an-extremist
+description: The word 'extremist' as linguistic warfare and how casually applying it quietly trains to accept a secularised method as the acceptable baseline.
+permalink: /essays/being-an-extremist
 tags:
-  - collective-consciousness
   - language
 aliases:
 showDate: false
-draft:
+draft: false
+date: 2025-10-15
 ---
 ![extreme-image.png](extreme-image.png)
 We need to stop casually throwing around the word "extremist" to describe practicing Muslims. 

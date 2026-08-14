@@ -6,11 +6,10 @@ tags:
   - entrepreurship
 aliases:
 showDate: false
-draft: false
+draft: true
 ---
-type: prompt
 ### 📈 Structure Your Strategic Thinking - Starter
-This prompt is designed to generate a structured briefing document that captures an organisation’s profile, strategic choices, and market dynamics. It helps you quickly map out the headwinds, tailwinds, and key strategic elements shaping your idea or business, providing clear, LLM-optimized notes for deeper strategic analysis.
+This prompt is designed to generate a structured briefing document that captures an organisation’s profile, strategic choices, and market dynamics. It helps you quickly map out the headwinds, tailwinds, and key strategic elements shaping your idea or business, providing clear, LLM-optimised notes for deeper strategic analysis.
 
 ```
 # Identity

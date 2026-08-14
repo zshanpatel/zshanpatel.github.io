@@ -1,14 +1,14 @@
 ---
-title: What is Predictive Tech
+title: AI is just Predictive Tech
+name: what-is-artificial-intelligence
+description: A radical read on the AI boom, drawing parallels to past bubbles and arguing that for all the hype, AI remains prediction technology; a tool to orchestrate, not a God to worship.
+permalink: /essays/what-is-artificial-intelligence
 tags:
-  - open-source
-  - MVP
-  - AI-agents
-  - RAG
   - digital-transformation
 aliases:
 showDate: true
 draft: false
+date: 2023-10-18
 ---
 ![ai-brain.png](ai-brain.png)
 A prediction by a San Francisco tech guy caught my attention recently. He broadly said:
@@ -23,7 +23,7 @@ AI makes things easy, sure, but it shouldn't be made into God. In the end, it's 
 
 I also say that because I see overflowing tangents of AI in cryptocurrency there somewhere as well. 
 
-I think we're at the peak of the AI bubble, just like the [memecoin-casino hype-cycle](01-Why-to-trade.md) back in December 2024. Which as I am writing this in October 2025, is back again. People never learn.
+I think we're at the peak of the AI bubble, just like the [memecoin-casino hype-cycle](01-why-trade.md) back in December 2024. Which as I am writing this in October 2025, is back again. People never learn.
 
 ![memecoin.png](memecoin.png)
 _Total memecoin market capitalisation. Source: [CoinMarketCap](https://coinmarketcap.com/charts/)_

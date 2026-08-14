@@ -1,12 +1,14 @@
 ---
 title: The Personal Development Scam
+name: personal-development
+description: Self-improvement culture as ego-worship in disguise. That pulls you toward the self and away from divine purpose.
+permalink: /essays/personal-development
 tags:
-  - systems-critique
   - personal-development
-  - materialism-critique
 aliases:
 showDate: false
 draft: false
+date: 2025-10-15
 ---
 ![personal-dev.png](personal-dev.png)
 Personal development is finishing you. Slowly.

@@ -5,7 +5,6 @@ showDate: false
 tags:
   - islamic-economics
   - systems-thinking
-  - transformative-change
 ---
 Prosperity thinking must draw inspiration from a plethora of sources in an effort to gain a deeper understanding of human purpose [@moore2023a]. This section delves into the thinking for transformative change from the vantage point of a renewed Qur’anic perspective. Viewing the socio-economic-ecological tectonic change as a euphemism for eschaton. Triggered by economic overshoot and collapse [@meadows2013a]. It can be inferred as sequence of events that sequentially reshape structural institutions for both people and the planet. Drawing insights from eschatology offers a unique lens through which to examine current trajectory of growth and ecosystem-level crisis.
 
@@ -13,7 +12,8 @@ Scharmer's [-@scharmer2018a] Theory U places emphasis on inner thinking as the s
 
 Figure 3 Depicting the U Process, adapted from Scharmer (ibid.)
 
-![Depicting the U Process.png](./images/Depicting the U Process.png)
+![[depicting-u-process.png]]
+
 
 In this exploration, I specifically focus on <span title="Islamic Perspective">IP</span> as a spirito-epistemic source. Reflecting on history and the concept of "presencing" as a gateway to deeper knowledge, I relate this approach to <span title="Islamic Perspective">IP</span>'s epistemic approach of seeking knowledge through introspection and transitioning from individual to collective thinking. This journey represents a spiritual and ethical awakening for collective consciousness, aligning personal and collective interests and motivations with higher moral principles. Towards an ethical and just system of a singular society or one _ummah_ [@hosein1992a]. 
 

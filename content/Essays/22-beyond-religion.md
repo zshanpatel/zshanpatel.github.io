@@ -1,18 +1,16 @@
 ---
 title: Beyond Religion
+name: beyond-religion
+description: A complete operating system for original organising society, economics, and knowledge and understanding that distinction changes things.
 permalink: /essays/beyond-religion
-description: Islam is not a set of rituals. It is a complete operating system for organising society, economics, and knowledge — and understanding that distinction changes everything.
+tags:
+  - religion
 series: Religion Series
 seriesOrder: 1
-tags:
-  - islam
-  - epistemology
-  - systems
-  - religion
-  - essay
 showDate: false
 draft: false
 status:
+date: 2026-03-29
 ---
 ![[beyond-religion-image.png]]
 ## Understanding God's System

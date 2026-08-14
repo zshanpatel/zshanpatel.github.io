@@ -1,11 +1,14 @@
 ---
 title: The New Vibe is Coding and Art
+name: why-art-matters
+description: "As AI commoditises code, the 'useless' degrees: philosophy, history, design, religious studies become the real moat; an argument that meaning, not technical execution, is what machines still can't do."
+permalink: /essays/why-art-matters
 tags:
   - economic-shift
-  - knowledge-values-integration
 aliases:
 showDate: false
 draft: false
+date: 2025-10-15
 ---
 ![coder-image.png](coder-image.png)
 ## The Rise of Ideas
@@ -28,8 +31,8 @@ Here's what AI can do:
 - Follow patterns it's seen before
 - Execute technical tasks with precision
 
-Here's what AI can't do. Yet. Or so they say:
-- Understand why something matters
+Here's what AI can't do. Yet. Or so I say:
+- Understand why something matters on a divine-level
 - Ask the fundamental questions
 - Connect disparate fields to create new insights
 - Understand human meaning and context at a deep level
@@ -44,8 +47,6 @@ Communication isn't just marketing speak. It's understanding how to move people,
 You didn't learn from past failures. Nor long-term consequences.
 Understanding that humans need meaning beyond material gain. That ethics aren't just about harm reduction. That purpose matters more than efficiency. Humans operate on meaning.
 
-
-
 It's understanding unstated human needs, seeing what's missing, creating experiences that resonate.
 
 This is why the "idea guy" matters, the person who has:
@@ -58,19 +59,19 @@ This is why the "idea guy" matters, the person who has:
 
 That person? More valuable than ever.
 
-And here's the deeper truth: This was always true. Spiritually, philosophically, this was always true. The material pursuit of technical skills for money was always hollow. The transcendental pursuit of meaning, understanding, purpose, that was always what mattered.
+And the deeper truth is: This was sacrosanct. Spiritually, philosophically, this was always true. The material pursuit of technical skills for money is the epitome of being hollow. The transcendental pursuit of meaning, understanding, purpose, that was always what mattered.
 
 The market is just catching up to what was spiritually true all along.
 
-The pursuit of knowledge _('ilm)_ is not about monetize-able skills. It was about understanding the world, your place in it, and your relationship to world and all the way to the divine. Early scholars didn't just study one subject, they studied meaning: philosophy, history, mathematics, astronomy, poetry. They understood that real knowledge is interconnected, contextual, meaningful.
+The pursuit of knowledge _('ilm)_ is not about monetise-able skills. It is about understanding the world, your place in it, and your relationship to world and all the way to the divine. Early scholars didn't just study one subject, they studied meaning: philosophy, history, mathematics, astronomy, poetry. They understood that real knowledge is interconnected, contextual, meaningful.
 
 The Renaissance ideal of the polymath wasn't about showing off. It was about understanding that real insight comes from connecting disparate fields. Art and science weren't separate, they informed each other.
 
-We lost that somewhere along the way. We turned education into job training. We mocked philosophy majors and told everyone to learn to code because that's where the money was.
+We lost that somewhere along the way. We turned education into job training. We told everyone to learn to code because that's where the money was and ridiculed the design majors.
 
 And now the money is evaporating, because machines can code.
 
-But machines can't think. Not really. Not yet.
+But machines can't think. Not really. Not yet. Not beyond its algorithms. They do not have wi-fi to God.
 
 So what now?
 
@@ -78,7 +79,7 @@ Stop chasing technical skills for the sake of employment. If you're learning to 
 
 Instead, develop your mind. Read philosophy. Study history. Understand religion and ethics. Learn to communicate clearly. Practice design thinking. Connect ideas across disciplines.
 
-Because the future doesn't belong to people who can execute tasks. It belongs to people who can think, who can generate original ideas, who can understand context and meaning, who can ask the right questions.
+Because the future doesn't belong to people who can just task. It belongs to people who can think, who can generate original ideas, who can understand context and meaning, who can ask the right questions. And execute.
 
 The idea guys were right all along.
 

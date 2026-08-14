@@ -1,21 +1,21 @@
 ---
 title: The Money Illusion
+name: money-illusion
+description: How banks create money from nothing, charge interest on it, and call it finance, and an alternative economic model from 1,400 years ago.
 permalink: /essays/money-illusion
-description: How banks create money from nothing, charge interest on it, and call it finance — and what Islamic economics understood about this 1,400 years ago.
+tags:
+  - prosperity
 series: Prosperity Series
 seriesOrder: 3
-tags:
-  - money
-  - banking
-  - islamic-economics
-  - fiat
-  - essay
 showDate: false
 draft: false
-status: needs-revision
+status: Review
+date: 2026-03-29
 ---
 ![[illlusion-image.png]]
-# Banks Create Wealth from Nothing
+
+"The two most humiliating ways of earning a living are employment and treasure hunting.” - Ibn Khaldun
+## The Banks Create Wealth from Nothing
 Most money doesn't actually exist. Understanding this single fact could free you from financial slavery.
 ## The Truth You Were Never Taught
 Take out your wallet. Look at your money. What you're holding isn't wealth, it's an IOU (I owe you). A promise. A piece of paper (or digital entry) that has value only because everyone agrees to pretend it has value.

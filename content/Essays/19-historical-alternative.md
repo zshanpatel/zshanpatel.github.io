@@ -1,18 +1,16 @@
 ---
 title: The Historical Alternative
+name: historical-alternative
+description: Finance's historical alternatives to interest, risk-sharing, asset-backed money, anti-speculation rules. And why most modern 'ethical banks' just relabel the same interest-based system.
 permalink: /essays/historical-alternative
-description: How banks create money from nothing, charge interest on it, and call it finance — and what Islamic economics understood about this 1,400 years ago.
+tags:
+  - prosperity
 series: Prosperity Series
 seriesOrder: 4
-tags:
-  - money
-  - banking
-  - islamic-economics
-  - fiat
-  - essay
 showDate: false
 draft: false
-status: needs-revision
+status: Review
+date: 2026-03-31
 ---
 ![[alt-history-image.png]]
 

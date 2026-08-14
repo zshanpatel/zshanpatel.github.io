@@ -1,18 +1,16 @@
 ---
 title: The Knowledge Transformation
+name: knowledge-revolution
+description: A reframing of active-knowledge as transformation rather than information, and the civilisational project that dissolves the split between sacred and secular life.
 permalink: /essays/knowledge-revolution
-description: Islam is not a set of rituals. It is a complete operating system for organising society, economics, and knowledge — and understanding that distinction changes everything.
+tags:
+  - religion
 series: Religion Series
 seriesOrder: 3
-tags:
-  - islam
-  - epistemology
-  - systems
-  - religion
-  - essay
 showDate: false
 draft: false
-status:
+status: Idea
+date: 2026-04-01
 ---
 ![[knowledge-transformation-image.png]]
 

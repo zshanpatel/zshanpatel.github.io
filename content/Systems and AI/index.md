@@ -7,12 +7,11 @@ permalink: /systems-and-ai
 showDate: false
 showRecentNotesDates: false
 ---
-> For the last 37 year, human civilsatio has been in the great digital transformation, a transition from the old into the new. This change is not binary anymore and is now being governed by context, tools, and workflows.
+> For the last 37 year, human civilisation has been in the great digital transformation, a transition from the old into the new. This change is not binary anymore and is now being governed by context, tools, and workflows.
 
 ## System Context
 The foundational logic that governs how the AI thinks and speaks.
 - [[00-context|Why Prompts Matter]]
-- [[01-intellectual-voice-profile|Intellectual Voice Profile (IVP)]]
 
 ## Modular Prompts (`type: prompt`)
 Specialised, reusable instructions for specific high-signal outputs.

@@ -10,6 +10,8 @@ export const sharedPageComponents: SharedLayout = {
     footer: Component.ConditionalRender({
     component: Component.Footer({
       links: {
+        "Get in Touch": "https://cal.com/zeeshanpatel",
+        "Newsletter": "https://tally.so/r/wvkGjv",
         "LinkedIn": "https://linkedin.com/in/zshanpatel",
         "Medium": "https://medium.com/@zeeshanpatel",
         "X": "https://x.com/thezshan"
