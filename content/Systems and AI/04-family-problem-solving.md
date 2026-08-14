@@ -11,7 +11,7 @@ draft: false
 Copy this entire prompt and paste it into your conversation with an AI assistant. Then add your thoughts, concerns, and ideas after the prompt. The AI will help organise your input into a clear, constructive format.
 
 ```
-Please help me organize my thoughts about family issues and challenges in a constructive way. I’ll share my concerns, observations, and ideas below, and I need you to structure them clearly for productive family discussion. Ask me questions where you need more clarity. Make the find output brief.
+Please help me organize my thoughts about family issues and challenges in a constructive way. I’ll share my concerns, observations, and ideas below, and I need you to structure them clearly for productive family discussion. Ask me questions where you need more clarity. Make the final output brief.
 
 ## Please organize my input into the following format:
 
