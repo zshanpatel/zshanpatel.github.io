@@ -12,7 +12,7 @@ draft: false
 status: Review
 date: 2026-03-29
 ---
-![illlusion-image](./images/illlusion-image.png)
+![illlusion-image](illlusion-image.png)
 
 "The two most humiliating ways of earning a living are employment and treasure hunting.” - Ibn Khaldun
 ## The Banks Create Wealth from Nothing

@@ -12,7 +12,7 @@ draft: false
 status:
 date: 2026-04-01
 ---
-![ultimate-hack-image](./images/ultimate-hack-image.png)
+![ultimate-hack-image](ultimate-hack-image.png)
 ## The Modern Distortion
 Most people misunderstand Islam: Most modern "Islamic" countries aren't actually implementing Islamic systems. They're implementing secular Western systems with Islamic branding.
 

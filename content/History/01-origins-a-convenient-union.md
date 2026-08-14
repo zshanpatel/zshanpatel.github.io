@@ -9,7 +9,7 @@ aliases:
 showDate: false
 draft: false
 ---
-![inception-image.png](./images/inception-image.png)
+![inception-image.png](inception-image.png)
 # A Convenient Union
 ### In the beginning
 

@@ -12,7 +12,7 @@ showDate: true
 draft: false
 date: 2026-03-31
 ---
-![reveal-knowledge-image](./images/reveal-knowledge-image.png)
+![reveal-knowledge-image](reveal-knowledge-image.png)
 
 The world is a chaos of fragmented logic, and Revelation is the only anchor that prevents the mind from drifting into nihilism.
 

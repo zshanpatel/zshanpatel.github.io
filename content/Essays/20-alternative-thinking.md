@@ -12,7 +12,7 @@ draft: false
 status: Idea
 date: 2026-03-31
 ---
-![alt-think-image](./images/alt-think-image.png)
+![alt-think-image](alt-think-image.png)
 
 "The two most humiliating ways of earning a living are employment and treasure hunting.” - Ibn Khaldun
 ### The Deep Crisis: Freudian Economic Neurosis

@@ -10,7 +10,7 @@ showDate: true
 draft: false
 date: 2024-03-31
 ---
-![n8n.png](./images/n8n.png)
+![n8n.png](n8n.png)
 _Source: [n8n](https://n8n.io/)_
 
 This is the most hyped AI product: automating processes using AI. A lot of AI agencies are selling these apart from chatbots: personal assistants, lead generation, email management, calendar scheduling.

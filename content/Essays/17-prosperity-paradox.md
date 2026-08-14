@@ -11,7 +11,7 @@ showDate: true
 draft: false
 date: 2026-03-31
 ---
-![paradox-image](./images/paradox-image.png)
+![paradox-image](paradox-image.png)
 
 Here's the central paradox of our time: The more successful our economic system becomes by its own metrics, the more it fails by every human metric that actually matters.
 

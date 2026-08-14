@@ -10,7 +10,7 @@ aliases:
 showDate: false
 draft: false
 ---
-![cultivation-image.png](./images/cultivation-image.png)
+![cultivation-image.png](cultivation-image.png)
 # An Anarchic Rebellion
 When I was in 12th grade I used to say "Saudi sucks dude."
 

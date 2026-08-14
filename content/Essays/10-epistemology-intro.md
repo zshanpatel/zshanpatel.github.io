@@ -13,7 +13,7 @@ showDate: false
 draft: false
 date: 2025-10-18
 ---
-![puppet-master-image.png](./images/puppet-master-image.png)
+![puppet-master-image.png](puppet-master-image.png)
 ## The Knowledge Crisis I Didn't Know I Had
 
 You're being played. And you don't even know it.

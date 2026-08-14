@@ -10,7 +10,7 @@ showDate: false
 draft: false
 date: 2025-10-15
 ---
-![coder-image.png](./images/coder-image.png)
+![coder-image.png](coder-image.png)
 ## The Rise of Ideas
 They told you to learn to code. Get a Computer Science degree. Learn Python. JavaScript. React. The future is tech. STEM is secure. Social sciences? That's for people who want to work at coffee shops.
 

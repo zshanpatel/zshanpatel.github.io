@@ -10,7 +10,7 @@ showDate: true
 draft: false
 date: 2025-02-02
 ---
-![trading.png](./images/trading.png)
+![trading.png](trading.png)
 
 > **Note:** This is my personal account and **not** financial advice. Do your own research.
 
@@ -37,7 +37,7 @@ A few practical lessons from my recent failures:
 - **Fees matter far more than I thought.** I started trading 0.01 [Solana](https://en.wikipedia.org/wiki/Solana_(blockchain_platform)) (SOL) and quickly realised transaction fees made small trades pointless. I moved to 0.1 SOL and then 0.2 SOL, but even then you need a decent percentage move just to break even. Example: if you were buying $23.28, worth of coin and wanted to earn 10%, you would end up with: $25.65. But you won't actually make the $2.33 you think you'd make due to fees. So you really need to wait for the price to hit 16.46%.
 - **Small gains get eaten by fees.** If your trade needs a 20–120% move to break even because of platform + gas fees, you’re not trading — you’re gambling. 
 
-![sol-trade.png](./images/sol-trade.png)
+![sol-trade.png](sol-trade.png)
 
 - **Scalping beats chasing 100x dreams.** I moved away from hunting 100x pumps to scalping reasonable gains on less-obvious but not total-scam coins. Take profits, leave a tiny bag for potential upside. 
 - **Psychology is huge.** It’s addictive. One trade can feel like a rollercoaster. 20% up, one bad swing, 25% back down. And if you don't get out when you have the chance, you are left holding a coin which is a long term [shitcoin](https://www.investopedia.com/terms/s/shitcoin.asp). That pattern destroys discipline. I am still trying to get a hold of the whole process. . There is a 50 percent potential chance of going higher or 99.99 percent chance of being dead.

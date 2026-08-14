@@ -9,7 +9,7 @@ date: 2023-03-31
 showDate: true
 draft: false
 ---
-![adam-image](./images/adam-image.png)
+![adam-image](adam-image.png)
 ### Who was Adam Smith
 We live in a society governed by a ghost. Every boardroom debate, every policy shift toward deregulation, and every justification for the concentration of wealth eventually invokes a single name: Adam Smith. He is the patron saint of the "free market," the man who supposedly proved that if we simply surrender to our own greed, a mystical force. The Invisible Hand, will weave our selfishness into a tapestry of universal prosperity.
 

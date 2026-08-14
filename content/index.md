@@ -5,7 +5,7 @@ title: Zeeshan Patel
 tags:
 permalink: /home
 ---
-![hero-image](./images/hero-image.png)
+![hero-image](hero-image.png)
 
 Hey. I'm Zeeshan. 👋
 

@@ -12,7 +12,7 @@ draft: false
 status: Review
 date: 2026-03-31
 ---
-![alt-history-image](./images/alt-history-image.png)
+![alt-history-image](alt-history-image.png)
 
 The Islamic civilisation developed sophisticated financial alternatives:
 ### **Risk-Sharing Instead of Interest**

@@ -10,7 +10,7 @@ showDate: false
 draft: false
 date: 2025-10-15
 ---
-![personal-dev.png](./images/personal-dev.png)
+![personal-dev.png](personal-dev.png)
 Personal development is finishing you. Slowly.
 
 Hear me out.

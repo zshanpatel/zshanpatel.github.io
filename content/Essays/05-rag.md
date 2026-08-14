@@ -10,12 +10,12 @@ showDate: true
 draft: false
 date: 2024-03-31
 ---
-![raghead-image](./images/raghead-image.png)
+![raghead-image](raghead-image.png)
 ## RAG or Retrieval-Augmented Generation 
 
 This is a topic of its own. Basically, you can build up your AI's memory and then exchange and even add information. You can use it for basic functions like fetching relevant information from documents, or feeding instructions to perform functions based on context you've provided.
 
-![rag-image 1](./images/rag-image 1.png)
+![rag-image 1](rag-image 1.png)
 
 _Different parameters, components, and models in a simple RAG application. Source: [Gradient Flow](https://gradientflow.com/techniques-challenges-and-future-of-augmented-language-models/)_
 
@@ -23,7 +23,7 @@ I made a basic one for myself to test out. My experiments all ended with the fre
 
 My goal was to make it give me strategic outputs.
 
-![GraphRag-image.png](./images/GraphRag-image.png)
+![GraphRag-image.png](GraphRag-image.png)
 *My attempt to create a realtime GraphRAG that can give answers inspired by the divine. Source: self*
 
 But I have to preempt what I tell the agent to do. It can't be random and I can't expect the AI to know what I want. For RAG to work strategically within a given academic context, it will either come back empty handed or hallucinate on its own. Then it gets deeper and beyond regular RAG, you give it tools and so on, for example search tools. 

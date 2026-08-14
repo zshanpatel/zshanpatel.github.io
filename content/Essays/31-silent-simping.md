@@ -10,7 +10,7 @@ showDate: true
 draft: false
 date: 2025-10-15
 ---
-![simp-image.png](./images/simp-image.png)
+![simp-image.png](simp-image.png)
 
 Silent simping is real. Simping is when a man trades his strength, dignity, or purpose. 
 

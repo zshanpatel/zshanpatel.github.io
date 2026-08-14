@@ -9,7 +9,7 @@ aliases:
 showDate: false
 draft: false
 ---
-![foreward-image.png](./images/foreward-image.png)
+![foreward-image.png](foreward-image.png)
 
 >The greatest of God’s saints remain hidden.
 \- Shams of Tabriz

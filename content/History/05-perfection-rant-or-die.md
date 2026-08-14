@@ -10,7 +10,7 @@ aliases:
 showDate: false
 draft: false
 ---
-![perfection-image.png](./images/perfection-image.png)
+![perfection-image.png](perfection-image.png)
 # Rant or Die
 ### Through my lens: the perfect man in an imperfect world
 Losing him took so much strength out of me. I fought to put myself back together. Most days I feel like I will burst with rage. The anger sat in my chest like a stone, heavy and hot, threatening to crack my ribs from the inside.

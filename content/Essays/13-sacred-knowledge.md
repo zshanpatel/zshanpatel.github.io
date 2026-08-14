@@ -12,7 +12,7 @@ showDate: false
 draft: false
 date: 2026-03-31
 ---
-![sacred-knowledge-image](./images/sacred-knowledge-image.png)
+![sacred-knowledge-image](sacred-knowledge-image.png)
 
 While medieval Europe was burning books, Islamic civilisation was building the House of Wisdom in Baghdad, translating Greek philosophy, developing mathematics, pioneering medicine, and revolutionising how humans understand knowledge itself.
 

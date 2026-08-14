@@ -19,7 +19,7 @@ To clearly differentiate between these modified concepts and the authentic teach
 
 Figure 1 Conceptual Difference of Islamic Perspective
 
-![conceptual-difference-islamic-perspective](./images/conceptual-difference-islamic-perspective.png)
+![conceptual-difference-islamic-perspective](conceptual-difference-islamic-perspective.png)
 
 ## Islamic System Ethos
 The early Islamic ethos originated during the last ten years of Muhammad's (<span title="Peace Be Upon Him">PBUH</span>) life and continued after his passing in 632 AD (11 <span title="Hijri year. Impression used for the Islamic lunar calendar">AH</span>). This period saw the succession of four caliphs, also known as the "_khulfaiye rashidoon_" in Arabic, which translates to the "rightly guided" or "perfect successors" [@ali-agan2016a]. The first caliph, Abu Bakr (<span title="(raḍiya-llāhu ʿanhu) May God be Pleased with Him">RA</span>), reigned from 632 to 634 AD, followed by Umar ibn al-Khattab (<span title="(raḍiya-llāhu ʿanhu) May God be Pleased with Him">RA</span>) from 634 to 644 AD, then Uthman ibn Affan (<span title="(raḍiya-llāhu ʿanhu) May God be Pleased with Him">RA</span>) from 644 to 656 AD, and finally Ali ibn Abi Talib (<span title="(raḍiya-llāhu ʿanhu) May God be Pleased with Him">RA</span>) from 656 to 661 AD. During this time, Islam evolved into a comprehensive system (_deen_) that encompassed socio-political, economic, and religious aspects. This historical period serves as a reasonable point of comparison for ideal <span title="Islamic Perspective">IP</span> in the contemporary era [@nadvi2012a]. The collective system encompassed political, social, and economic aspects, including laws related to criminal justice, inheritance, civil matters, witness testimony, the prohibition of interest (_riba_), and the obligation of almsgiving (_zakah_). Notably, this system led to the complete eradication of interest-based finance, liberating a marginalised portion of society from financial oppression (ibid.).
@@ -40,7 +40,7 @@ Scholars of Islam often argue that the superiority of Islam lies in its morality
 
 Figure 2 Planer Projection Illustrating Knowledge of God [@jawaid2021a]
 
-![planer-projection-illustrating-knowledge](./images/planer-projection-illustrating-knowledge.png)
+![planer-projection-illustrating-knowledge](planer-projection-illustrating-knowledge.png)
 
 Throughout history, Islamic scholars have made substantial efforts to bridge the gap between divine thinking and scientific exploration [@krause2021a]. This synthesis of faith in God and various schools of science has given rise to renowned scholars who have significantly contributed to various fields of knowledge. Examples include Ibn Sina (Avicenna) in philosophy and medicine, Al-Farabi in philosophy, Al-Khwarizmi in mathematics, Ibn Rushd (Averroes) in philosophy and legal theory, and Al-Ghazali in theology and spirituality [@rahman2011a]. The scholarship of the Qur’an remains one of the most vital and ontologically diverse disciplines. Its epistemic approach is crucially emerging as a movement. An evident example is in pragmatic realisations within mindful cognitive sciences [@scharmer2016a]. Ibn Khaldun, a contentious Islamic scholar of his time, attempted to conceptualise Islamic science within the framework of physical material science [@rahman2011a].
 

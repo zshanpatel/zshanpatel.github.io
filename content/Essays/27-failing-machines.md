@@ -10,7 +10,7 @@ showDate: true
 draft: false
 date: 2026-04-07
 ---
-![failing-machines](./images/failing-machines.png)
+![failing-machines](failing-machines.png)
 
 What about the essential moral differences between words? Take _'haraam'_ and 'immoral'. Say them to a machine and it hears the same move: "identify the bad outcome, then renounce it." Say them to a human who actually knows what either word costs, and there's nothing shared at all. 
 
