@@ -7,7 +7,7 @@ tags:
   - religion
 series: Religion Series
 seriesOrder: 3
-showDate: false
+showDate: true
 draft: false
 status: Idea
 date: 2026-04-01

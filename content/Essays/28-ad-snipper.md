@@ -6,7 +6,7 @@ permalink: /essays/ad-snipper
 tags:
   - economic
 aliases:
-showDate: false
+showDate: true
 draft: false
 date: 2026-04-13
 ---

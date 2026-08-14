@@ -6,7 +6,7 @@ permalink: /essays/do-hero-ine
 tags:
   - radical-writing
 aliases:
-showDate: false
+showDate: true
 draft: false
 date: 2026-04-13
 ---

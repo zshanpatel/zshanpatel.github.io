@@ -7,12 +7,12 @@ tags:
   - prosperity
 series: Prosperity Series
 seriesOrder: 1
-showDate: false
+showDate: true
 draft: false
 status: Idea
 date: 2026-03-29
 ---
-![[04 Blog Content/Essays/images/deception-image.png]]
+![[deception-image.png]]
 # Everything You Know is Wrong
 Have you ever wondered why, despite all our technological progress and economic growth, so many people feel more anxious, more isolated, and more financially insecure than ever before?
 ## The Uncomfortable Truth About "Progress"

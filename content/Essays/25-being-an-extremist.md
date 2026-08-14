@@ -6,7 +6,7 @@ permalink: /essays/being-an-extremist
 tags:
   - language
 aliases:
-showDate: false
+showDate: true
 draft: false
 date: 2025-10-15
 ---

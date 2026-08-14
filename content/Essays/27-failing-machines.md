@@ -6,7 +6,7 @@ permalink: /essays/failing-machines
 tags:
   - intelligence
 aliases:
-showDate: false
+showDate: true
 draft: false
 date: 2026-04-07
 ---

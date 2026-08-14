@@ -6,7 +6,7 @@ permalink: /essays/silent-simping
 tags:
   - modern-schema
 aliases:
-showDate: false
+showDate: true
 draft: false
 date: 2025-10-15
 ---

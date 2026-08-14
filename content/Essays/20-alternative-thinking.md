@@ -7,7 +7,7 @@ tags:
   - prosperity
 series: Prosperity Series
 seriesOrder: 5
-showDate: false
+showDate: true
 draft: false
 status: Idea
 date: 2026-03-31

@@ -7,7 +7,7 @@ tags:
   - prosperity
 series: Prosperity Series
 seriesOrder: 3
-showDate: false
+showDate: true
 draft: false
 status: Review
 date: 2026-03-29

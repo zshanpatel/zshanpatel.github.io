@@ -8,7 +8,7 @@ seriesOrder: 5
 tags:
   - epistemology
 aliases:
-showDate: false
+showDate: true
 draft: false
 date: 2026-03-31
 ---

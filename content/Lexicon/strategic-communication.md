@@ -1,7 +1,7 @@
 ---
 title: Strategic Communication
 name: strategic-communication
-description: The deliberate design and deployment of narrative at the highest level of institutional, political, and civilisational intent — where language is not a tool of expression but a tool of power.
+description: The deliberate design and deployment of narrative at the highest level of institutional, political, and civilisational intent, where language is a tool of power.
 permalink: /lexicon/strategic-communication
 aliases:
   - narrative

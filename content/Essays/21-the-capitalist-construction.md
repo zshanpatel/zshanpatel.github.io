@@ -6,7 +6,7 @@ permalink: /essays/the-capitalist-construction
 tags:
   - economic-history
 date: 2023-03-31
-showDate: false
+showDate: true
 draft: false
 ---
 ![[adam-image.png]]

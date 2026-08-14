@@ -6,9 +6,8 @@ permalink: /essays/what-is-revivalist
 tags:
   - divine-framework
 aliases:
-showDate: false
+showDate: true
 draft: false
-status: Published
 date: 2025-10-15
 ---
 ![revivalist-image.png](revivalist-image.png)
