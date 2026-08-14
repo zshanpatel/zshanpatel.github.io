@@ -12,7 +12,7 @@ showDate: true
 draft: false
 date: 2026-03-31
 ---
-![reclaim-knowledge-image](reclaim-knowledge-image.png)
+![[reclaim-knowledge-image.png]]
 
 We live in the ruins of a failed experiment. The modern mind is not a neutral vessel; it is an occupied territory, colonised by a secular epistemology that has successfully torn apart reason from revelation. The result is a global fragmentation of the soul, where information is abundant but wisdom is performative. 
 

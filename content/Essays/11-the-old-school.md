@@ -12,14 +12,14 @@ showDate: false
 draft: false
 date: 2026-03-31
 ---
-![old-school](old-school.png)
+![[old-school.png]]
 
 For over a thousand years, from ancient Greece through the Islamic Golden Age to the European Renaissance, there was a system of education designed to liberate the mind.
 
 "Liberal" in the Seven Liberal Arts is not in the political sense, but in the sense of liberation: freeing you from ignorance, from manipulation, from mental slavery.
 
 Mastering these disciplines, equipped you with the tools to think independently, to question authority, and to see through deception. This education was never meant for everyone. It was reserved for those who would run society. Everyone else got basic instruction: enough to follow orders, but not enough to question them. Sound familiar? The system hasn't changed much.
-![liberal-image](liberal-image.png)
+![[liberal-image.png]]
 *The Two Categorisations of Education Levels: Trivium and Quadrivium*
 
 The **[[Lexicon/seven-liberal-arts|Seven Liberal Arts]]** system wasn't about memorisation either. It has two levels:

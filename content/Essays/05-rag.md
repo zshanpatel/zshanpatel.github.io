@@ -10,12 +10,12 @@ showDate: true
 draft: false
 date: 2024-03-31
 ---
-![raghead-image](raghead-image.png)
+![[raghead-image.png]]
 ## RAG or Retrieval-Augmented Generation 
 
 This is a topic of its own. Basically, you can build up your AI's memory and then exchange and even add information. You can use it for basic functions like fetching relevant information from documents, or feeding instructions to perform functions based on context you've provided.
 
-![rag-image 1](rag-image 1.png)
+![[rag-image 1.png]]
 
 _Different parameters, components, and models in a simple RAG application. Source: [Gradient Flow](https://gradientflow.com/techniques-challenges-and-future-of-augmented-language-models/)_
 

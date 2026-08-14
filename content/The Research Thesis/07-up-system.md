@@ -17,7 +17,7 @@ To facilitate a better understanding and visualization of the evolution of prosp
 
 Figure 6 Prosperity Pathways in System (Source: self)
 
-![prosperity-pathways-in-system](prosperity-pathways-in-system.png)
+![[prosperity-pathways-in-system.png]]
 
 ### Antecedents of Prosperity in Systems
 To establish contextually appropriate trigger events for prosperity pathways, requires exploring specific events, transitions, and pressures that catalyse the respective paths into action. Additionally, understanding the historical and topological relevance of these events helps construct a timeline for the pathways.

@@ -10,7 +10,7 @@ showDate: true
 draft: false
 date: 2026-04-13
 ---
-![ad-man](ad-man.png)
+![[ad-man.png]]
 
 Let me take you back to my Ad days. Before any major campaign. Every year. I would spend days out in the field, talking to people. About their dreams. Ambitions. About their daily routine. What they think of. Their families. Days. Hundreds of people. You think you are special snowflake? You are not. Because each of these people speak of themselves as individuals, never knowing that they are only part of a dataset. A data set that maps them exactly. Being primed for the ad men. Easy targets. 
 

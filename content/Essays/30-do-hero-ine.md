@@ -10,7 +10,7 @@ showDate: true
 draft: false
 date: 2026-04-13
 ---
-![hero-ine](hero-ine.png)
+![[hero-ine.png]]
 
 Listen. Get on the fast train. Not the one with 20 stops. 
 

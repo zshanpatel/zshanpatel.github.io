@@ -12,7 +12,7 @@ draft: false
 status: Idea
 date: 2026-03-29
 ---
-![deception-image](deception-image.png)
+![[deception-image.png]]
 # Everything You Know is Wrong
 Have you ever wondered why, despite all our technological progress and economic growth, so many people feel more anxious, more isolated, and more financially insecure than ever before?
 ## The Uncomfortable Truth About "Progress"
