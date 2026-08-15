@@ -19,22 +19,30 @@ type FolderState = {
   collapsed: boolean
 }
 
+// One <div class="explorer"> serves both the desktop sidebar (collapse/expand
+// via the title chevron) and the mobile fullscreen panel (open/close via the
+// hamburger) — both toggles share the same "collapsed" class and both fire
+// toggleExplorer(). We only want <html> scroll locked for the mobile panel,
+// so gate on whether the mobile hamburger is actually the visible control
+// (i.e. we're currently in the mobile layout), not just on collapsed state.
+function updateMobileScrollLock(explorer: HTMLElement) {
+  const mobileToggle = explorer.querySelector(".mobile-explorer") as MaybeHTMLElement
+  const isMobileLayout = mobileToggle?.checkVisibility() ?? false
+  const isOpen = !explorer.classList.contains("collapsed")
+  document.documentElement.classList.toggle("mobile-no-scroll", isMobileLayout && isOpen)
+}
+
 let currentExplorerState: Array<FolderState>
 function toggleExplorer(this: HTMLElement) {
   const nearestExplorer = this.closest(".explorer") as HTMLElement
   if (!nearestExplorer) return
-  const explorerCollapsed = nearestExplorer.classList.toggle("collapsed")
+  nearestExplorer.classList.toggle("collapsed")
   nearestExplorer.setAttribute(
     "aria-expanded",
     nearestExplorer.getAttribute("aria-expanded") === "true" ? "false" : "true",
   )
 
-  if (!explorerCollapsed) {
-    // Stop <html> from being scrollable when mobile explorer is open
-    document.documentElement.classList.add("mobile-no-scroll")
-  } else {
-    document.documentElement.classList.remove("mobile-no-scroll")
-  }
+  updateMobileScrollLock(nearestExplorer)
 }
 
 function toggleFolder(evt: MouseEvent) {
@@ -280,22 +288,20 @@ document.addEventListener("nav", async (e: CustomEventMap["nav"]) => {
     if (mobileExplorer.checkVisibility()) {
       explorer.classList.add("collapsed")
       explorer.setAttribute("aria-expanded", "false")
-
-      // Allow <html> to be scrollable when mobile explorer is collapsed
-      document.documentElement.classList.remove("mobile-no-scroll")
     }
 
+    updateMobileScrollLock(explorer as HTMLElement)
     mobileExplorer.classList.remove("hide-until-loaded")
   }
 })
 
 window.addEventListener("resize", function () {
   // Desktop explorer opens by default, and it stays open when the window is resized
-  // to mobile screen size. Applies `no-scroll` to <html> in this edge case.
-  const explorer = document.querySelector(".explorer")
-  if (explorer && !explorer.classList.contains("collapsed")) {
-    document.documentElement.classList.add("mobile-no-scroll")
-    return
+  // to mobile screen size (or back). Keep the scroll lock in sync either way —
+  // it must never be left stuck on once we're back above the mobile breakpoint.
+  const explorer = document.querySelector(".explorer") as MaybeHTMLElement
+  if (explorer) {
+    updateMobileScrollLock(explorer)
   }
 })
 

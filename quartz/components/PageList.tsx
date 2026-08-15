@@ -26,7 +26,10 @@ export function byDateAndAlphabetical(cfg: GlobalConfiguration): SortFn {
   }
 }
 
-export function byFileName(cfg: GlobalConfiguration): SortFn {
+// cfg is unused here but kept so byFileName has the same (cfg) => SortFn
+// shape as byDateAndAlphabetical/byDateAndAlphabeticalFolderFirst — folderPage.tsx
+// picks between all three interchangeably.
+export function byFileName(_cfg: GlobalConfiguration): SortFn {
   return (f1, f2) => {
     return (f1.slug ?? "").localeCompare(f2.slug ?? "")
   }
@@ -64,7 +67,14 @@ type Props = {
   showDate?: boolean
 } & QuartzComponentProps
 
-export const PageList: QuartzComponent = ({ cfg, fileData, allFiles, limit, sort, showDate = true }: Props) => {
+export const PageList: QuartzComponent = ({
+  cfg,
+  fileData,
+  allFiles,
+  limit,
+  sort,
+  showDate = true,
+}: Props) => {
   const sorter = sort ?? byDateAndAlphabeticalFolderFirst(cfg)
   let list = allFiles.sort(sorter)
   if (limit) {

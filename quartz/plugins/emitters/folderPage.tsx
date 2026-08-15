@@ -14,7 +14,7 @@ import {
   pathToRoot,
   simplifySlug,
 } from "../../util/path"
-import { fffListPageLayout, sharedPageComponents, defaultListPageLayout } from "../../../quartz.layout"
+import { sharedPageComponents, defaultListPageLayout } from "../../../quartz.layout"
 import { FolderContent } from "../../components"
 import { write } from "./helpers"
 import { i18n, TRANSLATIONS } from "../../i18n"
@@ -146,7 +146,9 @@ export const FolderPage: QuartzEmitterPlugin<Partial<FolderPageOptions>> = (user
 
       const folderInfo = computeFolderInfo(folders, content, cfg.locale)
       const thesisFolders = [...folders].filter((folder) => folder.startsWith("Thesis"))
-      const fffFolders = [...folders].filter((folder) => folder.startsWith("Faith, Fury, and Family"))
+      const fffFolders = [...folders].filter((folder) =>
+        folder.startsWith("Faith, Fury, and Family"),
+      )
 
       const thesisFolderInfo: Record<SimpleSlug, ProcessedContent> = {}
       for (const folder of thesisFolders) {

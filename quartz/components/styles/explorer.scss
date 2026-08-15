@@ -108,17 +108,52 @@ button.desktop-explorer {
   }
 }
 
+// .explorer-content wraps a <ul class="explorer-ul overflow"> — the "overflow"
+// class comes from the shared OverflowList component (also used by Backlinks/TOC),
+// which in base.scss applies `div:has(> .overflow) { overflow-y: hidden }` to the
+// wrapper and `ul.overflow { overflow-y: auto; max-height: 100% }` to the list.
+// Both of those selectors (0,1,1) are MORE specific than a plain .explorer-content
+// class rule (0,1,0), so they'd silently win regardless of source order — leaving
+// two nested, independently-scrolling boxes fighting over the same content instead
+// of one real scroll region. `&.explorer-content` doubles the class to (0,2,0) so
+// this is the single source of truth for scrolling here.
 .explorer-content {
   list-style: none;
-  overflow: hidden;
-  overflow-y: auto;
   margin-top: 0.5rem;
+
+  &.explorer-content {
+    overflow: hidden auto;
+    // belongs on the actual scroll container, not on every nested <ul> — see
+    // note below on why it must NOT be on .folder-outer > ul.
+    overscroll-behavior: contain;
+  }
+
+  // thin, low-contrast scrollbar instead of the browser default
+  scrollbar-width: thin;
+  scrollbar-color: var(--lightgray) transparent;
+
+  &::-webkit-scrollbar {
+    width: 6px;
+  }
+
+  &::-webkit-scrollbar-track {
+    background: transparent;
+  }
+
+  &::-webkit-scrollbar-thumb {
+    background-color: var(--lightgray);
+    border-radius: 3px;
+  }
+
+  & ul.overflow {
+    overflow: visible;
+    max-height: none;
+  }
 
   & ul {
     list-style: none;
     margin: 0;
     padding: 0;
-    overscroll-behavior: contain;
 
     & li > a {
       color: var(--dark);
@@ -143,6 +178,14 @@ button.desktop-explorer {
     grid-template-rows: 1fr;
   }
 
+  // overflow: hidden here is required for the grid-template-rows collapse
+  // animation above, but it also makes this a "scroll container" per spec —
+  // do NOT add overscroll-behavior: contain here (or to any selector that
+  // reaches nested folder <ul>s). It can't be user-scrolled itself, so
+  // "contain" would block the wheel event from chaining up to the real
+  // scrollable ancestor (.explorer-content) instead of just being a no-op —
+  // scrolling would silently die anywhere the cursor is over an expanded
+  // subfolder's contents.
   .folder-outer > ul {
     overflow: hidden;
     margin-left: 6px;
@@ -245,7 +288,10 @@ li:has(> .folder-outer:not(.open)) > .folder-container > svg {
       transition:
         transform 200ms ease,
         visibility 200ms ease;
-      overflow: hidden;
+      overflow-x: hidden;
+      overflow-y: auto;
+      -webkit-overflow-scrolling: touch;
+      overscroll-behavior: contain;
       padding: 4rem 0 2rem 0;
       height: 100dvh;
       max-height: 100dvh;
@@ -266,6 +312,8 @@ li:has(> .folder-outer:not(.open)) > .folder-container > svg {
 
 .mobile-no-scroll {
   @media all and ($mobile) {
+    overflow: hidden;
+    height: 100dvh;
     overscroll-behavior: none;
   }
 }

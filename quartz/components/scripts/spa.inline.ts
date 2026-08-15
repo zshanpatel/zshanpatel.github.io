@@ -43,24 +43,59 @@ function notifyNav(url: FullSlug) {
 const cleanupFns: Set<(...args: any[]) => void> = new Set()
 window.addCleanup = (fn) => cleanupFns.add(fn)
 
+// tracks the pathname of the page currently on screen so popstate can tell
+// a hash-only change (same page) apart from an actual page change
+let lastPathname = window.location.pathname
+
+// we manage scroll ourselves (see backScrollY below) since the browser's
+// automatic restoration races against the async fetch + morph on popstate
+if ("scrollRestoration" in history) {
+  history.scrollRestoration = "manual"
+}
+
+let activeLoadingBar: HTMLDivElement | null = null
 function startLoading() {
   const loadingBar = document.createElement("div")
   loadingBar.className = "navigation-progress"
   loadingBar.style.width = "0"
-  if (!document.body.contains(loadingBar)) {
-    document.body.appendChild(loadingBar)
-  }
+  // appended outside <body> so the SPA morph (which only diffs body's
+  // children against the fetched page) never rips it out mid-animation
+  document.documentElement.appendChild(loadingBar)
+  activeLoadingBar = loadingBar
 
   setTimeout(() => {
-    loadingBar.style.width = "80%"
+    if (activeLoadingBar === loadingBar) {
+      loadingBar.style.width = "80%"
+    }
   }, 100)
+}
+
+function finishLoading() {
+  const loadingBar = activeLoadingBar
+  if (!loadingBar) return
+  activeLoadingBar = null
+
+  loadingBar.style.width = "100%"
+  loadingBar.style.opacity = "0"
+  setTimeout(() => {
+    loadingBar.remove()
+  }, 200)
 }
 
 let isNavigating = false
 let p: DOMParser
-async function _navigate(url: URL, isBack: boolean = false) {
+async function _navigate(url: URL, isBack: boolean = false, backScrollY?: number) {
   isNavigating = true
   startLoading()
+
+  // stamp the entry we're about to leave with its scroll position so that
+  // navigating back to it can restore where the user actually was.
+  // only on forward nav: on a back/forward nav the browser has already
+  // flipped window.location to the destination, so window.scrollY no
+  // longer belongs to the entry we'd be stamping.
+  if (!isBack) {
+    history.replaceState({ ...history.state, scrollY: window.scrollY }, "", window.location.href)
+  }
   p = p || new DOMParser()
   const contents = await fetchCanonical(url)
     .then((res) => {
@@ -75,7 +110,10 @@ async function _navigate(url: URL, isBack: boolean = false) {
       window.location.assign(url)
     })
 
-  if (!contents) return
+  if (!contents) {
+    finishLoading()
+    return
+  }
 
   // notify about to nav
   const event: CustomEventMap["prenav"] = new CustomEvent("prenav", { detail: {} })
@@ -112,6 +150,8 @@ async function _navigate(url: URL, isBack: boolean = false) {
     } else {
       window.scrollTo({ top: 0 })
     }
+  } else {
+    window.scrollTo({ top: backScrollY ?? 0 })
   }
 
   // now, patch head, re-executing scripts
@@ -125,16 +165,18 @@ async function _navigate(url: URL, isBack: boolean = false) {
   if (!isBack) {
     history.pushState({}, "", url)
   }
+  lastPathname = url.pathname
 
   notifyNav(getFullSlug(window))
   delete announcer.dataset.persist
+  finishLoading()
 }
 
-async function navigate(url: URL, isBack: boolean = false) {
+async function navigate(url: URL, isBack: boolean = false, backScrollY?: number) {
   if (isNavigating) return
   isNavigating = true
   try {
-    await _navigate(url, isBack)
+    await _navigate(url, isBack, backScrollY)
   } catch (e) {
     console.error(e)
     window.location.assign(url)
@@ -164,10 +206,19 @@ function createRouter() {
     })
 
     window.addEventListener("popstate", (event) => {
-      const { url } = getOpts(event) ?? {}
-      if (window.location.hash && window.location.pathname === url?.pathname) return
-      navigate(new URL(window.location.toString()), true)
-      return
+      const url = new URL(window.location.toString())
+      const state = event.state as { scrollY?: number } | null
+
+      // only the hash changed on the same page we're already on — just
+      // scroll to it instead of doing a full re-fetch + morph
+      if (url.hash && url.pathname === lastPathname) {
+        const el = document.getElementById(decodeURIComponent(url.hash.substring(1)))
+        el?.scrollIntoView()
+        return
+      }
+
+      lastPathname = url.pathname
+      navigate(url, true, state?.scrollY)
     })
   }
 

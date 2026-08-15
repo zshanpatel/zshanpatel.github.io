@@ -59,10 +59,6 @@ export default {
     contentMeta: {
       readingTime: ({ minutes }) => `${minutes} min read`,
     },
-    pageNav: { // Add this
-      prevPage: "Previous Page",
-      nextPage: "Next Page",
-    },
   },
   pages: {
     rss: {
