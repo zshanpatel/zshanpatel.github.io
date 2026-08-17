@@ -53,7 +53,12 @@ export function trieFromAllFiles(allFiles: QuartzPluginData[]): FileTrieNode<Bui
       trie.add({
         ...file,
         slug: file.slug!,
-        title: file.frontmatter.title,
+        // A folder's index page can set `pageTitle` frontmatter as a short label for the
+        // Explorer sidebar/breadcrumbs, distinct from the full descriptive `title` shown on
+        // the page itself (e.g. "The Research Thesis" vs. the thesis's actual full title).
+        title: (file.frontmatter as Record<string, unknown>).pageTitle
+          ? String((file.frontmatter as Record<string, unknown>).pageTitle)
+          : file.frontmatter.title,
         filePath: file.filePath!,
       })
     }
