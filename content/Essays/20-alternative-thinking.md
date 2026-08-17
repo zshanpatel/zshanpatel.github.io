@@ -1,7 +1,7 @@
 ---
-title: The Alternative Thinking
+title: The Psychological Engine of Consumptive Thinking
 name: alternative-thinking
-description: Reframing Freud's model as the psychological engine of consumer debt, and offering the alternative model, as the route out of financial neurosis.
+description: Reframing Freud's model as the driver of consumer debt, and offering the alternative model, as the route out of neurosis.
 permalink: /essays/alternative-thinking
 tags:
   - prosperity
@@ -10,7 +10,7 @@ seriesOrder: 5
 showDate: true
 draft: false
 status: Idea
-date: 2026-03-31
+date: 2023-05-04
 ---
 ![[alt-think-image.png]]
 

@@ -1,5 +1,5 @@
 ---
-title: One-Vault System of Alternative Finance
+title: Alternative Finance System Pt.1
 name: one-vault-origins
 description: A childhood memory of a shared family vault hidden inside a toy car becomes the starting point for tracing how individualist, Western finance quietly displaced a working system built on trust.
 permalink: /essays/one-vault-origins
@@ -8,7 +8,7 @@ seriesOrder: 1
 tags:
   - economic-shift
 aliases:
-showDate: false
+showDate: true
 draft: false
 date: 2025-10-18
 ---

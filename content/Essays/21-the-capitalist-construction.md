@@ -4,7 +4,7 @@ name: the-capitalist-construction
 description: The systemic reinterpretation of Adam Smith and the architectural myth of the Invisible Hand.
 permalink: /essays/the-capitalist-construction
 tags:
-  - economic-history
+  - economic-shift
 date: 2023-03-31
 showDate: true
 draft: false

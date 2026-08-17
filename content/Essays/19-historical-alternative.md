@@ -1,7 +1,7 @@
 ---
 title: The Historical Alternative
 name: historical-alternative
-description: Finance's historical alternatives to interest, risk-sharing, asset-backed money, anti-speculation rules. And why most modern 'ethical banks' just relabel the same interest-based system.
+description: Historical risk-sharing, asset-backed money, anti-speculation rules. And why most modern 'ethical banks' just relabel the same interest-based system.
 permalink: /essays/historical-alternative
 tags:
   - prosperity
@@ -10,7 +10,7 @@ seriesOrder: 4
 showDate: true
 draft: false
 status: Review
-date: 2026-03-31
+date: 2023-04-09
 ---
 ![[alt-history-image.png]]
 

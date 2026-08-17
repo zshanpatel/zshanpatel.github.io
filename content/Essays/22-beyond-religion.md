@@ -1,5 +1,5 @@
 ---
-title: Beyond Religion
+title: The Divine System Beyond Religion
 name: beyond-religion
 description: A complete operating system for original organising society, economics, and knowledge and understanding that distinction changes things.
 permalink: /essays/beyond-religion

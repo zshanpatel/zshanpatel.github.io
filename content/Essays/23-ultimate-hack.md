@@ -1,7 +1,7 @@
 ---
-title: The Ultimate Hack
+title: The Ultimate Hack for Multi-dimensional Resilience
 name: ultimate-hack
-description: The alternate for economics, governance, and psychology built around systems thinking at a cosmic level.
+description: Economics, governance, and psychology built around divine systems thinking at a cosmic level.
 permalink: /essays/ultimate-hack
 tags:
   - religion
@@ -16,11 +16,11 @@ date: 2026-04-01
 ## The Modern Distortion
 Most people misunderstand Islam: Most modern "Islamic" countries aren't actually implementing Islamic systems. They're implementing secular Western systems with Islamic branding.
 
-Real Islamic economics would:
-- Eliminate interest-based banking entirely
-- Redistribute wealth through systematic charity (zakat)
+Real economics would:
+- Redistribute wealth through systematic charity _(zakat)_
 - Organise markets around community benefit rather than profit maximisation
 - Measure success by collective spiritual and material flourishing
+- Eliminate interest-based banking entirely
 
 What we see instead are essentially neoliberal systems with Islamic marketing, which is like judging Christianity based on televangelists asking for private jets.
 

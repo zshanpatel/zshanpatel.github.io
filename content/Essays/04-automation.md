@@ -1,5 +1,5 @@
 ---
-title: Automation is all the Hype
+title: Automationmaxing is the New Meta
 name: automation
 description: A field report on the AI-automation gold rush, why chatbots, automations are tools and the easiest sell, and why the real value sits at the ecosystem and strategy level.
 permalink: /essays/automation

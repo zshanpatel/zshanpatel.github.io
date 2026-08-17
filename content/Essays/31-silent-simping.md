@@ -1,10 +1,10 @@
 ---
-title: Is this the End of Masculinity
+title: The End and Rise of Masculinity
 name: silent-simping
 description: Feminism divided the family, doubled the debt, and left men emasculated. A divide-and-rule strategy dressed up as progress.
 permalink: /essays/silent-simping
 tags:
-  - modern-schema
+  - radical-writing
 aliases:
 showDate: true
 draft: false

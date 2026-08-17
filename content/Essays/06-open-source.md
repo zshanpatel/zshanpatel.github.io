@@ -1,5 +1,5 @@
 ---
-title: Open-source Versus Closed Source
+title: Open Versus Closed Source
 name: open-source
 description: A rabbit-hole account of open-source and self-hosted alternatives to Big Tech software, and a confession about how easily 'vibe coding' everything turns into a graveyard of unfinished projects.
 permalink: /essays/open-source

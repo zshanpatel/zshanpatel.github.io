@@ -4,9 +4,9 @@ name: personal-development
 description: Self-improvement culture as ego-worship in disguise. That pulls you toward the self and away from divine purpose.
 permalink: /essays/personal-development
 tags:
-  - personal-development
+  - epistemology
 aliases:
-showDate: false
+showDate: true
 draft: false
 date: 2025-10-15
 ---

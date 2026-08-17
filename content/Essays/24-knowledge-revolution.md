@@ -1,5 +1,5 @@
 ---
-title: The Knowledge Transformation
+title: The Knowledge Transformation Reframe
 name: knowledge-revolution
 description: A reframing of active-knowledge as transformation rather than information, and the civilisational project that dissolves the split between sacred and secular life.
 permalink: /essays/knowledge-revolution
@@ -9,8 +9,8 @@ series: Religion Series
 seriesOrder: 3
 showDate: true
 draft: false
-status: Idea
-date: 2026-04-01
+status:
+date: 2026-04-28
 ---
 ![[knowledge-transformation-image.png]]
 

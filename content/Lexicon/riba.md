@@ -19,5 +19,5 @@ The elimination of interest *[[riba|(riba)]]* is the first step toward the colla
 
 ### 🔗 Related Concepts
 - [[sacred-economics|Principles of Sacred Economics]]
-- [[money-illusion|The Mechanism of Money Creation]]
+- [[illusion-money|The Mechanism of Money Creation]]
 - [[zakat|Systemic Wealth Redistribution]]

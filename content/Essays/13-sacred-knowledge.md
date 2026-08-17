@@ -8,9 +8,9 @@ seriesOrder: 4
 tags:
   - epistemology
 aliases:
-showDate: false
+showDate: true
 draft: false
-date: 2026-03-31
+date: 2026-02-01
 ---
 ![[sacred-knowledge-image.png]]
 

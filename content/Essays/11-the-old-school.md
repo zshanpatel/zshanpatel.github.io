@@ -8,9 +8,9 @@ seriesOrder: 2
 tags:
   - epistemology
 aliases:
-showDate: false
+showDate: true
 draft: false
-date: 2026-03-31
+date: 2025-12-01
 ---
 ![[old-school.png]]
 

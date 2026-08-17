@@ -17,4 +17,4 @@ Through practices of purification *[[tazkiyah|(tazkiyah)]]* and remembrance *[[p
 - [[05-quranic-prosperity|Qur'anic Rethinking of Prosperity]]
 - [[tawhid|The Absolute Unity of God (Tawhid)]]
 - [[tazkiyah|The Engine of Purification]]
-- [[money-illusion|The Money Illusion as a Divergent Anchor]]
+- [[illusion-money|The Money Illusion as a Divergent Anchor]]

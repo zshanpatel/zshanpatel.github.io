@@ -10,7 +10,7 @@ tags:
 aliases:
 showDate: true
 draft: false
-date: 2026-03-31
+date: 2026-03-03
 ---
 ![[reclaim-knowledge-image.png]]
 

@@ -14,7 +14,7 @@ Infinite desire is not a biological reality; it is a pathological deviation from
 Liberation requires recognising consumption as a choice rather than a necessity, we can decouple our identity from our public identity, and focus inwards. This shift allows for "Frugal Abundance", where less material volume leads to a higher quality of spiritual and social presence.
 
 ### 🔗 Related Concepts
-- [[01-philosophy|Philosophical Foundations of One]]
+- [[infinite|The Infinite Hunger Filled with Finite Goods]]
 - [[eschatological-framework|The Long Time Horizon Perspective]]
 - [[psionic-alignment|Intellectual and Spiritual Alignment]]
-- [[money-illusion|The Architecture of the Money Illusion]]
+- [[illusion-money|The Architecture of the Money Illusion]]

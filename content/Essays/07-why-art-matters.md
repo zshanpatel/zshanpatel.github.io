@@ -6,7 +6,7 @@ permalink: /essays/why-art-matters
 tags:
   - economic-shift
 aliases:
-showDate: false
+showDate: true
 draft: false
 date: 2025-10-15
 ---

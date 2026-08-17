@@ -1,6 +1,6 @@
 ---
-title: The Money Illusion
-name: money-illusion
+title: The Illusion of Money
+name: illusion-money
 description: The collective hallucination that fiat currency — created from nothing through debt — represents real value, concealing a system of systematic wealth extraction.
 tags:
   - concept

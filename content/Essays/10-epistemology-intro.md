@@ -1,7 +1,7 @@
 ---
 title: Epi-what-ology?
 name: epistemology-intro
-description: An investigation into the hidden frameworks of human thought. Defining epistemology not as an academic exercise, but as the invisible architecture that governs perception and action.
+description: An investigation into the hidden human thought. Defining epistemology not as an academic exercise, but as the invisible architecture that governs perception and action.
 permalink: /essays/epistemology-intro
 series: Epistemology Series
 seriesOrder: 1
@@ -9,7 +9,7 @@ tags:
   - epistemology
 aliases:
   - epistemology
-showDate: false
+showDate: true
 draft: false
 date: 2025-10-18
 ---

@@ -1,17 +1,18 @@
 ---
-title: Jungle of Lions
+title: Jungle Full of Caged Lions
 name: the-jungle
 description: Rant in a system built to keep the oppressed and the hungrier group waiting at the periphery of change.
 permalink: /essays/the-jungle
 tags:
-  - economic
+  - economic-shift
 aliases:
 showDate: true
 draft: false
-date: 2026-04-03
+date: 2026-08-15
 ---
 ![[the-jungle.png]]
-Guys like me bro, we are at the bottom of the food chain.
+
+Guys like me bro, we are at the bottom of the food chain bro.
 Apply for jobs on a million portals.
 We can get the best education.
 Run our enterprises.
@@ -24,30 +25,33 @@ Forget about it.
 
 You will only always reach n-1 of the n we work for. Every time.
 This is the hard truth.
-Every time, you hold position you were overqualified for.
+Every time, you hold a position. You were overqualified for.
 Every job, you are overworked for.
-Made to forget. To be afraid to even hint Islamic moral supremacy. The system supreme. 
+
 What even is social entrepreneurship? What? Sell sugar to children and call it solving hunger? What? 
 
 Who decided what social cause was worth it?
 Who allowed you to charge for a social cause?
 You say climate change, I see carbon credits.
+Rebrand and extract.
 
+Made to forget. To be afraid to even hint divine moral supremacy. The highest system. 
 The truth is that, the social balance is not in our favour.
 And I am not victimising myself here. Quite the opposite. 
-Activate the superior system we had in play.
 
-In the golden age, Muslim brown men ruled this earth. 
+Activate the superior system we have, in play.
 We had just systems in place.
+In the golden age, Muslim brown men ruled this earth. 
 But the corruption rotted our hearts.
 It still infects our soul.
 The systems established. Planning, demanding our surrender, our obedience to this deceptive mediocre technocracy. 
 Where men like us are but cogs in their grand machine.
 
-This the jungle and we have been brought to the bottom of the food chain. 
+This the jungle and we have been brought to our knees. 
 
-But the lion can only be caged for so long. 
-The law of the jungle dictates: the lion eats the grazing sheep.
+But the law of the jungle dictates: the lion eats the grazing sheep.
+And it can only be caged for so long. 
+
 Basic civilisation cycle 101. 
 You get rich, you get fat, you get lazy, 
 The desperate get hungry, then they hunt.

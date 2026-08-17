@@ -1,5 +1,5 @@
 ---
-title: Are We Just Dormant Extremists?
+title: We are all just Dormant Extremists
 name: being-an-extremist
 description: The word 'extremist' as linguistic warfare and how casually applying it quietly trains to accept a secularised method as the acceptable baseline.
 permalink: /essays/being-an-extremist

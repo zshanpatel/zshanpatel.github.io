@@ -7,7 +7,7 @@ tags:
 ---
 > The dimension of reality that transcends material boundaries — the plane where divine truth, purpose, and meaning originate.
 
-The modern world operates as if reality ends at what can be measured, monetised, or modelled. This produces a civilisation that is technically advanced but spiritually adrift — optimising the finite while ignoring the infinite.
+The modern world operates as if reality ends at what can be measured, monetised, or modelled. This produces a civilisation that is technically advanced but spiritually adrift. Optimising the finite while ignoring the infinite.
 
 In the monotheistic framework, the infinite is not a vague abstraction. It is the actual source of all that is finite. The material world is a temporary expression of a deeper, boundless reality. Human beings are uniquely positioned at the intersection of the finite and the infinite — possessing a body subject to material laws, and a soul oriented toward the divine.
 

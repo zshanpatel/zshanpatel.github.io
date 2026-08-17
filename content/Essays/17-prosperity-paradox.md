@@ -9,7 +9,7 @@ series: Prosperity Series
 seriesOrder: 2
 showDate: true
 draft: false
-date: 2026-03-31
+date: 2023-03-31
 ---
 ![[paradox-image.png]]
 

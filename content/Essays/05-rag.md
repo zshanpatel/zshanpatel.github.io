@@ -11,26 +11,46 @@ draft: false
 date: 2024-03-31
 ---
 ![[raghead-image.png]]
-## RAG or Retrieval-Augmented Generation 
 
-This is a topic of its own. Basically, you can build up your AI's memory and then exchange and even add information. You can use it for basic functions like fetching relevant information from documents, or feeding instructions to perform functions based on context you've provided.
+A knowledgebase is a body of information that can give AI a digital brain. Not a mind, as I found out. It gives the model more material to search through. I was trying to see whether AI could move beyond retrieval.
 
-![[rag-image 1.png]]
+My goal was to build one that could produce strategic output from a body of knowledge shaped by non-secular assumptions. And not a chatbot that could fetch information. 
+ 
+In tech, a knowledgebase is usually treated as documentation, stored information: documents, records, user IDs, passwords, notes, files, structured data, and other details. For my naive self, knowledgebase meant connecting information to build patterns that are genuinely insightful and higher level.
 
-_Different parameters, components, and models in a simple RAG application. Source: [Gradient Flow](https://gradientflow.com/techniques-challenges-and-future-of-augmented-language-models/)_
-
-I made a basic one for myself to test out. My experiments all ended with the free tiers of [GPT's](https://en.wikipedia.org/wiki/Generative_pre-trained_transformer) [OpenRouter](https://openrouter.ai/), [Groq](https://groq.com/), [Gemini 2.5 Pro and Flash](https://gemini.google.com/app) models. [Qwen's API](https://qwen.ai/apiplatform) needed my card even though they claimed a free tier. Broadening the [context](00-context.md) is what I'm struggling with. Like if you build a bot for appointment setting, it can only do that in intelligent ways. You give it more functionalities and it will work within those boundaries. You can program it to do those exact operational functions. 
-
-My goal was to make it give me strategic outputs.
+So, I made a basic knowledge-base-scrambled-eggs for myself to test it out. 
 
 ![GraphRag-image.png](GraphRag-image.png)
 *My attempt to create a realtime GraphRAG that can give answers inspired by the divine. Source: self*
 
-But I have to preempt what I tell the agent to do. It can't be random and I can't expect the AI to know what I want. For RAG to work strategically within a given academic context, it will either come back empty handed or hallucinate on its own. Then it gets deeper and beyond regular RAG, you give it tools and so on, for example search tools. 
+But I had to preempt what I tell the agent to do. It can't be random and I can't expect the AI to connect semantics that I want it to connect. The Algorithm can stack and connect within its parameters, words only, never original though, or like I call it divine insight. 
 
-The LLMs I find are built with these typical limitations: Western-European frameworks that dominate higher-level institutions and analytical thinking. I've been trying to get AI to stop defaulting to certain perspectives, to align with specific lines of academic thinking, but there's bias baked in. There are uncensored models though, which are fun to experiment with but they will fry my [GPU](https://en.wikipedia.org/wiki/Graphics_processing_unit).
+The industry solution is what is called a RAG or Retrieval-Augmented Generation. It is a topic of its own. Basically, you can build up your AI's memory and then exchange and even add information. You can use it for basic functions like fetching relevant information from documents, or feeding instructions to perform functions based on context you've provided.
+
+My experiments all ended with the free tiers of [GPT's](https://en.wikipedia.org/wiki/Generative_pre-trained_transformer) [OpenRouter](https://openrouter.ai/), [Groq](https://groq.com/), [Gemini 2.5 Pro and Flash](https://gemini.google.com/app) models. [Qwen's API](https://qwen.ai/apiplatform) needed my card even though they claimed a free tier. Broadening the [context](00-context.md) is what I was struggling with. Like if you build a bot for appointment setting, it can only do that in intelligent ways, know what service requires how much time and not block time against an already set appointment, etc. You give it more functionalities, like you email access and your daily task notes, and it will work within those boundaries. You can program it to do those exact operational functions. 
+## RAG (Retrieval-Augmented Generation) 
+RAG, or Retrieval-Augmented Generation, is the industry answer to this problem. Instead of asking a model to answer from memory, you give it access to your own documents. It retrieves the most relevant pieces, then uses them to answer.
+
+This works well for operational tasks. Appointment setting. Document search. Customer support. Internal FAQs. Anything where the answer already exists somewhere and the model only has to find it.
+
+Strategic insight is different.
+
+A model can retrieve the right paragraph and still misunderstand the worldview behind it. It can quote the source and miss the frame. It can connect words without understanding why those words belong together.
+
+For a RAG to work strategically within a given academic context, it will either come back empty handed or hallucinate on its own. Then it gets deeper and beyond regular RAG, you give it tools and so on, for example search tools. 
+
+The model could search my material, summarise it, and arrange it into something that looked intelligent. But it still defaulted toward the assumptions it had absorbed from the wider internet: secular, Western-European, institutionally approved ways of thinking.
+
+Inputting a different body of knowledge, divinely sources in my case, do not automatically produce a different intelligence. More precisely, it does not automatically produce output from a different epistemic frame.
+
+The LLMs are built with these typical limitations: Western-European frameworks, data that dominate higher-level institutions and analytical thinking. I've been trying to get AI to stop defaulting to certain perspectives, to align with specific lines of academic thinking, but there's bias baked in. There are uncensored models though, which are fun to experiment with, but they will fry my [GPU](https://en.wikipedia.org/wiki/Graphics_processing_unit).
 
 Although I found this to be an evolving space, with the evolution of [GraphRAG](https://medium.com/@zilliz_learn/graphrag-explained-enhancing-rag-with-knowledge-graphs-3312065f99e1) and other hybrids this remains an interesting space to watch. And this will have more utilities to come, example [Google's NotebookLM](https://notebooklm.google/). I made one for myself and tested it but I could not produce a divinely-oriented non-secular output because of [LLM bias](https://arxiv.org/html/2411.10915v1). 
+![[rag-image.png]]
+
+_Different parameters, components, and models in a simple RAG application. Source: [Gradient Flow](https://gradientflow.com/techniques-challenges-and-future-of-augmented-language-models/)_
 
 ---
-2026 Update: We now operate from an Obsidian vault with multiple levels of knowledge systems baked in one place. We were building it. And in 2026, it was validated by [Karpathy's wiki](https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f).
+2026 Update: I now operate from an Obsidian vault with multiple levels of knowledge systems baked in one place. We were building it. And in 2026, it was validated by [Karpathy's wiki](https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f). In 2024, I was trying to make RAG produce divine insight. In 2026, understand the problem differently.
+
+I am now building a foundational first layer. Building the frame around it: the taxonomy, the canon, rules of interpretation, and the refusal to let the model flatten everything back into secular consensus. Which it has failed consistently.

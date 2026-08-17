@@ -10,7 +10,7 @@ seriesOrder: 1
 showDate: true
 draft: false
 status: Idea
-date: 2026-03-29
+date: 2023-03-02
 ---
 ![[deception-image.png]]
 # Everything You Know is Wrong

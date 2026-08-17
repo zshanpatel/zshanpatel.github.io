@@ -1,5 +1,5 @@
 ---
-title: The Alternative Finance System
+title: One-vault System Pt.2
 name: one-vault-framework
 description: "A framework for rebuilding the childhood one-vault economy with modern tools: gold-pegged, witness-signed, interest-free, as a working alternative to atomised, extractive modern finance."
 permalink: /essays/one-vault-framework
@@ -8,7 +8,7 @@ seriesOrder: 2
 tags:
   - economic-shift
 aliases:
-showDate: false
+showDate: true
 draft: false
 date: 2026-03-31
 ---

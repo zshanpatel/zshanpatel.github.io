@@ -8,21 +8,17 @@ seriesOrder: 3
 tags:
   - epistemology
 aliases:
-showDate: false
+showDate: true
 draft: false
-date: 2026-03-31
+date: 2025-12-31
 ---
 ![[market-image.png]]
 
 Ever wondered how deep the marketing-industrial-complex goes?
 
-Market researchers have psychologically engineered every single element of the shopping experience:
-- Colours: McDonald's uses red and yellow because they trigger hunger
-- Music: Slow music makes you browse longer in stores, increasing purchases
-- Layout: Entrances and exits always force you past maximum products
-- Essential items in the back: Milk, bread, eggs placed far from entrance so you pass temptations
-- Checkout displays: Last chance to grab impulse purchases when your resistance is lowest
-- In-store bakeries: The smell manipulates your emotions and appetite
+Market researchers have psychologically engineered every single element of the shopping experience. Visual, audio, spatial. It is called sensory marketing.
+
+Using red and yellow colours because they trigger hunger. Slow music makes you browse longer in stores, increasing purchases. Even the entrances and exits always force you past maximum products. Essential items are always in the back: Milk, bread, eggs placed far from entrance so you pass temptations. FOMO induced checkout displays, the last chance to grab impulse purchases when your resistance is lowest. In-store bakeries, the smells manipulate your emotions and appetite
 
 Every. Single. Step. Calculated.
 

@@ -11,6 +11,9 @@ draft: false
 date: 2023-10-18
 ---
 ![ai-brain.png](ai-brain.png)
+
+Predictive tech, broadly means using historical data to anticipate and place tokens or words ahead of words.
+
 A prediction by a San Francisco tech guy caught my attention recently. He broadly said:
 
 >_AI creates a new class divide: those who know how to orchestrate agents vs those who get orchestrated by them. Middle managers don't disappear, they become agent supervisors. This starts in tech jobs and moves beyond that._
@@ -19,7 +22,7 @@ Let me explain.
 
 What I mean by peak AI: the bubble is artificially inflated, driven by institutional players and financial instruments. Just like the dot com bubble, or the 2008 financial crisis, or the 2020 pandemic. We're already living in what looks like the much hyped [Artificial General Intelligence (AGI)](https://en.wikipedia.org/wiki/Artificial_general_intelligence). This is it. 
 
-AI makes things easy, sure, but it shouldn't be made into God. In the end, it's prediction tech. Period.
+[[Lexicon/intelligence|AI]] makes things easy, sure, but it shouldn't be made into God. In the end, it's prediction tech. Period.
 
 I also say that because I see overflowing tangents of AI in cryptocurrency there somewhere as well. 
 

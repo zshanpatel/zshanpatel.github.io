@@ -1,10 +1,10 @@
 ---
-title: Failing of Machines
+title: The Machines will Fail Us
 name: failing-machines
 description: Machines mistake structural similarity for genuine equivalence. A case for invoking God against a morally empty algorithm.
 permalink: /essays/failing-machines
 tags:
-  - intelligence
+  - epistemology
 aliases:
 showDate: true
 draft: false
@@ -22,8 +22,8 @@ Divine jurisprudence is a thinking tool, a morally loaded legal principle embedd
 By contrast, moral (in the machine's sense) is completely morally evacuated. It carries no content of its own. "What do I not want?" could mean anything: a thief can invert just as effectively as a saint. It is a cognitive procedure, not a moral commitment. It has no conception of harm, no community, no duty, and no transcendent reference point.
 ## About the Machines
 
-Ask a machine what separates "haraam" from "immoral" and it collapses both into the same sentence: "Both mean something you should avoid because it causes harm." That answer is not wrong about the shape — it's wrong about the source. One "avoid" is a verdict handed down that holds whether you accept it or not. The other is a suggestion you gave yourself, and can revoke the moment you change your mind. The machine flattens a command into a preference and calls it a paraphrase.
+Ask a machine what separates _"haraam"_ from "immoral" and it collapses both into the same sentence: "Both mean something you should avoid because it causes harm." That answer is not wrong about the shape — it's wrong about the source. One "avoid" is a verdict handed down that holds whether you accept it or not. The other is a suggestion you gave yourself, and can revoke the moment you change your mind. The machine flattens a command into a preference and calls it a paraphrase.
 
-The epistemological critique is: machines (and AI specifically) are exceptionally good at detecting formal or structural similarity, a shared logical shape, but routinely fail to register the moral weight, social embeddedness, and normative context that make two things genuinely the same or different. Collapsing inspiration or insight from the divine into symantics or word matching which creates "inversion" and strips away everything that actually matters about it; its theology, its jurisprudence, its communal obligation, and reduces it to a flowchart. That is not comparison; it is erasure.
+The epistemological critique is: machines (and AI specifically) are exceptionally good at detecting formal or structural similarity, a shared logical shape, but routinely fail to register the moral weight, social embeddedness, and normative context that make two things genuinely the same or different. Collapsing inspiration or insight from the divine into semantics or word matching which creates "inversion" and strips away everything that actually matters about it; its theology, its jurisprudence, its communal obligation, and reduces it to a flowchart. That is not comparison; it is erasure.
 
 Inversion, only assesses from "what do I not want", answers to you. Divine jurisprudence answers to God. A machine that can't tell the difference between those two judges isn't doing comparison, it's laundering thinking that is anti-God.

@@ -13,7 +13,7 @@ This is my little [[Lexicon/hypertext|hypertext]] [[Lexicon/garden|garden]] in 
 
 Currently, I’m exploring what [[Lexicon/strategic-communication|strategic communication]], [[Lexicon/intelligence|intelligence]], and [[Systems and AI/00-context|context engineering]] for [[Lexicon/executives|executives]] looks like, at [[About/01-s4g-consultancy|Strive for Growth Consultancy]]. 
 
-On a deeper level, I am interested in the [[10-epistemology-intro|epistemology]] of knowledge drawn through human [[Lexicon/intrinsic-epistemic|inward thinking]] and the [[innate-moral-faculty|innate moral faculty]] of [[innate-moral-faculty|instinctive moral propensity]], its presence in [[history|history]], influence on the masses and its place in modern society.  How might we create from [[first-principle|first principle]], infrastructure that enables [[Lexicon/universal-prosperity|universal prosperity]] through [[Lexicon/civilisational-transformation|civilisational transformation]].
+On a deeper level, I am interested in the [[10-epistemology-intro|epistemology]] of knowledge drawn through the divine and human [[Lexicon/intrinsic-epistemic|inward thinking]], and [[innate-moral-faculty|instinctive moral propensity]], its presence in [[history|history]], influence on the masses and its place in modern society.  How might we create from [[first-principle|first principles]], outcomes that enable [[Lexicon/universal-prosperity|universal prosperity]] through [[Lexicon/civilisational-transformation|civilisational transformation]].
 
 As far as ‘landing’ pages go, I hope this acts as an open invitation into the many winding paths throughout this garden. Here are some places you may want to visit:
 

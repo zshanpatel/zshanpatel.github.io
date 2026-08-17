@@ -20,7 +20,7 @@ A curated taxonomy of the concepts, frameworks, and epistemic structures driving
 - **[[universal-prosperity|Universal Prosperity]]**: A multidimensional framework for human blossoming beyond GDP.
 - **[[beyond-religion|Beyond Religion]]**: Reclaiming Islam as a complete operating system (_Deen_).
 - **[[sacred-economics|Sacred Economics]]**: An economic system built on divine principles of justice.
-- **[[money-illusion|The Money Illusion]]**: The extraction mechanism of interest-based fiat systems.
+- **[[illusion-money|The Money Illusion]]**: The extraction mechanism of interest-based fiat systems.
 - **[[mundo-level|Mundo Level]]**: The planetary and ecosystemic scale of reality.
 
 ## 🧬 Epistemic Structures

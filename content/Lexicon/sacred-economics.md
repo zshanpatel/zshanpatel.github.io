@@ -20,4 +20,4 @@ Economic success is measured by the elevation of the collective rather than the 
 - [[zakat|Systemic Wealth Redistribution]]
 - [[monotheistic-framework|The Architecture of Unity]]
 - [[one-vault|Unified Value Preservation]]
-- [[money-illusion|The Extraction Mechanism]]
+- [[illusion-money|The Extraction Mechanism]]
