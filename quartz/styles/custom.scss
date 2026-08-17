@@ -1,5 +1,13 @@
 @use "./variables.scss" as *;
 
+// Hide the "Created with Quartz vX.X.X © YYYY" line the footer plugin renders
+// unconditionally — no config option to disable just this piece (only the whole
+// footer via enabled: false, which would also drop the site's own footer links).
+// It's always the footer's first child <p>, before the links <ul>.
+footer > p {
+  display: none;
+}
+
 // Thin, near-invisible Explorer scrollbar — shows a faint thumb only on hover,
 // otherwise gets out of the way.
 .explorer-content {
