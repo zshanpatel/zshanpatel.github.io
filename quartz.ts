@@ -7,6 +7,7 @@ import MobileOnly from "./quartz/components/MobileOnly"
 import DesktopOnly from "./quartz/components/DesktopOnly"
 import ConditionalRender from "./quartz/components/ConditionalRender"
 import Darkmode from "./quartz/components/Darkmode"
+import Footer from "./quartz/components/Footer"
 
 import { Search } from "@quartz-community/search"
 import { ReaderMode } from "@quartz-community/reader-mode"
@@ -19,7 +20,6 @@ import { ArticleTitle } from "@quartz-community/article-title"
 import { ContentMeta } from "@quartz-community/content-meta"
 import { PageTitle } from "@quartz-community/page-title"
 import { Spacer } from "@quartz-community/spacer"
-import { Footer } from "@quartz-community/footer"
 
 // Thesis pages that opt out of the graph/TOC/backlinks sidebar, ported from v4's quartz.layout.ts.
 // v4's condition strings used a "thesis/" slug prefix that never actually matched this content

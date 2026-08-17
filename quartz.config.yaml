@@ -238,8 +238,11 @@ plugins:
     layout:
       position: afterBody
       priority: 10
+  # Kept local (quartz/components/Footer.tsx, wired in quartz.ts) instead of this plugin —
+  # it unconditionally renders a "Created with Quartz vX.X.X" line with no option to
+  # disable just that piece. Left disabled here rather than removed for documentation.
   - source: "@quartz-community/footer"
-    enabled: true
+    enabled: false
     options:
       links:
         Get in Touch: https://cal.com/zeeshanpatel
