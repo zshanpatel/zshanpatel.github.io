@@ -22,4 +22,10 @@ If you're working **in the vault** and need to understand what a change will act
 - **Deploy**: pushes to `main` trigger `.github/workflows/deploy.yaml` → GitHub Pages. `main` is also what `publish.py` pushes to — don't publish from any other branch checked out here (`publish.py` now refuses to if it detects one).
 - **Local preview**: `npx quartz build --serve`, then `http://localhost:8080`.
 - **Custom components** (not the community-plugin default, kept local because the plugin couldn't be configured to do what's needed): `quartz/components/Darkmode.tsx` (custom transition, wired via `quartz.ts`) and `quartz/components/Footer.tsx` (renders only the footer links, no "Created with Quartz" line).
-- Full history of *why* things are built this way: `/Users/zeeshanpatel/Documents/DraftVault/06 Metadata/Session History/2026-08-17 - Quartz v5 Migration and Live Deployment.md`.
+- Full history of *why* things are built this way: `/Users/zeeshanpatel/Documents/DraftVault/06 Metadata/Session History/` — start with the most recent files, oldest first entry is 2026-08-17 (the v4→v5 migration).
+
+## After working here
+
+If you make a change in this repo — config, layout, plugins, deploy setup, a bug fix, anything — append an entry to the vault's Session History when you're done: `06 Metadata/Session History/YYYY-MM-DD - Topic.md` (one file per date — append a new `# Session Log:` section if today's already exists, per the vault's `/session` skill format at `06 Metadata/Skills/session/skill.md`). Do this even though you're not in the vault — otherwise the reasoning behind a change here only exists in a chat transcript that won't be there next session. Keep each entry short — a few lines is enough. The point is a trail future sessions can pick up quickly, not a full transcript; a long entry costs more for the next agent to read than it saves.
+
+**This file should stay a stable map of how things are wired, not a running log.** To pick up current context — what's actively being tried, what's still open — read the most recent Session History file(s), not this one. If you're tempted to add a "recent work" summary here instead, don't: it'll duplicate the log and go stale the moment nobody remembers to update it.
