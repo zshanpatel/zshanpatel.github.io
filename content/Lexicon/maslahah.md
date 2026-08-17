@@ -2,7 +2,6 @@
 title: Maslahah
 name: maslahah
 description: The principle of public interest — the preservation of faith, life, intellect, lineage, and wealth as the primary driver behind all law and systemic design.
-permalink: /lexicon/maslahah
 aliases:
   - Public Interest
 tags:

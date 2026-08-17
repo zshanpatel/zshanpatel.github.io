@@ -2,7 +2,6 @@
 title: Khalifah
 name: khalifah
 description: The principle of human stewardship — representing the divine order on Earth through preservation, reformation, and accountability rather than ownership or consumption.
-permalink: /lexicon/khalifah
 aliases:
   - Stewardship
   - Viceregent

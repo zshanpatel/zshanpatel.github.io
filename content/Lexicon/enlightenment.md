@@ -2,7 +2,6 @@
 title: The Enlightenment
 name: enlightenment
 description: The seventeenth and eighteenth-century European philosophical movement that displaced religious authority with secular reason — and in doing so, constructed the epistemological foundations of the modern world.
-permalink: /lexicon/enlightenment
 aliases:
   - Age of Reason
 tags:

@@ -2,7 +2,6 @@
 title: Compound Ignorance
 name: compound-ignorance
 description: The state of not only being ignorant of the truth but being unaware of that ignorance — believing you know when you do not, making you immune to correction.
-permalink: /lexicon/compound-ignorance
 tags:
   - concept
 ---

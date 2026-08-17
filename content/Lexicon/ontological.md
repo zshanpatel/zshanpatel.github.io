@@ -2,7 +2,6 @@
 title: Ontological
 name: ontological
 description: A shift from defining human value by functional performance to grounding identity in the structural reality of being — the foundation that makes all external work sustainable.
-permalink: /lexicon/ontological
 tags:
   - concept
 ---

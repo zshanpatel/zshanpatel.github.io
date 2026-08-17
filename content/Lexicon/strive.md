@@ -2,7 +2,6 @@
 title: Strive
 name: strive
 description: The principle of aligned striving — rejecting platform dependence and institutional compliance to build systems of sovereign independence, guided by bravery, honour, and speed.
-permalink: /lexicon/strive
 tags:
   - concept
 ---

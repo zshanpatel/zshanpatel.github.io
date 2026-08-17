@@ -2,7 +2,6 @@
 title: History
 name: history
 description: Not a neutral record of events but a contested one, where secular modernity erased the Golden Age, reframed religion as regressive, and installed Eurocentric epistemology as the default operating system of civilisation.
-permalink: /lexicon/history
 tags:
   - concept
 ---

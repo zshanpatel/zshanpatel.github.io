@@ -2,7 +2,6 @@
 title: Hisbah
 name: hisbah
 description: A community-based system of ethical market oversight ensuring fair pricing, honest trade, and public accountability — the Islamic alternative to both laissez-faire and bureaucratic regulation.
-permalink: /lexicon/hisbah
 tags:
   - concept
 ---

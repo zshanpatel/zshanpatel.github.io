@@ -2,7 +2,6 @@
 title: One-vault
 name: one-vault
 description: A unified framework for preserving both financial and epistemic value — rooted in radical transparency, revelation-based knowledge, and debt-free collective resilience.
-permalink: /lexicon/one-vault
 tags:
   - lexicon
 ---

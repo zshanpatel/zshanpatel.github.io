@@ -1,6 +1,5 @@
 ---
 title: Foreword
-permalink: /history/00-foreword
 tags:
   - purpose
   - legacy

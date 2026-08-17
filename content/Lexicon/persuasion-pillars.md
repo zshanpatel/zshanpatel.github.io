@@ -2,7 +2,6 @@
 title: The Three Pillars of Persuasion
 name: persuasion-pillars
 description: Aristotle's rhetorical framework of Ethos, Logos, and Pathos — the blueprint behind all modern persuasion, and the mental firewall needed to resist manipulation.
-permalink: /lexicon/persuasion-pillars
 tags:
   - concept
 ---

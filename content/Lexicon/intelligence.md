@@ -2,7 +2,6 @@
 title: Intelligence
 name: intelligence
 description: The capacity to perceive, process, and act on truth — understood here as both human and divine, with AI as a powerful but ultimately subordinate tool that requires a revelation-based knowledge framework to avoid misalignment.
-permalink: /lexicon/intelligence
 tags:
   - concept
 ---

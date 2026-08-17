@@ -2,7 +2,6 @@
 title: Innate Moral Faculty
 name: innate-moral-faculty
 description: The God-given capacity within every human being to recognise good and identify evil as self-sabotaging — rooted in fitra, documented by Islamic scholars across centuries, and confirmed by modern moral psychology.
-permalink: /lexicon/innate-moral-faculty
 aliases:
   - moral intuition
   - innate moral propensity

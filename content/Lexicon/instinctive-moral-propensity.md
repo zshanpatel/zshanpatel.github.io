@@ -2,7 +2,6 @@
 title: Instinctive Moral Propensity
 name: instinctive-moral-propensity
 description: The innate human tendency toward moral discernment — the pre-rational capacity to sense right from wrong that exists prior to socialisation, rooted in fitra and evidenced across civilisations and histories.
-permalink: /lexicon/instinctive-moral-propensity
 tags:
   - concept
 ---

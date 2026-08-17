@@ -4,7 +4,7 @@ import { CSSResourceToStyleElement, JSResourceToScriptElement } from "../util/re
 import { googleFontHref, googleFontSubsetHref } from "../util/theme"
 import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
 import { unescapeHTML } from "../util/escape"
-import { CustomOgImagesEmitterName } from "../plugins/emitters/ogImage"
+
 export default (() => {
   const Head: QuartzComponent = ({
     cfg,
@@ -31,40 +31,22 @@ export default (() => {
     const socialUrl =
       fileData.slug === "404" ? url.toString() : joinSegments(url.toString(), fileData.slug!)
 
-    const usesCustomOgImage = ctx.cfg.plugins.emitters.some(
-      (e) => e.name === CustomOgImagesEmitterName,
-    )
+    const usesCustomOgImage = ctx.cfg.plugins.emitters.some((e) => e.name === "CustomOgImages")
     const ogImageDefaultPath = `https://${cfg.baseUrl}/static/og-image.png`
+
+    const coreStylesheet = css[0]?.content
+    const coreScript = js.find(
+      (r) => r.loadTime === "beforeDOMReady" && r.contentType === "external",
+    )
 
     return (
       <head>
         <title>{title}</title>
         <meta charSet="utf-8" />
-        {/* Prevent FOUC: set theme attribute + critical CSS before any external resources load */}
-        <script
-          dangerouslySetInnerHTML={{
-            __html: `
-              const userPref = window.matchMedia("(prefers-color-scheme: light)").matches ? "light" : "dark"
-              const currentTheme = localStorage.getItem("theme") ?? userPref
-              document.documentElement.setAttribute("saved-theme", currentTheme)
-              document.addEventListener("DOMContentLoaded", () => document.body.classList.add("hero-ready"))
-              document.addEventListener("nav", () => document.body.classList.add("hero-ready"))
-            `,
-          }}
-        />
-        <style
-          dangerouslySetInnerHTML={{
-            __html: `
-              :root { --light: ${cfg.theme.colors.lightMode.light}; --darkgray: ${cfg.theme.colors.lightMode.darkgray}; }
-              :root[saved-theme="dark"] { --light: ${cfg.theme.colors.darkMode.light}; --darkgray: ${cfg.theme.colors.darkMode.darkgray}; color-scheme: dark; }
-              :root[saved-theme="light"] { color-scheme: light; }
-              body { background-color: var(--light); color: var(--darkgray); }
-              [saved-theme="dark"] img[src*="hero-image"] { filter: invert(1); }
-              img[src*="hero-image"] { opacity: 0; transition: opacity 0.15s ease; }
-              .hero-ready img[src*="hero-image"] { opacity: 1; }
-            `,
-          }}
-        />
+        {coreStylesheet && <link rel="preload" href={coreStylesheet} as="style" />}
+        {coreScript && coreScript.contentType === "external" && (
+          <link rel="preload" href={coreScript.src} as="script" />
+        )}
         {cfg.theme.cdnCaching && cfg.theme.fontOrigin === "googleFonts" && (
           <>
             <link rel="preconnect" href="https://fonts.googleapis.com" />

@@ -2,7 +2,6 @@
 title: Tawhid
 name: tawhid
 description: The recognition of absolute divine oneness — the ontological law that truth is singular, making fragmented secular systems structurally unstable and destined for collapse.
-permalink: /lexicon/tawhid
 tags:
   - concept
 ---

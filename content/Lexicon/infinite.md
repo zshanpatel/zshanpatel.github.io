@@ -2,7 +2,6 @@
 title: The Infinite
 name: infinite
 description: The boundless, non-material dimension of reality — the spiritual and metaphysical plane that finite systems cannot contain, and that gives human existence its ultimate orientation.
-permalink: /lexicon/infinite
 tags:
   - concept
 ---

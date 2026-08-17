@@ -2,7 +2,6 @@
 title: Barakah
 name: barakah
 description: Divine blessing — a qualitative increase in wealth, time, and effort that transcends numerical calculation and results from ethical, aligned action.
-permalink: /lexicon/barakah
 tags:
   - concept
 ---

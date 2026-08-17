@@ -2,7 +2,6 @@
 title: Mundo Level
 name: mundo-level
 description: The global, planetary, and ecosystemic scale of reality in the Multi-Level Perspective — the highest level where civilisational landscape shifts and divine law must ultimately align.
-permalink: /lexicon/mundo-level
 tags:
   - concept
 ---

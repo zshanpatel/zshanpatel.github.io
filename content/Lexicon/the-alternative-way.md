@@ -2,7 +2,6 @@
 title: The Alternative Way
 name: the-alternative-way
 description: The path that exists beneath the dominant system — not a reaction to it, but a prior truth that the dominant system displaced. A way of producing, exchanging, and consuming that answers to a different set of first principles.
-permalink: /lexicon/the-alternative-way
 aliases:
   - alt way
   - alternative path

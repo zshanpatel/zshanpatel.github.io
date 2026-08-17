@@ -2,7 +2,6 @@
 title: NPC (Non-Player Character)
 name: npc
 description: A person whose actions, thoughts, and responses are automated by external conditioning — reacting to marketing, social pressure, and inherited ideology without deliberate choice.
-permalink: /lexicon/npc
 tags:
   - concept
 ---

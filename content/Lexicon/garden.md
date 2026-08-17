@@ -2,7 +2,6 @@
 title: The Garden
 name: garden
 description: A metaphor for a non-linear, living knowledge system where every path creates new relationships — used here to describe this hypertext space.
-permalink: /lexicon/garden
 tags:
   - lexicon
 ---

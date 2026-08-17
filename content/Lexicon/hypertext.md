@@ -2,7 +2,6 @@
 title: Hypertext
 name: hypertext
 description: A non-linear information format where readers follow links to discover unpredicted relationships — the technical foundation for this knowledge garden.
-permalink: /lexicon/hypertext
 tags:
   - lexicon
 ---

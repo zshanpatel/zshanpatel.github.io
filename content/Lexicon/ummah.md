@@ -2,7 +2,6 @@
 title: Ummah
 name: ummah
 description: The global community united by shared values and purpose — transcending race, nationality, and economic status to act as a single integrated organism serving the divine order.
-permalink: /lexicon/ummah
 tags:
   - concept
 ---

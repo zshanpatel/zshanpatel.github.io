@@ -2,7 +2,6 @@
 title: Intrinsic Epistemology
 name: intrinsic-epistemic
 description: A knowledge source that integrates divine revelation with rational inquiry — providing the absolute anchor modern secular materialism cannot offer.
-permalink: /lexicon/intrinsic-epistemic
 tags:
   - concept
 ---

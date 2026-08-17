@@ -2,7 +2,6 @@
 title: Psionic Alignment
 name: psionic-alignment
 description: The intentional synchronisation of individual consciousness with divine intelligence — when the global community aligns its intentions with divine purpose, collective action becomes coherent.
-permalink: /lexicon/psionic-alignment
 tags:
   - concept
 ---

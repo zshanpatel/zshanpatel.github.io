@@ -2,7 +2,6 @@
 title: Tazkiyah
 name: tazkiyah
 description: The systematic purification of the self — cleansing the ego and heart to align human agency with divine purpose, the engine that makes all other transformation possible.
-permalink: /lexicon/tazkiyah
 tags:
   - concept
 ---

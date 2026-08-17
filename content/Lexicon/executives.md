@@ -2,7 +2,6 @@
 title: Executives
 name: executives
 description: A category of person defined by their authority to make decisions at scale.
-permalink: /lexicon/executives
 aliases:
   - executive
   - leadership

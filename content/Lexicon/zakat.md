@@ -2,7 +2,6 @@
 title: Zakat
 name: zakat
 description: Mandatory almsgiving — a structural mechanism of sacred economics that prevents wealth hoarding, purifies the soul from greed, and stimulates circulation through the community.
-permalink: /lexicon/zakat
 tags:
   - concept
 ---

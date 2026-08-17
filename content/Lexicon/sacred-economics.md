@@ -2,7 +2,6 @@
 title: Sacred Economics
 name: sacred-economics
 description: An economic system built on divine principles of justice, risk-sharing, and wealth circulation — treating wealth as a trust rather than a possession, measuring success by collective elevation not individual accumulation.
-permalink: /lexicon/sacred-economics
 tags:
   - framework
 ---

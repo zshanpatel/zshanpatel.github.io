@@ -2,7 +2,6 @@
 title: Grand Challenges (GC)
 name: grand-challenges
 description: Large-scale societal problems — poverty, ecological overshoot, systemic inequality — that cannot be solved through technical fixes because they are moral and epistemological failures.
-permalink: /lexicon/grand-challenges
 tags:
   - concept
 ---

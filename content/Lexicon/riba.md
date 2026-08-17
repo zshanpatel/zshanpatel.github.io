@@ -2,7 +2,6 @@
 title: Riba
 name: riba
 description: The prohibition of interest and usury — any predetermined return on capital not tied to real risk, identified as the primary mechanism driving wealth concentration and systemic collapse.
-permalink: /lexicon/riba
 aliases:
   - interest
   - usury

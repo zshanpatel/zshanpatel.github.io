@@ -2,7 +2,6 @@
 title: Emanate
 name: emanate
 description: The principle that divine truth flows from a single source through the intellectual realm into the material world — truth is not invented but received.
-permalink: /lexicon/emanate
 tags:
   - concept
 ---

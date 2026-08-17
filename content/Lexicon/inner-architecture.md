@@ -2,7 +2,6 @@
 title: The Inner Architecture
 name: inner-architecture
 description: The foundational internal structure of clarity, sovereignty, and integrity required to sustain external action — without it, any system built will replicate the same extractive dynamics.
-permalink: /lexicon/inner-architecture
 tags:
   - concept
 ---

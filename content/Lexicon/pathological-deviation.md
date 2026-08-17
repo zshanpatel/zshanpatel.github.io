@@ -2,7 +2,6 @@
 title: Pathological Deviation
 name: pathological-deviation
 description: The state where natural human needs are systematically distorted into infinite, unquenchable desires — a manufactured condition, not a biological reality.
-permalink: /lexicon/pathological-deviation
 tags:
   - concept
 ---

@@ -2,7 +2,6 @@
 title: First Principle
 name: first-principle
 description: The foundational truth from which all other reasoning is derived — building from what is undeniably true rather than from convention, assumption, or inherited ideology.
-permalink: /lexicon/first-principle
 tags:
   - concept
 ---

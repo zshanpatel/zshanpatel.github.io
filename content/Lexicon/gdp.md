@@ -2,7 +2,6 @@
 title: GDP (Gross Domestic Product)
 name: gdp
 description: A narrow econometric indicator that counts all monetary transactions as positive — used here to expose its failure as a proxy for genuine human prosperity.
-permalink: /lexicon/gdp
 tags:
   - concept
 ---

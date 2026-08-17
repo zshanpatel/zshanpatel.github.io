@@ -2,7 +2,6 @@
 title: Beyond Religion
 name: beyond-religion
 description: The recognition of Islam not as private ritual but as a complete operating system (deen) integrating spiritual development, economic justice, and rational inquiry.
-permalink: /lexicon/beyond-religion
 tags:
   - concept
 ---

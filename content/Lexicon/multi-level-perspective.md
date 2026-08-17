@@ -2,7 +2,6 @@
 title: Multi-Level Perspective (MLP)
 name: multi-level-perspective
 description: A systems-thinking framework mapping transformation across three inseparable scales — Micro (individual), Macro (community), and Mundo (planetary) — showing how real change requires convergence across all three.
-permalink: /lexicon/multi-level-perspective
 tags:
   - framework
 ---

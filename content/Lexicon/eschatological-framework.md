@@ -2,7 +2,6 @@
 title: Eschatological Framework
 name: eschatological-framework
 description: An analytical lens that reads systemic collapse not as an end but as a transitional phase in a pre-determined civilisational cycle, enabling long-horizon stewardship.
-permalink: /lexicon/eschatological-framework
 tags:
   - concept
 ---

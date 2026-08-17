@@ -2,7 +2,6 @@
 title: Asabiyyah
 name: asabiyyah
 description: Ibn Khaldun's term for the group solidarity that is the true engine of political power — the collective cohesion that rises from hardship, enables civilisations, and dissolves through the very success it creates.
-permalink: /lexicon/asabiyyah
 aliases:
   - group solidarity
   - social cohesion

@@ -2,7 +2,6 @@
 title: The Seven Liberal Arts
 name: seven-liberal-arts
 description: The classical curriculum of Trivium (Grammar, Logic, Rhetoric) and Quadrivium (Arithmetic, Geometry, Astronomy, Music) — designed to produce self-sovereign thinkers, not vocational followers.
-permalink: /lexicon/seven-liberal-arts
 tags:
   - lexicon
 ---

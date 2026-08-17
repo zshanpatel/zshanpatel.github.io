@@ -55,6 +55,7 @@ if ("scrollRestoration" in history) {
 
 let activeLoadingBar: HTMLDivElement | null = null
 function startLoading() {
+  activeLoadingBar?.remove()
   const loadingBar = document.createElement("div")
   loadingBar.className = "navigation-progress"
   loadingBar.style.width = "0"
@@ -96,6 +97,7 @@ async function _navigate(url: URL, isBack: boolean = false, backScrollY?: number
   if (!isBack) {
     history.replaceState({ ...history.state, scrollY: window.scrollY }, "", window.location.href)
   }
+
   p = p || new DOMParser()
   const contents = await fetchCanonical(url)
     .then((res) => {
@@ -139,7 +141,6 @@ async function _navigate(url: URL, isBack: boolean = false, backScrollY?: number
   announcer.dataset.persist = ""
   html.body.appendChild(announcer)
 
-  // morph body
   micromorph(document.body, html.body)
 
   // scroll into place and add history
@@ -155,9 +156,9 @@ async function _navigate(url: URL, isBack: boolean = false, backScrollY?: number
   }
 
   // now, patch head, re-executing scripts
-  const elementsToRemove = document.head.querySelectorAll(":not([spa-preserve])")
+  const elementsToRemove = document.head.querySelectorAll(":not([data-persist])")
   elementsToRemove.forEach((el) => el.remove())
-  const elementsToAdd = html.head.querySelectorAll(":not([spa-preserve])")
+  const elementsToAdd = html.head.querySelectorAll(":not([data-persist])")
   elementsToAdd.forEach((el) => document.head.appendChild(el))
 
   // delay setting the url until now

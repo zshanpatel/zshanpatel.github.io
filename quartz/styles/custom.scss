@@ -1,4 +1,48 @@
-@use "./base.scss";
+@use "./variables.scss" as *;
+
+// Thin, near-invisible Explorer scrollbar — shows a faint thumb only on hover,
+// otherwise gets out of the way.
+.explorer-content {
+  scrollbar-width: thin;
+  scrollbar-color: transparent transparent;
+
+  &:hover {
+    scrollbar-color: var(--lightgray) transparent;
+  }
+
+  &::-webkit-scrollbar {
+    width: 4px;
+  }
+
+  &::-webkit-scrollbar-track {
+    background: transparent;
+  }
+
+  &::-webkit-scrollbar-thumb {
+    background-color: transparent;
+    border-radius: 3px;
+  }
+
+  &:hover::-webkit-scrollbar-thumb {
+    background-color: var(--lightgray);
+  }
+}
+
+// Hide per-item dates in the folder listing on the thesis index only.
+// folder-page renders these itself with no config option to disable them,
+// so this is scoped via the page's own data-slug rather than a global toggle.
+// The row is a 3-column grid (date | title | tags); dropping the date column
+// leaves title and tags as a 2-column grid, side by side.
+body[data-slug="the-research-thesis/index"] .page-listing {
+  .section-li > .section {
+    grid-template-columns: 3fr 1fr;
+    align-items: center;
+  }
+
+  .meta {
+    display: none;
+  }
+}
 
 // Clean Reading Overrides
 body {
@@ -70,40 +114,58 @@ a:hover {
   view-transition-name: none;
   background-image: repeating-conic-gradient(
     from var(--ray-angle, 105deg) at var(--ray-origin-x, 0px) var(--ray-origin-y, 0px),
-    rgba(255, 250, 240, 0)    0deg,
+    rgba(255, 250, 240, 0) 0deg,
     rgba(255, 250, 240, 0.45) 8deg,
-    rgba(255, 250, 240, 0)    16deg,
-    transparent               32deg
+    rgba(255, 250, 240, 0) 16deg,
+    transparent 32deg
   );
   filter: blur(22px);
   -webkit-mask-image: radial-gradient(
     ellipse 140% 120% at var(--ray-origin-x, 0px) var(--ray-origin-y, 0px),
-    black 0%, transparent 100%
+    black 0%,
+    transparent 100%
   );
   mask-image: radial-gradient(
     ellipse 140% 120% at var(--ray-origin-x, 0px) var(--ray-origin-y, 0px),
-    black 0%, transparent 100%
+    black 0%,
+    transparent 100%
   );
   mix-blend-mode: screen;
   opacity: 0;
   /* Two independent animations: angle sweeps linearly, opacity breathes naturally */
   animation:
     daylight-opacity 8s ease-out both,
-    daylight-rotate  4s linear infinite;
+    daylight-rotate 4s linear infinite;
 }
 
 /* Organic fade-in and fade-out */
 @keyframes daylight-opacity {
-  0%   { opacity: 0;    }
-  18%  { opacity: 0.3;  }
-  45%  { opacity: 0.45; }
-  78%  { opacity: 0.28; }
-  92%  { opacity: 0.12; }
-  100% { opacity: 0;    }
+  0% {
+    opacity: 0;
+  }
+  18% {
+    opacity: 0.3;
+  }
+  45% {
+    opacity: 0.45;
+  }
+  78% {
+    opacity: 0.28;
+  }
+  92% {
+    opacity: 0.12;
+  }
+  100% {
+    opacity: 0;
+  }
 }
 
 /* Constant linear drift — like real sunlight slowly moving */
 @keyframes daylight-rotate {
-  from { --ray-angle: 140deg; }
-  to   { --ray-angle: 60deg;  }
+  from {
+    --ray-angle: 140deg;
+  }
+  to {
+    --ray-angle: 60deg;
+  }
 }

@@ -2,16 +2,15 @@ import { FullSlug, isFolderPath, resolveRelative } from "../util/path"
 import { QuartzPluginData } from "../plugins/vfile"
 import { Date, getDate } from "./Date"
 import { QuartzComponent, QuartzComponentProps } from "./types"
-import { GlobalConfiguration } from "../cfg"
 
 export type SortFn = (f1: QuartzPluginData, f2: QuartzPluginData) => number
 
-export function byDateAndAlphabetical(cfg: GlobalConfiguration): SortFn {
+export function byDateAndAlphabetical(): SortFn {
   return (f1, f2) => {
     // Sort by date/alphabetical
     if (f1.dates && f2.dates) {
       // sort descending
-      return getDate(cfg, f2)!.getTime() - getDate(cfg, f1)!.getTime()
+      return getDate(f2)!.getTime() - getDate(f1)!.getTime()
     } else if (f1.dates && !f2.dates) {
       // prioritize files with dates
       return -1
@@ -26,16 +25,7 @@ export function byDateAndAlphabetical(cfg: GlobalConfiguration): SortFn {
   }
 }
 
-// cfg is unused here but kept so byFileName has the same (cfg) => SortFn
-// shape as byDateAndAlphabetical/byDateAndAlphabeticalFolderFirst — folderPage.tsx
-// picks between all three interchangeably.
-export function byFileName(_cfg: GlobalConfiguration): SortFn {
-  return (f1, f2) => {
-    return (f1.slug ?? "").localeCompare(f2.slug ?? "")
-  }
-}
-
-export function byDateAndAlphabeticalFolderFirst(cfg: GlobalConfiguration): SortFn {
+export function byDateAndAlphabeticalFolderFirst(): SortFn {
   return (f1, f2) => {
     // Sort folders first
     const f1IsFolder = isFolderPath(f1.slug ?? "")
@@ -46,7 +36,7 @@ export function byDateAndAlphabeticalFolderFirst(cfg: GlobalConfiguration): Sort
     // If both are folders or both are files, sort by date/alphabetical
     if (f1.dates && f2.dates) {
       // sort descending
-      return getDate(cfg, f2)!.getTime() - getDate(cfg, f1)!.getTime()
+      return getDate(f2)!.getTime() - getDate(f1)!.getTime()
     } else if (f1.dates && !f2.dates) {
       // prioritize files with dates
       return -1
@@ -64,18 +54,10 @@ export function byDateAndAlphabeticalFolderFirst(cfg: GlobalConfiguration): Sort
 type Props = {
   limit?: number
   sort?: SortFn
-  showDate?: boolean
 } & QuartzComponentProps
 
-export const PageList: QuartzComponent = ({
-  cfg,
-  fileData,
-  allFiles,
-  limit,
-  sort,
-  showDate = true,
-}: Props) => {
-  const sorter = sort ?? byDateAndAlphabeticalFolderFirst(cfg)
+export const PageList: QuartzComponent = ({ cfg, fileData, allFiles, limit, sort }: Props) => {
+  const sorter = sort ?? byDateAndAlphabeticalFolderFirst()
   let list = allFiles.sort(sorter)
   if (limit) {
     list = list.slice(0, limit)
@@ -90,12 +72,13 @@ export const PageList: QuartzComponent = ({
         return (
           <li class="section-li">
             <div class="section">
-              <p class="meta">
-                {showDate && page.dates && <Date date={getDate(cfg, page)!} locale={cfg.locale} />}
-              </p>
+              <p class="meta">{page.dates && <Date date={getDate(page)!} locale={cfg.locale} />}</p>
               <div class="desc">
                 <h3>
-                  <a href={resolveRelative(fileData.slug!, page.slug!)} class="internal">
+                  <a
+                    href={resolveRelative(fileData.slug!, page.slug!)}
+                    class="internal internal-link"
+                  >
                     {title}
                   </a>
                 </h3>

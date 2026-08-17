@@ -2,7 +2,6 @@
 title: Fitra
 name: fitra
 description: The innate human nature — an original internal orientation toward truth and the divine that modern systems suppress, and that purification works to reclaim.
-permalink: /lexicon/fitra
 aliases:
   - Fitrah
 tags:

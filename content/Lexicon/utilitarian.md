@@ -2,7 +2,6 @@
 title: Utilitarian
 name: utilitarian
 description: A secular ethical framework that maximises happiness and minimises harm — examined here to expose its moral subjectivity, fragmentation, and failure as an alternative to divine alignment.
-permalink: /lexicon/utilitarian
 tags:
   - concept
 ---

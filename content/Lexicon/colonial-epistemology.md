@@ -2,7 +2,6 @@
 title: Colonial Epistemology
 name: colonial-epistemology
 description: The process by which European colonial systems did not merely conquer territory but installed a specific way of knowing — marginalising indigenous, Islamic, and non-Eurocentric knowledge traditions as inferior or invisible.
-permalink: /lexicon/colonial-epistemology
 aliases:
   - epistemic colonialism
   - epistemic imperialism

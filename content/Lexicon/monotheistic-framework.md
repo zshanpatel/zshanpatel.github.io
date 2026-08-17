@@ -2,7 +2,6 @@
 title: Monotheistic Framework
 name: monotheistic-framework
 description: An epistemological architecture that organises all knowledge, resources, and relationships around a single unified source of truth, eliminating the false secular-sacred divide.
-permalink: /lexicon/monotheistic-framework
 tags:
   - framework
 ---

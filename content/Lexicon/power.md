@@ -2,7 +2,6 @@
 title: Power
 name: power
 description: The capacity to organise reality according to your will — not merely force, but the architecture of cohesion, narrative, and legitimacy that makes force unnecessary.
-permalink: /lexicon/power
 tags:
   - concept
 ---

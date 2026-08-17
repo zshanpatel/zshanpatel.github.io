@@ -2,7 +2,6 @@
 title: Agency
 name: agency
 description: The capacity for independent, principled action that moves a person from reactive NPC behaviour toward sovereign stewardship of reality.
-permalink: /lexicon/agency
 tags:
   - concept
 ---

@@ -2,7 +2,6 @@
 title: Universal Prosperity
 name: universal-prosperity
 description: A multidimensional model of human flourishing across 8 interconnected pillars — replacing econometric growth with value circulation rooted in divine alignment, collective elevation, and civilisational endurance.
-permalink: /lexicon/universal-prosperity
 tags:
   - framework
 ---

@@ -2,7 +2,6 @@
 title: Civilisational Transformation
 name: civilisational-transformation
 description: Theory U applied to civilisation — a five-movement process from reactive pattern-downloading to generative, divinely-aligned action and systemic renewal.
-permalink: /lexicon/civilisational-transformation
 tags:
   - framework
 ---
