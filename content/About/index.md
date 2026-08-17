@@ -2,7 +2,6 @@
 name: about
 pageTitle: About
 title: About
-permalink: /about/
 tags:
   - resume
   - life
@@ -43,7 +42,7 @@ I work well with senior leaders. I am most effective in engagements that operate
 - Agentic context systems specification (what the system does, what it escalates, what it never touches)
 - Organisational intelligence diagnosis (where knowledge is stored vs. where it flows)
 -  and implementation strategy
-- [[Go-to-market strategy|Go-to-market strategy]] and [[Brand positioning|brand positioning]]
+- Go-to-market strategy and brand positioning
 - Research translation: converting academic and qualitative insight into operational decision frameworks
 - Stakeholder management at C-suite and public sector executive level
 
@@ -52,13 +51,13 @@ I work well with senior leaders. I am most effective in engagements that operate
 **What I am genuinely good at:**
 - Moving between levels of abstraction — from strategic framing to operational specification — without losing coherence at either end
 - Diagnosing structural problems rather than surface symptoms: asking what architecture produced this outcome before prescribing a fix
-- Research translation: converting dense academic, qualitative, or market intelligence into [[frameworks]] that decision-makers can actually use
+- Research translation: converting dense academic, qualitative, or market intelligence into [[Lexicon/index|frameworks]] that decision-makers can actually use
 - Holding strategic direction stable through the messiness of execution
 - Working across disciplines — [[History/index|design, economics, technology, communication]] — and finding the structural logic that connects them
 - Operating in ambiguous briefs where the first job is to clarify what the real question is
 
 **Where I am still developing:**
-- Deep technical implementation: I design AI architecture and specify [[agentic workflows]], but I am not a software engineer. I work best alongside technical builders, not instead of them. Think of me as the layer between executive decision-making and technical engineers.
+- Deep technical implementation: I design AI architecture and specify [[Systems and AI/index|agentic workflows]], but I am not a software engineer. I work best alongside technical builders, not instead of them. Think of me as the layer between executive decision-making and technical engineers.
 - The early stages of a role always involve calibration — I read organisations carefully before moving fast, which means I am not the person for a two-week turnaround from zero.
 - My background spans consulting, advertising, research, and product — which means the depth in any one vertical is matched by breadth across several. For roles requiring 10 years of single-sector specialisation, that is a fair challenge to surface.
 

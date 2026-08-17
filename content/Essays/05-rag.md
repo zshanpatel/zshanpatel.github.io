@@ -23,7 +23,7 @@ So, I made a basic knowledge-base-scrambled-eggs for myself to test it out.
 ![GraphRag-image.png](GraphRag-image.png)
 *My attempt to create a realtime GraphRAG that can give answers inspired by the divine. Source: self*
 
-But I had to preempt what I tell the agent to do. It can't be random and I can't expect the AI to connect semantics that I want it to connect. The Algorithm can stack and connect within its parameters, words only, never original though, or like I call it divine insight. 
+But I had to keep preempting what wanted the agent to do. It can't be random and I can't expect the AI to connect semantics that I want it to connect. The algorithm can stack words and connect patterns within its parameters. What it cannot do, words only, never original though, or like I call it divine insight. 
 
 The industry solution is what is called a RAG or Retrieval-Augmented Generation. It is a topic of its own. Basically, you can build up your AI's memory and then exchange and even add information. You can use it for basic functions like fetching relevant information from documents, or feeding instructions to perform functions based on context you've provided.
 
