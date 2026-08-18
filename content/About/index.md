@@ -10,15 +10,15 @@ hide_meta: true
 description: This page is written to be useful for collaborators, agents and ATS systems mapping. It is a complete account of what I have done, how I think, what I am good at, and where I am still developing. The goal is to save everyone's time and surface genuine fit, not to perform an optimised version of a career.
 ---
 ## History
-Having completed my [MSc](03-ucl), [MBA](07-simc) and my bachelors in [Design](sid), I have been working in the advertising industry, leading creative solutions for some of the top brands for the past decade. In my academic and work experience, I have acquired skills in business management, experiential design, research methodologies, and strategic communication.  
+Having completed my [MSc](11-ucl.md), [MBA](07-simc) and my bachelors in [Design](sid), I have been working in the advertising industry, leading creative solutions for some of the top brands for the past decade. In my academic and work experience, I have acquired skills in business management, experiential design, research methodologies, and strategic communication.  
 
 Not to toot my own horn, but I actually am quite fond of and read repeatedly my [research thesis](00-abstract) I did at UCL; What prosperity means, and a framework for thinking about it differently.
   
 I intend to learn, develop and implement theoretical, methodological and policy focused research, working at the intersection of [[Systems and AI/index|systems thinking]], and commerce. I am a bit fixated with bridging research and action. 
 
-I spent a decade across global advertising agencies, [[04-mullen|MullenLowe]], [[06-ddb|DDB]] [[08-tbwa|TBWA]],  [[01-s4g-consultancy#career-timeline|BBDO]]. 
+I spent a decade across global advertising agencies, [[10-mullen|MullenLowe]], [[08-ddb|DDB]] [[06-tbwa|TBWA]],  [[13-s4g-consultancy#career-timeline|BBDO]]. 
 
-Recently, I am quite proud of doing a consulting project for [[02-hackney|London Borough of Hackney]]; diagnosing structural blockers in public sector Digital Transformation.
+Recently, I am quite proud of doing a consulting project for [[12-hackney|London Borough of Hackney]]; diagnosing structural blockers in public sector Digital Transformation.
 
 After working with numerous stakeholders, I reckon my skill set has to be utilised towards a larger scheme of things that can bring a positive impact through innovative thinking and execution. It is crucial to build an understanding beyond consumerism and pursue transformative solutions for the society of the future. 
 

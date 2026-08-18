@@ -9,7 +9,7 @@ draft: false
 #### **Bachelor of Design, Communication Design — 2007–2011**
 Symbiosis Institute of Design, Pune
 
-Foundation in design thinking, brand communication, creative strategy, and visual systems. The design background informs how I structure arguments, present strategy, and think about [[information architecture]] — it is not incidental to the consulting work, it is foundational to it.
+Foundation in design thinking, brand communication, creative strategy, and visual systems. The design background informs how I structure arguments, present strategy, and think about information architecture — it is not incidental to the consulting work, it is foundational to it.
 ### International Indian School Jeddah
 **Grade XII, Science / Mathematics / Physics — 2007**
 Central Board of Secondary Education (CBSE)

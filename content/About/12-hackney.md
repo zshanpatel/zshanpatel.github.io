@@ -7,9 +7,11 @@ draft: false
 ---
 ### London Borough of Hackney — Digital Transformation Consultant
 **Mar – Jun 2023 | Greater London (Hybrid)**
-*Engagement delivered through [[01-s4g-consultancy#education|UCL Institute for Global Prosperity]]*
+*Engagement delivered through [[13-s4g-consultancy#education|UCL Institute for Global Prosperity]]*
 
-Hackney's Economic Development team covers green economy, just transition, local entrepreneurship, and digital innovation across one of London's most complex boroughs. The brief: assess the borough's [[Lexicon/multi-level-perspective|digital transformation trajectory]] and identify where strategy was failing to translate into operational reality.
+The brief: assess the borough's [[Lexicon/multi-level-perspective|digital transformation trajectory]] and identify where strategy was failing to translate into operational reality.
+
+Hackney's Economic Development covers green economy, just transition, local entrepreneurship, and digital innovation across one of London's most complex boroughs. 
 
 The work centred on three structural blockers that recur across most large public sector digital transformation efforts:
 
@@ -21,7 +23,7 @@ The work centred on three structural blockers that recur across most large publi
 
 The recommendation was a shift toward agile, cross-functional digital governance — and a specification layer that allowed policy intent (Zero Carbon Hackney, green skills, inclusive economy) to be encoded in forms that [[Systems and AI/index|AI and automated systems]] could read and act from, without requiring a human translator at every step.
 
-**The AI dimension**: This engagement ran in early 2023, precisely as AI was moving from custom-built capability toward near-commodity. A significant part of the analysis was identifying where AI sat in the borough's technology evolution — and what conditions would need to be met to move from AI as a point tool to AI as an organisational operating layer. The answer was the same as the structural diagnosis: real-time data flows, cross-departmental intelligence sharing, machine-readable policy specification, and governed autonomous action. That framing — the gap between stored intelligence and flowing intelligence — became the foundation of [[s4g-tech-spec|context architecture]] methodology.
+**The AI dimension**: This engagement ran in early 2023, precisely as AI was moving from custom-built capability toward near-commodity. A significant part of the analysis was identifying where AI sat in the borough's technology evolution — and what conditions would need to be met to move from AI as a point tool to AI as an organisational operating layer. The answer was the same as the structural diagnosis: real-time data flows, cross-departmental intelligence sharing, machine-readable policy specification, and governed autonomous action. That framing — the gap between stored intelligence and flowing intelligence — became the foundation of context architecture methodology.
 
 Recognised by UCL senior leadership for strategic rigour and practical application to a live public sector challenge.
 

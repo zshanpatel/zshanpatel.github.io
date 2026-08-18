@@ -4,6 +4,7 @@ name: blockchain
 description: A shared, distributed ledger that records transactions across a network of computers rather than one central authority — permanent, chronologically ordered, and unchangeable without agreement from the whole network.
 tags:
   - term
+human-reviewed: true
 ---
 > A record of transactions kept by many computers at once instead of one company or bank — so no single party can quietly rewrite it.
 

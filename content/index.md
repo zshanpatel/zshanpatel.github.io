@@ -11,7 +11,7 @@ Hey. I'm Zeeshan. 👋
 
 This is my little [[Lexicon/hypertext|hypertext]] [[Lexicon/garden|garden]] in the [[Lexicon/infinite|infinite]] world of the internet. 
 
-Currently, I’m exploring what [[Lexicon/strategic-communication|strategic communication]], [[Lexicon/intelligence|intelligence]], and [[Systems and AI/00-context|context engineering]] for [[Lexicon/executives|executives]] looks like, at [[About/01-s4g-consultancy|Strive for Growth Consultancy]]. 
+Currently, I’m exploring what [[Lexicon/strategic-communication|strategic communication]], [[Lexicon/intelligence|intelligence]], and [[Systems and AI/00-context|context engineering]] for [[Lexicon/executives|executives]] looks like, at [[13-s4g-consultancy|Strive for Growth Consultancy]]. 
 
 On a deeper level, I am interested in the [[10-epistemology-intro|epistemology]] of knowledge drawn through the divine and human [[Lexicon/intrinsic-epistemic|inward thinking]], and [[innate-moral-faculty|instinctive moral propensity]], its presence in [[history|history]], influence on the masses and its place in modern society.  How might we create from [[first-principle|first principles]], outcomes that enable [[Lexicon/universal-prosperity|universal prosperity]] through [[Lexicon/civilisational-transformation|civilisational transformation]].
 

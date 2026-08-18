@@ -7,6 +7,7 @@ aliases:
   - social cohesion
 tags:
   - concept
+human-reviewed: true
 ---
 > Power does not originate in wealth, ideology, or formal title. It originates in the willingness of a group to act as one — and to endure in order to do so.
 

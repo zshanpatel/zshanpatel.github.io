@@ -1,7 +1,7 @@
 ---
 name: brand-services-director
-description: Describes Zeeshan's experience as a Brand Services Director at Mullen Lintas Mumbai Bombay office
-title: Mad Men at MullenLowe
+description: Describes Zeeshan's experience as a Brand Services Director at Mullen Lowe Lintas Group Mumbai Bombay office
+title: MullenLowe
 permalink: /about/mullen
 showDate: false
 draft: false
@@ -18,12 +18,14 @@ MullenLowe is a global integrated agency network. I joined as Senior Brand Servi
 
 **What this role developed**: Operating under sustained senior stakeholder pressure, managing complexity across functions and markets simultaneously, translating ambiguous client briefs into clear creative and strategy briefs, and holding strategic direction stable through execution.
 
-### The Ground-Level View: The 3 AM Test
-At MullenLowe, I operated at the center of a global skin and haircare engine. But it was more than just "brand management"; it was a masterclass in navigating what I now call the **"Account Paradox."** 
+### The Ground-Level View
+At MullenLowe, I operated at the center of a global skin and haircare engine. Apart from just "brand management"; it was a masterclass in navigating what I call the "Creative Paradox."
 
-You were told you were on a mission to blow up the status quo, yet you were operating inside a high-pressure, corporate engine where "good enough is not enough" was the baseline. Internally, we lived for the **"3 AM Test."** My job as a Brand Services Director wasn't just to lead strategy; it was to be the person you actually *wanted* to be in a room with at 3:00 AM during a pitch preperation. 
+You were told you were on a mission to blow up the status quo, yet you were operating inside a high-pressure, corporate engine where "good enough is not enough" was the baseline. 
 
-I was the bridge between the creative teams who wanted to "disrupt" the client’s logo out of the ad and the senior client leadership who needed to know if a 15-second pre-roll would actually move the needle in the EMEA region. Managing that tension taught me that the most powerful person in the room isn't the one with the loudest idea, but the one who can build that load-bearing idea.
+Internally, we lived for the **"3 AM Test."** My job as a Brand Services Director wasn't just to lead strategy; it was to be the person you actually *wanted* to be in a room with at 3:00 AM during a pitch preparation. 
+
+I was the bridge between the creative teams who wanted to "disrupt" the client’s logo out of the ad and the senior client leadership who needed to know if a 15-second pre-roll would actually move the needle in the EMEA region. Managing that tension taught me building that load-bearing idea.
 
 ## Certifications
 - Google Ads Certification — Google

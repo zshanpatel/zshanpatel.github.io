@@ -1,11 +1,13 @@
 ---
-title: Beyond Religion
-name: beyond-religion
+title: Religion as System
+name: religion-as-system
 description: The recognition of Islam not as private ritual but as a complete operating system (deen) integrating spiritual development, economic justice, and rational inquiry.
+permalink: /lexicon/religion-as-system
 tags:
   - concept
+human-reviewed: true
 ---
-> The recognition of Islam not as a set of private rituals, but as a comprehensive operating system *[[beyond-religion|(deen)]]* for organizing society, economics, and knowledge.
+> The recognition of Islam not as a set of private rituals, but as a comprehensive operating system *[[beyond-religion|(deen)]]* for organising society, economics, and knowledge.
 
 Modernity treats "religion" as a separate silo, a private belief system that doesn't interfere with "real life" matters like politics or business. This great separation is a strategy to protect exploitative systems from moral scrutiny.
 
