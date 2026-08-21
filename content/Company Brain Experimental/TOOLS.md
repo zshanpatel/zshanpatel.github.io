@@ -3,7 +3,7 @@ title: Tools Registry (Runtime)
 description: Master list of active tools, integrations, and connection details.
 type: agent-runtime
 tags: [tools, agent-context, capabilities]
-last-updated: 2026-08-20
+last-updated: 2026-08-22
 ---
 
 # Tools — Runtime Tool Registry
@@ -18,58 +18,40 @@ Below is the list of active tools connected to this assistant. Update this list 
 
 | Server / Tool Name | Purpose | Connection Type | Status |
 | --- | --- | --- | --- |
-| `filesystem` | Scoped file read/write access to organize folders and notes. | MCP (Local) | *[Enabled / Disabled]* |
-| `web-search` | Fetch real-time market data, research, and general information. | MCP / API (Tavily or DuckDuckGo) | *[Enabled / Disabled]* |
-| `google-workspace` | Bridge notes with Google Docs, Sheets, and Drive. | MCP / OAuth (Google API) | *[Enabled / Disabled]* |
-| `email` | Summarize and draft emails directly from Gmail or Outlook. | MCP / OAuth | *[Enabled / Disabled]* |
+| `desktop-commander` | Hands: file read/write plus running command-line steps behind the scenes. | Connector Directory (one-click install) | *[Enabled / Disabled]* |
+| `filesystem` | Scoped file read/write for isolated document or file-based work. | Connector Directory (one-click install) | *[Enabled / Disabled]* |
+| `web-search` | Real-time research and current information. | Built into Claude and ChatGPT (no install needed) | *[Enabled / Disabled]* |
+| Gmail / Microsoft 365 connector | Summarize and draft emails directly from the user's inbox. | Connector Directory (OAuth sign-in) | *[Enabled / Disabled]* |
+| Google Drive connector | Read and create Google Docs and Sheets. | Connector Directory (OAuth sign-in) | *[Enabled / Disabled]* |
 
 ---
 
-## Configuration Snippets & Guides
+## How Tools Are Installed
 
-This section lists the configuration settings for the starter tools in different AI environments.
+All starter tools install from each platform's built-in directory — no config files, no terminal, on any plan including Claude Free.
 
-### 1. Claude Desktop (MCP Config)
-Add the following blocks to your `claude_desktop_config.json` under the `"mcpServers"` key to enable these tools:
+### 1. Claude (Web, Desktop, and Cowork) — recommended default
+In **Customize → Connectors**, install in this order:
+1. **Desktop Commander** — hands: file access plus behind-the-scenes command execution.
+2. **Filesystem** — optional companion for isolated document/file work without shell access.
+3. **Email connector** — Gmail, or Microsoft 365 for Outlook users.
+4. **Google Drive** — Google Docs and Sheets.
+Local tools prompt for settings (e.g., which folder to access) in simple forms during install.
 
-```json
-{
-  "mcpServers": {
-    "filesystem": {
-      "command": "npx",
-      "args": [
-        "-y",
-        "@modelcontextprotocol/server-filesystem",
-        "/Users/username/path-to-your-company-brain"
-      ]
-    },
-    "tavily-search": {
-      "command": "npx",
-      "args": [
-        "-y",
-        "@modelcontextprotocol/server-tavily-search"
-      ],
-      "env": {
-        "TAVILY_API_KEY": "your-api-key-here"
-      }
-    }
-  }
-}
-```
+### 2. ChatGPT / Codex
+* **Hands:** install the **Codex** desktop app and sign in with the ChatGPT account. It works sandboxed inside one chosen folder by default, asking approval before acting. Included with paid plans; Free/Go get only trial-level usage.
+* **Email & docs:** built-in apps/connectors on paid plans (admin-controlled on Business/Enterprise/Edu). Custom MCP connectors require Developer mode: read-only on Plus/Pro; full write actions only on Business, Enterprise, and Edu.
+* Note: ChatGPT's former Agent mode was retired in August 2026 — multi-step work now lives in ChatGPT Work and the cloud browser.
 
-### 2. ChatGPT (Custom GPT Actions)
-Use these settings when creating a Custom GPT to integrate tools:
-* **Schema**: Ask the AI to provide the OpenAPI specification for the chosen API (e.g. Tavily or Google Workspace).
-* **Authentication**: Configure Bearer/API Key or OAuth 2.0 as specified by the API provider.
-
-### 3. Google Antigravity (Local Customizations)
-Add the tools under your root `AGENTS.md` and define corresponding tool mappings in your CLI configuration path.
+### 3. Google Antigravity
+Install from the built-in MCP Store (agent panel → ⋯ → MCP Servers). Custom servers go in `~/.gemini/config/mcp_config.json` (global) or `.agents/mcp_config.json` (workspace).
 
 ---
 
 ## High-Risk Tools & Approvals
 
 Always require explicit user confirmation before using these tools to ensure data safety:
+- **Terminal Commands**: Any shell command executed via Desktop Commander.
 - **Filesystem Deletions**: Deleting or replacing non-empty directories.
 - **Direct Email Sending**: Sending an email draft without human proofreading.
 - **Database/Write Operations**: Modifying spreadsheets or sheets containing live client logs.
@@ -79,6 +61,7 @@ Always require explicit user confirmation before using these tools to ensure dat
 ## Preferred Tool Precedence
 
 When solving a task, the AI should prioritize tools in the following order:
-1. **Local Filesystem**: Read/write from local files instead of guessing or duplicating.
-2. **Web Search**: Query the live web for facts or recent documentation if not present on disk.
-3. **Workspace/Email**: Fetch external records or draft communications only when requested.
+1. **Desktop Commander (hands)**: The default for any work on the user's computer — read/write files, organise folders, and run any command-line step itself. Prefer acting over guessing, duplicating, or asking the user to do things manually.
+2. **Filesystem (files only)**: For isolated document or file-based work where shell access is unnecessary.
+3. **Web Search**: Query the live web for facts or recent documentation if not present on disk.
+4. **Workspace/Email**: Fetch external records via Google Drive or draft communications via Gmail/Microsoft 365 only when requested.

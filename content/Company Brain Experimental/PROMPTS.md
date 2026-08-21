@@ -5,7 +5,6 @@ type: prompt-index
 draft: false
 showDate: false
 ---
-
 # Prompt Library
 
 This page indexes all available prompts in the Company Brain kit. Each prompt is designed to help you handle a specific task, from organising files and documenting workflows to drafting and refining content. To use a prompt, open its file, copy the prompt block, and paste it into your AI assistant.

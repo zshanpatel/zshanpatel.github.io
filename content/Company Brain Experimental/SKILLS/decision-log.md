@@ -5,9 +5,6 @@ type: skill
 draft: false
 showDate: false
 ---
-
-# Decision Log
-
 Use this skill to document major choices when they happen. Capturing context prevents re-arguing settled topics later.
 
 ## When to Use

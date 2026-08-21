@@ -13,7 +13,7 @@ Company Brain is a markdown-driven context protocol that configures any AI assis
 ## Quick Start
 
 1. Copy the bootstrap prompt from `index.md` or the hosted site.
-2. Paste it into your AI assistant (Claude, ChatGPT, Cursor, AI Studio, or any tool that accepts prompts).
+2. Paste it into your AI assistant (Claude, ChatGPT, Antigravity, AI Studio, or any tool that accepts prompts).
 3. Start working. The AI will guide you from there.
 
 ## File Structure
@@ -30,8 +30,9 @@ Company Brain Experimental/
 └── SKILLS/                  # Guided multi-step operational workflows
     ├── sys-audit.md         # Audit current knowledge and workflows
     ├── decision-log.md      # Framework for recording decisions
-    ├── weekly-review.md     # Structured end-of-week review
-    └── tool-manager.md      # Look up, install, and verify tools
+    ├── vault-setup.md       # Bootstrap a personal AI OS vault from zero
+    ├── tool-manager.md      # Look up, install, and verify tools
+    └── session.md           # Open/close sessions: orient from memory, persist changes
 ```
 
 ## How to Customize

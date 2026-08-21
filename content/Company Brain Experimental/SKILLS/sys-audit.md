@@ -5,9 +5,6 @@ type: skill
 draft: false
 showDate: false
 ---
-
-# System Audit
-
 Use this skill to assess how your team or personal business manages knowledge, records decisions, and handles handoffs.
 
 ## Purpose

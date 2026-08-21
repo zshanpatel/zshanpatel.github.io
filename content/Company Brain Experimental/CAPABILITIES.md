@@ -2,8 +2,10 @@
 title: System Capabilities & Superpowers
 description: Master Registry of high-performance tools, CLIs, and skills.
 type: agent-memory
-tags: [capabilities, clis, skills, mcp, infrastructure, agent-context]
-last-updated: 2026-08-20
+tags:
+  - capabilities
+  - agent-context
+last-updated: 2026-08-22
 ---
 
 # System Capabilities & Superpowers
@@ -12,12 +14,12 @@ This file is the Master Registry of all high-performance tools, integrations, an
 
 ---
 
-## ⚡ Integrated CLIs & Environments (The "Hands")
+## ⚡ Integrated CLIs & Environments
 
 The AI has access to the following command-line tools or client execution APIs in this environment:
 
 ### 1. Terminal / Shell Access
-* **Strategic Intent**: File operations, folder structures, and script execution.
+* **Strategic Intent**: File operations, folder structures, and script execution — granted via the Desktop Commander connector on Claude Desktop. The user never touches a terminal; the AI runs commands with approval.
 * **Status**: *[Enabled / Disabled / Read-Only]*
 
 ### 2. Web & Research Fetch
@@ -32,12 +34,27 @@ Specialised multi-step procedures stored in `/SKILLS`. The AI reads the correspo
 
 * **System Audit** ([sys-audit.md](SKILLS/sys-audit.md)): Diagnostic review of current knowledge storage and decision-making bottlenecks.
 * **Decision Log** ([decision-log.md](SKILLS/decision-log.md)): Framework for recording context, options, and rationale for major decisions.
-* **Weekly Review** ([weekly-review.md](SKILLS/weekly-review.md)): Structural check-in to clear mental clutter, review goals, and set the next week's priorities.
+* **AI OS Setup** ([vault-setup.md](SKILLS/vault-setup.md)): Guided bootstrap of a personal AI operating system vault (`<name>-ai-os`) — interview, blueprint, inside-out build, plus anti-rot maintenance.
 * **Tool Manager** ([tool-manager.md](SKILLS/tool-manager.md)): Structured assistant workflow to look up, install, configure, and record new tools.
+* **Session Protocol** ([session.md](SKILLS/session.md)): Open and close working sessions — orient from memory at the start, persist changes to `memory.md` at the end.
 
 ---
 
 ## Changelog
+
+### 2026-08-22 — Added Session Protocol
+- Added `session.md`: session-start orientation (bootstrap → user → memory → tools) and session-end persistence (update `memory.md`, prune stale entries, bump `last-updated`/`revisit` dates).
+- Registered in `AGENTS.md` §3, `index.md`, `README.md`; corrected `AGENTS.md` §4 to list only the prompts that actually ship.
+
+### 2026-08-22 — Replaced Weekly Review with AI OS Setup
+- Removed `weekly-review.md` (generic end-of-week ritual with no structural role).
+- Added `vault-setup.md`: bootstraps a personal `<name>-ai-os` vault in Documents — five-layer inside-out model (identity → rules → skills → agents → tools on a Wiki/memory substrate), interview → `os-blueprint.md` → confirm → build or blueprint-only paths, and an anti-rot maintenance cadence (fix-on-contact, weekly drift report, monthly revisit walk).
+- Updated skill routing in `AGENTS.md`, `index.md`, and `README.md`.
+
+### 2026-08-22 — Tool Setup Modernised
+- Rewrote `tool-manager.md` around Claude Desktop's Connector Directory: one-click installs only (Desktop Commander, Filesystem, Gmail/Microsoft 365, Google Drive), no config files for non-technical users.
+- Updated `AGENTS.md` §6 and `TOOLS.md` to match (ChatGPT Apps/Developer mode realities, Antigravity MCP Store, terminal commands flagged as high-risk).
+- Added Codex as the ChatGPT-side path for local file access; noted retirement of ChatGPT Agent mode (replaced by ChatGPT Work / cloud browser).
 
 ### 2026-08-20 — Added Tool Manager Skill
 - Added the `tool-manager.md` skill workflow to enable interactive environment audits and tool installation.

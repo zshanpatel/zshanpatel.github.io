@@ -5,9 +5,6 @@ type: contact
 draft: false
 showDate: false
 ---
-
-# Contact
-
 ## Who Built This
 
 **Zeeshan Patel**

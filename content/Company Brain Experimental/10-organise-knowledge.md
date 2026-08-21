@@ -7,7 +7,6 @@ tags:
 draft: false
 showDate: false
 ---
-
 ## 🗂️ Bring Order to Scattered Information
 
 When notes, links, and documents live across multiple apps like Google Docs, Notion, email drafts, and desktop folders, finding what you need becomes frustrating.
@@ -17,7 +16,7 @@ This prompt acts as a calm, step-by-step organiser. It asks a few simple questio
 ### How to Use
 
 1. Copy the prompt below.
-2. Paste it into your AI assistant (Claude, ChatGPT, Cursor, or your preferred tool).
+2. Paste it into your AI assistant (Claude, ChatGPT, Antigravity, AI Studio, or your preferred tool).
 3. Answer the initial questions in plain language. Rough notes are completely fine.
 4. Review the recommended system and adjust anything that does not fit your daily routine.
 

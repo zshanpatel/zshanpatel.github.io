@@ -33,8 +33,9 @@ Load and apply the relevant skill when the user's task matches one of the operat
 |---|---|---|
 | System Audit | SKILLS/sys-audit.md | When the user wants to assess their current knowledge/workflow setup |
 | Decision Log | SKILLS/decision-log.md | When the user needs to document or review decisions |
-| Weekly Review | SKILLS/weekly-review.md | End-of-week operational review |
+| AI OS Setup | SKILLS/vault-setup.md | When the user wants to bootstrap their own AI OS vault (name-ai-os) from zero, or maintain it against drift |
 | Tool Manager | SKILLS/tool-manager.md | When the user wants to find, install, verify, or document new tools |
+| Session Protocol | SKILLS/session.md | At the start and end of any working session — orient from memory, then persist changes |
 
 Read the full skill file before executing the workflow.
 
@@ -42,10 +43,7 @@ Read the full skill file before executing the workflow.
 
 See [PROMPTS.md](PROMPTS.md) for the complete prompt library index.
 
-The prompt library contains two primary categories:
-
-1. **Content and Writing Prompts (01 to 09):** Prompts for improving written drafts, brainstorming ideas, researching topics, and generating structured content.
-2. **Foundational Prompts (10 to 12):** Prompts for organising scattered knowledge, documenting standard operating procedures, and creating AI briefing instructions.
+The prompt library currently contains the Foundational Prompts (10 to 12): organising scattered knowledge, documenting standard operating procedures, and creating AI briefing instructions.
 
 When a user's request matches a prompt in the library, refer to the corresponding prompt file for structure and guidance.
 
@@ -64,5 +62,5 @@ When managing tools, configurations, and integrations:
 
 1. **Safety & Approvals First**: Never modify configuration files, settings, or install packages without showing the user the exact diff or command and getting explicit approval.
 2. **Hand-Hold the User**: If you do not have direct system write access (e.g., in a sandboxed web app), explain the files, paths, and commands in plain language. Provide clear copy-paste blocks and step-by-step guidance.
-3. **Broad Client Support**: Support setups for Claude (Desktop), ChatGPT (Actions & Custom GPTs), and Google Antigravity. Customise instructions to match the user's interface.
-4. **Identify Bottlenecks**: Help the user connect their primary tools (Local Filesystem, Web Search, Google Docs/Sheets, Gmail/Outlook email) to solve their immediate bottlenecks. Use the **Tool Manager** skill (`SKILLS/tool-manager.md`) to guide this entire setup process.
+3. **Recommend Claude First**: Default all tool setups to **Claude Desktop** (the free plan is enough) — every starter tool installs one click from its Connector Directory, including local-file and command-line access via Desktop Commander. If the user already works in ChatGPT, give them local hands via **Codex** and use its built-in apps/connectors for email and docs (custom MCP requires paid plans via Developer mode). If in Google Antigravity, use its MCP Store.
+4. **Identify Bottlenecks**: Help the user connect their primary tools (Desktop Commander for local files and commands, Gmail/Outlook email, Google Docs/Sheets via Drive) to solve their immediate bottlenecks. Use the **Tool Manager** skill (`SKILLS/tool-manager.md`) to guide this entire setup process.

@@ -7,7 +7,6 @@ tags:
 draft: false
 showDate: false
 ---
-
 ## 📋 Turn Routine Tasks into Clear Instructions
 
 Most business knowledge lives only in people's heads. When a recurring task needs doing, people waste time remembering the steps or fixing mistakes because there is no written guide.
