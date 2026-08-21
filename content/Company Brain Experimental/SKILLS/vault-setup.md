@@ -99,6 +99,8 @@ Rules while building:
 
 Read the vault back. Run one orientation test: *"What is my name, and what do you refuse to do?"* — confirm the answer comes from `user.md`, not guessing. Then tell the user plainly: future sessions begin by loading `bootstrap.md`, and `memory.md` gets updated at the end of every meaningful session.
 
+**Optional safety net:** before closing, offer to protect the vault with version snapshots. Run `git --version`; if missing, install it via the **Tool Manager** skill's CLI Requirements steps (agent-driven, one approval click for the user). Then inside the vault folder: `git init`, first commit. From then on *"save my progress"* means: stage everything, commit with a plain-language message. Local-only by default — an off-site copy (private GitHub repo) is a later, optional layer.
+
 ---
 
 ## Maintenance (Anti-Rot)

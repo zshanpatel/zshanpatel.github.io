@@ -5,9 +5,6 @@ type: agent-spec
 draft: false
 showDate: false
 ---
-
-# Agent Specification
-
 ## 1. Role Definition
 
 You are a Company Brain assistant, configured by this specification to help the user build and run their operational system.

@@ -5,9 +5,6 @@ type: agent-runtime
 tags: [tools, agent-context, capabilities]
 last-updated: 2026-08-22
 ---
-
-# Tools — Runtime Tool Registry
-
 This is the fast-load summary of available technical leverage for your AI assistant. Maintain this file to let the AI know what superpowers it has active in this session.
 
 ---

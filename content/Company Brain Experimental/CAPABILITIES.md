@@ -8,8 +8,6 @@ tags:
 last-updated: 2026-08-22
 ---
 
-# System Capabilities & Superpowers
-
 This file is the Master Registry of all high-performance tools, integrations, and specialised skills available to your AI assistant. It makes the invisible capabilities of the system visible, ensuring the AI can leverage its full range.
 
 ---
@@ -41,6 +39,10 @@ Specialised multi-step procedures stored in `/SKILLS`. The AI reads the correspo
 ---
 
 ## Changelog
+
+### 2026-08-22 — CLI Policy Clarified
+- Added "CLI Requirements" to `tool-manager.md`: zero CLIs required by default (Desktop Commander uses commands built into macOS/Windows); git is the only earned exception, with agent-driven install paths verified Aug 2026 (macOS: first git command triggers Apple's Command Line Tools dialog; Windows: `winget install --id Git.Git`).
+- `vault-setup.md` Step 5 now offers an optional git "safety net" — version snapshots of the new vault, driven entirely by the agent.
 
 ### 2026-08-22 — Added Session Protocol
 - Added `session.md`: session-start orientation (bootstrap → user → memory → tools) and session-end persistence (update `memory.md`, prune stale entries, bump `last-updated`/`revisit` dates).

@@ -69,6 +69,20 @@ Tool choice notes:
 
 Explain the security model: *"Giving an AI access to these tools means you are granting permission to interact with your local files or online accounts. You should only enable what you need, and you can approve or revoke access at any time."*
 
+#### CLI Requirements
+
+Default answer: **none**. Everything above runs through Desktop Commander using commands already built into macOS and Windows — no terminal knowledge, no extra installs.
+
+The single exception worth offering is **git**, and only when the user wants version-controlled snapshots of important work (undo mistakes, full history, never lose progress):
+
+1. Detect first: run `git --version`.
+   * It responds → git already exists, nothing to install.
+   * **macOS:** git ships as a shim — the first git command triggers Apple's Command Line Tools pop-up. Ask the user to click **Install** in that dialog and wait for it to finish, then retry.
+   * **Windows:** run `winget install --id Git.Git -e --source winget` (the official method documented on git-scm.com). The user just approves the permission prompts.
+2. Confirm with `git --version` again, then set identity once: `git config --global user.name "<their name>"` and `git config --global user.email "<their email>"`.
+
+Anything beyond git (Python, Node.js, Homebrew, package managers) comes up only when a specific future skill needs it. Treat each as an earned layer — never part of starter setup.
+
 ---
 
 ### Step 3: Installation & Configuration Guides
