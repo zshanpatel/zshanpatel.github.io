@@ -32,6 +32,6 @@ Hands turn an advisor into a worker. A terminal turns a worker into infrastructu
 ## Go Deeper
 
 - **Next rung**: [[04 Blog Content/Systems and AI/00-ai-os|Your AI Operating System]] is what a terminal plus a folder of skills becomes once you keep assembling.
-- **See it applied**: [[04 Blog Content/Systems and AI/10-proposal-processor|The Proposal Processor]] runs entirely on this pairing.
+- **See it applied**: [[16-proposal-processor|The Proposal Processor]] runs entirely on this pairing.
 - **Outside the vault**: [Anthropic on Agent Skills](https://www.anthropic.com/engineering/equipping-agents-for-the-real-world-with-agent-skills), the [CLI-Anything hub](https://clianything.cc), and [a decision framework](https://manveerc.substack.com/p/mcp-vs-cli-ai-agents) for the rare cases where MCP still earns its keep.
 - **GitHub shelves**: [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) generates agent-native CLIs for any software; [cli/cli](https://github.com/cli/cli), GitHub's own `gh`, is the model citizen every agent already knows.

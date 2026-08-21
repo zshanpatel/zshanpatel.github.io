@@ -7,7 +7,7 @@ tags:
   - proposals
   - business-strategy
 showDate: false
-draft: false
+draft: true
 ---
 ### 📑 From Brief to Presentation, One Command
 

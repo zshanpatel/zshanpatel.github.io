@@ -12,7 +12,7 @@ Use this skill to take a brand-new user from an empty Documents folder to their 
 
 Walk the user (who may be non-technical) through creating their own AI OS vault. Everything is plain markdown files and folders — portable, readable, never trapped inside one vendor. Narrate each step in plain English so the user chooses with understanding, not just nods along.
 
-*Routing note:* if the user only wants a portable context brief to paste into any chat tool — not a whole vault — send them to the **Brief Your AI Assistant** prompt (`12-brief-your-ai.md`) instead. This skill is for the full build.
+*Routing note:* if the user only wants a portable context brief to paste into any chat tool — not a whole vault — send them to the **Brief Your AI Assistant** prompt (in the Systems and AI prompt library) instead. This skill is for the full build.
 
 ## The Mental Model — grow inside-out
 

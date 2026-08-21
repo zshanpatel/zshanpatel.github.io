@@ -34,15 +34,18 @@ Specialised instructions for high-signal outputs. Copy, paste (`Cmd + V`), bring
 - [[04 Blog Content/Systems and AI/06-deep-post-ideas|Deep Post Ideas]]
 - [[04 Blog Content/Systems and AI/07-youtube-title|AV Content Generator]]
 - [[04 Blog Content/Systems and AI/08-prompt-generator|Prompt Generator]]
+- [[04 Blog Content/Systems and AI/10-organise-knowledge|Organise Your Knowledge]]
+- [[04 Blog Content/Systems and AI/11-document-a-process|Document a Process]]
+- [[04 Blog Content/Systems and AI/12-brief-your-ai|Brief Your AI Assistant]]
 
 ## 03 · Build: The Systems
 
 Next level: turn prompts into skills, systems into workflows. Pipelines you assemble once and run forever.
 
 - [[04 Blog Content/Systems and AI/09-content-creation-method|The 3-layer content creation system]]
-- [[04 Blog Content/Systems and AI/10-proposal-processor|The Proposal Processor]]
-- [[04 Blog Content/Systems and AI/11-meeting-notes-machine|The Meeting Notes Machine]]
-- [[04 Blog Content/Systems and AI/12-social-media-engine|The Social Media Engine]]
+- [[16-proposal-processor|The Proposal Processor]]
+- [[14-meeting-notes-machine|The Meeting Notes Machine]]
+- [[15-social-media-engine|The Social Media Engine]]
 - [[04 Blog Content/Systems and AI/13-image-copy-studio|Copy and Image Studio]]
 
 ## Go Deeper: Field Notes

@@ -10,10 +10,16 @@ draft: false
 
 This is a free, open starter kit that turns any AI assistant into your operational partner. Copy the prompt below, paste it into your AI, and it configures itself using the files in this folder. You supply the compute. The kit supplies the context.
 
+## What is a Company Brain?
+
+Your AI is only as good as what it knows. A Company Brain is the single point of origin for all of it. One evolving context you build inside-out, so every agent knows exactly who you are, how you work, and what to do next.
+
+No re-explaining. No generic outputs. Just specific outcomes. Like clockwork. Agents run on it today; when robots show up tomorrow, they'll read the same Brain. And act on it.
+
 ## How to use it
 
 1. Copy the prompt below.
-2. Paste it into your AI assistant (Claude, ChatGPT, Antigravity, AI Studio, or any tool that accepts prompts).
+2. Paste it into your AI assistant (Claude, Codex (ChatGPT), Antigravity, AI Studio, or any tool that accepts prompts).
 3. Start working. The AI will guide you from there.
 
 ## The Prompt

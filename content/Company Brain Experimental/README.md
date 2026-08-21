@@ -5,7 +5,6 @@ type: documentation
 draft: false
 showDate: false
 ---
-
 # Company Brain Starter Kit
 
 Company Brain is a markdown-driven context protocol that configures any AI assistant as an operational partner. It provides structured behavioural rules, skill workflows, and prompt templates with zero infrastructure overhead.
@@ -26,7 +25,6 @@ Company Brain Experimental/
 ├── CONTACT.md               # Creator attribution and user template
 ├── CAPABILITIES.md          # AI capabilities registry template
 ├── TOOLS.md                 # Tool setup and active registry template
-├── 10-12-*.md               # Knowledge and operational setup prompts
 └── SKILLS/                  # Guided multi-step operational workflows
     ├── sys-audit.md         # Audit current knowledge and workflows
     ├── decision-log.md      # Framework for recording decisions

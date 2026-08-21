@@ -12,7 +12,7 @@ showDate: false
 
 This prompt teaches the AI who you are.
 
-> **Quick path vs full build:** This prompt gives you a portable brief you can paste into any AI — done in five minutes, no files created. If you want the full operating system instead (identity, memory, folders, tools), run the **AI OS Setup** skill (`SKILLS/vault-setup.md`) rather than this prompt.
+> **Quick path vs full build:** This prompt gives you a portable brief you can paste into any AI — done in five minutes, no files created. If you want the full operating system instead (identity, memory, folders, tools), run the **AI OS Setup** skill in the Company Brain kit (`/company-brain-experimental/skills/vault-setup`) rather than this prompt.
 
 Without context, an AI assistant gives generic, wordy answers that sound like a textbook. When you give it a clear brief about who you are, how you communicate, what tools you use, and what you never want it to do, the AI instantly shifts into an effective operational partner.
 

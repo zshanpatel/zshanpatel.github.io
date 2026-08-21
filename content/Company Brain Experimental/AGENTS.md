@@ -40,7 +40,7 @@ Read the full skill file before executing the workflow.
 
 See [PROMPTS.md](PROMPTS.md) for the complete prompt library index.
 
-The prompt library currently contains the Foundational Prompts (10 to 12): organising scattered knowledge, documenting standard operating procedures, and creating AI briefing instructions.
+The prompt library currently contains the Foundational Prompts (10 to 12) — organising scattered knowledge, documenting standard operating procedures, and creating AI briefing instructions. These are published in the **Systems and AI** section of the site; [PROMPTS.md](PROMPTS.md) links to them.
 
 When a user's request matches a prompt in the library, refer to the corresponding prompt file for structure and guidance.
 

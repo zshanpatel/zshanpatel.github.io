@@ -66,8 +66,8 @@ The more the engine knows how you actually write, the less everything sounds lik
 - [ ] Ship one adapted post per platform this week, edited by hand
 - [ ] Note which angle won; feed the winner back in as raw material
 
-## Go Deeper
+## 🔗 Related
 
 - **Feed the machine**: [[04 Blog Content/Systems and AI/05-creative-thought-partner|Creative Thought Partner]] and [[04 Blog Content/Systems and AI/06-deep-post-ideas|Deep Post Ideas]] slot straight into the raw-material pile.
 - **The method behind it**: [[04 Blog Content/Systems and AI/09-content-creation-method|the 3-layer content creation system]].
-- **Outside the vault**: [the CLI vs MCP benchmarks](https://www.scalekit.com/blog/mcp-vs-cli-use), if you want to know why this runs as a skill instead of a plug-in.
+
