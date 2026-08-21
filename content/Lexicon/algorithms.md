@@ -1,7 +1,7 @@
 ---
 title: Algorithm
 name: algorithms
-description: A precisely specified, finite procedure for solving a problem — a word that entered European mathematics as a Latinization of the name of a 9th-century Persian scholar, not a modern coinage.
+description: A precisely specified, finite procedure for solving a problem. The word entered European mathematics as a Latinisation of the name of a 9th-century Persian scholar, not a modern coinage.
 tags:
   - term
 human-reviewed: true
@@ -13,3 +13,11 @@ human-reviewed: true
 The concept it names is older than the word: a finite, unambiguous sequence of steps that transforms an input into an output, with no room for judgment calls along the way. That's precisely the boundary this essay draws — an algorithm executes; it doesn't decide what's worth executing.
 
 Source: Tatarchenko, K. "Algorithm's Cradle," *Osiris*, Vol. 38, University of Chicago Press, 2023.
+
+### 🔗 Related Concepts
+- [[behavioural-targeting|Behavioural Targeting]]
+- [[dataset|Dataset]]
+- [[algorithmic-persuasion|Algorithmic Persuasion]]
+- [[information-feeding|Information Feeding]]
+- [[algorithmic-profiling|Algorithmic Profiling]]
+- [[algorithmic-surveillance|Algorithmic Surveillance]]

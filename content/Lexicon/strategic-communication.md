@@ -44,3 +44,5 @@ This is why strategic communication, understood properly, is not a professional 
 - [[compound-ignorance|Compound Ignorance]]
 - [[history|The History of Narrative Control]]
 - [[npc|The NPC]]
+- [[Lexicon/extremist-label|Extremist Label]]
+- [[Lexicon/virtue-signalling-mockery|Virtue Signalling Mockery]]

@@ -21,3 +21,4 @@ Market oversight *[[hisbah|(hisbah)]]* transforms the market from a site of extr
 - [[sacred-economics|Building a Divine Economic System]]
 - [[zakat|Systemic Value Circulation]]
 - [[ummah|Global Collective Cooperation]]
+- [[prophet-muhammad|Prophet Muhammad]]

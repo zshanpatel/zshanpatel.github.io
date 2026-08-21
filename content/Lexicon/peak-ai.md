@@ -17,7 +17,7 @@ Whether AI investment specifically is in that installation-period bubble phase i
 *Source: Hubbert, M.K. (1956), "Nuclear Energy and the Fossil Fuels," Shell Development Company; Perez, C. (2002), Technological Revolutions and Financial Capital: The Dynamics of Bubbles and Golden Ages, Edward Elgar Publishing; Wang, Q. & Chen, Z. (2026), "Boom, Bubble, or Buildout? A Multi-Method Evaluation of Whether Artificial Intelligence Is in an Ongoing Financial Bubble," arXiv:2606.01575.*
 
 ### 🔗 Related Concepts
-- [[dot-com-bubble|A Prior Cycle of the Same Pattern]]
+- [[financial-bubble|A Prior Cycle of the Same Pattern]]
 - [[financial-crisis-2008|A Prior Cycle of the Same Pattern]]
 - [[agi|The Specific Hype Claim Feeding This Cycle]]
 - [[institutional-flows|The Capital Movements That Inflate the Peak]]

@@ -19,3 +19,4 @@ In contrast, the monotheistic idea of prosperity is not about utility; it is abo
 - [[fitra|The Original Human Architecture]]
 - [[beyond-religion|Moving Beyond Secular Rituals (Deen)]]
 - [[harm-principle|The Harm Principle]]
+- [[secular-morality|Secular Morality]]

@@ -19,3 +19,7 @@ Source: Hofstede, G., "The Cultural Relativity of Organizational Practices and T
 ### 🔗 Related Concepts
 - [[khalifah|The Collective-Stewardship Counter-Model]]
 - [[pathological-deviation|A Downstream Consequence of This Shift]]
+- [[holistic-individualism|Holistic Individualism]]
+- [[personal-development|Personal Development]]
+- [[Lexicon/systemic-violence|Systemic Violence]]
+- [[Lexicon/birthdays-as-systemic-violence|Birthdays as Systemic Violence]]

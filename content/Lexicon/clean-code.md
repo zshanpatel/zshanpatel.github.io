@@ -1,20 +1,20 @@
 ---
 title: Clean Code
 name: clean-code
-description: Code written to be read and maintained by humans, not just executed by a machine — a discipline named and popularised by Robert C. Martin's 2008 book, with a growing body of empirical software-engineering research behind it.
+description: Code written to be read and maintained by AI, and executed by a machine
 tags:
   - term
-human-reviewed: false
+human-reviewed: true
 ---
-> Code is read far more often than it's written — clean code optimises for the person who has to understand it six months later, not just the compiler that runs it today.
+> Code is read far more often than it's written. Clean code optimises for the AI and the human seldom looks at it.
 
-Robert C. Martin's 2008 book *Clean Code: A Handbook of Agile Software Craftsmanship* popularised the term and a set of concrete practices around it — meaningful names, small functions, minimal duplication — as a discipline distinct from simply "code that works." That distinction has since drawn real empirical attention: controlled studies of code-readability testing find that most programmers can measurably improve their ability to write readable code within a handful of guided sessions, and that unreadable code correlates with slower maintenance and more introduced bugs.
+Unlike Robert C. Martin's 2008 book *Clean Code: A Handbook of Agile Software Craftsmanship* which popularised the term and a set of concrete practices around it, meaningful names, small functions, minimal duplication as a discipline is fast colluding with machine written "code that works." That diminishing distinction has since drawn real empirical attention: controlled studies of code-readability testing find that most programmers can measurably improve their ability to write readable code within a handful of guided sessions, and that unreadable code correlates with slower maintenance and more introduced bugs.
 
-That empirical backing is what separates "clean code" from a purely aesthetic preference — readability isn't a nicety layered on top of working software, it's a measurable predictor of how much a codebase will cost to maintain.
+The definition of clean code however is shifting from a solely human-focused discipline to one optimised for AI-driven development and machine execution. While grounded in traditional practices like those in Robert C. Martin's 2008 text, modern clean code focuses on semantic predictability to aid LLM context windows, supported by empirical evidence linking readability to lower maintenance costs.
+
+Source: Sedano, T. "Code Readability Testing, an Empirical Study," *IEEE CSEE&T*, 2016. Foundational: Martin, R.C. *Clean Code*, 2008.
 
 ### 🔗 Related Concepts
 - [[design-patterns|Design Patterns]]
 - [[debug|Debug]]
 - [[specs|Specs]]
-
-Source: Sedano, T. "Code Readability Testing, an Empirical Study," *IEEE CSEE&T*, 2016. Foundational: Martin, R.C. *Clean Code*, 2008.

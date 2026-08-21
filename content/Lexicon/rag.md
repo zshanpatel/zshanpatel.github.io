@@ -20,3 +20,4 @@ That split is exactly the boundary this essay keeps running into. RAG is genuine
 - [[long-term-memory|A Related Technique Built on the Same Paper]]
 - [[chatbot|The Simpler Interface RAG Often Sits Behind]]
 - [[hallucination|The Failure Mode RAG Only Partly Solves]]
+- [[context-architecture|The Discipline RAG Is One Technique Inside]]

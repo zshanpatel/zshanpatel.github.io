@@ -19,3 +19,9 @@ This is the mechanism behind a specific, easy-to-miss line in how AI is often pi
 ### 🔗 Related Concepts
 - [[llm|The Technology Whose Data Appetite Makes This Relevant]]
 - [[npc|The Passive Side of the Same Extraction]]
+- [[behavioural-targeting|Behavioural Targeting]]
+- [[dataset|Dataset]]
+- [[marketing-industrial-complex|Marketing Industrial Complex]]
+- [[attention-capture|Attention Capture]]
+- [[algorithmic-profiling|Algorithmic Profiling]]
+- [[algorithmic-surveillance|Algorithmic Surveillance]]

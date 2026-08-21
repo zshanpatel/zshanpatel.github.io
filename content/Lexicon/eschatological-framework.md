@@ -16,3 +16,6 @@ The eschatological framework provides the long time horizon perspective necessar
 - [[khalifah|The Mandate of Stewardship]]
 - [[strive|Strategic Striving for Independence]]
 - [[mundo-level|The Ecosystemic Scale of Crisis]]
+- [[divine-purpose|Divine Purpose]]
+- [[divine-accountability|Divine Accountability]]
+- [[afterlife-orientation|Afterlife Orientation]]

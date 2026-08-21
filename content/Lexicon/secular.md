@@ -20,3 +20,6 @@ That reframing is the exact target of this essay's repeated language about wanti
 ### 🔗 Related Concepts
 - [[colonial-epistemology|The Institutional Mechanism That Spread This Framework]]
 - [[intrinsic-epistemic|The Alternative Knowledge Source This Essay Is Reaching For]]
+- [[fundamentalism|Fundamentalism]]
+- [[epistemic-war|Epistemic War]]
+- [[secular-morality|Secular Morality]]

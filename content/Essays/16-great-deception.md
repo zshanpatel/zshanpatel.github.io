@@ -13,25 +13,25 @@ status: Idea
 date: 2023-03-02
 ---
 ![[deception-image.png]]
-# Everything You Know is Wrong
-Have you ever wondered why, despite all our technological progress and economic growth, so many people feel more anxious, more isolated, and more financially insecure than ever before?
-## The Uncomfortable Truth About "Progress"
-Picture this: You're running on a treadmill that keeps speeding up. No matter how fast you run, you never actually get anywhere. In fact, the faster you go, the more exhausted you become. This is modern prosperity in a nutshell.
 
-We've been sold a story about success that goes something like this: Work hard, compete with others, accumulate wealth, consume more goods, measure your worth by your bank account, and you'll be happy. But here's the thing, this story is not just incomplete. **It's actively making us miserable.**
-## The Numbers Don't Lie (But They Don't Tell the Whole Truth Either)
-Let's start with what we're told to worship: economic indicators. Gross Domestic Product (GDP) has become the holy grail of national success. But GDP has a dirty secret, it counts everything that generates money as "good," even if it destroys lives.
+Everything you know is half-true. Have you ever wondered why, despite all our [[Lexicon/progress|technological progress]] and  [[Lexicon/econometric-growth|economic growth]], so many people feel more anxious, more isolated, and more financially insecure than ever before?
 
-Consider this mind-bending reality: When the Exxon Valdez oil spill devastated Alaska's coastline in 1989, it actually *increased* America's GDP. Why? Because the cleanup efforts, legal battles, and environmental remediation all required spending money. By our current metrics, ecological disasters are economically beneficial.
+Picture this: You're running on a [[Lexicon/hedonic-treadmill|treadmill]] that keeps speeding up. No matter how fast you run, you never actually get anywhere. In fact, the faster you go, the more exhausted you become. This is modern prosperity in a nutshell. This is the uncomfortable truth about "Progress".
 
-**This is prosperity?**
+We've been sold a story about success that goes something like this: Work hard, compete with others, accumulate wealth, [[Lexicon/consumerism|consume more goods]], measure your worth by your bank account, and you'll be happy. But, this story is not just incomplete. It's actively making us miserable.
+
+Let's start with what we're told: economic indicators. [[Lexicon/gdp|Gross Domestic Product (GDP)]] has become the holy grail of national success. But GDP has a dirty secret, it counts everything that generates money as "good," even if it destroys lives, even if it is [[financial-bubble|a tech bubble]]. The numbers don't lie (but they don't tell the whole truth either. 
+
+Consider this mind-bending reality: When the [[second-degree-disasters|Exxon Valdez oil spill]] devastated Alaska's coastline in 1989, it actually *increased* America's GDP. Why? Because the cleanup efforts, legal battles, and environmental remediation all required spending money. By our current metrics, ecological disasters are economically beneficial.
+
+This is prosperity?
 ## Birth of Capitalism: The Adam Smith You Never Knew
-Here's where it gets interesting. Most people think capitalism was invented by [Adam Smith](Adam Bait and Smitch) with his famous "invisible hand" theory. But there's a crucial detail that gets conveniently omitted from economics textbooks: **Smith believed religion was fundamental to economics.**
+Most people think [[Lexicon/capitalism|capitalism]] was invented by Adam Smith with his famous "[[Lexicon/invisible-hand|invisible hand]]" theory. But there's a crucial detail that gets conveniently omitted from economics textbooks: Smith believed religion was fundamental to economics.
 
-The man who wrote "The Wealth of Nations" actually argued that moral sentiment and divine guidance were essential for markets to work properly. Somehow, we've built an entire economic system on a misreading of its foundational text.
+The man who wrote "The Wealth of Nations" actually argued that [[Lexicon/moral-sentiment|moral sentiment]] and divine guidance were essential for markets to work properly. Somehow, we've built an entire economic system on a misreading of its foundational text.
 
 Smith never intended for greed to be good. He intended for moral people, guided by higher principles, to create wealth that benefited everyone. We took half his theory and called it complete.
-## The Invisible Prison of Modern Thinking
-Max Weber, another pillar of modern economic thought, connected capitalism to the Protestant work ethic. But here's what's fascinating: Weber explicitly stated that this was just *one possible* connection between spirituality and economics. He never claimed it was the *only* way.
+## The Invisible Prison
+Max Weber, another pillar of modern economic thought, connected capitalism to the [[Lexicon/protestant-work-ethic|Protestant work ethic]]. What's fascinating is: Weber explicitly stated that this was just *one possible* connection between spirituality and economics. He never claimed it was the *only* way.
 
-Yet somehow, we've convinced ourselves that Godless (secular), materialistic capitalism is the natural order of things. We've forgotten that economics is not a law of nature it's a human choice.
+Yet somehow, we've convinced ourselves that [[Lexicon/secular|Godless]], [[Lexicon/materialism|materialistic]] capital-driven society is the natural order of things. We've forgotten that economics is not a law of nature it's a human choice.

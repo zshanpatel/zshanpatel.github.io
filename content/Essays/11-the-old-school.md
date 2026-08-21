@@ -3,10 +3,10 @@ title: Old School of Education
 name: the-old-school
 description: A structural analysis of the classical education system. Recovering the lost methodology of cognitive mastery that precedes and counters modern institutionalised education.
 permalink: /essays/the-old-school
-series: Epistemology Series
-seriesOrder: 2
 tags:
   - epistemology
+series: Epistemology Series
+seriesOrder: 2
 aliases:
 showDate: true
 draft: false
@@ -14,34 +14,34 @@ date: 2025-12-01
 ---
 ![[old-school.png]]
 
-For over a thousand years, from ancient Greece through the Islamic Golden Age to the European Renaissance, there was a system of education designed to liberate the mind.
+For over a thousand years, from ancient Greece through the [[Lexicon/islamic-golden-age|Islamic Golden Age]] to the [[Lexicon/renaissance|European Renaissance]], there was a system of education designed to liberate the mind.
 
-"Liberal" in the Seven Liberal Arts is not in the political sense, but in the sense of liberation: freeing you from ignorance, from manipulation, from mental slavery.
+"Liberal" in the [[Lexicon/seven-liberal-arts|Seven Liberal Arts]] is not in the political sense, but in the sense of liberation: freeing you from ignorance, from [[Lexicon/manipulation|manipulation]], from mental slavery.
 
-Mastering these disciplines, equipped you with the tools to think independently, to question authority, and to see through deception. This education was never meant for everyone. It was reserved for those who would run society. Everyone else got basic instruction: enough to follow orders, but not enough to question them. Sound familiar? The system hasn't changed much.
+Mastering these disciplines, equipped you with the tools to [[Lexicon/critical-thinking|think independently]], to question authority, and to see through deception. This education was never meant for everyone. It was reserved for those who would run society. Everyone else got basic instruction: enough to follow orders, but not enough to question them. Sound familiar? The system hasn't changed much.
 ![[liberal-image.png]]
 *The Two Categorisations of Education Levels: Trivium and Quadrivium*
 
-The **[[Lexicon/seven-liberal-arts|Seven Liberal Arts]]** system wasn't about memorisation either. It has two levels:
-### Trivium: The Foundation Level (Practical):
-1. Grammar: Understanding the structure and meaning of language. Not just "subject-verb agreement" but knowing how words work, how they create meaning, where words originate, how they can be twisted.
-2. Logic: The ability to think rationally, to construct valid arguments, to spot lies, to trace cause and effect. This is your defence against propaganda.
-3. Rhetoric: The art of communication. How to express ideas clearly, how to persuade ethically, and crucially, how to recognise when someone is manipulating you through emotional language.
-### Quadrivium: The Advanced Level (Abstract):
-4. Arithmetic: Understanding numbers and patterns
-5. Geometry: Understanding space and relationships
-6. Astronomy: Understanding systems and cycles
-7. Music: Understanding harmony, frequency, and vibration (which extends to understanding how sounds and patterns affect human emotion and behaviour)
+The Seven Liberal Arts system wasn't about memorisation either. It has two levels:
+### [[Lexicon/trivium|Trivium]]: The Foundation Level (Practical):
+1. [[Lexicon/grammar|Grammar]]: Understanding the structure and meaning of language. Not just "subject-verb agreement" but knowing how words work, how they create meaning, where words originate, how they can be twisted.
+2. [[Lexicon/logic|Logic]]: The ability to think rationally, to construct valid arguments, to spot lies, to trace cause and effect. This is your defence against [[Lexicon/propaganda|propaganda]].
+3. [[Lexicon/rhetoric|Rhetoric]]: The art of communication. How to express ideas clearly, how to persuade ethically, and crucially, how to recognise when someone is manipulating you through emotional language.
+### [[Lexicon/quadrivium|Quadrivium]]: The Advanced Level (Abstract):
+4. [[Lexicon/arithmetic|Arithmetic]]: Understanding numbers and patterns
+5. [[Lexicon/geometry|Geometry]]: Understanding space and relationships
+6. [[Lexicon/astronomy|Astronomy]]: Understanding systems and cycles
+7. [[Lexicon/music|Music]]: Understanding harmony, frequency, and vibration (which extends to understanding how sounds and patterns affect human emotion and behaviour)
 
 Understanding these seven disciplines,  enables you to tackle any subject. You had the tools to think independently, to question authority, to see through deception.
 ## The New World
-Every ad you see, every news headline, and every social media post designed to go viral is using the same ancient tools of persuasion. Understanding these is your first line of defence:
+Every ad you see, every news headline, and every [[Lexicon/social-media|social media]] post designed to go viral is using the same ancient tools of persuasion. Understanding these is your first line of defence:
 
-1. **Credibility**: Who is saying this? Can I trust them?
-2. **Logic**: Does this make sense? What's the evidence?
-3. **Emotion**: How does this make me feel? (The most weaponised pillar).
+1. [[Lexicon/credibility|Credibility]]: Who is saying this? Can I trust them?
+2. Logic: Does this make sense? What's the evidence?
+3. [[Lexicon/emotion|Emotion]]: How does this make me feel? (The most weaponised pillar).
 
-These form the crux of social engineering and are defined as **[[Lexicon/persuasion-pillars|The Three Pillars of Persuasion]]**.
+These form the crux of [[Lexicon/social-engineering|social engineering]] and are defined as [[Lexicon/persuasion-pillars|The Three Pillars of Persuasion]].
 ## Are We Being Manipulated Right Now
 Every advertisement you see. Every news headline. Every political speech. Every social media post. They're all using the same three ancient tools of persuasion:
 ![persuasion-image.png](persuasion-image.png)
@@ -56,7 +56,7 @@ The problem: You rarely stop to ask this question. When information confirms wha
 
 This is the rational part: facts, data, logical arguments.
 
-The truth: Most people don't make decisions based on logic. Studies show that even when presented with contradictory evidence, people cling to beliefs that align with their identity or emotions.
+The truth: Most people don't make decisions based on logic. Studies show that even when presented with contradictory evidence, people cling to beliefs that align with their [[Lexicon/identity|identity]] or emotions.
 
 Logic is important, but it's not what moves masses.
 ### 3. Emotion

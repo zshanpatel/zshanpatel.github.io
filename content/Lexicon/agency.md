@@ -8,7 +8,7 @@ human-reviewed: true
 ---
 > The capacity for independent choice and deliberate action based on internal principles rather than external programming.
 
-Agency is the human ability to move from being an NPC—a reactive node in a system—to a sovereign steward *[[khalifah|(khalifah)]]* of reality.
+Agency is the human ability to move from being an NPC—a reactive node in a system—to a sovereign Viceregent *[[khalifah|(khalifah)]]* of reality.
 
 Two core aspects of agency:
 1. Moral and Ethical Integrity: Making decisions that align with the Divine Order, regardless of social pressure or personal cost.
@@ -21,3 +21,8 @@ Agency is the outcome of purification *[[tazkiyah|(tazkiyah)]]*. When the heart 
 - [[tazkiyah|The Process of Inner Purification]]
 - [[strive|Strategic Striving for Independence]]
 - [[universal-prosperity|The Multidimensional Prosperity Model]]
+- [[fatalism|Fatalism]]
+- [[resilience|Resilience]]
+- [[discipline|Discipline]]
+- [[hope-seeking|Hope-Seeking]]
+- [[conscious-choice|Conscious Choice]]

@@ -16,8 +16,14 @@ Key aspects of the model:
 
 The community *[[ummah|(ummah)]]* represents the ultimate expression of universal prosperity, where humanity acts as a single, integrated organism serving the divine order.
 
+This need not begin at global scale. The same structure — pooled obligation, mutual accountability, shared benefit — operates identically inside a single family or trusted circle before it operates across a civilisation; a federation of many such small, trust-based circles is the ummah's own logic applied bottom-up rather than imposed top-down. Scale changes the mechanism's reach, not its nature.
+
 ### 🔗 Related Concepts
 - [[tawhid|The Absolute Oneness of God (Tawhid)]]
 - [[zakat|Systemic Wealth Circulation]]
 - [[universal-prosperity|The Multidimensional Flourishing Model]]
 - [[psionic-alignment|Intellectual Alignment with the Divine]]
+- [[one-vault|The Same Logic at Family Scale]]
+- [[asabiyyah|The Cohesion That Has to Exist Before Scale Is Possible]]
+- [[prophet-muhammad|Prophet Muhammad]]
+- [[spiritual-democracy|Spiritual Democracy]]

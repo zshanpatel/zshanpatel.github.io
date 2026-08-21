@@ -22,3 +22,4 @@ The distinction matters because prediction is not the same operation as judgment
 ### 🔗 Related Concepts
 - [[intelligence|Why Prediction Is Not Intelligence]]
 - [[agi|The Threshold Predictive Systems Have Not Crossed]]
+- [[ai-epistemic-bias|AI Epistemic Bias]]

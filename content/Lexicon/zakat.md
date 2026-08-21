@@ -21,3 +21,6 @@ Mandatory almsgiving *[[zakat|(zakat)]]* is the primary mechanism for social sec
 - [[barakah|The Qualitative Increase of Blessing]]
 - [[ummah|The Integrated Global Community]]
 - [[universal-prosperity|The Flourishing Framework]]
+- [[prophet-muhammad|Prophet Muhammad]]
+- [[halal-wealth-building|Halal Wealth-Building]]
+- [[Lexicon/insatiable-material-appetite|Insatiable Material Appetite]]

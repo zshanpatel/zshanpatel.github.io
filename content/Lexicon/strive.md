@@ -23,3 +23,4 @@ By leveraging smart technology (AI, Automation, Mapping) as tools of stewardship
 - [[universal-prosperity|The Multidimensional Prosperity Model]]
 - [[monotheistic-framework|The Architecture of Systemic Unity]]
 - [[eschatological-framework|The Long Time Horizon Perspective]]
+- [[Lexicon/bravery-through-surrender|Bravery Through Surrender]]

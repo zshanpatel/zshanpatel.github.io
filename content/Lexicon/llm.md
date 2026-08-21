@@ -22,3 +22,4 @@ The architecture that made this possible is comparatively recent. Vaswani et al.
 - [[compute|What Training and Running One Actually Costs]]
 - [[gpu|The Hardware That Makes It Possible]]
 - [[open-source|Why Some LLMs Can Be Downloaded and Run Locally]]
+- [[ai-epistemic-bias|AI Epistemic Bias]]

@@ -15,5 +15,6 @@ That popular drift isn't pure corruption of the term, though — Kant's own tran
 ### 🔗 Related Concepts
 - [[intrinsic-epistemic|Spirituo-Epistemic Source]]
 - [[tawhid|Tawhid]]
+- [[metaphysical|Metaphysical]]
 
 Source: de Boer, K. "Transformations of Transcendental Philosophy: Wolff, Kant, and Hegel," *Kantian Review*, 2011. Primary: Kant, I. *Critique of Pure Reason*, 1781.

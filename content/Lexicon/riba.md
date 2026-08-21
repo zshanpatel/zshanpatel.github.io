@@ -21,3 +21,5 @@ The elimination of interest *[[riba|(riba)]]* is the first step toward the colla
 - [[sacred-economics|Principles of Sacred Economics]]
 - [[illusion-money|The Mechanism of Money Creation]]
 - [[zakat|Systemic Wealth Redistribution]]
+- [[prophet-muhammad|Prophet Muhammad]]
+- [[halal-wealth-building|Halal Wealth-Building]]

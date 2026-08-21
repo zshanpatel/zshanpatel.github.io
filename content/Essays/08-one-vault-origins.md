@@ -3,10 +3,10 @@ title: The Piggybank Finance System Pt.1
 name: one-vault-origins
 description: A childhood memory of a shared family vault hidden inside a toy car becomes the starting point for tracing how individualist, Western finance quietly displaced a working system built on trust.
 permalink: /essays/one-vault-origins
-series: Economics Series
-seriesOrder: 1
 tags:
   - economic-shift
+series: Economics Series
+seriesOrder: 1
 aliases:
 showDate: true
 draft: false
@@ -58,13 +58,11 @@ This is the insidious power of individualist thinking: the betrayal between elde
 
 We inherited the wrong lesson. Instead of learning "trust can be broken, things change, so document and restore it," we learned "trust is childish, people grow up to be self-serving, so protect yourself."
 
----
-Can't just go by family drama. Because money matters are always there. We have two types: _[[Lexicon/amanah|amanah]]_ (money for money loan) and _[[Lexicon/mudarabah|mudarabah]]_ (money contract for business with risk/profit). Additionally, there must be one witness and documentation. Simple. See what we missed. Which we now bear. At every transaction, documentation matters. Even a WhatsApp text is enough for short term moves. 
+I think we are able to achieve larger when worked as a collective. Money matters are always there. We have two types: _[[Lexicon/amanah|amanah]]_ (money for money loan) and _[[Lexicon/mudarabah|mudarabah]]_ (money contract for business with risk/profit). Additionally, there must be one witness and documentation. Simple. See what we missed. Which we now bear. At every transaction, documentation matters. Even a WhatsApp text is enough for short term moves. 
 
 All assets are for actionable outcomes, proper use. Time is more important than money. In my opinion.
 
 Zero balance is the victim mindset. So much [[Lexicon/leverage|leverage]]. Just has to be used in a responsible way. 
 
-Just idealising integrity is wishful thinking. It just becomes an excuse for wasting time. We need high level of integrity in action. 
+Just idealising integrity is wishful thinking. It becomes an excuse for wasting time. We need high level of integrity in action. 
 
-I think we are able to achieve larger when worked as a collective. 

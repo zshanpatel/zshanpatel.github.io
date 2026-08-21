@@ -16,11 +16,12 @@ The proximate cause was straightforward: mortgage lending had extended deep into
 
 Markus Brunnermeier's 2009 account in the Journal of Economic Perspectives identifies the amplification mechanisms directly: as asset prices fell, funding became harder to get, forcing further asset sales into an already-falling market — a feedback loop that turned several hundred billion dollars in mortgage losses into roughly $8 trillion in US stock market value lost between October 2007 and October 2008.
 
-This crisis, alongside the [[Lexicon/dot-com-bubble|dot-com bubble]], serves as historical precedent for reading any new investment cycle skeptically — the specific mechanism differs each time, but the underlying pattern of institutional capital moving faster than real fundamentals recurs (see [[Lexicon/institutional-flows|Institutional Flows]]).
+This crisis, alongside the [[financial-bubble|dot-com bubble]], serves as historical precedent for reading any new investment cycle skeptically — the specific mechanism differs each time, but the underlying pattern of institutional capital moving faster than real fundamentals recurs (see [[Lexicon/institutional-flows|Institutional Flows]]).
 
 *Source: Brunnermeier, M.K. (2009), "Deciphering the Liquidity and Credit Crunch 2007-2008," Journal of Economic Perspectives, 23(1), 77–100.*
 
 ### 🔗 Related Concepts
-- [[dot-com-bubble|An Earlier Instance of the Same Pattern]]
+- [[financial-bubble|An Earlier Instance of the Same Pattern]]
 - [[institutional-flows|The Capital Movements That Amplified It]]
 - [[peak-ai|A Later Cycle Read Through the Same Lens]]
+- [[financial-commentary|Financial Commentary]]

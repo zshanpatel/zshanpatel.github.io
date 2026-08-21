@@ -22,3 +22,4 @@ In the [[universal-prosperity|universal prosperity model]], the goal is not mere
 - [[zakat|Systemic Wealth Redistribution]]
 - [[fitra|Reclaiming Innate Human Nature]]
 - [[universal-prosperity|The Universal Prosperity Framework]]
+- [[halal-wealth-building|Halal Wealth-Building]]

@@ -20,7 +20,7 @@ The master craftsman earned authority through *mastery*, years of practice, a vi
 
 Then came the [[enlightenment|Enlightenment]], and authority began to shift. Institutions centralised [[power|power]]. The industrial revolution disaggregated 'making', you no longer needed to understand the whole to control part of it. Management and trade or merchants became a discipline because scale required coordination. And coordination, separated from craft, required a new kind of authority: hierarchical, credentialed, and largely invisible in its actual output.
 ## The Executive arrives
-The [[07-simc|MBA]] is a product of digitisation in force. In the latter half of the twentieth century, it was a credential designed to systematise the management of complexity. For an era where: the main challenge was coordinating large numbers of people across large organisations to produce consistent outputs at scale.
+The [[08-simc|MBA]] is a product of digitisation in force. In the latter half of the twentieth century, it was a credential designed to systematise the management of complexity. For an era where: the main challenge was coordinating large numbers of people across large organisations to produce consistent outputs at scale.
 
 Digitisation accelerated this logic. Information could be processed faster, decisions could cascade further, and the executive became, in many cases, primarily a *[[strategic-communication|strategic communicator]]*, someone who set direction, aligned stakeholders, and managed perception as much as operations. The ability to hold a room, frame a narrative, and move a board became the core executive competency.
 

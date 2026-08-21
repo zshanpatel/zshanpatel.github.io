@@ -21,3 +21,4 @@ The challenge of the current age is that artificial intelligence is being positi
 - [[compound-ignorance|The State of Not Knowing That You Don't Know]]
 - [[one-vault|A Unified Framework for AI Alignment]]
 - [[psionic-alignment|Synchronising Human and Divine Intelligence]]
+- [[collective-intelligence|Collective Intelligence]]

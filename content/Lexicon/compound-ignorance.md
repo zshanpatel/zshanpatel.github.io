@@ -1,11 +1,12 @@
 ---
 title: Compound Ignorance
 name: compound-ignorance
-description: The state of not only being ignorant of the truth but being unaware of that ignorance — believing you know when you do not, making you immune to correction.
+description: The state of not only being ignorant of the truth but being unaware of that ignorance, believing you know when you do not, making you immune to correction.
 tags:
   - concept
+human-reviewed: true
 ---
-> A state where an individual is not only ignorant of the truth but is also ignorant of their own ignorance—they believe they know when they do not.
+> A state where an individual is not only ignorant of the truth but is also ignorant of their own ignorance, they believe they know when they do not.
 
 Compound ignorance is worse than simple ignorance. In simple ignorance, a person knows they don't know and is thus open to learning. In compound ignorance, the individual is convinced they possess true knowledge, making them immune to new information or correction.
 

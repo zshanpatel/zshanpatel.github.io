@@ -16,3 +16,4 @@ Intrinsic epistemology recognizes that truth is not just discovered through exte
 - [[tazkiyah|The Purification of Intellect and Heart]]
 - [[compound-ignorance|Identifying Epistemic Blindness]]
 - [[seven-liberal-arts|Classical Tools for Truth-Seeking]]
+- [[epistemic-bias|Epistemic Bias]]

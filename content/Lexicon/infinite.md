@@ -18,3 +18,4 @@ This is why no finite thing — wealth, status, pleasure, power — can produce 
 - [[fitra|The Original Human Orientation]]
 - [[universal-prosperity|The Multidimensional Flourishing Model]]
 - [[ontological|The Structural Reality of Being]]
+- [[metaphysical|Metaphysical]]

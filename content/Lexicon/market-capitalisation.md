@@ -21,3 +21,4 @@ Reading a sector's market capitalisation chart without that caveat is exactly th
 ### 🔗 Related Concepts
 - [[Lexicon/memecoin|Where This Number Gets Most Misleading]]
 - [[institutional-flows|Who Moves This Number Most]]
+- [[signal-proxy|Signal Proxy]]

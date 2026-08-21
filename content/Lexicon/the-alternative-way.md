@@ -46,3 +46,4 @@ This is the opening. Not for revolution — revolutions tend to reinstall the sa
 - [[strive|The Practice of Building Differently]]
 - [[pathological-deviation|What the Dominant System Produces]]
 - [[barakah|What the Alternative Generates Instead]]
+- [[Lexicon/slavery-to-god|Slavery to God]]

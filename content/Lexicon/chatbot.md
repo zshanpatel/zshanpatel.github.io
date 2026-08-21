@@ -7,9 +7,9 @@ aliases:
   - intelligent chatbot
 tags:
   - term
-human-reviewed: false
+human-reviewed: true
 ---
-> The first thing anyone thinks to build with AI, because it's the first thing anyone thought to build with AI — sixty years ago.
+> The first thing anyone thinks to build with AI, because it's the first thing anyone thought to build with AI, sixty years ago.
 
 Joseph Weizenbaum built the first chatbot, ELIZA, at MIT in 1966 — decades before "chatbot" was a word. ELIZA had no understanding of language at all; it matched keywords in a user's typed sentence against decomposition rules and reflected the sentence back as a question, most famously imitating a Rogerian psychotherapist. Weizenbaum was reportedly disturbed by how many users treated ELIZA as if it genuinely understood them, despite knowing exactly how mechanical the trick was.
 

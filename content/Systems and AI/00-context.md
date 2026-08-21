@@ -1,26 +1,34 @@
 ---
 title: Why Context Matters
+name: why-context-matters
+description: AI output quality is a design problem, not a typing skill. Context architecture levels up from one prompt to a spec an agent acts on.
 type: context
-series_order: 0
+series: The Foundations
+order: 1
+tags:
+  - systems-and-ai
+  - context
+showDate: false
+draft: false
 ---
-# Context Engineering
-## 🪴 Understanding Matters, More Than Asking
-> In the grand scheme of the new AI world of prompts, context and skills:
+> In the grand schema of the new digital world of AI, data and systems; understanding matters, more than asking.
 
-## 1. The Steering Wheel
-**Prompts** are the steering wheel. A clear, specific prompt with details about format, tone, audience, and purpose gets exactly what you need.
+Everyone using AI right now has noticed the same thing: the results are inconsistent. Ask two people to use the same tool for the same task and you get two different qualities of output, and neither of them can tell you why. The usual explanation is skill, some people are better at prompting than others. That's true, and almost beside the point. The deeper problem is that nothing compounds. Every session starts from zero. What one person figured out last week lives in their head, not in the system, and the next person has to figure it out again from scratch.
 
-## 2. The Background
-**Context** gives AI the background it needs to understand the situation. Without it, responses are generic. With it, they're tailored to your specific needs, constraints, and goals.
+[[Lexicon/context-architecture|Context architecture]] is the name for treating this as a design problem instead of a skill gap, the same move code made for computers decades ago, applied now to what a [[Lexicon/llm|model]] can see and act on. It runs across four cumulative levels:
 
-Together, they transform AI from a basic question-answering tool into a precision instrument that delivers relevant, actionable results on the first try.
+Prompt craft is the single instruction: what you type in one box, one time. The Steering Wheel.
 
-## 3. The Formula
-1. **Context** = _Who you are and what you're doing_.
-2. **Prompts**  =  _What you want and how you want it_. 
+Context engineering is everything else the model can see while it works, the documents, the tool access, the prior exchanges held inside its [[Lexicon/context-window|context window]]. 
 
-Both are essential for quality output. Fine-tuned prompts allow snipping the perfect user message each time.
+Intent engineering encodes why the system is doing what it's doing, not just what, so it optimises for the outcome you actually meant rather than the one you literally specified. 
 
-I have curated a set of prompts that will set you off the ground fast and soaring to the first floor.
+Specification engineering writes an organisation's knowledge in a form an [[Lexicon/ai-agent|agent]] can read and act on directly, so a human isn't translating intent into instruction every single time a task runs. 
 
-Just copy and paste (`Cmd + V`) and plug in your thoughts in the input.
+Each level depends on the one beneath it. A gap at any level caps everything built on top.
+
+## Go Deeper
+
+- **Next rung**: [[04 Blog Content/Systems and AI/00-skills|What a Skill Is]], where these levels stop living in your head and start living in files you own.
+- **The vocabulary**: [[Lexicon/context-architecture|context architecture]], [[Lexicon/context|context]], [[Lexicon/dataset|datasets]].
+- **Outside the vault**: [Anthropic on context engineering](https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents) and [Manus on the same lesson](https://manus.im/blog/Context-Engineering-for-AI-Agents-Lessons-from-Building-Manus): the context window is the resource to manage.

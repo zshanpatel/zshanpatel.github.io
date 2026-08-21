@@ -35,3 +35,5 @@ Restoring asabiyyah cannot be done through strategy documents or cultural initia
 - [[strive|The Personal Practice of Aligned Effort]]
 - [[tazkiyah|The Inner Work That Makes Collective Work Possible]]
 - [[grand-challenges|What Weak Asabiyyah Cannot Solve]]
+- [[resilience|Resilience]]
+- [[Lexicon/power-dynamics|Power Dynamics]]

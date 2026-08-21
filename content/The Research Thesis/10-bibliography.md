@@ -298,7 +298,7 @@ Weber, M. (2013) The Protestant Ethic and the Spirit of Capitalism. [Online]. Un
 
 White, V. (1956) The Interpretation of Nature and the Psyche. Blackfriars 37 (431) p.83–84.
 
-  Winter, T. (2008) The Cambridge Companion to Classical Islamic Theology. [Online]. Cambridge University Press.
+Winter, T. (2008) The Cambridge Companion to Classical Islamic Theology. [Online]. Cambridge University Press.
 
 Yazdi, M.H. (1992) The Principles of Epistemology in Islamic Philosophy: Knowledge by Presence. SUNY Press.
 

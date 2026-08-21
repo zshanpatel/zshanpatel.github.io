@@ -24,3 +24,8 @@ When humans act as stewards *[[khalifah|(khalifahs)]]* rather than NPCs, they ma
 - [[monotheistic-framework|The Architecture of Systemic Unity]]
 - [[universal-prosperity|The Multidimensional Flourishing Model]]
 - [[fitra|Reclaiming the Original Human Architecture]]
+- [[perfect-man|Perfect Man]]
+- [[divine-accountability|Divine Accountability]]
+- [[Lexicon/masculine-leadership|Masculine Leadership]]
+- [[Lexicon/slavery-to-god|Slavery to God]]
+- [[Lexicon/martyrdom-orientation|Martyrdom Orientation]]

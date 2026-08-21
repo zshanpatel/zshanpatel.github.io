@@ -18,3 +18,4 @@ Source: MacIntyre, A. *A Short History of Ethics: A History of Moral Philosophy 
 - [[utilitarian|Utilitarianism]]
 - [[harm-principle|The Harm Principle]]
 - [[philosophy|Philosophy]]
+- [[secular-morality|Secular Morality]]

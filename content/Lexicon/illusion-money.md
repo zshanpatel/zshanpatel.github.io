@@ -11,7 +11,7 @@ Modern money is not a representation of wealth; it is a system of extraction. Th
 
 Key features of the money illusion:
 - Money-from-Nothing: Banks create new money when loans are issued, effectively "typing digits on a screen" and charging interest on this imaginary capital.
-- Artificial Scarcity: Interest requires more money to be repaid than was originally created, forcing everyone into a perpetual state of competition and debt-slavery.
+- [[artificial-scarcity|Artificial Scarcity]]: Interest requires more money to be repaid than was originally created, forcing everyone into a perpetual state of competition and debt-slavery.
 - Wealth Transfer: The mechanism of interest *[[riba|(riba)]]* systematically moves real value (houses, labor, businesses) from the working and middle class to the capital-owning elite.
 
 Breaking the money illusion requires a transition to sacred economics: asset-backed currency, risk-sharing partnerships, and wealth redistribution through mandatory almsgiving *[[zakat|(zakat)]]*.

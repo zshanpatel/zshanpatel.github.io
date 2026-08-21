@@ -1,9 +1,10 @@
 ---
 title: Power
 name: power
-description: The capacity to organise reality according to your will — not merely force, but the architecture of cohesion, narrative, and legitimacy that makes force unnecessary.
+description: The capacity to organise reality according to your will, not merely force, but the architecture of cohesion, narrative, and legitimacy that makes force unnecessary.
 tags:
   - concept
+human-reviewed: true
 ---
 > Power is never seized. It is assembled, slowly, from the inside out, and lost the same way.
 
@@ -17,7 +18,7 @@ Below the visible instruments of power: armies, institutions, currencies, laws, 
 
 The highest expression of power, and the least examined. It operates through what is considered normal, what is considered inevitable, and what is considered unthinkable. The most powerful system is one that has convinced those within it that there is no outside.
 
-Whoever controls the construction of that meaning *[[strategic-communication|(strategic communication)]]* controls the effective range of the possible, before any specific decision is made, before any law is passed, before any army is deployed. What looks like political and military history was always, underneath, a story about cohesion and its dissolution. About whether a group of people still believed in the same thing enough to act together.
+Whoever controls the construction of that [[strategic-communication|meaning]] controls the effective range of the possible, before any specific decision is made, before any law is passed, before any army is deployed. What looks like political and military history was always, underneath, a story about cohesion and its dissolution. About whether a group of people still believed in the same thing enough to act together.
 
 The present order exhibits the classic signs of late-cycle dynamics. The centre has grown comfortable. The legitimacy is maintained increasingly through narrative management rather than through demonstrated competence or genuine solidarity. The institutions command it through the residue of former [[colonial-epistemology|colonisation]].
 
@@ -28,10 +29,10 @@ But the cycle does not stop.
 They never announced themselves. Announcement is what the powerful do when they are insecure.
 
 They do not need to be seen, because they have already shaped what everyone else believes is possible.
-
-
-
+ 
 ### 🔗 Related Concepts
 - [[asabiyyah|The Cohesion That Builds and Dissolves Power]]
 - [[first-principle|What Durable Power Is Built On]]
 - [[monotheistic-framework|The Ultimate Source of Power]]
+- [[Lexicon/frame|Frame]]
+- [[Lexicon/alpha|Alpha]]

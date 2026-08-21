@@ -18,4 +18,5 @@ A bubble "driven by institutional players and financial instruments" is pointing
 
 ### 🔗 Related Concepts
 - [[institutional-flows|The Capital Movements That Use These Instruments]]
-- [[dot-com-bubble|A Historical Case of Instrument-Driven Mania]]
+- [[financial-bubble|A Historical Case of Instrument-Driven Mania]]
+- [[financial-commentary|Financial Commentary]]

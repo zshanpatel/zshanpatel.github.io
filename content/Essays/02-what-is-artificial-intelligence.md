@@ -20,7 +20,7 @@ A prediction by a San Francisco tech guy caught my attention recently. He broadl
 ### ⁠We're at [[Lexicon/peak-ai|Peak AI]]
 Let me explain.
 
-What I mean by peak AI: the bubble is artificially inflated, driven by [[Lexicon/institutional-flows|institutional players]] and [[Lexicon/financial-instruments|financial instruments]]. Just like the [[Lexicon/dot-com-bubble|dot com bubble]], or the [[Lexicon/financial-crisis-2008|2008 financial crisis]], or the 2020 pandemic. We're already living in what looks like the much hyped [[Lexicon/agi|Artificial General Intelligence (AGI)]]. This is it. 
+What I mean by peak AI: the bubble is artificially inflated, driven by [[Lexicon/institutional-flows|institutional players]] and [[Lexicon/financial-instruments|financial instruments]]. Just like the [[financial-bubble|dot com bubble]], or the [[Lexicon/financial-crisis-2008|2008 financial crisis]], or the 2020 pandemic. We're already living in what looks like the much hyped [[Lexicon/agi|Artificial General Intelligence (AGI)]]. This is it. 
 
 [[Lexicon/intelligence|AI]] makes things easy, sure, but it shouldn't be made into [[Lexicon/tawhid|God]]. In the end, it's prediction tech. Period.
 

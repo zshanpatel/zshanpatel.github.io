@@ -20,3 +20,4 @@ The model operates through 8 interconnected pillars, ranging from ethical founda
 - [[mundo-level|Ecosystemic Scale of Change]]
 - [[zakat|Systemic Value Circulation]]
 - [[ummah|The Integrated Global Community]]
+- [[seven-generation-legacy|Seven-Generation Legacy]]

@@ -20,3 +20,8 @@ When Pathos is combined with false Ethos, Logos is often discarded entirely. Thi
 - [[compound-ignorance|The Epistemological Crisis of Knowledge]]
 - [[intrinsic-epistemic|Epistemological Sovereignty]]
 - [[seven-liberal-arts|The Classical Tools of Logic]]
+- [[advertising|Advertising]]
+- [[psychological-triggers|Psychological Triggers]]
+- [[peripheral-receptivity|Peripheral Receptivity]]
+- [[reverse-engineering|Reverse Engineering]]
+- [[messaging|Messaging]]

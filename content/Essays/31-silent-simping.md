@@ -12,15 +12,15 @@ date: 2025-10-15
 ---
 ![simp-image.png](simp-image.png)
 
-Silent simping is real. Simping is when a man trades his strength, dignity, or purpose. 
+Silent [[simping]] is real. Simping is when a man trades his strength, dignity, or [[transcendental-greatness|purpose]]. 
 
 There are untouchable traits of being masculine. Not to be hampered with.
 
 Yet men are quietly abandoning their role as a man. Accepting the slow dismantling of masculinity as 'progress'. Oppressed under the weight of being called oppressive or misogynistic. What have we become. Simps.
 
-Silently. Unconsciously. Being normalised and mediocratised.
+Silently. Unconsciously. Being normalised and mediocritised.
 
-This isn't some accident of social evolution. This is a neo-colonial project. Feminism, in its liberal form, is an ideological export designed to dismantle the family unit. It's sold as liberation, but it's actually a divide-and-rule strategy as old as slavery itself. A liberal ideology deflecting from its own inherent violence, rebranding material subjugation as freedom of choice.
+This isn't some accident of [[social-evolution]]. This is a [[Lexicon/neo-colonial-project|neo-colonial project]]. Feminism, in its liberal form, is an ideological export designed to dismantle the family unit. It's sold as liberation, but it's actually a divide-and-rule strategy as old as slavery itself. A liberal ideology deflecting from its own inherent violence, rebranding material subjugation as freedom of choice.
 
 Here's how it works.
 
@@ -32,23 +32,23 @@ The result? Gender confusion. Role abandonment. Carnal pursuits. An entire gener
 
 But the kicker is, this isn't about gender equality at all. It's more sinister.
 
-When both men and women are chasing careers, chasing wealth, chasing material validation, they're not chasing transcendental greatness. They're not focused on building spiritual. They're not raising children who could be the next Umar ibn al-Khattab or Khalid ibn al-Waleed (RA). They're just consuming.
+When both men and women are chasing careers, chasing wealth, chasing material validation, they're not chasing transcendental greatness. They're not focused on building spiritual. They're not raising children who could be the next [[umar-ibn-al-khattab|Umar ibn al-Khattab]] or [[khalid-ibn-al-waleed|Khalid ibn al-Waleed]] (RA). They're just [[Lexicon/consumerism|consuming]].
 
 The elite few win. When both parents are working, you've got double the taxation, double the consumption, double the debt. The family unit, which used to be a source of resistance and resilience, becomes another node in the economic machine. Dad's at the office. Mum's at the office. Exhausted. The kids? They're being raised by screens, influencers, and a secular education system that has zero interest in their spiritual wellbeing.
 
-This is the neoliberal secular order in full effect. Everyone is singularly focused on wealth and financial gain. Spiritual and systemic endeavours are completely overshadowed. This pursuit doesn't stop at financial maintenance. It escalates into an insatiable material appetite, and then into financial enslavement through credit systems, debt, and interest.
+This is the neoliberal secular order in full effect. Everyone is singularly focused on wealth and financial gain. Spiritual and systemic endeavours are completely overshadowed. This pursuit doesn't stop at financial maintenance. It escalates into an insatiable material appetite, and then into [[Lexicon/economic-slavery|financial enslavement]] through credit systems, debt, and interest.
 
 The system needs you broke, distracted, and divided. Feminism gives them exactly that.
 
 The generational cost is catastrophic.
 
-The result? Identity crises. Gender confusion. Depression. Addiction. Escapism. A generation of people who don't know who they are, what they're for, or why they're here.
+The result? Identity crises. [[Lexicon/gender-confusion|Gender confusion]]. Depression. Addiction. Escapism. A generation of people who don't know who they are, what they're for, or why they're here.
 
 This is what you're quietly accepting. This is what silent simping looks like.
 
 So what's the alternative?
 
-Reject the premise. The father and mother are biologically and spiritually programmed toward the child's best interests. Feminism isn't liberating women, it's enslaving both men and women to material pursuits while severing divine connection. Traditional gender roles are a framework for building families and societies that can resist the neo-colonial order and raise civilisations oriented toward transcendental greatness, not just material-financial success.
+Reject the premise. The father and mother are biologically and spiritually programmed toward the child's best interests. [[liberal-feminism|Feminism]] isn't liberating women, it's enslaving both men and women to material pursuits while severing divine connection. Traditional gender roles are a framework for building families and societies that can resist the neo-colonial order and raise civilisations oriented toward transcendental greatness, not just material-financial success.
 
 Men: must reclaim the role. Provide. Protect. Lead. Because that's the dutiful function in the divine design.
 

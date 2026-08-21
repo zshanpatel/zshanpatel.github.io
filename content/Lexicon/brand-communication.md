@@ -1,7 +1,7 @@
 ---
 title: Brand Communication
 name: brand-communication
-description: The strategic management of how a brand's identity is expressed and perceived across every touchpoint — corporate identity, marketing messaging, and reputation, treated as a single coordinated system rather than separate functions.
+description: The strategic management of how a brand's identity is expressed and perceived.
 tags:
   - term
 human-reviewed: true
@@ -11,9 +11,9 @@ human-reviewed: true
 Marketing academics distinguish corporate identity (how an organisation presents itself), corporate brand (the promise that presentation makes), and corporate reputation (how it's actually perceived) as related but distinct constructs that brand communication work has to align.
 
 A misalignment between what a company says about itself and how it's actually perceived is where most brand crises originate. The discipline treats consistency across every touchpoint — visual identity, advertising, customer service, crisis response — as the actual deliverable, not any single campaign.
-## Communication Strategy and Mindspace
+### Communication Strategy and Mindspace
 At a strategic level, **brand communication** is not merely about transmitting information; it is the deliberate engineering of **mental availability**. Its primary function is to occupy a specific, defensible "mindspace" within the consumer's cognitive architecture, ensuring the brand is the automatic choice when a buying situation arises.
-### The Battle for Mental Real Estate
+### Mental Real Estate
 Brand communication operates on the premise that the consumer's mind is a limited resource. As defined by Jack Trout and Al Ries, positioning is a "battle for the mind." The goal is to secure a distinct "slot" or piece of **mental real estate** relative to competitors. Once a brand occupies a specific concept (e.g., Volvo = "Safety," Google = "Search"), it becomes the default heuristic for that need state. Effective communication does not just inform; it **anchors** the brand to a specific category entry point so deeply that it bypasses rational evaluation in favor of instant recall.
 ### Building Memory Structures
 Modern marketing science describes this occupation as building **memory structures**. Every communication act serves to either build, refresh, or degrade the associative networks in long-term memory that link the brand to specific emotions, needs, or usage situations.
@@ -31,7 +31,12 @@ Successful brand communication follows a rigorous strategic framework:
 
 Ultimately, successful brand communication means that when a consumer thinks of a specific problem or desire, your brand is the **only** logical answer that surfaces in their consciousness.
 
+Source: Abratt, R. & Kleyn, N. "Corporate identity, corporate branding and corporate reputations," *European Journal of Marketing*, 2012. Knox, S. & Bickerton, D. "The six conventions of corporate branding," *European Journal of Marketing*, 2003. Ries, A. & Trout, J. *Positioning: The Battle for Your Mind*, McGraw-Hill, 1981. Sharp, B. *How Brands Grow: What Marketers Don't Know*, Oxford University Press, 2010.
+
 ### 🔗 Related Concepts
 - [[communication-design|Communication Design]]
-
-Source: Abratt, R. & Kleyn, N. "Corporate identity, corporate branding and corporate reputations," *European Journal of Marketing*, 2012. Knox, S. & Bickerton, D. "The six conventions of corporate branding," *European Journal of Marketing*, 2003. Ries, A. & Trout, J. *Positioning: The Battle for Your Mind*, McGraw-Hill, 1981. Sharp, B. *How Brands Grow: What Marketers Don't Know*, Oxford University Press, 2010.
+- [[advertising|Advertising]]
+- [[ad-industry|Ad Industry]]
+- [[messaging|Messaging]]
+- [[product-positioning|Product Positioning]]
+- [[product-differentiation|Product Differentiation]]

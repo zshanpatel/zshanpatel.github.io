@@ -15,3 +15,4 @@ This is the register this essay claims AI can't currently reach — not because 
 ### 🔗 Related Concepts
 - [[tawhid|The Architecture of Systemic Unity]]
 - [[khalifah|Stewardship]]
+- [[divine|Divine]]

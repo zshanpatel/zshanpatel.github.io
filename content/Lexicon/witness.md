@@ -22,3 +22,4 @@ Source: Freamon, B.K., "Martyrdom, Suicide, and the Islamic Law of War: A Short 
 ### 🔗 Related Concepts
 - [[amanah|Trust Given Without Requiring Proof]]
 - [[tazkiyah|Accountability Turned Inward]]
+- [[Lexicon/martyrdom-orientation|Martyrdom Orientation]]

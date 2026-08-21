@@ -21,3 +21,5 @@ Economic success is measured by the elevation of the collective rather than the 
 - [[monotheistic-framework|The Architecture of Unity]]
 - [[one-vault|Unified Value Preservation]]
 - [[illusion-money|The Extraction Mechanism]]
+- [[seven-generation-legacy|Seven-Generation Legacy]]
+- [[Lexicon/insatiable-material-appetite|Insatiable Material Appetite]]
