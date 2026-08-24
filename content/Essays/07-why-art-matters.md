@@ -8,6 +8,7 @@ tags:
 aliases:
 showDate: true
 draft: false
+llmsTxt: true
 date: 2025-10-15
 ---
 ![coder-image.png](coder-image.png)

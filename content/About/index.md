@@ -8,6 +8,30 @@ tags:
 showDate: false
 hide_meta: true
 description: This page is written to be useful for collaborators, agents and ATS systems mapping. It is a complete account of what I have done, how I think, what I am good at, and where I am still developing. The goal is to save everyone's time and surface genuine fit, not to perform an optimised version of a career.
+jsonLD:
+  "@context": https://schema.org
+  "@type": Person
+  name: Zeeshan Patel
+  email: zshanpatel@gmail.com
+  telephone: +91-9922889439
+  url: https://zshanpatel.github.io/about
+  sameAs:
+    - https://www.linkedin.com/in/zshanpatel/
+  jobTitle: Brand Strategy Consultant
+  worksFor:
+    "@type": Organization
+    name: S4G Consultancy
+  alumniOf:
+    - "@type": EducationalOrganization
+      name: University College London
+    - "@type": EducationalOrganization
+      name: Symbiosis Institute of Media and Communication
+    - "@type": EducationalOrganization
+      name: Symbiosis Institute of Design
+  address:
+    "@type": PostalAddress
+    addressLocality: Mumbai
+    addressCountry: India
 ---
 ## Career Timeline
 

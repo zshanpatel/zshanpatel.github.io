@@ -8,6 +8,7 @@ tags:
 aliases:
 showDate: true
 draft: false
+llmsTxt: true
 date: 2024-03-31
 ---
 ![[raghead-image.png]]

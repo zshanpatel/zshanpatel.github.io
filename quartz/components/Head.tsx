@@ -39,6 +39,16 @@ export default (() => {
       (r) => r.loadTime === "beforeDOMReady" && r.contentType === "external",
     )
 
+    // Pages opt into structured data via a `jsonLD:` frontmatter object (schema.org shape,
+    // e.g. Person/Organization). Keys that shouldn't go on a public page — contact details an
+    // author may want for other purposes (an ATS submission, etc.) but not scraped forever off
+    // a public URL — are stripped here, uniformly, rather than trusted to each page's frontmatter.
+    const RESTRICTED_JSONLD_KEYS = new Set(["telephone", "address"])
+    const rawJsonLd = fileData.frontmatter?.jsonLD as Record<string, unknown> | undefined
+    const publicJsonLd = rawJsonLd
+      ? Object.fromEntries(Object.entries(rawJsonLd).filter(([k]) => !RESTRICTED_JSONLD_KEYS.has(k)))
+      : null
+
     return (
       <head>
         <title>{title}</title>
@@ -104,6 +114,14 @@ export default (() => {
             return resource
           }
         })}
+        {publicJsonLd && (
+          <script
+            type="application/ld+json"
+            dangerouslySetInnerHTML={{
+              __html: JSON.stringify(publicJsonLd).replace(/</g, "\\u003c"),
+            }}
+          />
+        )}
       </head>
     )
   }

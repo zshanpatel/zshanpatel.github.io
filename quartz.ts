@@ -1,6 +1,7 @@
 import { loadQuartzConfig, loadQuartzLayout } from "./quartz/plugins/loader/config-loader"
 import { componentRegistry } from "./quartz/components/registry"
 import { PageTypeDispatcher } from "./quartz/plugins/pageTypes"
+import { LlmsTxt } from "./quartz/plugins/emitters"
 
 import Flex from "./quartz/components/Flex"
 import MobileOnly from "./quartz/components/MobileOnly"
@@ -8,6 +9,7 @@ import DesktopOnly from "./quartz/components/DesktopOnly"
 import ConditionalRender from "./quartz/components/ConditionalRender"
 import Darkmode from "./quartz/components/Darkmode"
 import Footer from "./quartz/components/Footer"
+import VisuallyHiddenTitle from "./quartz/components/VisuallyHiddenTitle"
 
 import { Search } from "@quartz-community/search"
 import { ReaderMode } from "@quartz-community/reader-mode"
@@ -60,6 +62,9 @@ const left = [PageTitle(), MobileOnly(Spacer()), toolbar, Explorer()]
 const beforeBodyContent = [
   ConditionalRender({ component: Breadcrumbs(), condition: (p) => p.fileData.slug !== "index" }),
   ConditionalRender({ component: ArticleTitle(), condition: (p) => p.fileData.slug !== "index" }),
+  // Homepage skips the visible title by design (straight into the hero image), but still needs
+  // exactly one real <h1> for SEO/agent-legibility — rendered off-screen instead (see T-31).
+  ConditionalRender({ component: VisuallyHiddenTitle(), condition: (p) => p.fileData.slug === "index" }),
   ConditionalRender({ component: ContentMeta(), condition: (p) => p.fileData.slug !== "index" }),
 ]
 
@@ -121,5 +126,6 @@ config.plugins.emitters = config.plugins.emitters.map((emitter) =>
     ? PageTypeDispatcher({ defaults: layout.defaults, byPageType: layout.byPageType })
     : emitter,
 )
+config.plugins.emitters.push(LlmsTxt())
 
 export default config

@@ -8,6 +8,7 @@ tags:
 aliases:
 showDate: true
 draft: false
+llmsTxt: true
 date: 2023-10-18
 ---
 ![ai-brain.png](ai-brain.png)
