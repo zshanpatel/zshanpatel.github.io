@@ -79,5 +79,5 @@ Chosen to be **build-time generated**, not a static file, specifically because t
 for it to "self-evolve as we keep updating the blog." Essay inclusion is opt-in
 (`llmsTxt: true` frontmatter) rather than "all non-draft essays," because a first unfiltered
 pass surfaced several essays with tone unsuited to a page sitting next to structured resume
-data meant for ATS/agent consumption — see `progress.md` for the exact essays currently
-opted in.
+data meant for ATS/agent consumption — see `tasks.md`'s Shipped section for the exact essays
+currently opted in.

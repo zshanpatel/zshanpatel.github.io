@@ -34,21 +34,51 @@ If you're working **in the vault** and need to understand what a change will act
 - **Custom components** (not the community-plugin default, kept local because the plugin couldn't be configured to do what's needed): `quartz/components/Darkmode.tsx` (custom transition, wired via `quartz.ts`) and `quartz/components/Footer.tsx` (renders only the footer links, no "Created with Quartz" line).
 - Full history of *why* things are built this way: `/Users/zeeshanpatel/Documents/DraftVault/06 Metadata/Session History/` — start with the most recent files, oldest first entry is 2026-08-17 (the v4→v5 migration).
 
-## After working here
+## `session-notes/` — the live job board (read/update this, not this file)
 
-If you make a change in this repo — config, layout, plugins, deploy setup, a bug fix, anything — append an entry to the vault's Session History when you're done: `06 Metadata/Session History/YYYY-MM-DD - Topic.md` (one file per date — append a new `# Session Log:` section if today's already exists, per the vault's `/session` skill format at `06 Metadata/Skills/session/skill.md`). Do this even though you're not in the vault — otherwise the reasoning behind a change here only exists in a chat transcript that won't be there next session. Keep each entry short — a few lines is enough. The point is a trail future sessions can pick up quickly, not a full transcript; a long entry costs more for the next agent to read than it saves.
+There's a `session-notes/` folder at this repo's root: `tasks.md` (open items *and* current
+feature state, merged into one file — see below), `lessons.md`, `plan.md`, `log.md`. This is
+where live, in-progress state belongs — **not here in `AGENTS.md`**. This file stays a stable
+map of how things are wired; if you're tempted to add a "recent work" or "current tasks"
+section to `AGENTS.md` itself, don't — every fresh agent reads this file first as orientation,
+and a live task list here would make that orientation read a moving target. That's exactly
+what `session-notes/tasks.md` is for instead.
 
-**This file should stay a stable map of how things are wired, not a running log.** To pick up current context — what's actively being tried, what's still open — read the most recent Session History file(s), not this one. If you're tempted to add a "recent work" summary here instead, don't: it'll duplicate the log and go stale the moment nobody remembers to update it.
+**Keep `session-notes/tasks.md` live, during the session, not just at the end.** The moment
+you identify a task (a user request, a bug found mid-work, a deferred decision), add it there.
+The moment something ships, move it to the Shipped section with the commit hash. Don't wait
+until session close to reconstruct what happened from memory — that's exactly how this file
+went stale before (see its own header for the story).
 
-## `session-notes/` — in-repo checkpoints
-
-There's also a `session-notes/` folder at this repo's root (`log.md`, `lessons.md`, `progress.md`, `tasks.md`, `plan.md`). It exists *alongside* the vault's Session History, not instead of it — the vault entry (above) is the narrative "why" record that survives even if this repo is ever wiped and re-cloned; `session-notes/` is a finer-grained, in-repo counterpart so a fresh session working purely in `~/quartz` (no vault access) can still pick up exactly where the last one left off, without needing to read a full chat transcript.
-
-If you make a non-trivial change here, update the relevant file(s) in `session-notes/` in the same pass you update the vault:
-- `progress.md` — current state of each feature/task (what's shipped, what's uncommitted, what's verified)
-- `lessons.md` — hard-won, non-obvious facts about this codebase (page-type dispatch quirks, CSS gotchas, etc.) — read this before touching layout or state-toggling CSS/JS, so you don't re-break something already solved once
-- `tasks.md` — what's actually left to do in this repo, including anything that needs the user's go-ahead (commit/push decisions)
-- `plan.md` — design rationale for anything with real architectural decisions behind it
+- `tasks.md` — the live job board: what's active/open, what's deferred, what's shipped and
+  verified (with commit hashes), explicitly out-of-scope items, current git state
+- `lessons.md` — hard-won, non-obvious facts about this codebase (page-type dispatch quirks,
+  CSS gotchas, plugin-loading order bugs, etc.) — read this before touching layout or
+  state-toggling CSS/JS, so you don't re-break something already solved once
+- `plan.md` — design rationale for anything with real architectural decisions behind it —
+  written occasionally, not every session
 - `log.md` — terse chronological journal, one entry per session, newest on top
 
-If picking up work here cold, read `session-notes/` in this order: `progress.md` → `lessons.md` → `tasks.md` → `log.md` (only if you need the narrative) — see `session-notes/tasks.md`'s own "if picking this up cold" note.
+If picking up work here cold: `tasks.md` → `lessons.md` → `log.md` (only if you need the
+narrative) — see `session-notes/tasks.md`'s own "if picking this up cold" note.
+
+## Closing a session
+
+In this order:
+
+1. **`session-notes/` first.** If `tasks.md` was kept live during the session (see above),
+   this should already be accurate — just double-check it, don't reconstruct it. Update
+   `lessons.md`/`log.md`/`plan.md` if the session produced anything belonging there.
+2. **Then the vault.** Append an entry to the vault's Session History:
+   `06 Metadata/Session History/YYYY-MM-DD - Topic.md` (one file per date — append a new
+   `# Session Log:` section if today's already exists, per the vault's `/session` skill format
+   at `06 Metadata/Skills/session/skill.md`). This is a *narrative compression* of what
+   `session-notes/` already tracks live — not a separate source of truth to keep in sync by
+   hand. Do this even though you're not in the vault — otherwise the reasoning behind a change
+   here only exists in a chat transcript that won't be there next session. Keep it short; a
+   long entry costs more for the next agent to read than it saves.
+
+This order matters: if you write the vault entry first from memory and *then* update
+`session-notes/`, you're reconstructing state twice from the same fallible memory instead of
+once. `session-notes/` being live all session is what makes step 2 fast — it's a compression
+pass over already-accurate notes, not original research.
