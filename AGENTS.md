@@ -29,3 +29,16 @@ If you're working **in the vault** and need to understand what a change will act
 If you make a change in this repo — config, layout, plugins, deploy setup, a bug fix, anything — append an entry to the vault's Session History when you're done: `06 Metadata/Session History/YYYY-MM-DD - Topic.md` (one file per date — append a new `# Session Log:` section if today's already exists, per the vault's `/session` skill format at `06 Metadata/Skills/session/skill.md`). Do this even though you're not in the vault — otherwise the reasoning behind a change here only exists in a chat transcript that won't be there next session. Keep each entry short — a few lines is enough. The point is a trail future sessions can pick up quickly, not a full transcript; a long entry costs more for the next agent to read than it saves.
 
 **This file should stay a stable map of how things are wired, not a running log.** To pick up current context — what's actively being tried, what's still open — read the most recent Session History file(s), not this one. If you're tempted to add a "recent work" summary here instead, don't: it'll duplicate the log and go stale the moment nobody remembers to update it.
+
+## `session-notes/` — in-repo checkpoints
+
+There's also a `session-notes/` folder at this repo's root (`log.md`, `lessons.md`, `progress.md`, `tasks.md`, `plan.md`). It exists *alongside* the vault's Session History, not instead of it — the vault entry (above) is the narrative "why" record that survives even if this repo is ever wiped and re-cloned; `session-notes/` is a finer-grained, in-repo counterpart so a fresh session working purely in `~/quartz` (no vault access) can still pick up exactly where the last one left off, without needing to read a full chat transcript.
+
+If you make a non-trivial change here, update the relevant file(s) in `session-notes/` in the same pass you update the vault:
+- `progress.md` — current state of each feature/task (what's shipped, what's uncommitted, what's verified)
+- `lessons.md` — hard-won, non-obvious facts about this codebase (page-type dispatch quirks, CSS gotchas, etc.) — read this before touching layout or state-toggling CSS/JS, so you don't re-break something already solved once
+- `tasks.md` — what's actually left to do in this repo, including anything that needs the user's go-ahead (commit/push decisions)
+- `plan.md` — design rationale for anything with real architectural decisions behind it
+- `log.md` — terse chronological journal, one entry per session, newest on top
+
+If picking up work here cold, read `session-notes/` in this order: `progress.md` → `lessons.md` → `tasks.md` → `log.md` (only if you need the narrative) — see `session-notes/tasks.md`'s own "if picking this up cold" note.

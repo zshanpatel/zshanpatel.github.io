@@ -2,6 +2,8 @@ import { loadQuartzConfig, loadQuartzLayout } from "./quartz/plugins/loader/conf
 import { componentRegistry } from "./quartz/components/registry"
 import { PageTypeDispatcher } from "./quartz/plugins/pageTypes"
 import { LlmsTxt } from "./quartz/plugins/emitters"
+import type { Root } from "mdast"
+import type { VFile } from "vfile"
 
 import Flex from "./quartz/components/Flex"
 import MobileOnly from "./quartz/components/MobileOnly"
@@ -10,6 +12,7 @@ import ConditionalRender from "./quartz/components/ConditionalRender"
 import Darkmode from "./quartz/components/Darkmode"
 import Footer from "./quartz/components/Footer"
 import VisuallyHiddenTitle from "./quartz/components/VisuallyHiddenTitle"
+import HumanMachineToggle from "./quartz/components/HumanMachineToggle"
 
 import { Search } from "@quartz-community/search"
 import { ReaderMode } from "@quartz-community/reader-mode"
@@ -59,6 +62,17 @@ const toolbar = Flex({
 
 const left = [PageTitle(), MobileOnly(Spacer()), toolbar, Explorer()]
 
+// Human/Machine toggle, About page only — self-contained in HumanMachineToggle.tsx + its
+// script/style files; to remove the feature, delete those 3 files, this const, and every
+// reference to it below (both beforeBody arrays, plus the CaptureRawContent transformer).
+// About/index.md is a folder-index page (its slug ends in "/index"), which the content-page
+// plugin's matcher excludes — it's dispatched to the "folder" page type instead, hence this
+// needs to be wired into beforeBodyList below, not just beforeBodyContent.
+const humanMachineToggle = ConditionalRender({
+  component: HumanMachineToggle(),
+  condition: (p) => p.fileData.slug === "about/index",
+})
+
 const beforeBodyContent = [
   ConditionalRender({ component: Breadcrumbs(), condition: (p) => p.fileData.slug !== "index" }),
   ConditionalRender({ component: ArticleTitle(), condition: (p) => p.fileData.slug !== "index" }),
@@ -66,10 +80,11 @@ const beforeBodyContent = [
   // exactly one real <h1> for SEO/agent-legibility — rendered off-screen instead (see T-31).
   ConditionalRender({ component: VisuallyHiddenTitle(), condition: (p) => p.fileData.slug === "index" }),
   ConditionalRender({ component: ContentMeta(), condition: (p) => p.fileData.slug !== "index" }),
+  humanMachineToggle,
 ]
 
 // No ContentMeta here — date/reading-time isn't meaningful on folder/tag index listings.
-const beforeBodyList = [Breadcrumbs(), ArticleTitle()]
+const beforeBodyList = [Breadcrumbs(), ArticleTitle(), humanMachineToggle]
 
 const right = [
   ConditionalRender({
@@ -127,5 +142,26 @@ config.plugins.emitters = config.plugins.emitters.map((emitter) =>
     : emitter,
 )
 config.plugins.emitters.push(LlmsTxt())
+
+// Human/Machine toggle support: captures the About page's raw markdown body (frontmatter
+// stripped — the jsonLD block inside it isn't safe to show verbatim, see stripRestrictedJsonLd)
+// into fileData.rawContent, which HumanMachineToggle.tsx reads. Part of the same removable
+// feature as the ConditionalRender above — delete this block too if reverting it.
+config.plugins.transformers.unshift({
+  name: "CaptureRawContent",
+  markdownPlugins: () => [
+    () => (tree: Root, file: VFile) => {
+      if (file.data.slug !== "about/index") return
+      const first = tree.children[0]
+      if (first?.type === "yaml" && typeof first.position?.end.offset === "number") {
+        file.data.rawContent = String(file.value)
+          .slice(first.position.end.offset)
+          .replace(/^\n+/, "")
+      } else {
+        file.data.rawContent = String(file.value).replace(/^---\n[\s\S]*?\n---\n?/, "")
+      }
+    },
+  ],
+})
 
 export default config

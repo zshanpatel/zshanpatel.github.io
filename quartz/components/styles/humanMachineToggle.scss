@@ -1,0 +1,197 @@
+// Fixed to a viewport corner (not in normal document flow) so it never moves or reflows
+// between states or while scrolling — same rectangle, same position, in both modes.
+// Deliberately always-dark regardless of the site's own light/dark theme, same rationale
+// as .machine-view below: a self-contained chip, not dependent on what's behind it.
+.human-machine-toggle {
+  position: fixed;
+  top: 1.25rem;
+  right: 1.25rem;
+  z-index: 100;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  border: 1px solid #3a3a3a;
+  border-radius: 0;
+  background: #0d0d0d;
+  padding: 0.35rem 0.75rem;
+
+  & button {
+    cursor: pointer;
+    border: none;
+    background: none;
+    color: #666;
+    font-family: "Fira Code", monospace;
+    font-size: 0.7rem;
+    letter-spacing: 0.05em;
+    padding: 0;
+    text-transform: uppercase;
+    transition: color 0.2s ease;
+  }
+
+  & button[aria-pressed="true"] {
+    color: #d0d0d0;
+  }
+
+  & .hm-divider {
+    color: #444;
+    font-family: "Fira Code", monospace;
+    font-size: 0.7rem;
+  }
+}
+
+// .center is never touched by machine-mode (no display/grid-area/flex switching on it) —
+// only pinned once, unconditionally, because hiding a sidebar via display:none removes it
+// from the parent grid's auto-placement, which would otherwise reflow .center into the
+// vacated sidebar column. display/grid-area/flex-direction aren't smoothly animatable by
+// CSS transitions at all, so keeping .center's own layout mode constant in both states is
+// what makes the crossfade itself (not the container around it) the only moving part.
+.center {
+  grid-area: grid-center;
+}
+
+// Unscoped (not nested under body.machine-mode) so this transition applies symmetrically
+// entering AND leaving — a transition declared only inside the .machine-mode rule block
+// only takes effect while that class is present, so removing the class would otherwise
+// snap the background back instantly instead of fading it.
+body {
+  transition: background-color 0.5s ease;
+}
+
+body.machine-mode {
+  // The whole page goes black, not just the content column — sidebars/nav disappear
+  // entirely below rather than just dimming, so nothing "behind a modal" is visible.
+  background-color: #0d0d0d;
+
+  & .center article {
+    display: none;
+    opacity: 0;
+  }
+
+  & .center > .page-header .popover-hint > :not(.human-machine-toggle):not(.machine-view),
+  & .center > hr {
+    display: none;
+  }
+
+  // display:none (not visibility:hidden — the Explorer's own "open folder" CSS
+  // explicitly resets visibility:visible on expanded folder contents, which breaks
+  // inheritance from an ancestor visibility:hidden and lets text bleed back through;
+  // display:none can't be overridden that way by a descendant).
+  // !important: the base layout's sidebar rule is `.page > #quartz-body .sidebar`, an
+  // ID-anchored selector that beats any class-based override on specificity alone.
+  & .left.sidebar,
+  & .right.sidebar {
+    display: none !important;
+  }
+}
+
+// Base (human-mode) state — also needs the transition + @starting-style so leaving machine
+// mode crossfades article back in smoothly too, not just entering it.
+.center article {
+  opacity: 1;
+  transition:
+    opacity 0.5s ease,
+    display 0.5s allow-discrete;
+
+  @starting-style {
+    opacity: 0;
+  }
+}
+
+// .machine-view itself is the full-viewport-height centering container (not .center — see
+// above) so entering/leaving machine mode only ever toggles this one element's display,
+// symmetric in both directions via the same allow-discrete + @starting-style mechanism
+// already proven smooth for .center article.
+//
+// Keyed off its own body.machine-content class, deliberately separate from
+// body.machine-mode (which controls background/sidebar/breadcrumbs/article). Entering
+// adds both at once. Leaving removes machine-content first — fading this out alone,
+// with everything else still exactly as it was in machine mode — then machine-mode only
+// after that fade finishes (see humanMachineToggle.inline.ts). Doing both at once was the
+// actual bug: the sidebar/breadcrumbs have no transition at all (an instant display swap),
+// so removing everything in one synchronous class toggle meant they'd snap into view while
+// this was still visibly fading out on top of them, and the newly-reflowing article
+// (present but still fully hidden by this half-opaque overlay) would only become visible
+// once this finished — reading as "the human page suddenly appears," when it had actually
+// been fading in underneath the whole time.
+.machine-view {
+  display: none;
+  // flex-direction/align-items/justify-content live here, unscoped, not inside the
+  // body.machine-content block below — display and opacity are the only things covered
+  // by the transition (opacity animates, display is held by allow-discrete), so any
+  // property that only exists in the scoped block changes INSTANTLY the moment that
+  // class is removed, with no transition covering it at all. That was the remaining
+  // jerk: for the whole fade-out, .machine-view was still display:flex (held by
+  // allow-discrete) but had already snapped to default flex behavior (row direction,
+  // stretch/flex-start alignment) the instant machine-content was removed, shoving
+  // .mv-content to the left edge for the entire 0.5s fade. Keeping these constant in
+  // both states — same fix as .center's grid-area, same underlying principle.
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  opacity: 0;
+  min-height: 100vh;
+  transition:
+    opacity 0.5s ease,
+    display 0.5s allow-discrete;
+
+  body.machine-content & {
+    display: flex;
+    opacity: 1;
+
+    @starting-style {
+      opacity: 0;
+    }
+  }
+
+  & .mv-content {
+    position: relative;
+    width: 100%;
+    max-width: 720px;
+    padding: 0 1.5rem;
+    color: #d0d0d0;
+  }
+
+  // The site's global `pre{border:...;border-radius:...;padding:...}` (for markdown code
+  // fences) otherwise leaks onto this plain <pre> too — strip it back to bare text.
+  & pre {
+    position: relative;
+    margin: 0;
+    padding: 0;
+    border: none;
+    border-radius: 0;
+    white-space: pre-wrap;
+    word-break: break-word;
+  }
+
+  & code {
+    display: block;
+    font-family: "Fira Code", monospace;
+    font-size: 0.85rem;
+    line-height: 1.6;
+    color: #d0d0d0;
+    background: none;
+    padding: 0;
+  }
+
+  // No border/box — same plain-text treatment as the toggle buttons (dim by default,
+  // brightens on hover), not a separate bordered chip competing with it.
+  & .hm-copy {
+    position: absolute;
+    top: -2rem;
+    right: 0;
+    cursor: pointer;
+    border: none;
+    background: none;
+    color: #666;
+    font-family: "Fira Code", monospace;
+    font-size: 0.7rem;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+    padding: 0;
+    transition: color 0.2s ease;
+
+    &:hover {
+      color: #d0d0d0;
+    }
+  }
+}
