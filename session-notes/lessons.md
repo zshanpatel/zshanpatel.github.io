@@ -91,6 +91,45 @@ overhead across several sequential `js()` calls in one script block — if a rea
 "stuck," re-verify against a generous wait (2s+) before concluding the CSS is broken; it might
 just be a timing artifact of the test harness, not the page.
 
+## A plugin declared only in `quartz.config.yaml`'s `layout:` block silently never renders
+
+`quartz.ts` calls `loadQuartzLayout()` (building the overridden `left`/`right`/`beforeBody`/
+`afterBody`/`footer` arrays) **before** `loadQuartzConfig()` runs — and it's `loadQuartzConfig()`
+that actually imports each YAML-enabled plugin package and registers its component into
+`componentRegistry`. A plugin with `enabled: true` and a `layout:` block in
+`quartz.config.yaml`, but no explicit `import`/instantiation in `quartz.ts`, gets resolved by
+`buildLayoutForEntries()` against a registry that doesn't have it yet — the lookup fails,
+`if (!reg) continue`, and the component is silently dropped from the layout. No error, no
+warning, no console output. Confirmed for `@quartz-community/comments`; this is the same root
+cause that already forced Darkmode and Footer to be local components (`quartz/components/`,
+wired via `quartz.ts`) rather than the community plugins.
+
+**Fix**: any plugin whose position needs to be correct on first load must be imported directly
+in `quartz.ts` and added to the relevant array passed into `loadQuartzLayout()`'s
+`defaults`/`byPageType` — same pattern as Darkmode/Footer/Comments. Leave the YAML entry
+`enabled: false` with its full `options:` block intact, purely for documentation (see the
+comment above the `comments` entry in `quartz.config.yaml`). Don't trust "it's enabled in the
+config" as proof it's actually rendering — check the built HTML.
+
+## giscus's custom theme CSS needs a versioned filename, not an in-place edit
+
+The comments widget renders in a cross-origin iframe (`giscus.app`) that fetches the custom
+theme CSS (`quartz/static/giscus/*.css`) by URL via a real `<link rel="stylesheet"
+crossorigin="anonymous">`. That fetch lives in a browser HTTP cache partition keyed by
+(top-level site, *requesting frame's* site) — different from any cache partition a fetch from
+the top page's own JS would use, even for the exact same resource URL. Editing `light.css`
+in place and redeploying is **not guaranteed to reach an already-visited browser** — the
+iframe can keep serving the stale cached response indefinitely, and a hard reload
+(`Cmd+Shift+R`) of the *top* page does not reliably bust it.
+
+**Symptom**: server confirmed serving new content (`curl`, even a same-origin `fetch()` from
+the top page's own console), but the rendered widget still shows old colors.
+
+**Fix**: version the filename on every theme edit (`light-v2.css` → `light-v3.css`, etc.),
+update `lightTheme`/`darkTheme` in the `Comments()` call in `quartz.ts` to match. A new URL has
+nothing to be stale. Don't waste time trying to prove/disprove caching via `curl` or a
+same-origin `fetch()` — neither can see into the iframe's actual cache partition.
+
 ## `.inline.ts` script files need `// @ts-ignore` on the import
 
 Files like `quartz/components/scripts/*.inline.ts` are bundled via a custom esbuild loader

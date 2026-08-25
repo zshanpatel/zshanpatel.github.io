@@ -7,6 +7,35 @@ need vault access just to know what happened last.
 
 ---
 
+## 2026-08-25 (later) — Essay comments (giscus), self-hosted fonts, giscus theme fix
+
+Follow-on session, same day. Reviewed the full `quartz-community` plugin ecosystem (58 repos)
+for genuinely useful additions — found almost everything already installed, the real work was
+enabling/scoping what's already there, not adding more.
+
+**Shipped and live** (commits `bc3ef73`, `24bc0f0`, pushed and deployed):
+- Essay comments — `@quartz-community/comments` (giscus), wired directly in `quartz.ts` (not
+  YAML-only — see `lessons.md`), scoped to `content/Essays` via a slug-prefix
+  `ConditionalRender`. giscus GitHub App installed scoped to just this one repo; Discussions
+  enabled via `gh repo edit --enable-discussions`.
+- Self-hosted fonts — `theme.cdnCaching: false` in `quartz.config.yaml`. No third-party
+  Google Fonts request at runtime; fonts bundled under `/static/fonts/` at build time.
+- Giscus theme restyle — `quartz/static/giscus/{light,dark}.css` were pre-existing but stale
+  (an old sage-green/steel-blue palette). Rewrote to match the live `theme.colors` palette and
+  self-hosted Inter/Merriweather/Fira Code via `@font-face`.
+- Cache-partition bug fix — renamed the theme files to `light-v2.css`/`dark-v2.css` after a
+  real bug: the widget's cross-origin iframe caches the theme CSS fetch separately from the
+  top page, so an in-place edit can serve stale colors with no way to force a refresh. Full
+  writeup in `lessons.md` — bump the version suffix on any future theme edit.
+
+**Explicitly not done**: `@quartz-community/explicit-publish` — would require adding
+`publish: true` to ~500 content files to avoid emptying the live site (0 currently have it).
+Flagged, not attempted.
+
+Full narrative: vault `06 Metadata/Session History/2026-08-25 - Bot Operator Build Nanobot Live
+WhatsApp Linked.md`, final `# Session Log:` section (appended after the WhatsApp Calibration
+entry — search "Quartz — Essay Comments" if skimming).
+
 ## 2026-08-25 — Homepage H1, Person JSON-LD, llms.txt, Human/Machine toggle
 
 Worked T-31 and T-20 from the vault's `tasks.md`, then built a Human/Machine toggle on the
