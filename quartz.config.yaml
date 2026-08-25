@@ -249,6 +249,8 @@ plugins:
         lang: en
         strict: true
         reactionsEnabled: true
+        lightTheme: light-v2
+        darkTheme: dark-v2
     layout:
       position: afterBody
       priority: 10

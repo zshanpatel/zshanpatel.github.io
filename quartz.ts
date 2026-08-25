@@ -103,6 +103,13 @@ const afterBody = [
         lang: "en",
         strict: true,
         reactionsEnabled: true,
+        // Versioned filenames (not light.css/dark.css) so any future theme edit gets a fresh
+        // URL — giscus's iframe is cross-origin, and its fetch of this CSS lives in a browser
+        // cache partition separate from the top page's, so a same-URL update can serve stale
+        // colors indefinitely with no way for us to force a revalidation. Bump the "-v2" suffix
+        // (light-v3.css, etc., renaming the actual files in quartz/static/giscus/) next edit.
+        lightTheme: "light-v2",
+        darkTheme: "dark-v2",
       },
     }),
     condition: (p) => (p.fileData.slug ?? "").startsWith("essays/"),
