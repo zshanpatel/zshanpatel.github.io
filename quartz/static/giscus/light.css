@@ -1,7 +1,62 @@
 /*! MIT License
  * Copyright (c) 2018 GitHub Inc.
  * https://github.com/primer/primitives/blob/main/LICENSE
+ *
+ * Colors and fonts below are pinned to this site's own palette/type
+ * (quartz.config.yaml `theme.colors.lightMode` / `theme.typography`), not GitHub's
+ * defaults — giscus renders in a cross-origin iframe on giscus.app, so it can't see
+ * this site's CSS custom properties and needs literal values duplicated here.
+ * If the palette or fonts in quartz.config.yaml change, update this file to match.
  */
+
+@font-face {
+  font-family: "Merriweather";
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("https://zshanpatel.github.io/static/fonts/u-4D0qyriQwlOrhSvowK_l5UcA6zuSYEqOzpPe3HOZJ5eX1WtLaQwmYiScCmDxhtNOKl8yDr3icqEw.ttf")
+    format("truetype");
+}
+@font-face {
+  font-family: "Merriweather";
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url("https://zshanpatel.github.io/static/fonts/u-4D0qyriQwlOrhSvowK_l5UcA6zuSYEqOzpPe3HOZJ5eX1WtLaQwmYiScCmDxhtNOKl8yDrACAqEw.ttf")
+    format("truetype");
+}
+@font-face {
+  font-family: "Merriweather";
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+  src: url("https://zshanpatel.github.io/static/fonts/u-4B0qyriQwlOrhSvowK_l5-eTxCVx0ZbwLvKH2Gk9hLmp0v5yA-xXPqCzLvPee1XYk_XSf-FmTCUF3w.ttf")
+    format("truetype");
+}
+@font-face {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("https://zshanpatel.github.io/static/fonts/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuLyfMZg.ttf")
+    format("truetype");
+}
+@font-face {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url("https://zshanpatel.github.io/static/fonts/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuFuYMZg.ttf")
+    format("truetype");
+}
+@font-face {
+  font-family: "Fira Code";
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("https://zshanpatel.github.io/static/fonts/uU9eCBsR6Z2vfE9aq3bL0fxyUs4tcw4W_D1sFVc.ttf")
+    format("truetype");
+}
 
 main {
   --color-prettylights-syntax-comment: #6e7781;
@@ -34,46 +89,46 @@ main {
   --color-prettylights-syntax-brackethighlighter-angle: #57606a;
   --color-prettylights-syntax-sublimelinter-gutter-mark: #8c959f;
   --color-prettylights-syntax-constant-other-reference-link: #0a3069;
-  --color-btn-text: #4e4e4e; /* --darkgray */
-  --color-btn-bg: #faf8f8; /* --light */
-  --color-btn-border: rgb(43, 43, 43 / 15%); /* --dark */
-  --color-btn-shadow: 0 1px 0 rgb(31 35 40 / 4%);
-  --color-btn-inset-shadow: inset 0 1px 0 rgb(255 255 255 / 25%);
-  --color-btn-hover-bg: #f3f4f6;
-  --color-btn-hover-border: rgb(43, 43, 43 / 15%); /* --dark */
-  --color-btn-active-bg: hsl(220deg 14% 93% / 100%);
-  --color-btn-active-border: rgb(31 35 40 / 15%);
-  --color-btn-selected-bg: hsl(220deg 14% 94% / 100%);
-  --color-btn-primary-text: #fff;
-  --color-btn-primary-bg: #84a59d; /* --tertiary */
-  --color-btn-primary-border: rgb(43, 43, 43 / 15%); /* --dark */
-  --color-btn-primary-shadow: 0 1px 0 rgb(31 35 40 / 10%);
-  --color-btn-primary-inset-shadow: inset 0 1px 0 rgb(255 255 255 / 3%);
-  --color-btn-primary-hover-bg: #284b63; /* --secondary */
-  --color-btn-primary-hover-border: rgb(43, 43, 43 / 15%); /* --dark */
-  --color-btn-primary-selected-bg: #284b63; /* --secondary */
-  --color-btn-primary-selected-shadow: inset 0 1px 0 rgb(0 45 17 / 20%);
-  --color-btn-primary-disabled-text: rgb(255 255 255 / 80%);
-  --color-btn-primary-disabled-bg: #94d3a2;
-  --color-btn-primary-disabled-border: rgb(31 35 40 / 15%);
-  --color-action-list-item-default-hover-bg: rgb(208 215 222 / 32%);
-  --color-segmented-control-bg: #eaeef2;
-  --color-segmented-control-button-bg: #fff;
-  --color-segmented-control-button-selected-border: #8c959f;
-  --color-fg-default: #2b2b2b; /* --dark */
-  --color-fg-muted: #4e4e4e; /* --darkgray */
-  --color-fg-subtle: #4e4e4e; /* --darkgray */
-  --color-canvas-default: #fff;
-  --color-canvas-overlay: #fff;
-  --color-canvas-inset: #f6f8fa;
-  --color-canvas-subtle: #f6f8fa;
-  --color-border-default: #d0d7de;
-  --color-border-muted: hsl(210deg 18% 87% / 100%);
-  --color-neutral-muted: rgb(175 184 193 / 20%);
-  --color-accent-fg: #0969da;
-  --color-accent-emphasis: #0969da;
-  --color-accent-muted: rgb(84 174 255 / 40%);
-  --color-accent-subtle: #ddf4ff;
+  --color-btn-text: #333333; /* --darkgray / --dark */
+  --color-btn-bg: #f0f0f0; /* --light */
+  --color-btn-border: #e0e0e0; /* --lightgray */
+  --color-btn-shadow: 0 0 transparent;
+  --color-btn-inset-shadow: 0 0 transparent;
+  --color-btn-hover-bg: #e0e0e0; /* --lightgray */
+  --color-btn-hover-border: #666666; /* --gray */
+  --color-btn-active-bg: #e0e0e0; /* --lightgray */
+  --color-btn-active-border: #666666; /* --gray */
+  --color-btn-selected-bg: #e0e0e0; /* --lightgray */
+  --color-btn-primary-text: #f0f0f0; /* --light */
+  --color-btn-primary-bg: #606060; /* --secondary */
+  --color-btn-primary-border: #606060; /* --secondary */
+  --color-btn-primary-shadow: 0 0 transparent;
+  --color-btn-primary-inset-shadow: 0 0 transparent;
+  --color-btn-primary-hover-bg: #c0c0c0; /* --tertiary */
+  --color-btn-primary-hover-border: #c0c0c0; /* --tertiary */
+  --color-btn-primary-selected-bg: #c0c0c0; /* --tertiary */
+  --color-btn-primary-selected-shadow: 0 0 transparent;
+  --color-btn-primary-disabled-text: rgb(51 51 51 / 50%);
+  --color-btn-primary-disabled-bg: #e0e0e0;
+  --color-btn-primary-disabled-border: #e0e0e0;
+  --color-action-list-item-default-hover-bg: #e0e0e0; /* --lightgray */
+  --color-segmented-control-bg: #e0e0e0; /* --lightgray */
+  --color-segmented-control-button-bg: #f0f0f0; /* --light */
+  --color-segmented-control-button-selected-border: #666666; /* --gray */
+  --color-fg-default: #333333; /* --dark */
+  --color-fg-muted: #666666; /* --gray */
+  --color-fg-subtle: #666666; /* --gray */
+  --color-canvas-default: #f0f0f0; /* --light */
+  --color-canvas-overlay: #f0f0f0; /* --light */
+  --color-canvas-inset: #e0e0e0; /* --lightgray */
+  --color-canvas-subtle: #e0e0e0; /* --lightgray */
+  --color-border-default: #e0e0e0; /* --lightgray */
+  --color-border-muted: #e0e0e0; /* --lightgray */
+  --color-neutral-muted: rgb(102 102 102 / 20%); /* --gray */
+  --color-accent-fg: #606060; /* --secondary */
+  --color-accent-emphasis: #606060; /* --secondary */
+  --color-accent-muted: rgb(96 96 96 / 15%); /* --highlight */
+  --color-accent-subtle: rgb(96 96 96 / 15%); /* --highlight */
   --color-success-fg: #1a7f37;
   --color-attention-fg: #9a6700;
   --color-attention-muted: rgb(212 167 44 / 40%);
@@ -81,13 +136,49 @@ main {
   --color-danger-fg: #d1242f;
   --color-danger-muted: rgb(255 129 130 / 40%);
   --color-danger-subtle: #ffebe9;
-  --color-primer-shadow-inset: inset 0 1px 0 rgb(208 215 222 / 20%);
-  --color-scale-gray-1: #eaeef2;
-  --color-scale-blue-1: #b6e3ff;
+  --color-primer-shadow-inset: inset 0 1px 0 rgb(224 224 224 / 20%);
+  --color-scale-gray-1: #e0e0e0; /* --lightgray */
+  --color-scale-blue-1: #e0e0e0; /* --lightgray (no accent blue in this palette) */
 
   /*! Extensions from @primer/css/alerts/flash.scss */
   --color-social-reaction-bg-hover: var(--color-scale-gray-1);
   --color-social-reaction-bg-reacted-hover: var(--color-scale-blue-1);
+}
+
+main,
+main input,
+main textarea,
+main button,
+main select {
+  font-family:
+    "Merriweather",
+    Georgia,
+    serif;
+}
+
+main pre,
+main code,
+main kbd,
+main samp,
+main tt {
+  font-family:
+    "Fira Code",
+    ui-monospace,
+    SFMono-Regular,
+    Menlo,
+    monospace;
+}
+
+main h1,
+main h2,
+main h3,
+main h4,
+main h5,
+main h6 {
+  font-family:
+    "Inter",
+    system-ui,
+    sans-serif;
 }
 
 main .pagination-loader-container {

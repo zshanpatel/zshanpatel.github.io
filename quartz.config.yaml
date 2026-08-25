@@ -14,7 +14,9 @@ configuration:
     - .obsidian
   theme:
     fontOrigin: googleFonts
-    cdnCaching: true
+    # false = fonts are downloaded and self-hosted under /static/fonts/ at build time
+    # instead of the visitor's browser fetching from fonts.googleapis.com/gstatic.com.
+    cdnCaching: false
     typography:
       header: Inter
       body: Merriweather
@@ -230,11 +232,23 @@ plugins:
       position: beforeBody
       priority: 5
       condition: not-index
+  # Kept local (quartz/components/Darkmode.tsx-style pattern) instead of relying on this YAML
+  # entry — a plugin declared only via `layout:` here is resolved by loadQuartzLayout(), which
+  # quartz.ts calls *before* loadQuartzConfig() has registered YAML-only components in the
+  # registry, so it silently never renders. Wired directly in quartz.ts instead, scoped to
+  # Essays only. Left disabled here for documentation of the giscus option shape.
   - source: "@quartz-community/comments"
     enabled: false
     options:
       provider: giscus
-      options: {}
+      options:
+        repo: zshanpatel/zshanpatel.github.io
+        repoId: R_kgDOPv1PKQ
+        category: Announcements
+        categoryId: DIC_kwDOPv1PKc4DEJbW
+        lang: en
+        strict: true
+        reactionsEnabled: true
     layout:
       position: afterBody
       priority: 10

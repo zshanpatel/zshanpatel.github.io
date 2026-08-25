@@ -25,6 +25,7 @@ import { ArticleTitle } from "@quartz-community/article-title"
 import { ContentMeta } from "@quartz-community/content-meta"
 import { PageTitle } from "@quartz-community/page-title"
 import { Spacer } from "@quartz-community/spacer"
+import { Comments } from "@quartz-community/comments"
 
 // Thesis pages that opt out of the graph/TOC/backlinks sidebar, ported from v4's quartz.layout.ts.
 // v4's condition strings used a "thesis/" slug prefix that never actually matched this content
@@ -86,6 +87,28 @@ const beforeBodyContent = [
 // No ContentMeta here — date/reading-time isn't meaningful on folder/tag index listings.
 const beforeBodyList = [Breadcrumbs(), ArticleTitle(), humanMachineToggle]
 
+// Giscus comments, Essays only. Essays live flat under content/Essays (no index.md), so a bare
+// "essays/" prefix can't accidentally match a folder-index page — the auto-generated Essays
+// listing page's slug is just "essays", which doesn't match. See quartz.config.yaml for the
+// (disabled) YAML-declared version of this plugin and why it's wired here instead.
+const afterBody = [
+  ConditionalRender({
+    component: Comments({
+      provider: "giscus",
+      options: {
+        repo: "zshanpatel/zshanpatel.github.io",
+        repoId: "R_kgDOPv1PKQ",
+        category: "Announcements",
+        categoryId: "DIC_kwDOPv1PKc4DEJbW",
+        lang: "en",
+        strict: true,
+        reactionsEnabled: true,
+      },
+    }),
+    condition: (p) => (p.fileData.slug ?? "").startsWith("essays/"),
+  }),
+]
+
 const right = [
   ConditionalRender({
     component: Graph({ localGraph: { showTags: false }, globalGraph: { showTags: false } }),
@@ -121,6 +144,7 @@ export const layout = await loadQuartzLayout({
     beforeBody: beforeBodyContent,
     left,
     right,
+    afterBody,
     footer,
   },
   byPageType: {

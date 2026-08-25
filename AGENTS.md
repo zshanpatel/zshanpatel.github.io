@@ -2,6 +2,16 @@
 
 This repo is the **build and deploy target** for `zshanpatel.github.io`. It is **not** the source of truth for content — don't edit anything under `content/` here directly unless you're patching a live build emergency. Real content lives in an Obsidian vault and flows into this repo one-way, automatically.
 
+## Tooling & capabilities — check DraftVault first
+
+This repo doesn't enumerate available tools, CLIs, or MCP servers, and shouldn't — that registry lives in DraftVault and changes independently of this repo. Before assuming a capability isn't available (or asking the user what they have), read:
+
+- `/Users/zeeshanpatel/Documents/DraftVault/AGENTS.md` — entry point, routes to `06 Metadata/bootstrap.md`
+- `06 Metadata/bootstrap.md`'s "Technical / Code / Deployment / Infrastructure" row — the load order for exactly this kind of work (`user.md`, `memory.md`, `06 Metadata/tools.md`, and `vault-operator-instructions.md` before any CLI/MCP call)
+- `06 Metadata/tools.md` — the actual tool/MCP registry: what's connected, what each is for, CLI-vs-MCP precedence
+
+Don't hardcode a tool list here — it'll drift from the real registry the moment something is added or removed there. This is the same loop in reverse: `bootstrap.md` already routes technical/code tasks to "the local project `AGENTS.md`" — this section is what makes that a two-way link instead of a dead end.
+
 ## Where publishing actually happens
 
 - **Source of truth**: `/Users/zeeshanpatel/Documents/DraftVault/04 Blog Content/` — an Obsidian vault. Every published page starts as a Markdown file there.
